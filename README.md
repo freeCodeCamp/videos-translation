@@ -9,7 +9,7 @@ Each language translation is available in their own directories at the root of t
 
 [freeCodeCamp's YouTube Channel](https://www.youtube.com/freecodecamp) 发布了大量优质视频教程，涵盖 HTML&CSS、JavaScript、Python、数据科学、机器学习等内容，我们一起把这些视频翻译成中文，发布在 [Bilibili](https://space.bilibili.com/335505768)，分享给更多学员。
 
-# 参与翻译你会获得：
+### 参与翻译你会获得：
 
 - 持续提升你的英文水平和多人协作的经验
 - 快速提高你的 Git 操作熟练度
@@ -28,7 +28,7 @@ Each language translation is available in their own directories at the root of t
 |     |    |
 |     |    |
 
-# 提示
+### 提示
 
 - 仔细看看你领取的文件，每一句字幕会出现三次，但是我们上传到 B 站的时候只需要保留一句，所以请译者删掉前两句，比如：
 
