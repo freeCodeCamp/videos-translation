@@ -9,7 +9,7 @@ Each language translation is available in their own directories at the root of t
 
 [freeCodeCamp's YouTube Channel](https://www.youtube.com/freecodecamp) 发布了大量优质视频教程，涵盖 HTML&CSS、JavaScript、Python、数据科学、机器学习等内容，我们一起把这些视频翻译成中文，发布在 [Bilibili](https://space.bilibili.com/335505768)，分享给更多学员。
 
-参与翻译你会获得：
+# 参与翻译你会获得：
 
 - 持续提升你的英文水平和多人协作的经验
 - 快速提高你的 Git 操作熟练度
@@ -22,16 +22,26 @@ Each language translation is available in their own directories at the root of t
 | 文件 | 译者 |
 |:------:| :------: |
 | [JS-full-course-0.vtt](https://github.com/freeCodeCamp/videos-translation/blob/master/chinese/subtitle/JS-full-course-0.vtt) | [Miya](https://github.com/miyaliu666) |
-| 稍微长一点的文本 | 短文本 |
+|     |    |
+|     |    |
+|     |    |
+|     |    |
+|     |    |
 
+# 提示
 
-00:00:00.000 --> 00:00:02.540 align:start position:0%
+- 仔细看看你领取的文件，每一句字幕会出现三次，但是我们上传到 B 站的时候只需要保留一句，所以请译者删掉前两句，比如：
+
+【删除】00:00:00.000 --> 00:00:02.540 align:start position:0%
  
 this<00:00:00.420><c> is</c><00:00:00.690><c> the</c><00:00:01.079><c> beginners</c><00:00:01.589><c> JavaScript</c><00:00:02.280><c> course</c>
 
-00:00:02.540 --> 00:00:02.550 align:start position:0%
+【删除】00:00:02.540 --> 00:00:02.550 align:start position:0%
 this is the beginners JavaScript course
  
-
-00:00:02.550 --> 00:00:06.050 align:start position:0%
+【保留】00:00:02.550 --> 00:00:06.050 align:start position:0%
 this is the beginners JavaScript course
+
+- 对照原视频 [JavaScript 全套入门教程](https://www.youtube.com/watch?v=PkZNo7MFNFg&t=1175s) 进行翻译，注意中英文语序的区别，考虑中文表达习惯
+- 译者不需要改动时间线
+- Miya 最终合并所有译文，在上传视频和字幕的时候会校对译文并调整时间线
