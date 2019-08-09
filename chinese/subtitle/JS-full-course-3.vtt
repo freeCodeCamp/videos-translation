@@ -1,0 +1,503 @@
+00:08:51.190 --> 00:08:51.200 align:start position:0%
+Const is a variable that should never
+ 
+
+00:08:51.200 --> 00:08:54.310 align:start position:0%
+Const is a variable that should never
+change<00:08:51.320><c> it</c><00:08:52.070><c> can</c><00:08:52.340><c> never</c><00:08:52.580><c> change</c><00:08:52.700><c> so</c><00:08:53.300><c> like</c><00:08:54.080><c> right</c>
+
+00:08:54.310 --> 00:08:54.320 align:start position:0%
+change it can never change so like right
+ 
+
+00:08:54.320 --> 00:08:57.610 align:start position:0%
+change it can never change so like right
+up<00:08:54.470><c> here</c><00:08:54.770><c> I</c><00:08:54.950><c> declared</c><00:08:55.730><c> my</c><00:08:56.360><c> name</c><00:08:56.690><c> but</c><00:08:57.320><c> then</c><00:08:57.500><c> we</c>
+
+00:08:57.610 --> 00:08:57.620 align:start position:0%
+up here I declared my name but then we
+ 
+
+00:08:57.620 --> 00:08:59.890 align:start position:0%
+up here I declared my name but then we
+changed<00:08:57.650><c> it</c><00:08:58.340><c> here</c><00:08:58.880><c> so</c><00:08:59.060><c> it</c><00:08:59.150><c> started</c><00:08:59.540><c> out</c><00:08:59.690><c> to</c><00:08:59.870><c> be</c>
+
+00:08:59.890 --> 00:08:59.900 align:start position:0%
+changed it here so it started out to be
+ 
+
+00:08:59.900 --> 00:09:03.250 align:start position:0%
+changed it here so it started out to be
+Bo<00:09:00.230><c> and</c><00:09:00.590><c> we</c><00:09:00.710><c> change</c><00:09:00.980><c> it</c><00:09:01.100><c> to</c><00:09:01.250><c> 8a</c><00:09:01.840><c> Const</c><00:09:02.840><c> you</c><00:09:03.050><c> can</c>
+
+00:09:03.250 --> 00:09:03.260 align:start position:0%
+Bo and we change it to 8a Const you can
+ 
+
+00:09:03.260 --> 00:09:05.680 align:start position:0%
+Bo and we change it to 8a Const you can
+never<00:09:03.470><c> change</c><00:09:03.560><c> it</c><00:09:04.130><c> if</c><00:09:04.280><c> you</c><00:09:04.880><c> do</c><00:09:05.090><c> try</c><00:09:05.300><c> to</c><00:09:05.360><c> change</c>
+
+00:09:05.680 --> 00:09:05.690 align:start position:0%
+never change it if you do try to change
+ 
+
+00:09:05.690 --> 00:09:08.890 align:start position:0%
+never change it if you do try to change
+it<00:09:05.930><c> you'll</c><00:09:06.200><c> get</c><00:09:06.470><c> an</c><00:09:06.650><c> error</c><00:09:07.420><c> okay</c><00:09:08.420><c> that's</c><00:09:08.720><c> all</c>
+
+00:09:08.890 --> 00:09:08.900 align:start position:0%
+it you'll get an error okay that's all
+ 
+
+00:09:08.900 --> 00:09:10.750 align:start position:0%
+it you'll get an error okay that's all
+for<00:09:09.110><c> now</c><00:09:09.260><c> but</c><00:09:09.650><c> like</c><00:09:09.860><c> I</c><00:09:09.890><c> said</c><00:09:10.040><c> we'll</c><00:09:10.370><c> be</c><00:09:10.520><c> talking</c>
+
+00:09:10.750 --> 00:09:10.760 align:start position:0%
+for now but like I said we'll be talking
+ 
+
+00:09:10.760 --> 00:09:12.280 align:start position:0%
+for now but like I said we'll be talking
+more<00:09:11.120><c> about</c><00:09:11.180><c> the</c><00:09:11.510><c> different</c><00:09:11.840><c> types</c><00:09:11.870><c> of</c>
+
+00:09:12.280 --> 00:09:12.290 align:start position:0%
+more about the different types of
+ 
+
+00:09:12.290 --> 00:09:17.579 align:start position:0%
+more about the different types of
+variables<00:09:12.650><c> later</c>
+
+00:09:17.579 --> 00:09:17.589 align:start position:0%
+ 
+ 
+
+00:09:17.589 --> 00:09:20.069 align:start position:0%
+ 
+there's<00:09:18.310><c> a</c><00:09:18.459><c> difference</c><00:09:18.939><c> between</c><00:09:19.120><c> declaring</c>
+
+00:09:20.069 --> 00:09:20.079 align:start position:0%
+there's a difference between declaring
+ 
+
+00:09:20.079 --> 00:09:23.040 align:start position:0%
+there's a difference between declaring
+variables<00:09:20.319><c> and</c><00:09:20.860><c> assigning</c><00:09:21.579><c> variables</c><00:09:22.050><c> here's</c>
+
+00:09:23.040 --> 00:09:23.050 align:start position:0%
+variables and assigning variables here's
+ 
+
+00:09:23.050 --> 00:09:25.650 align:start position:0%
+variables and assigning variables here's
+how<00:09:23.199><c> you</c><00:09:23.259><c> assign</c><00:09:23.649><c> the</c><00:09:23.860><c> variable</c><00:09:24.339><c> var</c><00:09:24.939><c> a</c><00:09:25.180><c> and</c>
+
+00:09:25.650 --> 00:09:25.660 align:start position:0%
+how you assign the variable var a and
+ 
+
+00:09:25.660 --> 00:09:28.079 align:start position:0%
+how you assign the variable var a and
+then<00:09:25.839><c> the</c><00:09:25.990><c> semicolon</c><00:09:26.259><c> I</c><00:09:27.100><c> didn't</c><00:09:27.790><c> mention</c><00:09:27.910><c> this</c>
+
+00:09:28.079 --> 00:09:28.089 align:start position:0%
+then the semicolon I didn't mention this
+ 
+
+00:09:28.089 --> 00:09:30.660 align:start position:0%
+then the semicolon I didn't mention this
+earlier<00:09:28.300><c> but</c><00:09:28.870><c> you</c><00:09:29.110><c> end</c><00:09:29.410><c> all</c><00:09:29.769><c> lines</c><00:09:30.249><c> in</c>
+
+00:09:30.660 --> 00:09:30.670 align:start position:0%
+earlier but you end all lines in
+ 
+
+00:09:30.670 --> 00:09:33.210 align:start position:0%
+earlier but you end all lines in
+JavaScript<00:09:31.300><c> with</c><00:09:31.449><c> a</c><00:09:31.480><c> semicolon</c><00:09:32.100><c> well</c><00:09:33.100><c> it's</c>
+
+00:09:33.210 --> 00:09:33.220 align:start position:0%
+JavaScript with a semicolon well it's
+ 
+
+00:09:33.220 --> 00:09:35.389 align:start position:0%
+JavaScript with a semicolon well it's
+not<00:09:33.310><c> actually</c><00:09:33.699><c> required</c><00:09:34.120><c> you</c><00:09:34.809><c> can</c><00:09:34.839><c> actually</c>
+
+00:09:35.389 --> 00:09:35.399 align:start position:0%
+not actually required you can actually
+ 
+
+00:09:35.399 --> 00:09:39.090 align:start position:0%
+not actually required you can actually
+just<00:09:36.399><c> skip</c><00:09:36.999><c> the</c><00:09:37.180><c> semicolons</c><00:09:37.809><c> completely</c><00:09:38.439><c> but</c>
+
+00:09:39.090 --> 00:09:39.100 align:start position:0%
+just skip the semicolons completely but
+ 
+
+00:09:39.100 --> 00:09:41.639 align:start position:0%
+just skip the semicolons completely but
+most<00:09:39.519><c> people</c><00:09:40.329><c> recommend</c><00:09:40.870><c> that</c><00:09:41.110><c> you</c><00:09:41.379><c> put</c><00:09:41.589><c> a</c>
+
+00:09:41.639 --> 00:09:41.649 align:start position:0%
+most people recommend that you put a
+ 
+
+00:09:41.649 --> 00:09:43.980 align:start position:0%
+most people recommend that you put a
+semicolon<00:09:42.040><c> just</c><00:09:42.910><c> so</c><00:09:43.029><c> it's</c><00:09:43.209><c> obvious</c><00:09:43.689><c> where</c><00:09:43.870><c> the</c>
+
+00:09:43.980 --> 00:09:43.990 align:start position:0%
+semicolon just so it's obvious where the
+ 
+
+00:09:43.990 --> 00:09:47.819 align:start position:0%
+semicolon just so it's obvious where the
+end<00:09:44.170><c> of</c><00:09:44.290><c> the</c><00:09:44.410><c> line</c><00:09:44.620><c> is</c><00:09:44.860><c> so</c><00:09:45.670><c> here</c><00:09:46.360><c> we</c><00:09:46.899><c> are</c><00:09:46.930><c> just</c>
+
+00:09:47.819 --> 00:09:47.829 align:start position:0%
+end of the line is so here we are just
+ 
+
+00:09:47.829 --> 00:09:50.999 align:start position:0%
+end of the line is so here we are just
+declaring<00:09:48.550><c> a</c><00:09:48.730><c> variable</c><00:09:48.759><c> to</c><00:09:49.449><c> be</c><00:09:49.480><c> called</c><00:09:50.319><c> a</c><00:09:50.499><c> and</c>
+
+00:09:50.999 --> 00:09:51.009 align:start position:0%
+declaring a variable to be called a and
+ 
+
+00:09:51.009 --> 00:09:53.309 align:start position:0%
+declaring a variable to be called a and
+then<00:09:51.699><c> here</c><00:09:52.059><c> we</c><00:09:52.240><c> are</c><00:09:52.269><c> assigning</c><00:09:52.779><c> a</c><00:09:53.139><c> variable</c>
+
+00:09:53.309 --> 00:09:53.319 align:start position:0%
+then here we are assigning a variable
+ 
+
+00:09:53.319 --> 00:09:56.069 align:start position:0%
+then here we are assigning a variable
+we're<00:09:53.949><c> declaring</c><00:09:54.339><c> an</c><00:09:54.819><c> assigning</c><00:09:55.389><c> in</c><00:09:55.509><c> one</c><00:09:55.779><c> line</c>
+
+00:09:56.069 --> 00:09:56.079 align:start position:0%
+we're declaring an assigning in one line
+ 
+
+00:09:56.079 --> 00:09:59.519 align:start position:0%
+we're declaring an assigning in one line
+so<00:09:56.829><c> we're</c><00:09:57.009><c> declaring</c><00:09:57.309><c> it</c><00:09:57.699><c> VAR</c><00:09:57.999><c> b</c><00:09:58.329><c> and</c><00:09:58.629><c> then</c><00:09:59.110><c> the</c>
+
+00:09:59.519 --> 00:09:59.529 align:start position:0%
+so we're declaring it VAR b and then the
+ 
+
+00:09:59.529 --> 00:10:03.720 align:start position:0%
+so we're declaring it VAR b and then the
+equal<00:10:00.160><c> sign</c><00:10:00.459><c> is</c><00:10:00.879><c> the</c><00:10:01.509><c> assignment</c><00:10:02.319><c> operator</c><00:10:02.730><c> it</c>
+
+00:10:03.720 --> 00:10:03.730 align:start position:0%
+equal sign is the assignment operator it
+ 
+
+00:10:03.730 --> 00:10:07.139 align:start position:0%
+equal sign is the assignment operator it
+means<00:10:04.149><c> that</c><00:10:04.449><c> 2</c><00:10:05.079><c> is</c><00:10:05.410><c> being</c><00:10:05.769><c> assigned</c><00:10:06.309><c> to</c><00:10:06.759><c> B</c>
+
+00:10:07.139 --> 00:10:07.149 align:start position:0%
+means that 2 is being assigned to B
+ 
+
+00:10:07.149 --> 00:10:09.809 align:start position:0%
+means that 2 is being assigned to B
+we're<00:10:07.930><c> not</c><00:10:08.050><c> checking</c><00:10:08.439><c> if</c><00:10:08.800><c> B</c><00:10:09.009><c> equals</c><00:10:09.430><c> 2</c><00:10:09.610><c> though</c>
+
+00:10:09.809 --> 00:10:09.819 align:start position:0%
+we're not checking if B equals 2 though
+ 
+
+00:10:09.819 --> 00:10:12.600 align:start position:0%
+we're not checking if B equals 2 though
+we're<00:10:09.999><c> just</c><00:10:10.029><c> assigning</c><00:10:10.540><c> 2</c><00:10:10.930><c> to</c><00:10:11.079><c> B</c><00:10:11.259><c> so</c><00:10:12.009><c> after</c>
+
+00:10:12.600 --> 00:10:12.610 align:start position:0%
+we're just assigning 2 to B so after
+ 
+
+00:10:12.610 --> 00:10:15.299 align:start position:0%
+we're just assigning 2 to B so after
+that<00:10:12.759><c> we</c><00:10:13.389><c> can</c><00:10:13.689><c> actually</c><00:10:13.899><c> assign</c><00:10:14.620><c> other</c><00:10:14.920><c> things</c>
+
+00:10:15.299 --> 00:10:15.309 align:start position:0%
+that we can actually assign other things
+ 
+
+00:10:15.309 --> 00:10:21.840 align:start position:0%
+that we can actually assign other things
+so<00:10:15.970><c> I</c><00:10:15.999><c> can</c><00:10:16.300><c> say</c><00:10:16.749><c> a</c><00:10:17.819><c> equals</c><00:10:19.319><c> 7</c><00:10:20.319><c> so</c><00:10:20.889><c> now</c><00:10:21.129><c> I've</c><00:10:21.490><c> just</c>
+
+00:10:21.840 --> 00:10:21.850 align:start position:0%
+so I can say a equals 7 so now I've just
+ 
+
+00:10:21.850 --> 00:10:24.869 align:start position:0%
+so I can say a equals 7 so now I've just
+assigned<00:10:22.439><c> 7th</c><00:10:23.439><c> a</c><00:10:23.649><c> I</c><00:10:23.800><c> didn't</c><00:10:24.309><c> have</c><00:10:24.399><c> to</c><00:10:24.519><c> declare</c>
+
+00:10:24.869 --> 00:10:24.879 align:start position:0%
+assigned 7th a I didn't have to declare
+ 
+
+00:10:24.879 --> 00:10:27.569 align:start position:0%
+assigned 7th a I didn't have to declare
+a<00:10:25.120><c> because</c><00:10:25.420><c> it</c><00:10:25.509><c> was</c><00:10:25.629><c> already</c><00:10:25.809><c> declared</c><00:10:26.319><c> and</c><00:10:26.740><c> I</c>
+
+00:10:27.569 --> 00:10:27.579 align:start position:0%
+a because it was already declared and I
+ 
+
+00:10:27.579 --> 00:10:35.249 align:start position:0%
+a because it was already declared and I
+can<00:10:27.819><c> also</c><00:10:28.680><c> say</c><00:10:29.680><c> that</c><00:10:30.149><c> B</c><00:10:31.149><c> equals</c><00:10:32.069><c> a</c><00:10:33.660><c> so</c><00:10:34.660><c> I've</c><00:10:34.899><c> now</c>
+
+00:10:35.249 --> 00:10:35.259 align:start position:0%
+can also say that B equals a so I've now
+ 
+
+00:10:35.259 --> 00:10:39.900 align:start position:0%
+can also say that B equals a so I've now
+assigned<00:10:35.860><c> the</c><00:10:36.100><c> contents</c><00:10:36.879><c> of</c><00:10:37.029><c> A</c><00:10:37.529><c> to</c><00:10:38.529><c> B</c><00:10:38.559><c> and</c><00:10:39.459><c> put</c>
+
+00:10:39.900 --> 00:10:39.910 align:start position:0%
+assigned the contents of A to B and put
+ 
+
+00:10:39.910 --> 00:10:42.689 align:start position:0%
+assigned the contents of A to B and put
+the<00:10:40.029><c> semicolon</c><00:10:40.329><c> there</c><00:10:41.160><c> one</c><00:10:42.160><c> thing</c><00:10:42.370><c> I</c><00:10:42.490><c> want</c><00:10:42.639><c> to</c>
+
+00:10:42.689 --> 00:10:42.699 align:start position:0%
+the semicolon there one thing I want to
+ 
+
+00:10:42.699 --> 00:10:44.749 align:start position:0%
+the semicolon there one thing I want to
+tell<00:10:42.879><c> you</c><00:10:43.000><c> about</c><00:10:43.120><c> is</c><00:10:43.389><c> console</c><00:10:44.079><c> dot</c><00:10:44.230><c> log</c>
+
+00:10:44.749 --> 00:10:44.759 align:start position:0%
+tell you about is console dot log
+ 
+
+00:10:44.759 --> 00:10:48.269 align:start position:0%
+tell you about is console dot log
+console<00:10:45.759><c> dot</c><00:10:45.910><c> log</c><00:10:46.230><c> allows</c><00:10:47.230><c> you</c><00:10:47.559><c> to</c><00:10:47.740><c> see</c><00:10:48.040><c> things</c>
+
+00:10:48.269 --> 00:10:48.279 align:start position:0%
+console dot log allows you to see things
+ 
+
+00:10:48.279 --> 00:10:51.150 align:start position:0%
+console dot log allows you to see things
+in<00:10:48.519><c> the</c><00:10:48.550><c> console</c><00:10:49.269><c> so</c><00:10:49.839><c> I'm</c><00:10:50.170><c> going</c><00:10:50.529><c> to</c><00:10:50.589><c> console</c>
+
+00:10:51.150 --> 00:10:51.160 align:start position:0%
+in the console so I'm going to console
+ 
+
+00:10:51.160 --> 00:10:54.809 align:start position:0%
+in the console so I'm going to console
+that<00:10:51.279><c> log</c><00:10:51.579><c> a</c><00:10:51.879><c> and</c><00:10:52.449><c> if</c><00:10:52.839><c> I</c><00:10:53.019><c> load</c><00:10:53.680><c> this</c><00:10:53.920><c> here</c><00:10:54.250><c> you</c>
+
+00:10:54.809 --> 00:10:54.819 align:start position:0%
+that log a and if I load this here you
+ 
+
+00:10:54.819 --> 00:10:56.519 align:start position:0%
+that log a and if I load this here you
+can<00:10:54.850><c> see</c><00:10:55.149><c> down</c><00:10:55.329><c> here</c><00:10:55.569><c> in</c><00:10:55.660><c> the</c><00:10:55.720><c> console</c><00:10:56.259><c> it</c>
+
+00:10:56.519 --> 00:10:56.529 align:start position:0%
+can see down here in the console it
+ 
+
+00:10:56.529 --> 00:11:00.179 align:start position:0%
+can see down here in the console it
+shows<00:10:56.980><c> seven</c><00:10:57.730><c> so</c><00:10:58.629><c> right</c><00:10:59.410><c> now</c><00:10:59.559><c> we've</c><00:10:59.800><c> assigned</c>
+
+00:11:00.179 --> 00:11:00.189 align:start position:0%
+shows seven so right now we've assigned
+ 
+
+00:11:00.189 --> 00:11:03.210 align:start position:0%
+shows seven so right now we've assigned
+A<00:11:00.490><c> to</c><00:11:01.000><c> B</c><00:11:01.029><c> seven</c><00:11:01.600><c> or</c><00:11:01.839><c> and</c><00:11:02.139><c> so</c><00:11:02.709><c> we</c><00:11:02.949><c> when</c><00:11:03.129><c> we</c>
+
+00:11:03.210 --> 00:11:03.220 align:start position:0%
+A to B seven or and so we when we
+ 
+
+00:11:03.220 --> 00:11:05.100 align:start position:0%
+A to B seven or and so we when we
+console<00:11:03.610><c> that</c><00:11:03.699><c> log</c><00:11:03.910><c> a</c><00:11:04.149><c> it</c><00:11:04.389><c> shows</c><00:11:04.569><c> seven</c><00:11:04.959><c> down</c>
+
+00:11:05.100 --> 00:11:05.110 align:start position:0%
+console that log a it shows seven down
+ 
+
+00:11:05.110 --> 00:11:09.360 align:start position:0%
+console that log a it shows seven down
+there<00:11:05.579><c> if</c><00:11:06.689><c> we</c><00:11:07.689><c> put</c><00:11:08.139><c> another</c><00:11:08.470><c> console</c><00:11:09.009><c> that</c><00:11:09.100><c> log</c>
+
+00:11:09.360 --> 00:11:09.370 align:start position:0%
+there if we put another console that log
+ 
+
+00:11:09.370 --> 00:11:12.900 align:start position:0%
+there if we put another console that log
+right<00:11:09.639><c> here</c><00:11:11.009><c> this</c><00:11:12.009><c> will</c><00:11:12.220><c> allow</c><00:11:12.399><c> us</c><00:11:12.429><c> to</c><00:11:12.579><c> show</c>
+
+00:11:12.900 --> 00:11:12.910 align:start position:0%
+right here this will allow us to show
+ 
+
+00:11:12.910 --> 00:11:15.210 align:start position:0%
+right here this will allow us to show
+what<00:11:13.089><c> a</c><00:11:13.269><c> was</c><00:11:13.660><c> up</c><00:11:13.959><c> here</c><00:11:14.230><c> and</c><00:11:14.499><c> then</c><00:11:14.709><c> down</c><00:11:14.920><c> there</c>
+
+00:11:15.210 --> 00:11:15.220 align:start position:0%
+what a was up here and then down there
+ 
+
+00:11:15.220 --> 00:11:19.470 align:start position:0%
+what a was up here and then down there
+so<00:11:15.819><c> console</c><00:11:16.449><c> dot</c><00:11:16.600><c> log</c><00:11:16.829><c> now</c><00:11:17.829><c> if</c><00:11:17.949><c> I</c><00:11:18.040><c> run</c><00:11:18.279><c> that</c><00:11:18.480><c> we</c>
+
+00:11:19.470 --> 00:11:19.480 align:start position:0%
+so console dot log now if I run that we
+ 
+
+00:11:19.480 --> 00:11:21.629 align:start position:0%
+so console dot log now if I run that we
+can<00:11:19.689><c> now</c><00:11:19.839><c> see</c><00:11:20.110><c> at</c><00:11:20.230><c> first</c><00:11:20.259><c> it</c><00:11:20.980><c> was</c><00:11:21.309><c> null</c><00:11:21.610><c> and</c>
+
+00:11:21.629 --> 00:11:21.639 align:start position:0%
+can now see at first it was null and
+ 
+
+00:11:21.639 --> 00:11:24.600 align:start position:0%
+can now see at first it was null and
+then<00:11:22.269><c> now</c><00:11:22.480><c> at</c><00:11:22.689><c> seven</c><00:11:23.139><c> so</c><00:11:23.290><c> here</c><00:11:23.559><c> oh</c><00:11:23.589><c> it's</c><00:11:24.009><c> not</c><00:11:24.279><c> as</c>
+
+00:11:24.600 --> 00:11:24.610 align:start position:0%
+then now at seven so here oh it's not as
+ 
+
+00:11:24.610 --> 00:11:26.999 align:start position:0%
+then now at seven so here oh it's not as
+seven<00:11:25.120><c> down</c><00:11:25.269><c> here</c><00:11:25.629><c> so</c><00:11:26.050><c> you</c><00:11:26.110><c> can</c><00:11:26.379><c> check</c><00:11:26.709><c> what</c>
+
+00:11:26.999 --> 00:11:27.009 align:start position:0%
+seven down here so you can check what
+ 
+
+00:11:27.009 --> 00:11:28.980 align:start position:0%
+seven down here so you can check what
+variables<00:11:27.579><c> are</c><00:11:27.759><c> at</c><00:11:28.029><c> various</c><00:11:28.389><c> points</c><00:11:28.809><c> in</c><00:11:28.899><c> your</c>
+
+00:11:28.980 --> 00:11:28.990 align:start position:0%
+variables are at various points in your
+ 
+
+00:11:28.990 --> 00:11:33.999 align:start position:0%
+variables are at various points in your
+program
+
+00:11:33.999 --> 00:11:34.009 align:start position:0%
+ 
+ 
+
+00:11:34.009 --> 00:11:36.699 align:start position:0%
+ 
+now<00:11:35.009><c> I'll</c><00:11:35.160><c> show</c><00:11:35.189><c> you</c><00:11:35.459><c> another</c><00:11:35.579><c> example</c><00:11:36.420><c> of</c>
+
+00:11:36.699 --> 00:11:36.709 align:start position:0%
+now I'll show you another example of
+ 
+
+00:11:36.709 --> 00:11:39.650 align:start position:0%
+now I'll show you another example of
+initializing<00:11:37.709><c> a</c><00:11:38.009><c> variable</c><00:11:38.040><c> to</c><00:11:38.790><c> an</c><00:11:39.060><c> initial</c>
+
+00:11:39.650 --> 00:11:39.660 align:start position:0%
+initializing a variable to an initial
+ 
+
+00:11:39.660 --> 00:11:43.340 align:start position:0%
+initializing a variable to an initial
+value<00:11:39.930><c> at</c><00:11:40.529><c> the</c><00:11:40.800><c> same</c><00:11:41.040><c> time</c><00:11:41.399><c> it's</c><00:11:41.699><c> declared</c><00:11:42.509><c> so</c>
+
+00:11:43.340 --> 00:11:43.350 align:start position:0%
+value at the same time it's declared so
+ 
+
+00:11:43.350 --> 00:11:47.689 align:start position:0%
+value at the same time it's declared so
+I'm<00:11:43.620><c> going</c><00:11:43.740><c> to</c><00:11:43.769><c> say</c><00:11:43.980><c> var</c><00:11:44.339><c> a</c><00:11:45.230><c> equals</c><00:11:46.230><c> 9</c><00:11:46.740><c> so</c><00:11:47.129><c> the</c>
+
+00:11:47.689 --> 00:11:47.699 align:start position:0%
+I'm going to say var a equals 9 so the
+ 
+
+00:11:47.699 --> 00:11:50.990 align:start position:0%
+I'm going to say var a equals 9 so the
+VAR<00:11:47.939><c> a</c><00:11:48.180><c> is</c><00:11:48.660><c> the</c><00:11:49.230><c> clearing</c><00:11:49.769><c> it</c><00:11:49.920><c> and</c><00:11:50.069><c> the</c><00:11:50.519><c> equals</c>
+
+00:11:50.990 --> 00:11:51.000 align:start position:0%
+VAR a is the clearing it and the equals
+ 
+
+00:11:51.000 --> 00:11:54.139 align:start position:0%
+VAR a is the clearing it and the equals
+9<00:11:51.300><c> is</c><00:11:51.660><c> initializing</c><00:11:52.620><c> it</c><00:11:52.949><c> with</c><00:11:53.009><c> that</c><00:11:53.910><c> the</c>
+
+00:11:54.139 --> 00:11:54.149 align:start position:0%
+9 is initializing it with that the
+ 
+
+00:11:54.149 --> 00:11:56.119 align:start position:0%
+9 is initializing it with that the
+assignment<00:11:54.750><c> operator</c><00:11:54.870><c> which</c><00:11:55.500><c> is</c><00:11:55.649><c> the</c><00:11:55.769><c> equal</c>
+
+00:11:56.119 --> 00:11:56.129 align:start position:0%
+assignment operator which is the equal
+ 
+
+00:11:56.129 --> 00:12:00.400 align:start position:0%
+assignment operator which is the equal
+sign
+
+00:12:00.400 --> 00:12:00.410 align:start position:0%
+ 
+ 
+
+00:12:00.410 --> 00:12:02.870 align:start position:0%
+ 
+before<00:12:01.410><c> we</c><00:12:01.620><c> do</c><00:12:01.800><c> anything</c><00:12:02.040><c> to</c><00:12:02.220><c> these</c><00:12:02.430><c> variables</c>
+
+00:12:02.870 --> 00:12:02.880 align:start position:0%
+before we do anything to these variables
+ 
+
+00:12:02.880 --> 00:12:05.870 align:start position:0%
+before we do anything to these variables
+they<00:12:03.390><c> are</c><00:12:03.500><c> uninitialized</c><00:12:04.500><c> that</c><00:12:05.460><c> means</c><00:12:05.670><c> their</c>
+
+00:12:05.870 --> 00:12:05.880 align:start position:0%
+they are uninitialized that means their
+ 
+
+00:12:05.880 --> 00:12:08.510 align:start position:0%
+they are uninitialized that means their
+value<00:12:06.330><c> is</c><00:12:06.510><c> undefined</c><00:12:07.350><c> we</c><00:12:07.710><c> have</c><00:12:07.890><c> not</c><00:12:08.040><c> set</c><00:12:08.340><c> them</c>
