@@ -16,3 +16,22 @@ Each language translation is available in their own directories at the root of t
 - 收获 GitHub 认可的 contributions
 - 成为 freeCodeCamp.org 国际社区贡献者（我们将在翻译后的视频中呈现贡献者的名字）
 - 在社区中结识优秀的小伙伴，拥抱更多技术成长与职业发展的可能性
+
+我们首先协作翻译第一个视频：[JavaScript 全套入门教程](https://www.youtube.com/watch?v=PkZNo7MFNFg&t=1175s)。字幕文件总共三万多行，我们分成多个[文件](https://github.com/freeCodeCamp/videos-translation/tree/master/chinese/subtitle)，请把你想要翻译的文件告诉 Miya（微信：Hello_MrT），她会在下方列表记录。
+
+| 文件 | 译者 |
+|:------:| :------: |
+| [JS-full-course-0.vtt](https://github.com/freeCodeCamp/videos-translation/blob/master/chinese/subtitle/JS-full-course-0.vtt) | [Miya](https://github.com/miyaliu666) |
+| 稍微长一点的文本 | 短文本 |
+
+
+00:00:00.000 --> 00:00:02.540 align:start position:0%
+ 
+this<00:00:00.420><c> is</c><00:00:00.690><c> the</c><00:00:01.079><c> beginners</c><00:00:01.589><c> JavaScript</c><00:00:02.280><c> course</c>
+
+00:00:02.540 --> 00:00:02.550 align:start position:0%
+this is the beginners JavaScript course
+ 
+
+00:00:02.550 --> 00:00:06.050 align:start position:0%
+this is the beginners JavaScript course
