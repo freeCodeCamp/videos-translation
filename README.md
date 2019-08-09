@@ -7,7 +7,7 @@
 This repository is used for collaborating on translation of videos from [freeCodeCamp's YouTube Channel](https://www.youtube.com/freecodecamp) to different world languages.
 Each language translation is available in their own directories at the root of the repository. As of now, we are working on supporting chinese language first and will eventually add translations for other languages in future.
 
-[freeCodeCamp's YouTube Channel](https://www.youtube.com/freecodecamp) 发布了大量优质视频教程，涵盖 HTML&CSS、JavaScript、Python、数据科学、机器学习等内容，我们一起把这些视频翻译成中文，发布在 [Bilibili](https://space.bilibili.com/335505768)，分享给更多学员。
+[freeCodeCamp's YouTube Channel](https://www.youtube.com/freecodecamp) 发布了大量优质视频教程，涵盖 HTML&CSS、JavaScript、Python、数据科学、机器学习等内容，我们一起把这些视频翻译成中文，发布在 [bilibili](https://space.bilibili.com/335505768)，分享给更多学员。
 
 ### 参与翻译你会获得：
 
@@ -43,5 +43,6 @@ this is the beginners JavaScript course
 this is the beginners JavaScript course
 
 - 对照原视频 [JavaScript 全套入门教程](https://www.youtube.com/watch?v=PkZNo7MFNFg&t=1175s) 进行翻译，注意中英文语序的区别，考虑中文表达习惯
+- 中英文之间，数字和汉字之间加空格，其他地方不要轻易加空格（特别是上一句的文字和下一句的时间线之间），不然会增加校对难度
 - 译者不需要改动时间线
 - Miya 最终合并所有译文，在上传视频和字幕的时候会校对译文并调整时间线
