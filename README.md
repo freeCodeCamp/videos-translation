@@ -14,7 +14,7 @@ Each language translation is available in their own directories at the root of t
 - 持续提升你的英文水平和多人协作的经验
 - 快速提高你的 Git 操作熟练度
 - 收获 GitHub 认可的 contributions
-- 成为 freeCodeCamp.org 国际社区贡献者（我们将在翻译后的视频中呈现贡献者的名字）
+- 成为 freeCodeCamp.org 国际社区贡献者（我们将在翻译后的视频介绍中记录贡献者的名字）
 - 在社区中结识优秀的小伙伴，拥抱更多技术成长与职业发展的可能性
 
 我们首先协作翻译第一个视频：[JavaScript 全套入门教程](https://www.youtube.com/watch?v=PkZNo7MFNFg&t=1175s)。字幕文件总共三万多行，我们分成多个[文件](https://github.com/freeCodeCamp/videos-translation/tree/master/chinese/subtitle)，请把你想要翻译的文件告诉 Miya（微信：Hello_MrT），她会在下方列表记录。
