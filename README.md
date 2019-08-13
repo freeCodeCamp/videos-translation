@@ -22,7 +22,7 @@ Each language translation is available in their own directories at the root of t
 | 文件 | 译者 |
 |:------:| :------: |
 | [JS-full-course-0.vtt](https://github.com/freeCodeCamp/videos-translation/blob/master/chinese/subtitle/JS-full-course-0.vtt) | [Miya](https://github.com/miyaliu666) |
-|     |    |
+| [JS-full-course-1.vtt](https://github.com/freeCodeCamp/videos-translation/blob/master/chinese/subtitle/JS-full-course-1.vtt)    | [Miya](https://github.com/miyaliu666)    |
 |     |    |
 |     |    |
 |     |    |
