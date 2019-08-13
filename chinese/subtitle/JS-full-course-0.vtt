@@ -21,7 +21,7 @@ Language: zh
 已经掌握 JavaScript 的人们也可以用它来回顾基础语法
 
 00:00:27.529 --> 00:00:27.539 align:start position:0%
-这套教程和 freeCodeCamp.org 的 JavaScript 课程节奏一致
+这套教程和 freecodecamp.org 的 JavaScript 课程节奏一致
 
 00:00:30.090 --> 00:00:32.479 align:start position:0%
 所以如果你想在学习这套教程的每个部分的时候
@@ -30,13 +30,13 @@ Language: zh
 同时做一些在线编程挑战
 
 00:00:36.120 --> 00:00:38.600 align:start position:0%
-你可以看一下教程中列出的 freeCodeCamp.org 相应挑战的链接
+你可以看一下教程中列出的 freecodecamp.org 相应挑战的链接
 
 00:00:38.610 --> 00:00:41.810 align:start position:0%
 不过这套视频教程是完全独立的
 
 00:00:41.820 --> 00:00:44.150 align:start position:0%
-所以你不一定要边看视频边做 freeCodeCamp.org 的挑战
+所以你不一定要边看视频边做 freecodecamp.org 的挑战
 
 00:00:44.160 --> 00:00:47.299 align:start position:0%
 但是边看边做是有帮助的
@@ -60,19 +60,15 @@ Language: zh
 不完全依赖教程
 
 00:01:06.990 --> 00:01:08.510 align:start position:0%
-and just use a search engine to find the
 而是使用搜索引擎来寻找你不知道的东西或者需要学习的东西
 
 00:01:12.090 --> 00:01:14.600 align:start position:0%
-learn to go along with the free code
 配合 freeCodeCamp 的课程体系
 
 00:01:14.610 --> 00:01:17.300 align:start position:0%
-camp curriculum I have all the es6 stuff
 我也会在本教程的第二部分讲到 es6 的知识点
 
 00:01:18.240 --> 00:01:27.109 align:start position:0%
-that's pretty much it
 先讲这么多
 
 00:01:27.109 --> 00:01:27.119 align:start position:0%
@@ -104,150 +100,58 @@ so how exactly do you install JavaScript
 所以写 JavaScript 程序是挺方便的
 
 00:01:54.270 --> 00:01:57.020 align:start position:0%
-show you a few things you can do to
 下面我来介绍一些你可以在学习本教程时用到的工具
 
-00:01:57.030 --> 00:01:59.630 align:start position:0%
-follow along with this course you could
-
-download<00:01:57.240><c> a</c><00:01:57.569><c> code</c><00:01:57.929><c> editor</c><00:01:58.369><c> here</c><00:01:59.369><c> I</c><00:01:59.399><c> have</c>
-
-00:01:59.630 --> 00:01:59.640 align:start position:0%
-download a code editor here I have
- 
-
 00:01:59.640 --> 00:02:02.899 align:start position:0%
-download a code editor here I have
-sublime<00:02:00.119><c> text</c><00:02:00.479><c> you</c><00:02:01.200><c> could</c><00:02:01.349><c> also</c><00:02:01.530><c> use</c><00:02:02.130><c> Visual</c>
-
-00:02:02.899 --> 00:02:02.909 align:start position:0%
-sublime text you could also use Visual
- 
+你可以下载一个代码编辑器
 
 00:02:02.909 --> 00:02:05.839 align:start position:0%
-sublime text you could also use Visual
-Studio<00:02:03.030><c> code</c><00:02:03.509><c> or</c><00:02:03.869><c> atom</c><00:02:04.319><c> or</c><00:02:04.530><c> any</c><00:02:05.039><c> code</c><00:02:05.429><c> editor</c>
-
-00:02:05.839 --> 00:02:05.849 align:start position:0%
-Studio code or atom or any code editor
- 
+这里我使用 Sublime Text
 
 00:02:05.849 --> 00:02:10.039 align:start position:0%
-Studio code or atom or any code editor
-and<00:02:06.090><c> I've</c><00:02:06.989><c> created</c><00:02:07.560><c> an</c><00:02:07.860><c> HTML</c><00:02:08.789><c> file</c><00:02:09.090><c> because</c>
-
-00:02:10.039 --> 00:02:10.049 align:start position:0%
-and I've created an HTML file because
- 
+你也可以使用 Visual Studio code，Atom 或者其他编辑器
 
 00:02:10.049 --> 00:02:12.410 align:start position:0%
-and I've created an HTML file because
-HTML<00:02:10.530><c> files</c><00:02:10.920><c> can</c><00:02:11.190><c> be</c><00:02:11.220><c> open</c><00:02:11.640><c> in</c><00:02:11.730><c> web</c><00:02:11.910><c> browsers</c>
-
-00:02:12.410 --> 00:02:12.420 align:start position:0%
-HTML files can be open in web browsers
- 
+我创建了一个 HTML 文本
 
 00:02:12.420 --> 00:02:16.309 align:start position:0%
-HTML files can be open in web browsers
-and<00:02:12.660><c> I</c><00:02:13.440><c> have</c><00:02:14.010><c> these</c><00:02:14.220><c> script</c><00:02:14.910><c> tags</c><00:02:15.269><c> these</c><00:02:16.140><c> are</c>
-
-00:02:16.309 --> 00:02:16.319 align:start position:0%
-and I have these script tags these are
- 
+因为 HTML 文本可以在 Web 浏览器中打开
 
 00:02:16.319 --> 00:02:19.069 align:start position:0%
-and I have these script tags these are
-HTML<00:02:16.560><c> tags</c><00:02:17.280><c> but</c><00:02:17.790><c> within</c><00:02:18.090><c> our</c><00:02:18.239><c> script</c><00:02:18.599><c> tags</c><00:02:18.810><c> we</c>
-
-00:02:19.069 --> 00:02:19.079 align:start position:0%
-HTML tags but within our script tags we
- 
+这里有一些 Script 标签
 
 00:02:19.079 --> 00:02:21.860 align:start position:0%
 HTML tags but within our script tags we
-have<00:02:19.260><c> our</c><00:02:19.440><c> JavaScript</c><00:02:20.129><c> so</c><00:02:20.790><c> if</c><00:02:21.090><c> I</c><00:02:21.269><c> open</c><00:02:21.450><c> up</c><00:02:21.720><c> this</c>
-
-00:02:21.860 --> 00:02:21.870 align:start position:0%
-have our JavaScript so if I open up this
- 
+这些是 HTML 标签
 
 00:02:21.870 --> 00:02:23.900 align:start position:0%
-have our JavaScript so if I open up this
-file<00:02:22.170><c> in</c><00:02:22.379><c> a</c><00:02:22.440><c> web</c><00:02:22.650><c> browser</c><00:02:22.680><c> it</c><00:02:23.250><c> looks</c><00:02:23.489><c> like</c><00:02:23.670><c> this</c>
-
-00:02:23.900 --> 00:02:23.910 align:start position:0%
-file in a web browser it looks like this
- 
+标签里面是 JavaScript 代码
 
 00:02:23.910 --> 00:02:28.250 align:start position:0%
-file in a web browser it looks like this
-well<00:02:24.629><c> I</c><00:02:24.810><c> can</c><00:02:25.110><c> open</c><00:02:25.500><c> up</c><00:02:25.620><c> my</c><00:02:26.599><c> JavaScript</c><00:02:27.599><c> console</c>
-
-00:02:28.250 --> 00:02:28.260 align:start position:0%
-well I can open up my JavaScript console
- 
+如果我在浏览器中打开，它看起来是这样的
 
 00:02:28.260 --> 00:02:31.370 align:start position:0%
 well I can open up my JavaScript console
-and<00:02:28.650><c> then</c><00:02:29.370><c> in</c><00:02:29.519><c> the</c><00:02:29.700><c> console</c><00:02:30.299><c> you</c><00:02:30.810><c> can</c><00:02:31.019><c> see</c><00:02:31.230><c> it</c>
-
-00:02:31.370 --> 00:02:31.380 align:start position:0%
-and then in the console you can see it
- 
+我可以打开 JavaScript 控制台
 
 00:02:31.380 --> 00:02:34.670 align:start position:0%
-and then in the console you can see it
-says<00:02:31.590><c> hello</c><00:02:32.100><c> world</c><00:02:32.450><c> that's</c><00:02:33.450><c> right</c><00:02:33.900><c> from</c><00:02:34.260><c> my</c>
-
-00:02:34.670 --> 00:02:34.680 align:start position:0%
-says hello world that's right from my
- 
+你可以看到控制台写着 hello world
 
 00:02:34.680 --> 00:02:37.009 align:start position:0%
-says hello world that's right from my
-JavaScript<00:02:35.280><c> program</c><00:02:35.670><c> so</c><00:02:36.209><c> whenever</c><00:02:36.810><c> you</c>
-
-00:02:37.009 --> 00:02:37.019 align:start position:0%
-JavaScript program so whenever you
- 
+这是我写的 JavaScript 代码产生的
 
 00:02:37.019 --> 00:02:38.690 align:start position:0%
-JavaScript program so whenever you
-console<00:02:37.500><c> that</c><00:02:37.590><c> log</c><00:02:37.859><c> is</c><00:02:38.069><c> gonna</c><00:02:38.220><c> show</c><00:02:38.489><c> in</c><00:02:38.609><c> the</c>
-
-00:02:38.690 --> 00:02:38.700 align:start position:0%
-console that log is gonna show in the
- 
+所以当你使用 Console 的时候
 
 00:02:38.700 --> 00:02:42.589 align:start position:0%
-console that log is gonna show in the
-console<00:02:39.150><c> here</c><00:02:39.510><c> you</c><00:02:40.500><c> could</c><00:02:40.709><c> also</c><00:02:40.980><c> just</c><00:02:41.430><c> use</c><00:02:42.000><c> the</c>
-
-00:02:42.589 --> 00:02:42.599 align:start position:0%
-console here you could also just use the
- 
+输出就会在控制台显示
 
 00:02:42.599 --> 00:02:44.599 align:start position:0%
-console here you could also just use the
-code<00:02:42.870><c> editor</c><00:02:43.079><c> that's</c><00:02:43.470><c> included</c><00:02:43.950><c> on</c><00:02:44.040><c> free</c><00:02:44.340><c> code</c>
-
-00:02:44.599 --> 00:02:44.609 align:start position:0%
-code editor that's included on free code
- 
-
-00:02:44.609 --> 00:02:47.120 align:start position:0%
-code editor that's included on free code
-camp<00:02:44.970><c> org</c><00:02:45.389><c> like</c><00:02:46.079><c> I</c><00:02:46.230><c> mentioned</c><00:02:46.650><c> this</c><00:02:46.799><c> course</c>
-
-00:02:47.120 --> 00:02:47.130 align:start position:0%
-camp org like I mentioned this course
- 
+你也可以使用 freecodecamp.org 的代码编辑器
 
 00:02:47.130 --> 00:02:49.009 align:start position:0%
 camp org like I mentioned this course
-follows<00:02:47.579><c> along</c><00:02:47.849><c> with</c><00:02:47.910><c> the</c><00:02:48.299><c> JavaScript</c>
+正如我前面提到的
 
 00:02:49.009 --> 00:02:49.019 align:start position:0%
-follows along with the JavaScript
- 
+这套教程可以和 freecodecamp.org 的课程配套使用
