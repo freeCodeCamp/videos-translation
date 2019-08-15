@@ -20,7 +20,7 @@ Each language translation is available in their own directories at the root of t
 我们首先协作翻译第一个视频：[JavaScript 全套入门教程](https://www.youtube.com/watch?v=PkZNo7MFNFg&t=1175s)。字幕文件总共三万多行，我们分成多个[文件](https://github.com/freeCodeCamp/videos-translation/tree/master/chinese/subtitle)，请把你想要翻译的文件告诉 Miya（微信：Hello_MrT），她会在下方列表记录。
 
 | 文件 | 译者 | 进度 |
-|:------:| :------: |
+|:------:|:------:|:------:|
 | [JS-full-course-0.srt](https://github.com/freeCodeCamp/videos-translation/blob/master/chinese/subtitle/JS-full-course-0.vtt) | [Miya](https://github.com/miyaliu666) | finished |
 | [JS-full-course-1.srt](https://github.com/freeCodeCamp/videos-translation/blob/master/chinese/subtitle/JS-full-course-1.vtt)    | [Miya](https://github.com/miyaliu666)    | finished |
 | [JS-full-course-2.srt](https://github.com/freeCodeCamp/videos-translation/blob/master/chinese/subtitle/JS-full-course-2.vtt) | [Miya](https://github.com/miyaliu666) | finished |
