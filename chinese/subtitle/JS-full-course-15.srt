@@ -1,0 +1,4162 @@
+the<03:00:49.409><c> max</c><03:00:49.710><c> of</c><03:00:50.010><c> tomorrow</c><03:00:50.550><c> so</c><03:00:51.270><c> we</c><03:00:51.479><c> are</c><03:00:51.630><c> going</c><03:00:51.899><c> to</c>
+
+03:00:52.040 --> 03:00:52.050 align:start position:0%
+the max of tomorrow so we are going to
+ 
+
+03:00:52.050 --> 03:00:55.580 align:start position:0%
+the max of tomorrow so we are going to
+use<03:00:52.520><c> destructuring</c><03:00:53.520><c> to</c><03:00:53.970><c> figure</c><03:00:54.390><c> that</c><03:00:54.569><c> out</c><03:00:54.750><c> so</c>
+
+03:00:55.580 --> 03:00:55.590 align:start position:0%
+use destructuring to figure that out so
+ 
+
+03:00:55.590 --> 03:00:58.700 align:start position:0%
+use destructuring to figure that out so
+it's<03:00:56.189><c> going</c><03:00:56.489><c> to</c><03:00:56.609><c> equal</c><03:00:57.290><c> forecast</c><03:00:58.290><c> and</c>
+
+03:00:58.700 --> 03:00:58.710 align:start position:0%
+it's going to equal forecast and
+ 
+
+03:00:58.710 --> 03:01:03.050 align:start position:0%
+it's going to equal forecast and
+remember<03:00:59.399><c> that</c><03:00:59.729><c> is</c><03:00:59.939><c> a</c><03:01:00.270><c> nested</c><03:01:01.050><c> object</c><03:01:01.680><c> so</c><03:01:02.370><c> here</c>
+
+03:01:03.050 --> 03:01:03.060 align:start position:0%
+remember that is a nested object so here
+ 
+
+03:01:03.060 --> 03:01:04.849 align:start position:0%
+remember that is a nested object so here
+when<03:01:03.720><c> you're</c><03:01:03.840><c> destructuring</c><03:01:04.439><c> you're</c><03:01:04.739><c> always</c>
+
+03:01:04.849 --> 03:01:04.859 align:start position:0%
+when you're destructuring you're always
+ 
+
+03:01:04.859 --> 03:01:08.599 align:start position:0%
+when you're destructuring you're always
+going<03:01:05.069><c> to</c><03:01:05.130><c> use</c><03:01:05.250><c> the</c><03:01:05.430><c> curly</c><03:01:05.699><c> braces</c><03:01:06.090><c> and</c><03:01:07.489><c> we</c><03:01:08.489><c> are</c>
+
+03:01:08.599 --> 03:01:08.609 align:start position:0%
+going to use the curly braces and we are
+ 
+
+03:01:08.609 --> 03:01:12.979 align:start position:0%
+going to use the curly braces and we are
+first<03:01:08.819><c> going</c><03:01:09.000><c> to</c><03:01:09.090><c> get</c><03:01:09.300><c> tomorrow</c><03:01:10.050><c> and</c><03:01:11.569><c> on</c><03:01:12.569><c> the</c>
+
+03:01:12.979 --> 03:01:12.989 align:start position:0%
+first going to get tomorrow and on the
+ 
+
+03:01:12.989 --> 03:01:15.200 align:start position:0%
+first going to get tomorrow and on the
+other<03:01:13.080><c> side</c><03:01:13.470><c> of</c><03:01:13.649><c> the</c><03:01:13.770><c> colon</c><03:01:14.310><c> we're</c><03:01:14.850><c> gonna</c><03:01:14.939><c> have</c>
+
+03:01:15.200 --> 03:01:15.210 align:start position:0%
+other side of the colon we're gonna have
+ 
+
+03:01:15.210 --> 03:01:17.090 align:start position:0%
+other side of the colon we're gonna have
+some<03:01:15.420><c> more</c><03:01:15.479><c> curly</c><03:01:15.960><c> braces</c><03:01:16.229><c> because</c><03:01:16.770><c> it's</c>
+
+03:01:17.090 --> 03:01:17.100 align:start position:0%
+some more curly braces because it's
+ 
+
+03:01:17.100 --> 03:01:20.149 align:start position:0%
+some more curly braces because it's
+nested<03:01:17.640><c> so</c><03:01:18.420><c> we</c><03:01:18.510><c> need</c><03:01:18.659><c> to</c><03:01:18.720><c> go</c><03:01:18.899><c> inside</c><03:01:19.080><c> of</c><03:01:19.649><c> the</c>
+
+03:01:20.149 --> 03:01:20.159 align:start position:0%
+nested so we need to go inside of the
+ 
+
+03:01:20.159 --> 03:01:23.330 align:start position:0%
+nested so we need to go inside of the
+tomorrow<03:01:21.029><c> object</c><03:01:21.659><c> and</c><03:01:21.840><c> we</c><03:01:21.899><c> need</c><03:01:22.080><c> the</c><03:01:22.260><c> max</c><03:01:22.560><c> so</c>
+
+03:01:23.330 --> 03:01:23.340 align:start position:0%
+tomorrow object and we need the max so
+ 
+
+03:01:23.340 --> 03:01:26.479 align:start position:0%
+tomorrow object and we need the max so
+we'll<03:01:23.489><c> do</c><03:01:23.640><c> max</c><03:01:23.970><c> and</c><03:01:24.409><c> then</c><03:01:25.409><c> we</c><03:01:25.529><c> have</c><03:01:25.680><c> the</c><03:01:25.890><c> colon</c>
+
+03:01:26.479 --> 03:01:26.489 align:start position:0%
+we'll do max and then we have the colon
+ 
+
+03:01:26.489 --> 03:01:30.559 align:start position:0%
+we'll do max and then we have the colon
+and<03:01:27.020><c> max</c><03:01:28.020><c> of</c><03:01:28.229><c> tomorrow</c><03:01:28.620><c> now</c><03:01:29.370><c> we</c><03:01:29.430><c> need</c><03:01:29.760><c> two</c><03:01:30.180><c> sets</c>
+
+03:01:30.559 --> 03:01:30.569 align:start position:0%
+and max of tomorrow now we need two sets
+ 
+
+03:01:30.569 --> 03:01:34.700 align:start position:0%
+and max of tomorrow now we need two sets
+of<03:01:30.949><c> squiggly</c><03:01:31.949><c> braces</c><03:01:32.340><c> here</c><03:01:33.060><c> so</c><03:01:33.989><c> we</c><03:01:34.350><c> have</c><03:01:34.470><c> this</c>
+
+03:01:34.700 --> 03:01:34.710 align:start position:0%
+of squiggly braces here so we have this
+ 
+
+03:01:34.710 --> 03:01:38.660 align:start position:0%
+of squiggly braces here so we have this
+one<03:01:35.010><c> and</c><03:01:35.810><c> this</c><03:01:36.810><c> one</c><03:01:37.199><c> and</c><03:01:37.470><c> so</c><03:01:38.460><c> we've</c>
+
+03:01:38.660 --> 03:01:38.670 align:start position:0%
+one and this one and so we've
+ 
+
+03:01:38.670 --> 03:01:42.620 align:start position:0%
+one and this one and so we've
+destructured<03:01:39.569><c> two</c><03:01:39.840><c> times</c><03:01:40.229><c> and</c><03:01:40.909><c> the</c><03:01:41.909><c> variable</c>
+
+03:01:42.620 --> 03:01:42.630 align:start position:0%
+destructured two times and the variable
+ 
+
+03:01:42.630 --> 03:01:46.099 align:start position:0%
+destructured two times and the variable
+is<03:01:42.659><c> max</c><03:01:43.470><c> of</c><03:01:43.680><c> tomorrow</c><03:01:44.100><c> so</c><03:01:44.729><c> we've</c><03:01:45.149><c> set</c><03:01:45.479><c> the</c><03:01:45.720><c> max</c>
+
+03:01:46.099 --> 03:01:46.109 align:start position:0%
+is max of tomorrow so we've set the max
+ 
+
+03:01:46.109 --> 03:01:49.219 align:start position:0%
+is max of tomorrow so we've set the max
+that<03:01:46.470><c> was</c><03:01:46.560><c> inside</c><03:01:47.069><c> tomorrow</c><03:01:47.699><c> to</c><03:01:48.449><c> max</c><03:01:49.020><c> of</c>
+
+03:01:49.219 --> 03:01:49.229 align:start position:0%
+that was inside tomorrow to max of
+ 
+
+03:01:49.229 --> 03:01:52.280 align:start position:0%
+that was inside tomorrow to max of
+tomorrow<03:01:49.620><c> so</c><03:01:50.550><c> if</c><03:01:50.819><c> I</c><03:01:51.270><c> run</c><03:01:51.540><c> this</c><03:01:51.600><c> you'll</c><03:01:52.080><c> see</c>
+
+03:01:52.280 --> 03:01:52.290 align:start position:0%
+tomorrow so if I run this you'll see
+ 
+
+03:01:52.290 --> 03:01:57.820 align:start position:0%
+tomorrow so if I run this you'll see
+it's<03:01:52.439><c> eighty</c><03:01:52.710><c> four</c><03:01:53.069><c> point</c><03:01:53.430><c> six</c>
+
+03:01:57.820 --> 03:01:57.830 align:start position:0%
+ 
+ 
+
+03:01:57.830 --> 03:02:00.730 align:start position:0%
+ 
+you<03:01:58.640><c> can</c><03:01:58.850><c> use</c><03:01:59.090><c> the</c><03:01:59.360><c> structuring</c><03:02:00.050><c> assignment</c>
+
+03:02:00.730 --> 03:02:00.740 align:start position:0%
+you can use the structuring assignment
+ 
+
+03:02:00.740 --> 03:02:03.640 align:start position:0%
+you can use the structuring assignment
+to<03:02:00.890><c> assign</c><03:02:01.220><c> variables</c><03:02:01.910><c> from</c><03:02:02.240><c> arrays</c><03:02:02.690><c> look</c><03:02:03.530><c> at</c>
+
+03:02:03.640 --> 03:02:03.650 align:start position:0%
+to assign variables from arrays look at
+ 
+
+03:02:03.650 --> 03:02:05.860 align:start position:0%
+to assign variables from arrays look at
+this<03:02:03.800><c> example</c><03:02:04.190><c> here</c><03:02:04.370><c> so</c><03:02:05.300><c> we</c><03:02:05.420><c> have</c><03:02:05.540><c> this</c><03:02:05.660><c> array</c>
+
+03:02:05.860 --> 03:02:05.870 align:start position:0%
+this example here so we have this array
+ 
+
+03:02:05.870 --> 03:02:10.060 align:start position:0%
+this example here so we have this array
+of<03:02:06.230><c> 1</c><03:02:06.470><c> 2</c><03:02:06.620><c> 3</c><03:02:06.771><c> 4</c><03:02:07.040><c> 5</c><03:02:07.250><c> 6</c><03:02:07.580><c> and</c><03:02:07.970><c> we're</c><03:02:08.690><c> assigning</c><03:02:09.170><c> the</c>
+
+03:02:10.060 --> 03:02:10.070 align:start position:0%
+of 1 2 3 4 5 6 and we're assigning the
+ 
+
+03:02:10.070 --> 03:02:13.180 align:start position:0%
+of 1 2 3 4 5 6 and we're assigning the
+variables<03:02:10.730><c> Z</c><03:02:11.061><c> and</c><03:02:11.240><c> X</c><03:02:11.420><c> to</c><03:02:12.320><c> the</c><03:02:12.590><c> first</c><03:02:12.920><c> two</c>
+
+03:02:13.180 --> 03:02:13.190 align:start position:0%
+variables Z and X to the first two
+ 
+
+03:02:13.190 --> 03:02:16.330 align:start position:0%
+variables Z and X to the first two
+numbers<03:02:13.430><c> of</c><03:02:13.730><c> the</c><03:02:13.820><c> array</c><03:02:14.061><c> 1</c><03:02:14.840><c> &amp;</c><03:02:15.050><c> 2</c><03:02:15.340><c> the</c>
+
+03:02:16.330 --> 03:02:16.340 align:start position:0%
+numbers of the array 1 &amp; 2 the
+ 
+
+03:02:16.340 --> 03:02:18.610 align:start position:0%
+numbers of the array 1 &amp; 2 the
+difference<03:02:16.880><c> between</c><03:02:17.410><c> destructuring</c><03:02:18.410><c> from</c>
+
+03:02:18.610 --> 03:02:18.620 align:start position:0%
+difference between destructuring from
+ 
+
+03:02:18.620 --> 03:02:20.860 align:start position:0%
+difference between destructuring from
+arrays<03:02:18.920><c> and</c><03:02:19.220><c> destructuring</c><03:02:19.760><c> from</c><03:02:20.000><c> objects</c><03:02:20.630><c> is</c>
+
+03:02:20.860 --> 03:02:20.870 align:start position:0%
+arrays and destructuring from objects is
+ 
+
+03:02:20.870 --> 03:02:24.070 align:start position:0%
+arrays and destructuring from objects is
+that<03:02:21.530><c> you</c><03:02:21.650><c> cannot</c><03:02:21.920><c> specify</c><03:02:22.420><c> which</c><03:02:23.420><c> element</c>
+
+03:02:24.070 --> 03:02:24.080 align:start position:0%
+that you cannot specify which element
+ 
+
+03:02:24.080 --> 03:02:26.290 align:start position:0%
+that you cannot specify which element
+from<03:02:24.350><c> the</c><03:02:24.500><c> array</c><03:02:24.530><c> to</c><03:02:25.130><c> go</c><03:02:25.311><c> into</c><03:02:25.521><c> a</c><03:02:25.550><c> variable</c><03:02:25.970><c> it</c>
+
+03:02:26.290 --> 03:02:26.300 align:start position:0%
+from the array to go into a variable it
+ 
+
+03:02:26.300 --> 03:02:30.040 align:start position:0%
+from the array to go into a variable it
+just<03:02:26.811><c> goes</c><03:02:27.080><c> in</c><03:02:27.290><c> order</c><03:02:27.710><c> however</c><03:02:28.370><c> if</c><03:02:28.790><c> we</c><03:02:29.480><c> wanted</c>
+
+03:02:30.040 --> 03:02:30.050 align:start position:0%
+just goes in order however if we wanted
+ 
+
+03:02:30.050 --> 03:02:33.790 align:start position:0%
+just goes in order however if we wanted
+number<03:02:30.890><c> 4</c><03:02:31.311><c> to</c><03:02:31.970><c> be</c><03:02:32.180><c> going</c><03:02:32.510><c> to</c><03:02:32.660><c> a</c><03:02:32.690><c> variable</c><03:02:33.140><c> we</c>
+
+03:02:33.790 --> 03:02:33.800 align:start position:0%
+number 4 to be going to a variable we
+ 
+
+03:02:33.800 --> 03:02:36.011 align:start position:0%
+number 4 to be going to a variable we
+could<03:02:34.010><c> just</c><03:02:34.190><c> do</c><03:02:34.340><c> like</c><03:02:34.490><c> this</c><03:02:34.840><c> we</c><03:02:35.840><c> would</c><03:02:35.990><c> just</c>
+
+03:02:36.011 --> 03:02:36.021 align:start position:0%
+could just do like this we would just
+ 
+
+03:02:36.021 --> 03:02:39.280 align:start position:0%
+could just do like this we would just
+add<03:02:36.410><c> some</c><03:02:36.980><c> commas</c><03:02:37.580><c> so</c><03:02:38.061><c> we</c><03:02:38.180><c> put</c><03:02:38.420><c> a</c><03:02:38.450><c> comma</c><03:02:38.900><c> with</c>
+
+03:02:39.280 --> 03:02:39.290 align:start position:0%
+add some commas so we put a comma with
+ 
+
+03:02:39.290 --> 03:02:41.650 align:start position:0%
+add some commas so we put a comma with
+nothing<03:02:39.740><c> in</c><03:02:39.890><c> it</c><03:02:39.920><c> like</c><03:02:40.160><c> that</c><03:02:40.340><c> two</c><03:02:41.120><c> commas</c><03:02:41.540><c> in</c>
+
+03:02:41.650 --> 03:02:41.660 align:start position:0%
+nothing in it like that two commas in
+ 
+
+03:02:41.660 --> 03:02:45.100 align:start position:0%
+nothing in it like that two commas in
+row<03:02:41.870><c> and</c><03:02:42.170><c> I'll</c><03:02:42.771><c> put</c><03:02:42.980><c> a</c><03:02:43.010><c> Y</c><03:02:43.280><c> here</c><03:02:43.730><c> so</c><03:02:44.210><c> now</c><03:02:44.480><c> we</c><03:02:44.960><c> have</c>
+
+03:02:45.100 --> 03:02:45.110 align:start position:0%
+row and I'll put a Y here so now we have
+ 
+
+03:02:45.110 --> 03:02:46.960 align:start position:0%
+row and I'll put a Y here so now we have
+the<03:02:45.230><c> first</c><03:02:45.500><c> element</c><03:02:45.980><c> the</c><03:02:46.100><c> second</c><03:02:46.490><c> element</c><03:02:46.610><c> we</c>
+
+03:02:46.960 --> 03:02:46.970 align:start position:0%
+the first element the second element we
+ 
+
+03:02:46.970 --> 03:02:48.670 align:start position:0%
+the first element the second element we
+skip<03:02:47.360><c> the</c><03:02:47.540><c> third</c><03:02:47.780><c> element</c><03:02:47.960><c> and</c><03:02:48.380><c> then</c><03:02:48.470><c> we</c><03:02:48.500><c> have</c>
+
+03:02:48.670 --> 03:02:48.680 align:start position:0%
+skip the third element and then we have
+ 
+
+03:02:48.680 --> 03:02:51.400 align:start position:0%
+skip the third element and then we have
+the<03:02:48.771><c> fourth</c><03:02:49.070><c> element</c><03:02:49.311><c> so</c><03:02:50.090><c> if</c><03:02:50.330><c> I</c><03:02:50.840><c> console</c><03:02:51.320><c> that</c>
+
+03:02:51.400 --> 03:02:51.410 align:start position:0%
+the fourth element so if I console that
+ 
+
+03:02:51.410 --> 03:02:56.261 align:start position:0%
+the fourth element so if I console that
+log<03:02:51.620><c> z</c><03:02:51.950><c> x</c><03:02:52.250><c> and</c><03:02:52.640><c> y</c><03:02:53.240><c> we</c><03:02:54.021><c> should</c><03:02:54.290><c> see</c><03:02:54.590><c> one</c><03:02:55.460><c> two</c><03:02:55.910><c> and</c>
+
+03:02:56.261 --> 03:02:56.271 align:start position:0%
+log z x and y we should see one two and
+ 
+
+03:02:56.271 --> 03:02:59.410 align:start position:0%
+log z x and y we should see one two and
+four<03:02:56.890><c> here's</c><03:02:57.890><c> another</c><03:02:58.130><c> thing</c><03:02:58.370><c> you</c><03:02:58.521><c> can</c><03:02:58.700><c> do</c><03:02:58.880><c> you</c>
+
+03:02:59.410 --> 03:02:59.420 align:start position:0%
+four here's another thing you can do you
+ 
+
+03:02:59.420 --> 03:03:01.930 align:start position:0%
+four here's another thing you can do you
+can<03:02:59.690><c> use</c><03:02:59.960><c> the</c><03:03:00.260><c> structuring</c><03:03:00.771><c> of</c><03:03:00.950><c> arrays</c><03:03:01.280><c> to</c>
+
+03:03:01.930 --> 03:03:01.940 align:start position:0%
+can use the structuring of arrays to
+ 
+
+03:03:01.940 --> 03:03:04.840 align:start position:0%
+can use the structuring of arrays to
+switch<03:03:02.420><c> the</c><03:03:02.660><c> places</c><03:03:03.230><c> of</c><03:03:03.440><c> variables</c><03:03:04.190><c> let</c><03:03:04.730><c> me</c>
+
+03:03:04.840 --> 03:03:04.850 align:start position:0%
+switch the places of variables let me
+ 
+
+03:03:04.850 --> 03:03:09.280 align:start position:0%
+switch the places of variables let me
+uncomment<03:03:05.090><c> out</c><03:03:05.780><c> these</c><03:03:06.370><c> and</c><03:03:07.990><c> what</c><03:03:08.990><c> I'm</c><03:03:09.110><c> going</c>
+
+03:03:09.280 --> 03:03:09.290 align:start position:0%
+uncomment out these and what I'm going
+ 
+
+03:03:09.290 --> 03:03:13.060 align:start position:0%
+uncomment out these and what I'm going
+to<03:03:09.320><c> do</c><03:03:09.620><c> is</c><03:03:10.210><c> use</c><03:03:11.210><c> the</c><03:03:11.811><c> structuring</c><03:03:12.410><c> to</c><03:03:12.680><c> switch</c>
+
+03:03:13.060 --> 03:03:13.070 align:start position:0%
+to do is use the structuring to switch
+ 
+
+03:03:13.070 --> 03:03:16.301 align:start position:0%
+to do is use the structuring to switch
+the<03:03:13.311><c> places</c><03:03:13.940><c> of</c><03:03:14.180><c> a</c><03:03:14.420><c> and</c><03:03:14.720><c> B</c><03:03:14.960><c> so</c><03:03:15.740><c> it'll</c><03:03:16.010><c> be</c><03:03:16.130><c> like</c>
+
+03:03:16.301 --> 03:03:16.311 align:start position:0%
+the places of a and B so it'll be like
+ 
+
+03:03:16.311 --> 03:03:22.750 align:start position:0%
+the places of a and B so it'll be like
+this<03:03:16.521><c> I'll</c><03:03:16.970><c> say</c><03:03:17.570><c> a</c><03:03:18.070><c> B</c><03:03:19.070><c> and</c><03:03:19.490><c> I'll</c><03:03:20.120><c> say</c><03:03:20.390><c> equals</c><03:03:21.760><c> B</c>
+
+03:03:22.750 --> 03:03:22.760 align:start position:0%
+this I'll say a B and I'll say equals B
+ 
+
+03:03:22.760 --> 03:03:27.040 align:start position:0%
+this I'll say a B and I'll say equals B
+a<03:03:24.100><c> so</c><03:03:25.100><c> now</c><03:03:25.820><c> it's</c><03:03:26.120><c> just</c><03:03:26.300><c> taking</c><03:03:26.840><c> this</c><03:03:26.990><c> and</c>
+
+03:03:27.040 --> 03:03:27.050 align:start position:0%
+a so now it's just taking this and
+ 
+
+03:03:27.050 --> 03:03:30.640 align:start position:0%
+a so now it's just taking this and
+switching<03:03:27.950><c> the</c><03:03:28.370><c> places</c><03:03:29.030><c> so</c><03:03:29.540><c> instead</c><03:03:29.990><c> a</c><03:03:30.200><c> being</c>
+
+03:03:30.640 --> 03:03:30.650 align:start position:0%
+switching the places so instead a being
+ 
+
+03:03:30.650 --> 03:03:32.290 align:start position:0%
+switching the places so instead a being
+8<03:03:30.920><c> and</c><03:03:31.280><c> B</c><03:03:31.430><c> equals</c><03:03:31.760><c> 6</c>
+
+03:03:32.290 --> 03:03:32.300 align:start position:0%
+8 and B equals 6
+ 
+
+03:03:32.300 --> 03:03:37.180 align:start position:0%
+8 and B equals 6
+it's<03:03:33.021><c> now</c><03:03:33.290><c> gonna</c><03:03:33.561><c> log</c><03:03:33.890><c> out</c><03:03:34.190><c> 6</c><03:03:35.061><c> and</c><03:03:35.450><c> 8</c><03:03:36.350><c> so</c><03:03:37.160><c> let's</c>
+
+03:03:37.180 --> 03:03:37.190 align:start position:0%
+it's now gonna log out 6 and 8 so let's
+ 
+
+03:03:37.190 --> 03:03:43.480 align:start position:0%
+it's now gonna log out 6 and 8 so let's
+see<03:03:37.870><c> yep</c><03:03:38.900><c> it</c><03:03:39.440><c> worked</c>
+
+03:03:43.480 --> 03:03:43.490 align:start position:0%
+ 
+ 
+
+03:03:43.490 --> 03:03:45.460 align:start position:0%
+ 
+we<03:03:43.850><c> can</c><03:03:44.030><c> use</c><03:03:44.210><c> this</c><03:03:44.420><c> structuring</c><03:03:44.960><c> assignment</c>
+
+03:03:45.460 --> 03:03:45.470 align:start position:0%
+we can use this structuring assignment
+ 
+
+03:03:45.470 --> 03:03:48.100 align:start position:0%
+we can use this structuring assignment
+with<03:03:45.590><c> the</c><03:03:45.620><c> rest</c><03:03:46.010><c> operator</c><03:03:46.550><c> to</c><03:03:46.790><c> reassign</c><03:03:47.630><c> array</c>
+
+03:03:48.100 --> 03:03:48.110 align:start position:0%
+with the rest operator to reassign array
+ 
+
+03:03:48.110 --> 03:03:50.650 align:start position:0%
+with the rest operator to reassign array
+elements<03:03:48.770><c> we</c><03:03:49.400><c> can</c><03:03:49.550><c> see</c><03:03:49.729><c> in</c><03:03:49.820><c> this</c><03:03:49.970><c> example</c><03:03:50.330><c> we</c>
+
+03:03:50.650 --> 03:03:50.660 align:start position:0%
+elements we can see in this example we
+ 
+
+03:03:50.660 --> 03:03:52.990 align:start position:0%
+elements we can see in this example we
+have<03:03:50.690><c> this</c><03:03:50.930><c> array</c><03:03:51.320><c> that</c><03:03:51.860><c> digits</c><03:03:52.250><c> 1</c><03:03:52.520><c> through</c><03:03:52.729><c> 10</c>
+
+03:03:52.990 --> 03:03:53.000 align:start position:0%
+have this array that digits 1 through 10
+ 
+
+03:03:53.000 --> 03:03:55.600 align:start position:0%
+have this array that digits 1 through 10
+and<03:03:53.330><c> the</c><03:03:53.450><c> array</c><03:03:53.720><c> and</c><03:03:54.020><c> we</c><03:03:54.080><c> have</c><03:03:54.950><c> this</c><03:03:55.130><c> remove</c>
+
+03:03:55.600 --> 03:03:55.610 align:start position:0%
+and the array and we have this remove
+ 
+
+03:03:55.610 --> 03:03:58.630 align:start position:0%
+and the array and we have this remove
+first<03:03:55.970><c> to</c><03:03:56.360><c> function</c><03:03:57.110><c> we're</c><03:03:57.680><c> calling</c><03:03:58.070><c> it</c><03:03:58.190><c> here</c>
+
+03:03:58.630 --> 03:03:58.640 align:start position:0%
+first to function we're calling it here
+ 
+
+03:03:58.640 --> 03:04:00.460 align:start position:0%
+first to function we're calling it here
+and<03:03:58.760><c> we're</c><03:03:59.090><c> passing</c><03:03:59.540><c> in</c><03:03:59.630><c> the</c><03:03:59.750><c> source</c><03:04:00.050><c> that's</c>
+
+03:04:00.460 --> 03:04:00.470 align:start position:0%
+and we're passing in the source that's
+ 
+
+03:04:00.470 --> 03:04:04.210 align:start position:0%
+and we're passing in the source that's
+the<03:04:00.710><c> source</c><03:04:01.100><c> array</c><03:04:01.430><c> and</c><03:04:01.700><c> becomes</c><03:04:02.600><c> the</c><03:04:02.930><c> list</c><03:04:03.290><c> so</c>
+
+03:04:04.210 --> 03:04:04.220 align:start position:0%
+the source array and becomes the list so
+ 
+
+03:04:04.220 --> 03:04:06.880 align:start position:0%
+the source array and becomes the list so
+we<03:04:04.790><c> want</c><03:04:05.030><c> to</c><03:04:05.180><c> return</c><03:04:05.900><c> the</c><03:04:06.170><c> array</c><03:04:06.410><c> with</c><03:04:06.710><c> the</c>
+
+03:04:06.880 --> 03:04:06.890 align:start position:0%
+we want to return the array with the
+ 
+
+03:04:06.890 --> 03:04:10.210 align:start position:0%
+we want to return the array with the
+first<03:04:07.220><c> two</c><03:04:07.550><c> elements</c><03:04:07.820><c> removed</c><03:04:08.510><c> so</c><03:04:09.350><c> let's</c><03:04:09.920><c> use</c>
+
+03:04:10.210 --> 03:04:10.220 align:start position:0%
+first two elements removed so let's use
+ 
+
+03:04:10.220 --> 03:04:12.390 align:start position:0%
+first two elements removed so let's use
+the<03:04:10.490><c> rest</c><03:04:10.760><c> operator</c><03:04:11.330><c> inside</c><03:04:11.840><c> an</c><03:04:11.990><c> array</c><03:04:12.110><c> here</c>
+
+03:04:12.390 --> 03:04:12.400 align:start position:0%
+the rest operator inside an array here
+ 
+
+03:04:12.400 --> 03:04:15.850 align:start position:0%
+the rest operator inside an array here
+so<03:04:13.400><c> we'll</c><03:04:14.120><c> use</c><03:04:14.540><c> the</c><03:04:14.780><c> rest</c><03:04:14.990><c> operator</c><03:04:15.440><c> the</c><03:04:15.590><c> three</c>
+
+03:04:15.850 --> 03:04:15.860 align:start position:0%
+so we'll use the rest operator the three
+ 
+
+03:04:15.860 --> 03:04:18.460 align:start position:0%
+so we'll use the rest operator the three
+little<03:04:16.040><c> dots</c><03:04:16.250><c> and</c><03:04:16.670><c> to</c><03:04:17.360><c> remove</c><03:04:17.630><c> the</c><03:04:17.810><c> first</c><03:04:18.050><c> two</c>
+
+03:04:18.460 --> 03:04:18.470 align:start position:0%
+little dots and to remove the first two
+ 
+
+03:04:18.470 --> 03:04:21.790 align:start position:0%
+little dots and to remove the first two
+I<03:04:18.800><c> just</c><03:04:19.340><c> have</c><03:04:19.490><c> to</c><03:04:19.580><c> put</c><03:04:19.760><c> two</c><03:04:20.090><c> commas</c><03:04:20.930><c> here</c><03:04:21.290><c> with</c>
+
+03:04:21.790 --> 03:04:21.800 align:start position:0%
+I just have to put two commas here with
+ 
+
+03:04:21.800 --> 03:04:25.000 align:start position:0%
+I just have to put two commas here with
+nothing<03:04:22.310><c> in</c><03:04:22.550><c> between</c><03:04:22.610><c> them</c><03:04:23.300><c> so</c><03:04:24.140><c> it's</c><03:04:24.650><c> saying</c>
+
+03:04:25.000 --> 03:04:25.010 align:start position:0%
+nothing in between them so it's saying
+ 
+
+03:04:25.010 --> 03:04:27.160 align:start position:0%
+nothing in between them so it's saying
+do<03:04:25.220><c> nothing</c><03:04:25.640><c> for</c><03:04:25.820><c> the</c><03:04:25.910><c> first</c><03:04:26.180><c> element</c><03:04:26.420><c> do</c>
+
+03:04:27.160 --> 03:04:27.170 align:start position:0%
+do nothing for the first element do
+ 
+
+03:04:27.170 --> 03:04:28.440 align:start position:0%
+do nothing for the first element do
+nothing<03:04:27.560><c> for</c><03:04:27.710><c> the</c><03:04:27.770><c> second</c><03:04:28.190><c> element</c>
+
+03:04:28.440 --> 03:04:28.450 align:start position:0%
+nothing for the second element
+ 
+
+03:04:28.450 --> 03:04:31.140 align:start position:0%
+nothing for the second element
+everything<03:04:29.450><c> else</c><03:04:29.690><c> put</c><03:04:30.350><c> into</c><03:04:30.740><c> the</c><03:04:30.890><c> our</c>
+
+03:04:31.140 --> 03:04:31.150 align:start position:0%
+everything else put into the our
+ 
+
+03:04:31.150 --> 03:04:35.080 align:start position:0%
+everything else put into the our
+variable<03:04:32.150><c> we</c><03:04:33.050><c> could</c><03:04:33.500><c> have</c><03:04:33.890><c> assign</c><03:04:34.760><c> the</c><03:04:35.060><c> first</c>
+
+03:04:35.080 --> 03:04:35.090 align:start position:0%
+variable we could have assign the first
+ 
+
+03:04:35.090 --> 03:04:37.030 align:start position:0%
+variable we could have assign the first
+two<03:04:35.570><c> numbers</c><03:04:35.780><c> in</c><03:04:36.170><c> the</c><03:04:36.200><c> array</c><03:04:36.500><c> to</c><03:04:36.560><c> two</c><03:04:36.830><c> other</c>
+
+03:04:37.030 --> 03:04:37.040 align:start position:0%
+two numbers in the array to two other
+ 
+
+03:04:37.040 --> 03:04:41.410 align:start position:0%
+two numbers in the array to two other
+variables<03:04:37.550><c> so</c><03:04:37.640><c> I</c><03:04:37.700><c> could</c><03:04:37.940><c> do</c><03:04:38.330><c> a</c><03:04:39.160><c> B</c><03:04:40.160><c> and</c><03:04:40.490><c> then</c><03:04:41.120><c> a</c>
+
+03:04:41.410 --> 03:04:41.420 align:start position:0%
+variables so I could do a B and then a
+ 
+
+03:04:41.420 --> 03:04:45.130 align:start position:0%
+variables so I could do a B and then a
+would<03:04:41.990><c> be</c><03:04:42.020><c> one</c><03:04:42.410><c> B</c><03:04:43.040><c> would</c><03:04:43.280><c> be</c><03:04:43.310><c> two</c><03:04:43.910><c> and</c><03:04:44.210><c> then</c><03:04:44.900><c> R</c>
+
+03:04:45.130 --> 03:04:45.140 align:start position:0%
+would be one B would be two and then R
+ 
+
+03:04:45.140 --> 03:04:47.050 align:start position:0%
+would be one B would be two and then R
+would<03:04:45.710><c> be</c><03:04:45.770><c> an</c><03:04:45.950><c> array</c><03:04:46.220><c> of</c><03:04:46.250><c> three</c><03:04:46.640><c> four</c><03:04:46.850><c> five</c><03:04:46.910><c> six</c>
+
+03:04:47.050 --> 03:04:47.060 align:start position:0%
+would be an array of three four five six
+ 
+
+03:04:47.060 --> 03:04:49.540 align:start position:0%
+would be an array of three four five six
+seven<03:04:47.180><c> eight</c><03:04:47.330><c> nine</c><03:04:47.390><c> ten</c><03:04:47.720><c> but</c><03:04:48.440><c> right</c><03:04:48.860><c> now</c><03:04:49.100><c> we</c>
+
+03:04:49.540 --> 03:04:49.550 align:start position:0%
+seven eight nine ten but right now we
+ 
+
+03:04:49.550 --> 03:04:51.969 align:start position:0%
+seven eight nine ten but right now we
+just<03:04:49.580><c> need</c><03:04:49.970><c> to</c><03:04:50.270><c> return</c><03:04:50.450><c> the</c><03:04:51.020><c> array</c><03:04:51.290><c> with</c><03:04:51.800><c> the</c>
+
+03:04:51.969 --> 03:04:51.979 align:start position:0%
+just need to return the array with the
+ 
+
+03:04:51.979 --> 03:04:55.390 align:start position:0%
+just need to return the array with the
+first<03:04:52.310><c> two</c><03:04:52.550><c> elements</c><03:04:52.790><c> missing</c><03:04:53.630><c> so</c><03:04:54.260><c> if</c><03:04:54.500><c> I</c><03:04:55.010><c> run</c>
+
+03:04:55.390 --> 03:04:55.400 align:start position:0%
+first two elements missing so if I run
+ 
+
+03:04:55.400 --> 03:04:57.580 align:start position:0%
+first two elements missing so if I run
+that<03:04:55.610><c> you'll</c><03:04:55.880><c> see</c><03:04:56.210><c> that</c><03:04:56.690><c> we</c><03:04:56.870><c> did</c><03:04:57.080><c> that</c><03:04:57.260><c> if</c><03:04:57.410><c> you</c>
+
+03:04:57.580 --> 03:04:57.590 align:start position:0%
+that you'll see that we did that if you
+ 
+
+03:04:57.590 --> 03:05:00.130 align:start position:0%
+that you'll see that we did that if you
+look<03:04:57.770><c> in</c><03:04:57.860><c> the</c><03:04:57.950><c> console</c><03:04:58.540><c> we've</c><03:04:59.540><c> logged</c><03:04:59.900><c> the</c>
+
+03:05:00.130 --> 03:05:00.140 align:start position:0%
+look in the console we've logged the
+ 
+
+03:05:00.140 --> 03:05:01.840 align:start position:0%
+look in the console we've logged the
+array<03:05:00.380><c> and</c><03:05:00.590><c> the</c><03:05:00.680><c> first</c><03:05:01.010><c> two</c><03:05:01.250><c> elements</c><03:05:01.430><c> are</c>
+
+03:05:01.840 --> 03:05:01.850 align:start position:0%
+array and the first two elements are
+ 
+
+03:05:01.850 --> 03:05:03.280 align:start position:0%
+array and the first two elements are
+missing<03:05:02.300><c> and</c><03:05:02.510><c> then</c><03:05:02.720><c> we</c><03:05:02.810><c> have</c><03:05:02.960><c> the</c><03:05:03.200><c> original</c>
+
+03:05:03.280 --> 03:05:03.290 align:start position:0%
+missing and then we have the original
+ 
+
+03:05:03.290 --> 03:05:08.160 align:start position:0%
+missing and then we have the original
+array<03:05:04.190><c> down</c><03:05:04.430><c> here</c>
+
+03:05:08.160 --> 03:05:08.170 align:start position:0%
+ 
+ 
+
+03:05:08.170 --> 03:05:10.679 align:start position:0%
+ 
+you<03:05:08.950><c> can</c><03:05:09.130><c> use</c><03:05:09.310><c> the</c><03:05:09.550><c> structuring</c><03:05:10.060><c> assignment</c>
+
+03:05:10.679 --> 03:05:10.689 align:start position:0%
+you can use the structuring assignment
+ 
+
+03:05:10.689 --> 03:05:12.870 align:start position:0%
+you can use the structuring assignment
+to<03:05:10.930><c> pass</c><03:05:11.170><c> an</c><03:05:11.380><c> object</c><03:05:11.620><c> as</c><03:05:12.070><c> a</c><03:05:12.340><c> functions</c>
+
+03:05:12.870 --> 03:05:12.880 align:start position:0%
+to pass an object as a functions
+ 
+
+03:05:12.880 --> 03:05:15.480 align:start position:0%
+to pass an object as a functions
+parameter<03:05:13.720><c> let</c><03:05:14.410><c> me</c><03:05:14.530><c> show</c><03:05:14.740><c> you</c><03:05:14.800><c> what</c><03:05:15.160><c> I</c><03:05:15.189><c> mean</c>
+
+03:05:15.480 --> 03:05:15.490 align:start position:0%
+parameter let me show you what I mean
+ 
+
+03:05:15.490 --> 03:05:18.179 align:start position:0%
+parameter let me show you what I mean
+right<03:05:16.150><c> now</c><03:05:16.360><c> we</c><03:05:16.420><c> have</c><03:05:16.780><c> this</c><03:05:16.960><c> half</c><03:05:17.290><c> function</c><03:05:17.950><c> and</c>
+
+03:05:18.179 --> 03:05:18.189 align:start position:0%
+right now we have this half function and
+ 
+
+03:05:18.189 --> 03:05:21.780 align:start position:0%
+right now we have this half function and
+it's<03:05:18.700><c> getting</c><03:05:19.090><c> the</c><03:05:19.240><c> stats</c><03:05:19.630><c> argument</c><03:05:20.590><c> so</c><03:05:21.310><c> the</c>
+
+03:05:21.780 --> 03:05:21.790 align:start position:0%
+it's getting the stats argument so the
+ 
+
+03:05:21.790 --> 03:05:23.580 align:start position:0%
+it's getting the stats argument so the
+stats<03:05:22.150><c> is</c><03:05:22.390><c> being</c><03:05:22.630><c> passed</c><03:05:22.900><c> when</c><03:05:23.170><c> it's</c><03:05:23.320><c> called</c>
+
+03:05:23.580 --> 03:05:23.590 align:start position:0%
+stats is being passed when it's called
+ 
+
+03:05:23.590 --> 03:05:26.820 align:start position:0%
+stats is being passed when it's called
+down<03:05:23.860><c> here</c><03:05:24.400><c> and</c><03:05:24.580><c> it's</c><03:05:25.090><c> passing</c><03:05:25.660><c> in</c><03:05:25.810><c> this</c><03:05:26.350><c> whole</c>
+
+03:05:26.820 --> 03:05:26.830 align:start position:0%
+down here and it's passing in this whole
+ 
+
+03:05:26.830 --> 03:05:29.730 align:start position:0%
+down here and it's passing in this whole
+object<03:05:27.670><c> so</c><03:05:27.790><c> this</c><03:05:27.910><c> whole</c><03:05:28.150><c> stats</c><03:05:28.510><c> object</c><03:05:29.140><c> but</c>
+
+03:05:29.730 --> 03:05:29.740 align:start position:0%
+object so this whole stats object but
+ 
+
+03:05:29.740 --> 03:05:31.320 align:start position:0%
+object so this whole stats object but
+you<03:05:29.830><c> can</c><03:05:29.979><c> see</c><03:05:30.160><c> within</c><03:05:30.340><c> this</c><03:05:30.550><c> function</c><03:05:31.120><c> we're</c>
+
+03:05:31.320 --> 03:05:31.330 align:start position:0%
+you can see within this function we're
+ 
+
+03:05:31.330 --> 03:05:34.230 align:start position:0%
+you can see within this function we're
+only<03:05:31.540><c> using</c><03:05:31.900><c> stats</c><03:05:32.439><c> that</c><03:05:32.710><c> Max</c><03:05:33.160><c> and</c><03:05:33.520><c> stats</c><03:05:33.910><c> top</c>
+
+03:05:34.230 --> 03:05:34.240 align:start position:0%
+only using stats that Max and stats top
+ 
+
+03:05:34.240 --> 03:05:37.500 align:start position:0%
+only using stats that Max and stats top
+men<03:05:34.600><c> so</c><03:05:35.380><c> instead</c><03:05:35.920><c> of</c><03:05:35.979><c> passing</c><03:05:36.430><c> the</c><03:05:37.030><c> entire</c>
+
+03:05:37.500 --> 03:05:37.510 align:start position:0%
+men so instead of passing the entire
+ 
+
+03:05:37.510 --> 03:05:40.920 align:start position:0%
+men so instead of passing the entire
+stats<03:05:38.140><c> into</c><03:05:38.620><c> this</c><03:05:39.340><c> function</c><03:05:39.910><c> we</c><03:05:40.390><c> can</c><03:05:40.570><c> just</c>
+
+03:05:40.920 --> 03:05:40.930 align:start position:0%
+stats into this function we can just
+ 
+
+03:05:40.930 --> 03:05:43.560 align:start position:0%
+stats into this function we can just
+pass<03:05:41.290><c> in</c><03:05:41.590><c> what</c><03:05:41.800><c> we</c><03:05:41.950><c> need</c><03:05:42.250><c> so</c><03:05:42.970><c> this</c><03:05:43.240><c> is</c><03:05:43.420><c> what</c>
+
+03:05:43.560 --> 03:05:43.570 align:start position:0%
+pass in what we need so this is what
+ 
+
+03:05:43.570 --> 03:05:46.170 align:start position:0%
+pass in what we need so this is what
+we're<03:05:43.689><c> gonna</c><03:05:43.780><c> do</c><03:05:44.050><c> I'm</c><03:05:44.380><c> going</c><03:05:44.979><c> to</c><03:05:45.189><c> put</c><03:05:45.610><c> in</c><03:05:45.790><c> some</c>
+
+03:05:46.170 --> 03:05:46.180 align:start position:0%
+we're gonna do I'm going to put in some
+ 
+
+03:05:46.180 --> 03:05:50.630 align:start position:0%
+we're gonna do I'm going to put in some
+curly<03:05:46.720><c> braces</c><03:05:46.960><c> here</c><03:05:47.170><c> and</c><03:05:47.650><c> just</c><03:05:48.340><c> put</c><03:05:48.640><c> Max</c><03:05:49.270><c> and</c>
+
+03:05:50.630 --> 03:05:50.640 align:start position:0%
+curly braces here and just put Max and
+ 
+
+03:05:50.640 --> 03:05:56.460 align:start position:0%
+curly braces here and just put Max and
+min<03:05:52.140><c> so</c><03:05:53.140><c> now</c><03:05:53.500><c> when</c><03:05:54.220><c> stats</c><03:05:54.790><c> get</c><03:05:55.090><c> passed</c><03:05:55.510><c> in</c><03:05:55.900><c> it's</c>
+
+03:05:56.460 --> 03:05:56.470 align:start position:0%
+min so now when stats get passed in it's
+ 
+
+03:05:56.470 --> 03:06:00.770 align:start position:0%
+min so now when stats get passed in it's
+D<03:05:56.860><c> structured</c><03:05:57.610><c> into</c><03:05:58.540><c> just</c><03:05:59.260><c> the</c><03:05:59.439><c> max</c><03:05:59.770><c> and</c><03:06:00.010><c> min</c>
+
+03:06:00.770 --> 03:06:00.780 align:start position:0%
+D structured into just the max and min
+ 
+
+03:06:00.780 --> 03:06:03.420 align:start position:0%
+D structured into just the max and min
+variables<03:06:01.780><c> and</c><03:06:02.050><c> the</c><03:06:02.229><c> max</c><03:06:02.500><c> and</c><03:06:02.710><c> min</c><03:06:02.800><c> from</c><03:06:03.310><c> the</c>
+
+03:06:03.420 --> 03:06:03.430 align:start position:0%
+variables and the max and min from the
+ 
+
+03:06:03.430 --> 03:06:05.790 align:start position:0%
+variables and the max and min from the
+function<03:06:03.850><c> gets</c><03:06:04.030><c> passed</c><03:06:04.360><c> in</c><03:06:04.660><c> so</c><03:06:05.260><c> now</c><03:06:05.530><c> instead</c>
+
+03:06:05.790 --> 03:06:05.800 align:start position:0%
+function gets passed in so now instead
+ 
+
+03:06:05.800 --> 03:06:08.840 align:start position:0%
+function gets passed in so now instead
+of<03:06:06.040><c> doing</c><03:06:06.160><c> stats</c><03:06:06.610><c> that</c><03:06:06.910><c> max</c><03:06:07.270><c> we</c><03:06:08.020><c> can</c><03:06:08.229><c> just</c><03:06:08.410><c> do</c>
+
+03:06:08.840 --> 03:06:08.850 align:start position:0%
+of doing stats that max we can just do
+ 
+
+03:06:08.850 --> 03:06:13.170 align:start position:0%
+of doing stats that max we can just do
+max<03:06:09.850><c> and</c><03:06:10.240><c> sort</c><03:06:10.870><c> of</c><03:06:10.930><c> stats</c><03:06:11.320><c> that</c><03:06:11.590><c> men</c><03:06:11.979><c> we</c><03:06:12.640><c> can</c><03:06:12.910><c> do</c>
+
+03:06:13.170 --> 03:06:13.180 align:start position:0%
+max and sort of stats that men we can do
+ 
+
+03:06:13.180 --> 03:06:17.100 align:start position:0%
+max and sort of stats that men we can do
+men<03:06:13.990><c> so</c><03:06:14.770><c> if</c><03:06:15.040><c> we</c><03:06:15.370><c> reload</c><03:06:15.880><c> that</c><03:06:15.910><c> it's</c><03:06:16.630><c> gonna</c><03:06:16.810><c> work</c>
+
+03:06:17.100 --> 03:06:17.110 align:start position:0%
+men so if we reload that it's gonna work
+ 
+
+03:06:17.110 --> 03:06:19.740 align:start position:0%
+men so if we reload that it's gonna work
+exactly<03:06:17.290><c> like</c><03:06:17.710><c> it</c><03:06:18.040><c> did</c><03:06:18.250><c> before</c><03:06:18.460><c> but</c><03:06:19.420><c> now</c><03:06:19.479><c> we</c>
+
+03:06:19.740 --> 03:06:19.750 align:start position:0%
+exactly like it did before but now we
+ 
+
+03:06:19.750 --> 03:06:22.469 align:start position:0%
+exactly like it did before but now we
+only<03:06:20.229><c> pass</c><03:06:20.590><c> in</c><03:06:20.830><c> what</c><03:06:20.979><c> we</c><03:06:21.100><c> need</c><03:06:21.400><c> this</c><03:06:22.270><c> is</c>
+
+03:06:22.469 --> 03:06:22.479 align:start position:0%
+only pass in what we need this is
+ 
+
+03:06:22.479 --> 03:06:26.010 align:start position:0%
+only pass in what we need this is
+commonly<03:06:22.990><c> used</c><03:06:23.140><c> with</c><03:06:23.860><c> API</c><03:06:24.400><c> calls</c><03:06:24.850><c> when</c><03:06:25.750><c> you</c>
+
+03:06:26.010 --> 03:06:26.020 align:start position:0%
+commonly used with API calls when you
+ 
+
+03:06:26.020 --> 03:06:27.990 align:start position:0%
+commonly used with API calls when you
+are<03:06:26.229><c> getting</c><03:06:26.410><c> information</c><03:06:26.800><c> from</c><03:06:27.160><c> an</c><03:06:27.520><c> ajax</c>
+
+03:06:27.990 --> 03:06:28.000 align:start position:0%
+are getting information from an ajax
+ 
+
+03:06:28.000 --> 03:06:30.540 align:start position:0%
+are getting information from an ajax
+request<03:06:28.420><c> or</c><03:06:28.630><c> an</c><03:06:28.689><c> api</c><03:06:29.020><c> request</c><03:06:29.650><c> it</c><03:06:30.189><c> will</c><03:06:30.370><c> often</c>
+
+03:06:30.540 --> 03:06:30.550 align:start position:0%
+request or an api request it will often
+ 
+
+03:06:30.550 --> 03:06:32.130 align:start position:0%
+request or an api request it will often
+have<03:06:30.850><c> a</c><03:06:30.880><c> lot</c><03:06:31.090><c> more</c><03:06:31.300><c> information</c><03:06:31.540><c> that</c><03:06:31.990><c> what</c>
+
+03:06:32.130 --> 03:06:32.140 align:start position:0%
+have a lot more information that what
+ 
+
+03:06:32.140 --> 03:06:35.010 align:start position:0%
+have a lot more information that what
+you<03:06:32.290><c> need</c><03:06:32.590><c> and</c><03:06:32.860><c> you</c><03:06:32.950><c> can</c><03:06:33.430><c> use</c><03:06:34.090><c> destructuring</c>
+
+03:06:35.010 --> 03:06:35.020 align:start position:0%
+you need and you can use destructuring
+ 
+
+03:06:35.020 --> 03:06:37.380 align:start position:0%
+you need and you can use destructuring
+to<03:06:35.470><c> get</c><03:06:35.830><c> it</c><03:06:35.920><c> down</c><03:06:36.100><c> to</c><03:06:36.130><c> what</c><03:06:36.520><c> we</c><03:06:36.670><c> actually</c><03:06:37.180><c> want</c>
+
+03:06:37.380 --> 03:06:37.390 align:start position:0%
+to get it down to what we actually want
+ 
+
+03:06:37.390 --> 03:06:41.550 align:start position:0%
+to get it down to what we actually want
+to<03:06:37.450><c> work</c><03:06:37.630><c> with</c>
+
+03:06:41.550 --> 03:06:41.560 align:start position:0%
+ 
+ 
+
+03:06:41.560 --> 03:06:44.260 align:start position:0%
+ 
+template<03:06:42.560><c> literals</c><03:06:42.949><c> are</c><03:06:43.189><c> a</c><03:06:43.250><c> special</c><03:06:44.000><c> type</c><03:06:44.239><c> of</c>
+
+03:06:44.260 --> 03:06:44.270 align:start position:0%
+template literals are a special type of
+ 
+
+03:06:44.270 --> 03:06:46.630 align:start position:0%
+template literals are a special type of
+string<03:06:44.840><c> that</c><03:06:45.170><c> makes</c><03:06:45.470><c> creating</c><03:06:45.890><c> complex</c>
+
+03:06:46.630 --> 03:06:46.640 align:start position:0%
+string that makes creating complex
+ 
+
+03:06:46.640 --> 03:06:49.660 align:start position:0%
+string that makes creating complex
+strings<03:06:47.390><c> easier</c><03:06:48.109><c> you</c><03:06:48.830><c> make</c><03:06:49.069><c> them</c><03:06:49.250><c> with</c><03:06:49.460><c> this</c>
+
+03:06:49.660 --> 03:06:49.670 align:start position:0%
+strings easier you make them with this
+ 
+
+03:06:49.670 --> 03:06:52.450 align:start position:0%
+strings easier you make them with this
+backtick<03:06:50.359><c> so</c><03:06:50.899><c> here's</c><03:06:51.380><c> an</c><03:06:51.500><c> example</c><03:06:51.859><c> of</c><03:06:52.279><c> a</c>
+
+03:06:52.450 --> 03:06:52.460 align:start position:0%
+backtick so here's an example of a
+ 
+
+03:06:52.460 --> 03:06:55.090 align:start position:0%
+backtick so here's an example of a
+template<03:06:52.970><c> literal</c><03:06:53.540><c> right</c><03:06:53.750><c> here</c><03:06:54.109><c> we</c><03:06:54.620><c> have</c><03:06:54.920><c> the</c>
+
+03:06:55.090 --> 03:06:55.100 align:start position:0%
+template literal right here we have the
+ 
+
+03:06:55.100 --> 03:06:57.370 align:start position:0%
+template literal right here we have the
+beginning<03:06:55.279><c> back</c><03:06:55.819><c> tick</c><03:06:56.149><c> and</c><03:06:56.420><c> we</c><03:06:56.960><c> have</c><03:06:57.170><c> the</c>
+
+03:06:57.370 --> 03:06:57.380 align:start position:0%
+beginning back tick and we have the
+ 
+
+03:06:57.380 --> 03:07:00.519 align:start position:0%
+beginning back tick and we have the
+ending<03:06:57.890><c> back</c><03:06:58.159><c> tick</c><03:06:58.520><c> this</c><03:06:59.270><c> would</c><03:06:59.540><c> be</c><03:06:59.720><c> in</c><03:06:59.840><c> place</c>
+
+03:07:00.519 --> 03:07:00.529 align:start position:0%
+ending back tick this would be in place
+ 
+
+03:07:00.529 --> 03:07:03.010 align:start position:0%
+ending back tick this would be in place
+of<03:07:00.800><c> using</c><03:07:01.340><c> a</c><03:07:01.460><c> quotation</c><03:07:02.000><c> a</c><03:07:02.330><c> single</c><03:07:02.750><c> or</c><03:07:02.840><c> double</c>
+
+03:07:03.010 --> 03:07:03.020 align:start position:0%
+of using a quotation a single or double
+ 
+
+03:07:03.020 --> 03:07:06.189 align:start position:0%
+of using a quotation a single or double
+quotation<03:07:03.739><c> mark</c><03:07:04.010><c> a</c><03:07:04.279><c> few</c><03:07:04.970><c> advantages</c><03:07:05.120><c> of</c><03:07:05.779><c> using</c>
+
+03:07:06.189 --> 03:07:06.199 align:start position:0%
+quotation mark a few advantages of using
+ 
+
+03:07:06.199 --> 03:07:08.590 align:start position:0%
+quotation mark a few advantages of using
+these<03:07:06.500><c> template</c><03:07:07.100><c> literals</c><03:07:07.609><c> these</c><03:07:07.909><c> back</c><03:07:08.239><c> ticks</c>
+
+03:07:08.590 --> 03:07:08.600 align:start position:0%
+these template literals these back ticks
+ 
+
+03:07:08.600 --> 03:07:11.979 align:start position:0%
+these template literals these back ticks
+instead<03:07:09.109><c> of</c><03:07:09.229><c> quotation</c><03:07:09.890><c> marks</c><03:07:10.250><c> are</c><03:07:10.720><c> one</c><03:07:11.720><c> you</c>
+
+03:07:11.979 --> 03:07:11.989 align:start position:0%
+instead of quotation marks are one you
+ 
+
+03:07:11.989 --> 03:07:14.530 align:start position:0%
+instead of quotation marks are one you
+can<03:07:12.170><c> make</c><03:07:12.290><c> multi-line</c><03:07:13.010><c> strings</c><03:07:13.550><c> you</c><03:07:14.149><c> can</c><03:07:14.180><c> see</c>
+
+03:07:14.530 --> 03:07:14.540 align:start position:0%
+can make multi-line strings you can see
+ 
+
+03:07:14.540 --> 03:07:16.450 align:start position:0%
+can make multi-line strings you can see
+this<03:07:14.689><c> has</c><03:07:14.899><c> two</c><03:07:15.140><c> lines</c><03:07:15.350><c> here's</c><03:07:15.739><c> the</c><03:07:15.920><c> first</c><03:07:16.189><c> line</c>
+
+03:07:16.450 --> 03:07:16.460 align:start position:0%
+this has two lines here's the first line
+ 
+
+03:07:16.460 --> 03:07:19.899 align:start position:0%
+this has two lines here's the first line
+and<03:07:16.790><c> here's</c><03:07:17.510><c> the</c><03:07:17.750><c> second</c><03:07:18.199><c> line</c><03:07:18.380><c> and</c><03:07:18.770><c> if</c><03:07:19.370><c> we</c><03:07:19.550><c> log</c>
+
+03:07:19.899 --> 03:07:19.909 align:start position:0%
+and here's the second line and if we log
+ 
+
+03:07:19.909 --> 03:07:22.300 align:start position:0%
+and here's the second line and if we log
+the<03:07:20.300><c> greeting</c><03:07:20.989><c> is</c><03:07:21.109><c> gonna</c><03:07:21.319><c> put</c><03:07:21.710><c> the</c><03:07:21.859><c> new</c><03:07:22.069><c> line</c>
+
+03:07:22.300 --> 03:07:22.310 align:start position:0%
+the greeting is gonna put the new line
+ 
+
+03:07:22.310 --> 03:07:25.120 align:start position:0%
+the greeting is gonna put the new line
+right<03:07:22.640><c> in</c><03:07:22.670><c> there</c><03:07:23.000><c> another</c><03:07:23.840><c> thing</c><03:07:23.930><c> is</c><03:07:24.409><c> you</c><03:07:24.859><c> can</c>
+
+03:07:25.120 --> 03:07:25.130 align:start position:0%
+right in there another thing is you can
+ 
+
+03:07:25.130 --> 03:07:27.639 align:start position:0%
+right in there another thing is you can
+add<03:07:25.370><c> quote</c><03:07:26.090><c> single</c><03:07:26.569><c> or</c><03:07:26.750><c> double</c><03:07:26.899><c> quotation</c>
+
+03:07:27.639 --> 03:07:27.649 align:start position:0%
+add quote single or double quotation
+ 
+
+03:07:27.649 --> 03:07:30.639 align:start position:0%
+add quote single or double quotation
+marks<03:07:27.680><c> right</c><03:07:28.340><c> in</c><03:07:28.609><c> the</c><03:07:29.479><c> string</c><03:07:29.899><c> and</c><03:07:30.229><c> you</c><03:07:30.470><c> don't</c>
+
+03:07:30.639 --> 03:07:30.649 align:start position:0%
+marks right in the string and you don't
+ 
+
+03:07:30.649 --> 03:07:32.979 align:start position:0%
+marks right in the string and you don't
+have<03:07:30.800><c> to</c><03:07:30.979><c> escape</c><03:07:31.370><c> them</c><03:07:31.670><c> the</c><03:07:32.300><c> third</c><03:07:32.630><c> thing</c><03:07:32.930><c> is</c>
+
+03:07:32.979 --> 03:07:32.989 align:start position:0%
+have to escape them the third thing is
+ 
+
+03:07:32.989 --> 03:07:35.439 align:start position:0%
+have to escape them the third thing is
+you<03:07:33.229><c> can</c><03:07:33.590><c> put</c><03:07:33.620><c> variables</c><03:07:34.520><c> right</c><03:07:34.760><c> in</c><03:07:35.090><c> the</c>
+
+03:07:35.439 --> 03:07:35.449 align:start position:0%
+you can put variables right in the
+ 
+
+03:07:35.449 --> 03:07:38.050 align:start position:0%
+you can put variables right in the
+string<03:07:35.779><c> so</c><03:07:36.350><c> if</c><03:07:36.439><c> we</c><03:07:36.590><c> see</c><03:07:36.890><c> this</c><03:07:37.159><c> see</c><03:07:37.430><c> the</c><03:07:37.640><c> dollar</c>
+
+03:07:38.050 --> 03:07:38.060 align:start position:0%
+string so if we see this see the dollar
+ 
+
+03:07:38.060 --> 03:07:40.149 align:start position:0%
+string so if we see this see the dollar
+sign<03:07:38.420><c> and</c><03:07:38.750><c> then</c><03:07:39.109><c> we</c><03:07:39.140><c> have</c><03:07:39.290><c> these</c><03:07:39.409><c> curly</c><03:07:39.949><c> braces</c>
+
+03:07:40.149 --> 03:07:40.159 align:start position:0%
+sign and then we have these curly braces
+ 
+
+03:07:40.159 --> 03:07:44.320 align:start position:0%
+sign and then we have these curly braces
+and<03:07:40.760><c> so</c><03:07:41.569><c> anything</c><03:07:41.930><c> in</c><03:07:42.850><c> between</c><03:07:43.850><c> these</c><03:07:43.970><c> curly</c>
+
+03:07:44.320 --> 03:07:44.330 align:start position:0%
+and so anything in between these curly
+ 
+
+03:07:44.330 --> 03:07:45.729 align:start position:0%
+and so anything in between these curly
+braces<03:07:44.659><c> that</c><03:07:45.109><c> start</c><03:07:45.290><c> with</c><03:07:45.350><c> the</c><03:07:45.439><c> dollar</c><03:07:45.620><c> sign</c>
+
+03:07:45.729 --> 03:07:45.739 align:start position:0%
+braces that start with the dollar sign
+ 
+
+03:07:45.739 --> 03:07:49.510 align:start position:0%
+braces that start with the dollar sign
+is<03:07:46.870><c> JavaScript</c><03:07:47.870><c> so</c><03:07:48.649><c> right</c><03:07:48.920><c> now</c><03:07:49.069><c> we</c><03:07:49.130><c> just</c><03:07:49.370><c> have</c>
+
+03:07:49.510 --> 03:07:49.520 align:start position:0%
+is JavaScript so right now we just have
+ 
+
+03:07:49.520 --> 03:07:51.939 align:start position:0%
+is JavaScript so right now we just have
+this<03:07:49.609><c> variable</c><03:07:50.060><c> person</c><03:07:50.689><c> name</c><03:07:51.170><c> which</c><03:07:51.470><c> gets</c><03:07:51.739><c> the</c>
+
+03:07:51.939 --> 03:07:51.949 align:start position:0%
+this variable person name which gets the
+ 
+
+03:07:51.949 --> 03:07:53.830 align:start position:0%
+this variable person name which gets the
+name<03:07:52.100><c> from</c><03:07:52.340><c> up</c><03:07:52.489><c> here</c><03:07:52.790><c> and</c><03:07:52.939><c> then</c><03:07:53.390><c> here</c><03:07:53.630><c> we</c><03:07:53.810><c> have</c>
+
+03:07:53.830 --> 03:07:53.840 align:start position:0%
+name from up here and then here we have
+ 
+
+03:07:53.840 --> 03:07:55.870 align:start position:0%
+name from up here and then here we have
+person<03:07:54.350><c> that</c><03:07:54.470><c> age</c><03:07:54.680><c> which</c><03:07:55.010><c> gets</c><03:07:55.279><c> the</c><03:07:55.399><c> age</c><03:07:55.609><c> from</c>
+
+03:07:55.870 --> 03:07:55.880 align:start position:0%
+person that age which gets the age from
+ 
+
+03:07:55.880 --> 03:07:58.960 align:start position:0%
+person that age which gets the age from
+right<03:07:56.090><c> there</c><03:07:56.140><c> so</c><03:07:57.140><c> it</c><03:07:58.100><c> makes</c><03:07:58.340><c> things</c><03:07:58.460><c> easier</c>
+
+03:07:58.960 --> 03:07:58.970 align:start position:0%
+right there so it makes things easier
+ 
+
+03:07:58.970 --> 03:08:01.090 align:start position:0%
+right there so it makes things easier
+that<03:07:59.149><c> you</c><03:07:59.239><c> can</c><03:07:59.390><c> put</c><03:07:59.600><c> variables</c><03:08:00.199><c> right</c><03:08:00.500><c> in</c><03:08:00.739><c> the</c>
+
+03:08:01.090 --> 03:08:01.100 align:start position:0%
+that you can put variables right in the
+ 
+
+03:08:01.100 --> 03:08:03.729 align:start position:0%
+that you can put variables right in the
+strings<03:08:01.460><c> so</c><03:08:02.090><c> if</c><03:08:02.210><c> we</c><03:08:02.330><c> run</c><03:08:02.600><c> that</c><03:08:02.630><c> you'll</c><03:08:03.470><c> see</c>
+
+03:08:03.729 --> 03:08:03.739 align:start position:0%
+strings so if we run that you'll see
+ 
+
+03:08:03.739 --> 03:08:06.849 align:start position:0%
+strings so if we run that you'll see
+hello<03:08:04.220><c> my</c><03:08:04.520><c> name</c><03:08:04.699><c> is</c><03:08:04.729><c> zodiac</c><03:08:05.120><c> as</c><03:08:05.479><c> bro</c><03:08:05.779><c> I</c><03:08:05.989><c> am</c><03:08:06.260><c> 56</c>
+
+03:08:06.849 --> 03:08:06.859 align:start position:0%
+hello my name is zodiac as bro I am 56
+ 
+
+03:08:06.859 --> 03:08:10.660 align:start position:0%
+hello my name is zodiac as bro I am 56
+years<03:08:07.159><c> old</c><03:08:07.340><c> and</c><03:08:08.770><c> normally</c><03:08:09.770><c> it</c><03:08:10.040><c> would</c><03:08:10.310><c> actually</c>
+
+03:08:10.660 --> 03:08:10.670 align:start position:0%
+years old and normally it would actually
+ 
+
+03:08:10.670 --> 03:08:13.330 align:start position:0%
+years old and normally it would actually
+also<03:08:10.880><c> be</c><03:08:11.090><c> printed</c><03:08:11.479><c> with</c><03:08:11.779><c> a</c><03:08:11.810><c> newline</c><03:08:12.500><c> but</c><03:08:13.189><c> with</c>
+
+03:08:13.330 --> 03:08:13.340 align:start position:0%
+also be printed with a newline but with
+ 
+
+03:08:13.340 --> 03:08:15.969 align:start position:0%
+also be printed with a newline but with
+this<03:08:13.520><c> exact</c><03:08:13.880><c> code</c><03:08:14.270><c> editor</c><03:08:14.750><c> and</c><03:08:15.020><c> console</c><03:08:15.890><c> it</c>
+
+03:08:15.969 --> 03:08:15.979 align:start position:0%
+this exact code editor and console it
+ 
+
+03:08:15.979 --> 03:08:18.670 align:start position:0%
+this exact code editor and console it
+doesn't<03:08:16.250><c> show</c><03:08:16.460><c> the</c><03:08:16.640><c> newline</c><03:08:17.000><c> so</c><03:08:17.989><c> there's</c>
+
+03:08:18.670 --> 03:08:18.680 align:start position:0%
+doesn't show the newline so there's
+ 
+
+03:08:18.680 --> 03:08:20.080 align:start position:0%
+doesn't show the newline so there's
+gonna<03:08:18.830><c> be</c><03:08:18.920><c> a</c><03:08:18.979><c> coding</c><03:08:19.370><c> challenge</c><03:08:19.819><c> that</c><03:08:19.970><c> we're</c>
+
+03:08:20.080 --> 03:08:20.090 align:start position:0%
+gonna be a coding challenge that we're
+ 
+
+03:08:20.090 --> 03:08:23.019 align:start position:0%
+gonna be a coding challenge that we're
+gonna<03:08:20.180><c> do</c><03:08:20.359><c> right</c><03:08:20.569><c> down</c><03:08:20.779><c> here</c><03:08:21.399><c> we</c><03:08:22.399><c> have</c><03:08:22.729><c> this</c>
+
+03:08:23.019 --> 03:08:23.029 align:start position:0%
+gonna do right down here we have this
+ 
+
+03:08:23.029 --> 03:08:26.519 align:start position:0%
+gonna do right down here we have this
+make<03:08:23.479><c> list</c><03:08:23.960><c> function</c><03:08:24.470><c> and</c><03:08:25.040><c> we</c><03:08:25.640><c> want</c><03:08:25.880><c> it</c><03:08:26.120><c> to</c>
+
+03:08:26.519 --> 03:08:26.529 align:start position:0%
+make list function and we want it to
+ 
+
+03:08:26.529 --> 03:08:30.729 align:start position:0%
+make list function and we want it to
+create<03:08:27.529><c> a</c><03:08:27.710><c> list</c><03:08:28.220><c> based</c><03:08:29.149><c> on</c><03:08:29.510><c> the</c><03:08:30.199><c> array</c><03:08:30.529><c> that's</c>
+
+03:08:30.729 --> 03:08:30.739 align:start position:0%
+create a list based on the array that's
+ 
+
+03:08:30.739 --> 03:08:34.059 align:start position:0%
+create a list based on the array that's
+passed<03:08:31.159><c> in</c><03:08:31.550><c> so</c><03:08:32.239><c> when</c><03:08:32.870><c> we</c><03:08:32.989><c> call</c><03:08:33.260><c> make</c><03:08:33.560><c> list</c><03:08:33.800><c> we</c>
+
+03:08:34.059 --> 03:08:34.069 align:start position:0%
+passed in so when we call make list we
+ 
+
+03:08:34.069 --> 03:08:36.550 align:start position:0%
+passed in so when we call make list we
+pass<03:08:34.580><c> and</c><03:08:34.819><c> result</c><03:08:35.210><c> that</c><03:08:35.420><c> failure</c><03:08:35.930><c> wellhere's</c>
+
+03:08:36.550 --> 03:08:36.560 align:start position:0%
+pass and result that failure wellhere's
+ 
+
+03:08:36.560 --> 03:08:39.309 align:start position:0%
+pass and result that failure wellhere's
+results<03:08:37.100><c> result</c><03:08:37.460><c> dot</c><03:08:37.640><c> failure</c><03:08:38.149><c> is</c><03:08:38.359><c> this</c><03:08:38.989><c> array</c>
+
+03:08:39.309 --> 03:08:39.319 align:start position:0%
+results result dot failure is this array
+ 
+
+03:08:39.319 --> 03:08:42.519 align:start position:0%
+results result dot failure is this array
+here<03:08:39.800><c> and</c><03:08:39.979><c> we</c><03:08:40.640><c> want</c><03:08:40.909><c> it</c><03:08:41.120><c> to</c><03:08:41.180><c> return</c><03:08:41.870><c> an</c><03:08:42.199><c> array</c>
+
+03:08:42.519 --> 03:08:42.529 align:start position:0%
+here and we want it to return an array
+ 
+
+03:08:42.529 --> 03:08:43.599 align:start position:0%
+here and we want it to return an array
+that<03:08:42.560><c> looks</c><03:08:42.920><c> like</c><03:08:43.040><c> this</c>
+
+03:08:43.599 --> 03:08:43.609 align:start position:0%
+that looks like this
+ 
+
+03:08:43.609 --> 03:08:47.349 align:start position:0%
+that looks like this
+each<03:08:44.060><c> element</c><03:08:44.720><c> in</c><03:08:44.840><c> the</c><03:08:44.870><c> array</c><03:08:45.020><c> is</c><03:08:45.649><c> a</c><03:08:46.489><c> template</c>
+
+03:08:47.349 --> 03:08:47.359 align:start position:0%
+each element in the array is a template
+ 
+
+03:08:47.359 --> 03:08:52.300 align:start position:0%
+each element in the array is a template
+literal<03:08:48.080><c> that</c><03:08:48.649><c> has</c><03:08:49.810><c> some</c><03:08:50.810><c> HTML</c><03:08:51.050><c> in</c><03:08:51.859><c> it</c><03:08:52.100><c> and</c>
+
+03:08:52.300 --> 03:08:52.310 align:start position:0%
+literal that has some HTML in it and
+ 
+
+03:08:52.310 --> 03:08:55.511 align:start position:0%
+literal that has some HTML in it and
+then<03:08:52.909><c> it</c><03:08:53.000><c> also</c><03:08:53.180><c> has</c><03:08:53.540><c> this</c><03:08:53.840><c> no</c><03:08:54.319><c> var</c>
+
+03:08:55.511 --> 03:08:55.521 align:start position:0%
+then it also has this no var
+ 
+
+03:08:55.521 --> 03:08:58.780 align:start position:0%
+then it also has this no var
+on<03:08:55.851><c> top</c><03:08:56.271><c> and</c><03:08:56.631><c> lime</c><03:08:57.230><c> break</c><03:08:57.620><c> that</c><03:08:58.160><c> comes</c><03:08:58.490><c> right</c>
+
+03:08:58.780 --> 03:08:58.790 align:start position:0%
+on top and lime break that comes right
+ 
+
+03:08:58.790 --> 03:09:01.900 align:start position:0%
+on top and lime break that comes right
+from<03:08:58.851><c> this</c><03:08:59.841><c> array</c><03:09:00.110><c> that's</c><03:09:00.320><c> passed</c><03:09:00.711><c> in</c><03:09:00.980><c> so</c>
+
+03:09:01.900 --> 03:09:01.910 align:start position:0%
+from this array that's passed in so
+ 
+
+03:09:01.910 --> 03:09:04.030 align:start position:0%
+from this array that's passed in so
+let's<03:09:02.391><c> use</c><03:09:02.631><c> template</c><03:09:03.141><c> literal</c><03:09:03.530><c> so</c><03:09:03.771><c> to</c><03:09:03.830><c> create</c>
+
+03:09:04.030 --> 03:09:04.040 align:start position:0%
+let's use template literal so to create
+ 
+
+03:09:04.040 --> 03:09:07.390 align:start position:0%
+let's use template literal so to create
+that<03:09:04.421><c> so</c><03:09:05.421><c> instead</c><03:09:06.351><c> of</c><03:09:06.440><c> setting</c><03:09:06.891><c> this</c><03:09:07.101><c> to</c><03:09:07.251><c> equal</c>
+
+03:09:07.390 --> 03:09:07.400 align:start position:0%
+that so instead of setting this to equal
+ 
+
+03:09:07.400 --> 03:09:09.640 align:start position:0%
+that so instead of setting this to equal
+null<03:09:07.910><c> I'm</c><03:09:08.240><c> going</c><03:09:08.511><c> to</c><03:09:08.601><c> start</c><03:09:08.870><c> this</c><03:09:09.051><c> off</c><03:09:09.290><c> to</c><03:09:09.530><c> be</c>
+
+03:09:09.640 --> 03:09:09.650 align:start position:0%
+null I'm going to start this off to be
+ 
+
+03:09:09.650 --> 03:09:12.761 align:start position:0%
+null I'm going to start this off to be
+an<03:09:09.801><c> empty</c><03:09:10.370><c> array</c><03:09:10.811><c> now</c><03:09:11.811><c> there's</c><03:09:12.171><c> many</c><03:09:12.471><c> ways</c><03:09:12.561><c> to</c>
+
+03:09:12.761 --> 03:09:12.771 align:start position:0%
+an empty array now there's many ways to
+ 
+
+03:09:12.771 --> 03:09:14.951 align:start position:0%
+an empty array now there's many ways to
+do<03:09:13.160><c> this</c><03:09:13.370><c> but</c><03:09:13.431><c> I'm</c><03:09:13.761><c> gonna</c><03:09:13.940><c> use</c><03:09:14.181><c> the</c><03:09:14.450><c> classic</c>
+
+03:09:14.951 --> 03:09:14.961 align:start position:0%
+do this but I'm gonna use the classic
+ 
+
+03:09:14.961 --> 03:09:19.001 align:start position:0%
+do this but I'm gonna use the classic
+for<03:09:15.290><c> loop</c><03:09:15.591><c> so</c><03:09:15.891><c> we'll</c><03:09:16.671><c> do</c><03:09:16.790><c> four</c><03:09:17.211><c> and</c><03:09:18.011><c> hopefully</c>
+
+03:09:19.001 --> 03:09:19.011 align:start position:0%
+for loop so we'll do four and hopefully
+ 
+
+03:09:19.011 --> 03:09:20.890 align:start position:0%
+for loop so we'll do four and hopefully
+you<03:09:19.101><c> remember</c><03:09:19.190><c> how</c><03:09:19.521><c> to</c><03:09:19.551><c> make</c><03:09:19.881><c> a</c><03:09:19.940><c> for</c><03:09:20.330><c> loop</c><03:09:20.540><c> will</c>
+
+03:09:20.890 --> 03:09:20.900 align:start position:0%
+you remember how to make a for loop will
+ 
+
+03:09:20.900 --> 03:09:28.030 align:start position:0%
+you remember how to make a for loop will
+you<03:09:21.080><c> let</c><03:09:21.381><c> I</c><03:09:22.001><c> equal</c><03:09:23.950><c> 0</c><03:09:25.601><c> while</c><03:09:26.601><c> I</c><03:09:26.780><c> is</c><03:09:26.900><c> less</c><03:09:27.290><c> than</c>
+
+03:09:28.030 --> 03:09:28.040 align:start position:0%
+you let I equal 0 while I is less than
+ 
+
+03:09:28.040 --> 03:09:32.711 align:start position:0%
+you let I equal 0 while I is less than
+our<03:09:28.400><c> dot</c><03:09:29.120><c> length</c><03:09:29.540><c> and</c><03:09:30.851><c> then</c><03:09:31.851><c> at</c><03:09:32.001><c> the</c><03:09:32.120><c> end</c><03:09:32.271><c> we</c>
+
+03:09:32.711 --> 03:09:32.721 align:start position:0%
+our dot length and then at the end we
+ 
+
+03:09:32.721 --> 03:09:37.001 align:start position:0%
+our dot length and then at the end we
+will<03:09:32.990><c> increment</c><03:09:33.410><c> I</c><03:09:33.860><c> so</c><03:09:35.171><c> inside</c><03:09:36.171><c> this</c><03:09:36.381><c> for</c><03:09:36.771><c> loop</c>
+
+03:09:37.001 --> 03:09:37.011 align:start position:0%
+will increment I so inside this for loop
+ 
+
+03:09:37.011 --> 03:09:42.220 align:start position:0%
+will increment I so inside this for loop
+will<03:09:37.761><c> do</c><03:09:38.230><c> result</c><03:09:39.851><c> display</c><03:09:40.851><c> array</c><03:09:41.271><c> dot</c><03:09:41.540><c> push</c>
+
+03:09:42.220 --> 03:09:42.230 align:start position:0%
+will do result display array dot push
+ 
+
+03:09:42.230 --> 03:09:44.951 align:start position:0%
+will do result display array dot push
+and<03:09:42.851><c> then</c><03:09:43.851><c> here</c><03:09:44.211><c> is</c><03:09:44.330><c> where</c><03:09:44.480><c> I'm</c><03:09:44.570><c> going</c><03:09:44.690><c> to</c><03:09:44.751><c> use</c>
+
+03:09:44.951 --> 03:09:44.961 align:start position:0%
+and then here is where I'm going to use
+ 
+
+03:09:44.961 --> 03:09:47.440 align:start position:0%
+and then here is where I'm going to use
+the<03:09:45.141><c> template</c><03:09:45.591><c> literal</c><03:09:46.101><c> put</c><03:09:46.490><c> a</c><03:09:46.521><c> back</c><03:09:46.820><c> kick</c><03:09:47.150><c> and</c>
+
+03:09:47.440 --> 03:09:47.450 align:start position:0%
+the template literal put a back kick and
+ 
+
+03:09:47.450 --> 03:09:52.291 align:start position:0%
+the template literal put a back kick and
+I'll<03:09:48.290><c> put</c><03:09:49.040><c> this</c><03:09:49.221><c> HTML</c><03:09:49.730><c> code</c><03:09:49.910><c> here</c><03:09:50.200><c> li</c><03:09:51.200><c> class</c>
+
+03:09:52.291 --> 03:09:52.301 align:start position:0%
+I'll put this HTML code here li class
+ 
+
+03:09:52.301 --> 03:09:59.801 align:start position:0%
+I'll put this HTML code here li class
+equals<03:09:53.950><c> text</c><03:09:55.211><c> warning</c><03:09:56.261><c> and</c><03:09:58.271><c> now</c><03:09:59.271><c> this</c><03:09:59.540><c> next</c>
+
+03:09:59.801 --> 03:09:59.811 align:start position:0%
+equals text warning and now this next
+ 
+
+03:09:59.811 --> 03:10:02.140 align:start position:0%
+equals text warning and now this next
+part<03:10:00.230><c> is</c><03:10:00.381><c> going</c><03:10:00.561><c> to</c><03:10:00.921><c> be</c><03:10:01.101><c> a</c><03:10:01.131><c> variable</c><03:10:01.761><c> because</c>
+
+03:10:02.140 --> 03:10:02.150 align:start position:0%
+part is going to be a variable because
+ 
+
+03:10:02.150 --> 03:10:05.381 align:start position:0%
+part is going to be a variable because
+it<03:10:02.480><c> changes</c><03:10:03.171><c> for</c><03:10:03.381><c> each</c><03:10:03.591><c> array</c><03:10:04.521><c> element</c><03:10:04.551><c> here</c>
+
+03:10:05.381 --> 03:10:05.391 align:start position:0%
+it changes for each array element here
+ 
+
+03:10:05.391 --> 03:10:08.951 align:start position:0%
+it changes for each array element here
+so<03:10:06.021><c> I'm</c><03:10:06.410><c> gonna</c><03:10:06.650><c> do</c><03:10:06.980><c> dollar</c><03:10:07.851><c> sign</c><03:10:08.271><c> and</c><03:10:08.780><c> then</c><03:10:08.931><c> the</c>
+
+03:10:08.951 --> 03:10:08.961 align:start position:0%
+so I'm gonna do dollar sign and then the
+ 
+
+03:10:08.961 --> 03:10:12.610 align:start position:0%
+so I'm gonna do dollar sign and then the
+curly<03:10:09.530><c> braces</c><03:10:09.830><c> and</c><03:10:10.311><c> now</c><03:10:10.851><c> I</c><03:10:10.881><c> can</c><03:10:11.421><c> just</c><03:10:11.660><c> do</c><03:10:11.811><c> R</c><03:10:12.200><c> and</c>
+
+03:10:12.610 --> 03:10:12.620 align:start position:0%
+curly braces and now I can just do R and
+ 
+
+03:10:12.620 --> 03:10:18.190 align:start position:0%
+curly braces and now I can just do R and
+then<03:10:13.280><c> at</c><03:10:13.551><c> index</c><03:10:14.240><c> I</c><03:10:16.120><c> now</c><03:10:17.120><c> in</c><03:10:17.480><c> the</c><03:10:17.631><c> curly</c><03:10:17.961><c> brace</c>
+
+03:10:18.190 --> 03:10:18.200 align:start position:0%
+then at index I now in the curly brace
+ 
+
+03:10:18.200 --> 03:10:24.070 align:start position:0%
+then at index I now in the curly brace
+and<03:10:18.771><c> then</c><03:10:19.461><c> I</c><03:10:19.730><c> can</c><03:10:20.450><c> just</c><03:10:20.751><c> put</c><03:10:21.200><c> the</c><03:10:21.921><c> /l</c><03:10:22.910><c> I</c><03:10:23.240><c> okay</c>
+
+03:10:24.070 --> 03:10:24.080 align:start position:0%
+and then I can just put the /l I okay
+ 
+
+03:10:24.080 --> 03:10:28.211 align:start position:0%
+and then I can just put the /l I okay
+and<03:10:24.351><c> if</c><03:10:25.251><c> we</c><03:10:26.141><c> console</c><03:10:27.141><c> dot</c><03:10:27.351><c> log</c><03:10:27.410><c> this</c><03:10:28.011><c> out</c>
+
+03:10:28.211 --> 03:10:28.221 align:start position:0%
+and if we console dot log this out
+ 
+
+03:10:28.221 --> 03:10:30.070 align:start position:0%
+and if we console dot log this out
+because<03:10:28.431><c> we</c><03:10:28.610><c> just</c><03:10:28.971><c> finished</c><03:10:29.301><c> that</c><03:10:29.511><c> video</c>
+
+03:10:30.070 --> 03:10:30.080 align:start position:0%
+because we just finished that video
+ 
+
+03:10:30.080 --> 03:10:35.411 align:start position:0%
+because we just finished that video
+console<03:10:30.711><c> dot</c><03:10:30.980><c> log</c><03:10:31.841><c> result</c><03:10:33.040><c> to</c><03:10:34.150><c> display</c><03:10:35.150><c> array</c>
+
+03:10:35.411 --> 03:10:35.421 align:start position:0%
+console dot log result to display array
+ 
+
+03:10:35.421 --> 03:10:38.171 align:start position:0%
+console dot log result to display array
+the<03:10:36.290><c> array</c><03:10:36.471><c> looks</c><03:10:37.131><c> just</c><03:10:37.431><c> like</c><03:10:37.641><c> it's</c><03:10:37.881><c> supposed</c>
+
+03:10:38.171 --> 03:10:38.181 align:start position:0%
+the array looks just like it's supposed
+ 
+
+03:10:38.181 --> 03:10:39.850 align:start position:0%
+the array looks just like it's supposed
+to<03:10:38.271><c> be</c><03:10:38.421><c> if</c><03:10:38.540><c> you</c><03:10:38.631><c> look</c><03:10:38.751><c> in</c><03:10:38.931><c> the</c><03:10:39.021><c> console</c><03:10:39.561><c> it</c>
+
+03:10:39.850 --> 03:10:39.860 align:start position:0%
+to be if you look in the console it
+ 
+
+03:10:39.860 --> 03:10:45.800 align:start position:0%
+to be if you look in the console it
+returns<03:10:40.700><c> correctly</c>
+
+03:10:45.800 --> 03:10:45.810 align:start position:0%
+ 
+ 
+
+03:10:45.810 --> 03:10:48.350 align:start position:0%
+ 
+es<03:10:46.620><c> six</c><03:10:46.890><c> added</c><03:10:47.250><c> some</c><03:10:47.430><c> nice</c><03:10:47.580><c> support</c><03:10:48.120><c> for</c>
+
+03:10:48.350 --> 03:10:48.360 align:start position:0%
+es six added some nice support for
+ 
+
+03:10:48.360 --> 03:10:51.620 align:start position:0%
+es six added some nice support for
+easily<03:10:48.900><c> defining</c><03:10:49.530><c> object</c><03:10:50.160><c> literals</c><03:10:50.850><c> if</c><03:10:51.450><c> we</c>
+
+03:10:51.620 --> 03:10:51.630 align:start position:0%
+easily defining object literals if we
+ 
+
+03:10:51.630 --> 03:10:54.260 align:start position:0%
+easily defining object literals if we
+look<03:10:51.840><c> at</c><03:10:51.990><c> this</c><03:10:52.140><c> function</c><03:10:53.040><c> here</c><03:10:53.190><c> this</c><03:10:53.940><c> function</c>
+
+03:10:54.260 --> 03:10:54.270 align:start position:0%
+look at this function here this function
+ 
+
+03:10:54.270 --> 03:10:57.560 align:start position:0%
+look at this function here this function
+is<03:10:54.720><c> an</c><03:10:54.960><c> arrow</c><03:10:55.200><c> function</c><03:10:55.740><c> it</c><03:10:56.040><c> takes</c><03:10:56.220><c> in</c><03:10:57.000><c> three</c>
+
+03:10:57.560 --> 03:10:57.570 align:start position:0%
+is an arrow function it takes in three
+ 
+
+03:10:57.570 --> 03:11:00.710 align:start position:0%
+is an arrow function it takes in three
+variables<03:10:57.990><c> name</c><03:10:58.710><c> age</c><03:10:59.010><c> and</c><03:10:59.070><c> gender</c><03:10:59.640><c> and</c><03:10:59.940><c> it's</c>
+
+03:11:00.710 --> 03:11:00.720 align:start position:0%
+variables name age and gender and it's
+ 
+
+03:11:00.720 --> 03:11:04.280 align:start position:0%
+variables name age and gender and it's
+going<03:11:01.110><c> to</c><03:11:01.230><c> return</c><03:11:01.680><c> an</c><03:11:02.420><c> object</c><03:11:03.420><c> and</c><03:11:03.780><c> the</c><03:11:04.260><c> object</c>
+
+03:11:04.280 --> 03:11:04.290 align:start position:0%
+going to return an object and the object
+ 
+
+03:11:04.290 --> 03:11:06.350 align:start position:0%
+going to return an object and the object
+is<03:11:04.860><c> going</c><03:11:05.100><c> to</c><03:11:05.160><c> have</c><03:11:05.250><c> a</c><03:11:05.310><c> series</c><03:11:05.640><c> of</c><03:11:05.730><c> key</c><03:11:06.000><c> value</c>
+
+03:11:06.350 --> 03:11:06.360 align:start position:0%
+is going to have a series of key value
+ 
+
+03:11:06.360 --> 03:11:08.510 align:start position:0%
+is going to have a series of key value
+pairs<03:11:06.390><c> where</c><03:11:07.290><c> the</c><03:11:07.440><c> key</c><03:11:07.740><c> is</c>
+
+03:11:08.510 --> 03:11:08.520 align:start position:0%
+pairs where the key is
+ 
+
+03:11:08.520 --> 03:11:11.060 align:start position:0%
+pairs where the key is
+the<03:11:09.150><c> name</c><03:11:09.450><c> age</c><03:11:09.780><c> and</c><03:11:10.140><c> gender</c><03:11:10.380><c> and</c><03:11:10.500><c> the</c><03:11:10.650><c> values</c>
+
+03:11:11.060 --> 03:11:11.070 align:start position:0%
+the name age and gender and the values
+ 
+
+03:11:11.070 --> 03:11:13.700 align:start position:0%
+the name age and gender and the values
+are<03:11:11.250><c> the</c><03:11:11.280><c> past</c><03:11:11.820><c> in</c><03:11:12.210><c> variable</c><03:11:13.020><c> names</c><03:11:13.200><c> the</c><03:11:13.410><c> past</c>
+
+03:11:13.700 --> 03:11:13.710 align:start position:0%
+are the past in variable names the past
+ 
+
+03:11:13.710 --> 03:11:14.420 align:start position:0%
+are the past in variable names the past
+end<03:11:13.950><c> names</c>
+
+03:11:14.420 --> 03:11:14.430 align:start position:0%
+end names
+ 
+
+03:11:14.430 --> 03:11:17.510 align:start position:0%
+end names
+age<03:11:14.610><c> and</c><03:11:14.640><c> gender</c><03:11:15.210><c> so</c><03:11:16.140><c> if</c><03:11:16.470><c> you</c><03:11:16.800><c> look</c><03:11:17.160><c> in</c><03:11:17.370><c> the</c>
+
+03:11:17.510 --> 03:11:17.520 align:start position:0%
+age and gender so if you look in the
+ 
+
+03:11:17.520 --> 03:11:20.690 align:start position:0%
+age and gender so if you look in the
+console<03:11:18.150><c> you</c><03:11:18.660><c> can</c><03:11:18.690><c> see</c><03:11:19.110><c> what</c><03:11:19.590><c> this</c><03:11:20.130><c> currently</c>
+
+03:11:20.690 --> 03:11:20.700 align:start position:0%
+console you can see what this currently
+ 
+
+03:11:20.700 --> 03:11:23.180 align:start position:0%
+console you can see what this currently
+does<03:11:21.000><c> we</c><03:11:21.540><c> did</c><03:11:21.690><c> the</c><03:11:21.810><c> create</c><03:11:22.140><c> person</c><03:11:22.770><c> we</c><03:11:22.890><c> passed</c>
+
+03:11:23.180 --> 03:11:23.190 align:start position:0%
+does we did the create person we passed
+ 
+
+03:11:23.190 --> 03:11:25.760 align:start position:0%
+does we did the create person we passed
+a<03:11:23.370><c> name</c><03:11:23.670><c> age</c><03:11:24.000><c> and</c><03:11:24.210><c> gender</c><03:11:24.480><c> and</c><03:11:24.720><c> you</c><03:11:25.470><c> can</c><03:11:25.590><c> see</c><03:11:25.710><c> in</c>
+
+03:11:25.760 --> 03:11:25.770 align:start position:0%
+a name age and gender and you can see in
+ 
+
+03:11:25.770 --> 03:11:27.800 align:start position:0%
+a name age and gender and you can see in
+the<03:11:25.860><c> console</c><03:11:26.250><c> the</c><03:11:26.400><c> object</c><03:11:26.910><c> is</c><03:11:27.060><c> name</c><03:11:27.510><c> and</c>
+
+03:11:27.800 --> 03:11:27.810 align:start position:0%
+the console the object is name and
+ 
+
+03:11:27.810 --> 03:11:31.640 align:start position:0%
+the console the object is name and
+zodiac<03:11:28.440><c> as</c><03:11:28.710><c> bro</c><03:11:29.010><c> age</c><03:11:29.280><c> 56</c><03:11:29.850><c> gender</c><03:11:30.360><c> male</c><03:11:30.780><c> so</c><03:11:31.560><c> you</c>
+
+03:11:31.640 --> 03:11:31.650 align:start position:0%
+zodiac as bro age 56 gender male so you
+ 
+
+03:11:31.650 --> 03:11:33.950 align:start position:0%
+zodiac as bro age 56 gender male so you
+can<03:11:31.830><c> see</c><03:11:32.010><c> there's</c><03:11:32.250><c> some</c><03:11:32.460><c> repetition</c><03:11:33.270><c> we're</c>
+
+03:11:33.950 --> 03:11:33.960 align:start position:0%
+can see there's some repetition we're
+ 
+
+03:11:33.960 --> 03:11:37.100 align:start position:0%
+can see there's some repetition we're
+repeating<03:11:34.590><c> name</c><03:11:34.980><c> name</c><03:11:35.520><c> age</c><03:11:36.000><c> age</c><03:11:36.420><c> gender</c>
+
+03:11:37.100 --> 03:11:37.110 align:start position:0%
+repeating name name age age gender
+ 
+
+03:11:37.110 --> 03:11:39.980 align:start position:0%
+repeating name name age age gender
+gender<03:11:37.530><c> now</c><03:11:38.190><c> the</c><03:11:38.250><c> first</c><03:11:38.640><c> name</c><03:11:38.880><c> is</c><03:11:39.120><c> the</c><03:11:39.450><c> key</c><03:11:39.720><c> in</c>
+
+03:11:39.980 --> 03:11:39.990 align:start position:0%
+gender now the first name is the key in
+ 
+
+03:11:39.990 --> 03:11:42.470 align:start position:0%
+gender now the first name is the key in
+the<03:11:40.140><c> second</c><03:11:40.590><c> name</c><03:11:40.710><c> is</c><03:11:40.830><c> the</c><03:11:40.950><c> value</c><03:11:41.370><c> but</c><03:11:42.120><c> there's</c>
+
+03:11:42.470 --> 03:11:42.480 align:start position:0%
+the second name is the value but there's
+ 
+
+03:11:42.480 --> 03:11:45.530 align:start position:0%
+the second name is the value but there's
+a<03:11:42.600><c> way</c><03:11:42.900><c> to</c><03:11:42.960><c> just</c><03:11:43.350><c> make</c><03:11:43.410><c> this</c><03:11:43.830><c> simpler</c><03:11:44.640><c> if</c><03:11:44.850><c> you</c>
+
+03:11:45.530 --> 03:11:45.540 align:start position:0%
+a way to just make this simpler if you
+ 
+
+03:11:45.540 --> 03:11:47.660 align:start position:0%
+a way to just make this simpler if you
+know<03:11:45.810><c> that</c><03:11:46.380><c> you</c><03:11:46.620><c> want</c><03:11:46.860><c> to</c><03:11:46.980><c> create</c><03:11:47.190><c> an</c><03:11:47.460><c> object</c>
+
+03:11:47.660 --> 03:11:47.670 align:start position:0%
+know that you want to create an object
+ 
+
+03:11:47.670 --> 03:11:50.660 align:start position:0%
+know that you want to create an object
+with<03:11:48.240><c> where</c><03:11:48.750><c> the</c><03:11:48.930><c> key</c><03:11:49.290><c> is</c><03:11:49.530><c> the</c><03:11:50.220><c> name</c><03:11:50.430><c> of</c><03:11:50.580><c> the</c>
+
+03:11:50.660 --> 03:11:50.670 align:start position:0%
+with where the key is the name of the
+ 
+
+03:11:50.670 --> 03:11:53.690 align:start position:0%
+with where the key is the name of the
+variable<03:11:50.880><c> and</c><03:11:51.240><c> the</c><03:11:51.600><c> value</c><03:11:52.170><c> is</c><03:11:52.680><c> the</c><03:11:52.740><c> value</c><03:11:53.550><c> of</c>
+
+03:11:53.690 --> 03:11:53.700 align:start position:0%
+variable and the value is the value of
+ 
+
+03:11:53.700 --> 03:11:55.520 align:start position:0%
+variable and the value is the value of
+the<03:11:53.820><c> variable</c><03:11:54.330><c> there's</c><03:11:54.660><c> an</c><03:11:54.810><c> easier</c><03:11:55.170><c> way</c><03:11:55.230><c> to</c><03:11:55.320><c> do</c>
+
+03:11:55.520 --> 03:11:55.530 align:start position:0%
+the variable there's an easier way to do
+ 
+
+03:11:55.530 --> 03:11:57.560 align:start position:0%
+the variable there's an easier way to do
+it<03:11:55.680><c> we</c><03:11:56.100><c> can</c><03:11:56.280><c> actually</c><03:11:56.430><c> delete</c><03:11:56.940><c> this</c><03:11:57.270><c> whole</c>
+
+03:11:57.560 --> 03:11:57.570 align:start position:0%
+it we can actually delete this whole
+ 
+
+03:11:57.570 --> 03:12:01.430 align:start position:0%
+it we can actually delete this whole
+thing<03:11:57.990><c> here</c><03:11:58.460><c> and</c><03:11:59.840><c> that's</c><03:12:00.840><c> how</c><03:12:01.020><c> we're</c><03:12:01.170><c> gonna</c><03:12:01.320><c> do</c>
+
+03:12:01.430 --> 03:12:01.440 align:start position:0%
+thing here and that's how we're gonna do
+ 
+
+03:12:01.440 --> 03:12:06.860 align:start position:0%
+thing here and that's how we're gonna do
+do<03:12:01.770><c> it</c><03:12:01.890><c> we'll</c><03:12:02.430><c> just</c><03:12:02.460><c> do</c><03:12:02.880><c> name</c><03:12:03.330><c> age</c><03:12:04.610><c> gender</c><03:12:05.870><c> on</c>
+
+03:12:06.860 --> 03:12:06.870 align:start position:0%
+do it we'll just do name age gender on
+ 
+
+03:12:06.870 --> 03:12:08.510 align:start position:0%
+do it we'll just do name age gender on
+the<03:12:07.080><c> script</c><03:12:07.350><c> knows</c><03:12:07.590><c> that</c><03:12:07.890><c> it's</c><03:12:08.160><c> going</c><03:12:08.430><c> to</c>
+
+03:12:08.510 --> 03:12:08.520 align:start position:0%
+the script knows that it's going to
+ 
+
+03:12:08.520 --> 03:12:11.270 align:start position:0%
+the script knows that it's going to
+return<03:12:08.940><c> this</c><03:12:09.270><c> object</c><03:12:09.570><c> and</c><03:12:10.320><c> it's</c><03:12:10.890><c> going</c><03:12:11.160><c> to</c>
+
+03:12:11.270 --> 03:12:11.280 align:start position:0%
+return this object and it's going to
+ 
+
+03:12:11.280 --> 03:12:14.930 align:start position:0%
+return this object and it's going to
+have<03:12:11.940><c> three</c><03:12:12.530><c> key</c><03:12:13.530><c> value</c><03:12:13.860><c> pairs</c><03:12:14.160><c> the</c><03:12:14.460><c> name</c><03:12:14.670><c> age</c>
+
+03:12:14.930 --> 03:12:14.940 align:start position:0%
+have three key value pairs the name age
+ 
+
+03:12:14.940 --> 03:12:17.300 align:start position:0%
+have three key value pairs the name age
+and<03:12:15.150><c> gender</c><03:12:15.360><c> so</c><03:12:15.780><c> if</c><03:12:15.930><c> I</c><03:12:16.050><c> reload</c><03:12:16.590><c> this</c><03:12:16.800><c> you'll</c>
+
+03:12:17.300 --> 03:12:17.310 align:start position:0%
+and gender so if I reload this you'll
+ 
+
+03:12:17.310 --> 03:12:19.550 align:start position:0%
+and gender so if I reload this you'll
+see<03:12:17.520><c> in</c><03:12:17.580><c> the</c><03:12:17.670><c> console</c><03:12:18.150><c> it</c><03:12:18.390><c> looks</c><03:12:18.690><c> exactly</c><03:12:18.930><c> the</c>
+
+03:12:19.550 --> 03:12:19.560 align:start position:0%
+see in the console it looks exactly the
+ 
+
+03:12:19.560 --> 03:12:22.040 align:start position:0%
+see in the console it looks exactly the
+same<03:12:19.830><c> because</c><03:12:20.520><c> this</c><03:12:20.970><c> code</c><03:12:21.270><c> does</c><03:12:21.660><c> the</c><03:12:21.810><c> same</c>
+
+03:12:22.040 --> 03:12:22.050 align:start position:0%
+same because this code does the same
+ 
+
+03:12:22.050 --> 03:12:27.340 align:start position:0%
+same because this code does the same
+thing<03:12:22.320><c> that</c><03:12:22.470><c> the</c><03:12:22.620><c> previous</c><03:12:23.040><c> code</c><03:12:23.310><c> did</c>
+
+03:12:27.340 --> 03:12:27.350 align:start position:0%
+ 
+ 
+
+03:12:27.350 --> 03:12:31.179 align:start position:0%
+ 
+an<03:12:27.520><c> object</c><03:12:28.520><c> can</c><03:12:28.609><c> contain</c><03:12:29.239><c> a</c><03:12:29.270><c> function</c><03:12:29.899><c> this</c><03:12:30.830><c> is</c>
+
+03:12:31.179 --> 03:12:31.189 align:start position:0%
+an object can contain a function this is
+ 
+
+03:12:31.189 --> 03:12:34.030 align:start position:0%
+an object can contain a function this is
+the<03:12:31.550><c> long</c><03:12:31.970><c> way</c><03:12:32.330><c> to</c><03:12:32.390><c> put</c><03:12:32.840><c> a</c><03:12:32.989><c> function</c><03:12:33.590><c> within</c><03:12:33.949><c> an</c>
+
+03:12:34.030 --> 03:12:34.040 align:start position:0%
+the long way to put a function within an
+ 
+
+03:12:34.040 --> 03:12:37.719 align:start position:0%
+the long way to put a function within an
+object<03:12:34.420><c> but</c><03:12:35.420><c> there</c><03:12:35.689><c> is</c><03:12:35.899><c> a</c><03:12:35.930><c> simpler</c><03:12:36.680><c> way</c><03:12:36.949><c> we</c>
+
+03:12:37.719 --> 03:12:37.729 align:start position:0%
+object but there is a simpler way we
+ 
+
+03:12:37.729 --> 03:12:39.760 align:start position:0%
+object but there is a simpler way we
+have<03:12:37.850><c> the</c><03:12:37.970><c> set</c><03:12:38.180><c> gear</c><03:12:38.420><c> function</c><03:12:38.960><c> but</c><03:12:39.470><c> instead</c>
+
+03:12:39.760 --> 03:12:39.770 align:start position:0%
+have the set gear function but instead
+ 
+
+03:12:39.770 --> 03:12:42.519 align:start position:0%
+have the set gear function but instead
+of<03:12:39.830><c> using</c><03:12:40.130><c> the</c><03:12:40.489><c> function</c><03:12:40.970><c> keyword</c><03:12:41.270><c> and</c><03:12:41.810><c> this</c>
+
+03:12:42.519 --> 03:12:42.529 align:start position:0%
+of using the function keyword and this
+ 
+
+03:12:42.529 --> 03:12:45.070 align:start position:0%
+of using the function keyword and this
+colon<03:12:43.100><c> we</c><03:12:43.340><c> can</c><03:12:43.580><c> just</c><03:12:43.909><c> delete</c><03:12:44.300><c> all</c><03:12:44.479><c> that</c><03:12:44.510><c> and</c>
+
+03:12:45.070 --> 03:12:45.080 align:start position:0%
+colon we can just delete all that and
+ 
+
+03:12:45.080 --> 03:12:48.309 align:start position:0%
+colon we can just delete all that and
+now<03:12:45.890><c> this</c><03:12:46.430><c> is</c><03:12:46.699><c> the</c><03:12:46.880><c> new</c><03:12:47.060><c> way</c><03:12:47.239><c> if</c><03:12:47.449><c> I</c><03:12:47.600><c> load</c><03:12:48.140><c> this</c>
+
+03:12:48.309 --> 03:12:48.319 align:start position:0%
+now this is the new way if I load this
+ 
+
+03:12:48.319 --> 03:12:50.139 align:start position:0%
+now this is the new way if I load this
+again<03:12:48.710><c> you'll</c><03:12:48.949><c> see</c><03:12:49.159><c> three</c><03:12:49.460><c> in</c><03:12:49.550><c> the</c><03:12:49.640><c> console</c>
+
+03:12:50.139 --> 03:12:50.149 align:start position:0%
+again you'll see three in the console
+ 
+
+03:12:50.149 --> 03:12:52.809 align:start position:0%
+again you'll see three in the console
+just<03:12:50.359><c> like</c><03:12:50.810><c> it</c><03:12:51.050><c> was</c><03:12:51.229><c> before</c><03:12:51.529><c> because</c><03:12:52.460><c> we've</c>
+
+03:12:52.809 --> 03:12:52.819 align:start position:0%
+just like it was before because we've
+ 
+
+03:12:52.819 --> 03:12:54.639 align:start position:0%
+just like it was before because we've
+been<03:12:52.970><c> able</c><03:12:53.149><c> to</c><03:12:53.210><c> set</c><03:12:53.540><c> the</c><03:12:53.689><c> gear</c><03:12:54.050><c> using</c><03:12:54.500><c> that</c>
+
+03:12:54.639 --> 03:12:54.649 align:start position:0%
+been able to set the gear using that
+ 
+
+03:12:54.649 --> 03:12:58.820 align:start position:0%
+been able to set the gear using that
+function
+
+03:12:58.820 --> 03:12:58.830 align:start position:0%
+ 
+ 
+
+03:12:58.830 --> 03:13:01.460 align:start position:0%
+ 
+yes<03:12:59.490><c> six</c><03:12:59.790><c> provides</c><03:13:00.180><c> a</c><03:13:00.300><c> syntax</c><03:13:00.780><c> to</c><03:13:00.930><c> help</c><03:13:01.140><c> create</c>
+
+03:13:01.460 --> 03:13:01.470 align:start position:0%
+yes six provides a syntax to help create
+ 
+
+03:13:01.470 --> 03:13:05.330 align:start position:0%
+yes six provides a syntax to help create
+objects<03:13:02.220><c> using</c><03:13:02.850><c> the</c><03:13:03.060><c> class</c><03:13:03.720><c> keyword</c><03:13:04.340><c> so</c>
+
+03:13:05.330 --> 03:13:05.340 align:start position:0%
+objects using the class keyword so
+ 
+
+03:13:05.340 --> 03:13:08.210 align:start position:0%
+objects using the class keyword so
+here's<03:13:06.030><c> the</c><03:13:06.300><c> older</c><03:13:06.840><c> way</c><03:13:07.050><c> to</c><03:13:07.109><c> create</c><03:13:07.590><c> an</c><03:13:07.649><c> object</c>
+
+03:13:08.210 --> 03:13:08.220 align:start position:0%
+here's the older way to create an object
+ 
+
+03:13:08.220 --> 03:13:10.910 align:start position:0%
+here's the older way to create an object
+it's<03:13:08.790><c> with</c><03:13:09.270><c> the</c><03:13:09.600><c> the</c><03:13:09.870><c> new</c><03:13:10.080><c> keyword</c><03:13:10.620><c> we</c><03:13:10.770><c> can</c>
+
+03:13:10.910 --> 03:13:10.920 align:start position:0%
+it's with the the new keyword we can
+ 
+
+03:13:10.920 --> 03:13:12.980 align:start position:0%
+it's with the the new keyword we can
+instantiate<03:13:11.310><c> an</c><03:13:11.850><c> object</c><03:13:11.970><c> using</c><03:13:12.569><c> this</c><03:13:12.660><c> new</c>
+
+03:13:12.980 --> 03:13:12.990 align:start position:0%
+instantiate an object using this new
+ 
+
+03:13:12.990 --> 03:13:15.500 align:start position:0%
+instantiate an object using this new
+keyword<03:13:13.560><c> and</c><03:13:13.830><c> we're</c><03:13:14.490><c> instantiating</c><03:13:14.790><c> the</c>
+
+03:13:15.500 --> 03:13:15.510 align:start position:0%
+keyword and we're instantiating the
+ 
+
+03:13:15.510 --> 03:13:18.320 align:start position:0%
+keyword and we're instantiating the
+Space<03:13:15.840><c> Shuttle</c><03:13:16.010><c> object</c><03:13:17.010><c> we</c><03:13:17.700><c> have</c><03:13:17.729><c> to</c><03:13:18.120><c> have</c>
+
+03:13:18.320 --> 03:13:18.330 align:start position:0%
+Space Shuttle object we have to have
+ 
+
+03:13:18.330 --> 03:13:21.650 align:start position:0%
+Space Shuttle object we have to have
+this<03:13:18.540><c> constructor</c><03:13:19.410><c> function</c><03:13:19.950><c> up</c><03:13:20.130><c> here</c><03:13:20.300><c> so</c><03:13:21.300><c> we</c>
+
+03:13:21.650 --> 03:13:21.660 align:start position:0%
+this constructor function up here so we
+ 
+
+03:13:21.660 --> 03:13:24.020 align:start position:0%
+this constructor function up here so we
+use<03:13:21.840><c> this</c><03:13:22.050><c> to</c><03:13:22.109><c> construct</c><03:13:22.740><c> the</c><03:13:22.890><c> object</c><03:13:23.430><c> where</c>
+
+03:13:24.020 --> 03:13:24.030 align:start position:0%
+use this to construct the object where
+ 
+
+03:13:24.030 --> 03:13:26.870 align:start position:0%
+use this to construct the object where
+we<03:13:24.240><c> pass</c><03:13:24.630><c> in</c><03:13:24.960><c> the</c><03:13:25.200><c> target</c><03:13:25.710><c> planet</c><03:13:26.220><c> Jupiter</c><03:13:26.670><c> and</c>
+
+03:13:26.870 --> 03:13:26.880 align:start position:0%
+we pass in the target planet Jupiter and
+ 
+
+03:13:26.880 --> 03:13:28.910 align:start position:0%
+we pass in the target planet Jupiter and
+we<03:13:27.300><c> set</c><03:13:27.479><c> the</c><03:13:27.569><c> target</c><03:13:27.780><c> plan</c><03:13:28.140><c> to</c><03:13:28.410><c> this</c><03:13:28.620><c> dot</c>
+
+03:13:28.910 --> 03:13:28.920 align:start position:0%
+we set the target plan to this dot
+ 
+
+03:13:28.920 --> 03:13:32.300 align:start position:0%
+we set the target plan to this dot
+target<03:13:29.430><c> planet</c><03:13:29.899><c> once</c><03:13:30.899><c> we</c><03:13:31.229><c> create</c><03:13:31.800><c> the</c><03:13:32.100><c> new</c>
+
+03:13:32.300 --> 03:13:32.310 align:start position:0%
+target planet once we create the new
+ 
+
+03:13:32.310 --> 03:13:35.300 align:start position:0%
+target planet once we create the new
+object<03:13:33.000><c> like</c><03:13:33.210><c> this</c><03:13:33.510><c> that</c><03:13:34.290><c> allows</c><03:13:34.680><c> us</c><03:13:34.710><c> to</c><03:13:34.979><c> do</c>
+
+03:13:35.300 --> 03:13:35.310 align:start position:0%
+object like this that allows us to do
+ 
+
+03:13:35.310 --> 03:13:38.540 align:start position:0%
+object like this that allows us to do
+Zeus<03:13:36.030><c> dot</c><03:13:36.390><c> target</c><03:13:36.930><c> planet</c><03:13:37.319><c> so</c><03:13:37.500><c> Zeus</c><03:13:37.800><c> target</c>
+
+03:13:38.540 --> 03:13:38.550 align:start position:0%
+Zeus dot target planet so Zeus target
+ 
+
+03:13:38.550 --> 03:13:41.179 align:start position:0%
+Zeus dot target planet so Zeus target
+planet<03:13:38.970><c> which</c><03:13:39.420><c> we</c><03:13:39.630><c> set</c><03:13:39.870><c> to</c><03:13:40.020><c> Zuppa</c><03:13:40.380><c> der</c><03:13:40.500><c> Jupiter</c>
+
+03:13:41.179 --> 03:13:41.189 align:start position:0%
+planet which we set to Zuppa der Jupiter
+ 
+
+03:13:41.189 --> 03:13:43.760 align:start position:0%
+planet which we set to Zuppa der Jupiter
+so<03:13:41.790><c> in</c><03:13:42.060><c> the</c><03:13:42.180><c> console</c><03:13:42.720><c> you</c><03:13:42.990><c> can</c><03:13:43.140><c> see</c><03:13:43.290><c> Jupiter</c>
+
+03:13:43.760 --> 03:13:43.770 align:start position:0%
+so in the console you can see Jupiter
+ 
+
+03:13:43.770 --> 03:13:46.280 align:start position:0%
+so in the console you can see Jupiter
+the<03:13:44.220><c> class</c><03:13:44.580><c> syntax</c><03:13:45.109><c> replaces</c><03:13:46.109><c> the</c>
+
+03:13:46.280 --> 03:13:46.290 align:start position:0%
+the class syntax replaces the
+ 
+
+03:13:46.290 --> 03:13:48.710 align:start position:0%
+the class syntax replaces the
+constructor<03:13:46.890><c> function</c><03:13:47.370><c> creation</c><03:13:47.970><c> so</c><03:13:48.689><c> I</c>
+
+03:13:48.710 --> 03:13:48.720 align:start position:0%
+constructor function creation so I
+ 
+
+03:13:48.720 --> 03:13:50.750 align:start position:0%
+constructor function creation so I
+believe<03:13:49.200><c> that</c><03:13:49.500><c> we're</c><03:13:50.069><c> going</c><03:13:50.189><c> to</c><03:13:50.250><c> use</c><03:13:50.490><c> the</c>
+
+03:13:50.750 --> 03:13:50.760 align:start position:0%
+believe that we're going to use the
+ 
+
+03:13:50.760 --> 03:13:54.670 align:start position:0%
+believe that we're going to use the
+class<03:13:51.149><c> syntax</c><03:13:51.510><c> so</c><03:13:51.899><c> I'll</c><03:13:52.020><c> do</c><03:13:52.200><c> a</c><03:13:52.229><c> class</c><03:13:53.569><c> space</c>
+
+03:13:54.670 --> 03:13:54.680 align:start position:0%
+class syntax so I'll do a class space
+ 
+
+03:13:54.680 --> 03:13:58.520 align:start position:0%
+class syntax so I'll do a class space
+shuttle<03:13:55.680><c> and</c><03:13:56.510><c> then</c><03:13:57.510><c> we</c><03:13:57.630><c> have</c><03:13:57.720><c> the</c><03:13:57.840><c> curly</c><03:13:58.260><c> brace</c>
+
+03:13:58.520 --> 03:13:58.530 align:start position:0%
+shuttle and then we have the curly brace
+ 
+
+03:13:58.530 --> 03:14:02.270 align:start position:0%
+shuttle and then we have the curly brace
+here<03:13:58.950><c> and</c><03:13:59.160><c> so</c><03:14:00.060><c> inside</c><03:14:00.720><c> here</c><03:14:01.229><c> we</c><03:14:01.680><c> have</c><03:14:02.010><c> a</c>
+
+03:14:02.270 --> 03:14:02.280 align:start position:0%
+here and so inside here we have a
+ 
+
+03:14:02.280 --> 03:14:07.010 align:start position:0%
+here and so inside here we have a
+constructor<03:14:02.939><c> so</c><03:14:03.810><c> du</c><03:14:04.580><c> constructor</c><03:14:05.750><c> or</c><03:14:06.750><c> get</c>
+
+03:14:07.010 --> 03:14:07.020 align:start position:0%
+constructor so du constructor or get
+ 
+
+03:14:07.020 --> 03:14:10.940 align:start position:0%
+constructor so du constructor or get
+planet<03:14:07.530><c> and</c><03:14:07.970><c> then</c><03:14:09.109><c> that's</c><03:14:10.109><c> all</c><03:14:10.350><c> we</c><03:14:10.590><c> just</c><03:14:10.770><c> have</c>
+
+03:14:10.940 --> 03:14:10.950 align:start position:0%
+planet and then that's all we just have
+ 
+
+03:14:10.950 --> 03:14:15.620 align:start position:0%
+planet and then that's all we just have
+to<03:14:11.130><c> put</c><03:14:11.700><c> in</c><03:14:11.850><c> the</c><03:14:12.210><c> curly</c><03:14:12.870><c> brace</c><03:14:13.170><c> and</c><03:14:14.359><c> this</c><03:14:15.359><c> works</c>
+
+03:14:15.620 --> 03:14:15.630 align:start position:0%
+to put in the curly brace and this works
+ 
+
+03:14:15.630 --> 03:14:18.200 align:start position:0%
+to put in the curly brace and this works
+exactly<03:14:16.050><c> the</c><03:14:16.560><c> same</c><03:14:16.830><c> as</c><03:14:17.100><c> before</c><03:14:17.130><c> using</c><03:14:18.030><c> the</c>
+
+03:14:18.200 --> 03:14:18.210 align:start position:0%
+exactly the same as before using the
+ 
+
+03:14:18.210 --> 03:14:21.910 align:start position:0%
+exactly the same as before using the
+class<03:14:18.479><c> keyword</c><03:14:18.870><c> and</c><03:14:19.350><c> this</c><03:14:19.470><c> constructor</c><03:14:20.780><c> so</c>
+
+03:14:21.910 --> 03:14:21.920 align:start position:0%
+class keyword and this constructor so
+ 
+
+03:14:21.920 --> 03:14:26.960 align:start position:0%
+class keyword and this constructor so
+down<03:14:22.920><c> here</c><03:14:23.490><c> we</c><03:14:23.700><c> are</c><03:14:24.630><c> going</c><03:14:25.020><c> to</c><03:14:25.580><c> do</c><03:14:26.580><c> the</c><03:14:26.729><c> same</c>
+
+03:14:26.960 --> 03:14:26.970 align:start position:0%
+down here we are going to do the same
+ 
+
+03:14:26.970 --> 03:14:30.410 align:start position:0%
+down here we are going to do the same
+thing<03:14:27.270><c> for</c><03:14:27.630><c> a</c><03:14:27.689><c> vegetable</c><03:14:28.319><c> class</c><03:14:29.149><c> so</c><03:14:30.149><c> for</c><03:14:30.359><c> the</c>
+
+03:14:30.410 --> 03:14:30.420 align:start position:0%
+thing for a vegetable class so for the
+ 
+
+03:14:30.420 --> 03:14:32.960 align:start position:0%
+thing for a vegetable class so for the
+vegetable<03:14:30.750><c> class</c><03:14:30.960><c> we'll</c><03:14:31.260><c> have</c><03:14:31.380><c> class</c><03:14:31.970><c> that's</c>
+
+03:14:32.960 --> 03:14:32.970 align:start position:0%
+vegetable class we'll have class that's
+ 
+
+03:14:32.970 --> 03:14:35.719 align:start position:0%
+vegetable class we'll have class that's
+the<03:14:33.899><c> bowl</c><03:14:34.140><c> and</c><03:14:34.439><c> we're</c><03:14:35.340><c> going</c><03:14:35.370><c> to</c><03:14:35.580><c> have</c><03:14:35.700><c> a</c>
+
+03:14:35.719 --> 03:14:35.729 align:start position:0%
+the bowl and we're going to have a
+ 
+
+03:14:35.729 --> 03:14:42.040 align:start position:0%
+the bowl and we're going to have a
+constructor<03:14:36.540><c> with</c><03:14:37.200><c> the</c><03:14:37.710><c> name</c><03:14:39.229><c> this</c><03:14:40.229><c> that</c><03:14:40.649><c> name</c>
+
+03:14:42.040 --> 03:14:42.050 align:start position:0%
+constructor with the name this that name
+ 
+
+03:14:42.050 --> 03:14:48.139 align:start position:0%
+constructor with the name this that name
+equals<03:14:43.050><c> name</c><03:14:44.510><c> so</c><03:14:45.510><c> now</c><03:14:45.840><c> that</c><03:14:45.899><c> we</c><03:14:46.200><c> have</c><03:14:46.229><c> this</c><03:14:47.149><c> we</c>
+
+03:14:48.139 --> 03:14:48.149 align:start position:0%
+equals name so now that we have this we
+ 
+
+03:14:48.149 --> 03:14:51.440 align:start position:0%
+equals name so now that we have this we
+can<03:14:48.649><c> set</c><03:14:49.649><c> this</c><03:14:49.830><c> vegetable</c><03:14:50.250><c> to</c><03:14:50.819><c> make</c><03:14:51.060><c> class</c>
+
+03:14:51.440 --> 03:14:51.450 align:start position:0%
+can set this vegetable to make class
+ 
+
+03:14:51.450 --> 03:14:53.750 align:start position:0%
+can set this vegetable to make class
+which<03:14:51.780><c> will</c><03:14:51.930><c> return</c><03:14:52.410><c> a</c><03:14:52.470><c> vegetable</c><03:14:53.430><c> class</c>
+
+03:14:53.750 --> 03:14:53.760 align:start position:0%
+which will return a vegetable class
+ 
+
+03:14:53.760 --> 03:14:56.900 align:start position:0%
+which will return a vegetable class
+that's<03:14:54.240><c> up</c><03:14:54.720><c> here</c><03:14:55.050><c> and</c><03:14:55.260><c> then</c><03:14:56.069><c> when</c><03:14:56.250><c> we</c><03:14:56.399><c> do</c><03:14:56.550><c> new</c>
+
+03:14:56.900 --> 03:14:56.910 align:start position:0%
+that's up here and then when we do new
+ 
+
+03:14:56.910 --> 03:15:00.320 align:start position:0%
+that's up here and then when we do new
+vegetable<03:14:57.660><c> and</c><03:14:57.780><c> passing</c><03:14:58.350><c> carrot</c><03:14:58.979><c> this</c><03:14:59.760><c> carrot</c>
+
+03:15:00.320 --> 03:15:00.330 align:start position:0%
+vegetable and passing carrot this carrot
+ 
+
+03:15:00.330 --> 03:15:02.300 align:start position:0%
+vegetable and passing carrot this carrot
+will<03:15:00.420><c> go</c><03:15:00.569><c> into</c><03:15:00.720><c> here</c><03:15:01.140><c> and</c><03:15:01.290><c> it'll</c><03:15:01.859><c> get</c><03:15:01.950><c> set</c><03:15:02.189><c> as</c>
+
+03:15:02.300 --> 03:15:02.310 align:start position:0%
+will go into here and it'll get set as
+ 
+
+03:15:02.310 --> 03:15:05.120 align:start position:0%
+will go into here and it'll get set as
+this<03:15:02.580><c> that</c><03:15:02.819><c> name</c><03:15:03.120><c> so</c><03:15:03.840><c> when</c><03:15:04.380><c> we</c><03:15:04.500><c> console</c><03:15:05.010><c> that</c>
+
+03:15:05.120 --> 03:15:05.130 align:start position:0%
+this that name so when we console that
+ 
+
+03:15:05.130 --> 03:15:06.800 align:start position:0%
+this that name so when we console that
+log<03:15:05.399><c> here</c><03:15:05.880><c> at</c><03:15:06.000><c> that</c><03:15:06.180><c> name</c>
+
+03:15:06.800 --> 03:15:06.810 align:start position:0%
+log here at that name
+ 
+
+03:15:06.810 --> 03:15:13.701 align:start position:0%
+log here at that name
+we<03:15:07.229><c> should</c><03:15:07.590><c> get</c><03:15:08.420><c> carrot</c>
+
+03:15:13.701 --> 03:15:13.711 align:start position:0%
+ 
+ 
+
+03:15:13.711 --> 03:15:16.461 align:start position:0%
+ 
+with<03:15:14.400><c> a</c><03:15:14.431><c> class</c><03:15:14.820><c> object</c><03:15:15.450><c> you</c><03:15:15.721><c> often</c><03:15:16.200><c> want</c><03:15:16.411><c> to</c>
+
+03:15:16.461 --> 03:15:16.471 align:start position:0%
+with a class object you often want to
+ 
+
+03:15:16.471 --> 03:15:18.770 align:start position:0%
+with a class object you often want to
+obtain<03:15:16.950><c> values</c><03:15:17.431><c> from</c><03:15:17.641><c> the</c><03:15:17.761><c> object</c><03:15:18.211><c> and</c><03:15:18.360><c> set</c><03:15:18.751><c> a</c>
+
+03:15:18.770 --> 03:15:18.780 align:start position:0%
+obtain values from the object and set a
+ 
+
+03:15:18.780 --> 03:15:20.711 align:start position:0%
+obtain values from the object and set a
+value<03:15:19.141><c> of</c><03:15:19.530><c> a</c><03:15:19.621><c> property</c><03:15:19.891><c> within</c><03:15:20.371><c> an</c><03:15:20.490><c> object</c>
+
+03:15:20.711 --> 03:15:20.721 align:start position:0%
+value of a property within an object
+ 
+
+03:15:20.721 --> 03:15:22.850 align:start position:0%
+value of a property within an object
+these<03:15:21.721><c> are</c><03:15:21.900><c> often</c><03:15:22.051><c> called</c><03:15:22.230><c> getters</c><03:15:22.831><c> and</c>
+
+03:15:22.850 --> 03:15:22.860 align:start position:0%
+these are often called getters and
+ 
+
+03:15:22.860 --> 03:15:26.600 align:start position:0%
+these are often called getters and
+setters<03:15:23.480><c> so</c><03:15:24.480><c> in</c><03:15:24.841><c> this</c><03:15:25.081><c> class</c><03:15:25.440><c> object</c><03:15:26.041><c> we</c><03:15:26.581><c> have</c>
+
+03:15:26.600 --> 03:15:26.610 align:start position:0%
+setters so in this class object we have
+ 
+
+03:15:26.610 --> 03:15:28.551 align:start position:0%
+setters so in this class object we have
+the<03:15:27.030><c> constructor</c><03:15:27.690><c> which</c><03:15:27.990><c> we</c><03:15:28.141><c> already</c><03:15:28.351><c> talked</c>
+
+03:15:28.551 --> 03:15:28.561 align:start position:0%
+the constructor which we already talked
+ 
+
+03:15:28.561 --> 03:15:31.520 align:start position:0%
+the constructor which we already talked
+about<03:15:28.940><c> we</c><03:15:29.940><c> also</c><03:15:30.181><c> have</c><03:15:30.511><c> a</c><03:15:30.541><c> getter</c><03:15:31.021><c> and</c><03:15:31.110><c> setter</c>
+
+03:15:31.520 --> 03:15:31.530 align:start position:0%
+about we also have a getter and setter
+ 
+
+03:15:31.530 --> 03:15:35.690 align:start position:0%
+about we also have a getter and setter
+to<03:15:32.131><c> get</c><03:15:32.940><c> and</c><03:15:33.150><c> set</c><03:15:33.631><c> the</c><03:15:34.381><c> writer</c><03:15:34.711><c> so</c><03:15:35.341><c> we</c><03:15:35.431><c> can</c><03:15:35.551><c> get</c>
+
+03:15:35.690 --> 03:15:35.700 align:start position:0%
+to get and set the writer so we can get
+ 
+
+03:15:35.700 --> 03:15:37.761 align:start position:0%
+to get and set the writer so we can get
+the<03:15:35.851><c> writer</c><03:15:36.091><c> and</c><03:15:36.391><c> we</c><03:15:36.541><c> can</c><03:15:36.780><c> set</c><03:15:37.320><c> the</c><03:15:37.561><c> writer</c>
+
+03:15:37.761 --> 03:15:37.771 align:start position:0%
+the writer and we can set the writer
+ 
+
+03:15:37.771 --> 03:15:40.190 align:start position:0%
+the writer and we can set the writer
+getter<03:15:38.341><c> functions</c><03:15:38.820><c> are</c><03:15:39.121><c> meant</c><03:15:39.570><c> to</c><03:15:39.690><c> simply</c>
+
+03:15:40.190 --> 03:15:40.200 align:start position:0%
+getter functions are meant to simply
+ 
+
+03:15:40.200 --> 03:15:42.921 align:start position:0%
+getter functions are meant to simply
+return<03:15:40.711><c> or</c><03:15:41.011><c> get</c><03:15:41.371><c> the</c><03:15:41.700><c> value</c><03:15:42.091><c> of</c><03:15:42.121><c> an</c><03:15:42.511><c> object's</c>
+
+03:15:42.921 --> 03:15:42.931 align:start position:0%
+return or get the value of an object's
+ 
+
+03:15:42.931 --> 03:15:44.991 align:start position:0%
+return or get the value of an object's
+private<03:15:43.411><c> variable</c><03:15:43.860><c> to</c><03:15:44.070><c> the</c><03:15:44.190><c> user</c><03:15:44.431><c> without</c><03:15:44.671><c> the</c>
+
+03:15:44.991 --> 03:15:45.001 align:start position:0%
+private variable to the user without the
+ 
+
+03:15:45.001 --> 03:15:47.031 align:start position:0%
+private variable to the user without the
+user<03:15:45.181><c> directly</c><03:15:45.721><c> accessing</c><03:15:46.501><c> the</c><03:15:46.621><c> private</c>
+
+03:15:47.031 --> 03:15:47.041 align:start position:0%
+user directly accessing the private
+ 
+
+03:15:47.041 --> 03:15:49.640 align:start position:0%
+user directly accessing the private
+variable<03:15:47.581><c> so</c><03:15:48.121><c> the</c><03:15:48.360><c> private</c><03:15:48.780><c> variable</c><03:15:49.261><c> is</c><03:15:49.440><c> this</c>
+
+03:15:49.640 --> 03:15:49.650 align:start position:0%
+variable so the private variable is this
+ 
+
+03:15:49.650 --> 03:15:52.761 align:start position:0%
+variable so the private variable is this
+underscore<03:15:50.341><c> author</c><03:15:50.700><c> that</c><03:15:51.690><c> gets</c><03:15:51.990><c> set</c><03:15:52.320><c> when</c><03:15:52.621><c> you</c>
+
+03:15:52.761 --> 03:15:52.771 align:start position:0%
+underscore author that gets set when you
+ 
+
+03:15:52.771 --> 03:15:56.031 align:start position:0%
+underscore author that gets set when you
+construct<03:15:53.341><c> the</c><03:15:53.820><c> object</c><03:15:54.331><c> and</c><03:15:54.631><c> then</c><03:15:55.320><c> when</c><03:15:55.561><c> we</c><03:15:55.711><c> do</c>
+
+03:15:56.031 --> 03:15:56.041 align:start position:0%
+construct the object and then when we do
+ 
+
+03:15:56.041 --> 03:15:58.881 align:start position:0%
+construct the object and then when we do
+get<03:15:56.311><c> writer</c><03:15:56.641><c> it's</c><03:15:56.940><c> gonna</c><03:15:57.030><c> return</c><03:15:57.591><c> this</c><03:15:58.591><c> down</c>
+
+03:15:58.881 --> 03:15:58.891 align:start position:0%
+get writer it's gonna return this down
+ 
+
+03:15:58.891 --> 03:16:00.651 align:start position:0%
+get writer it's gonna return this down
+underscore<03:15:59.311><c> author</c><03:15:59.521><c> so</c><03:16:00.150><c> you</c><03:16:00.211><c> never</c><03:16:00.421><c> actually</c>
+
+03:16:00.651 --> 03:16:00.661 align:start position:0%
+underscore author so you never actually
+ 
+
+03:16:00.661 --> 03:16:04.251 align:start position:0%
+underscore author so you never actually
+interact<03:16:01.261><c> directly</c><03:16:01.980><c> with</c><03:16:02.311><c> this</c><03:16:02.940><c> variable</c><03:16:03.601><c> but</c>
+
+03:16:04.251 --> 03:16:04.261 align:start position:0%
+interact directly with this variable but
+ 
+
+03:16:04.261 --> 03:16:06.350 align:start position:0%
+interact directly with this variable but
+it's<03:16:04.561><c> going</c><03:16:04.831><c> to</c><03:16:05.131><c> get</c><03:16:05.461><c> the</c><03:16:05.641><c> writer</c><03:16:05.911><c> which</c><03:16:06.211><c> is</c>
+
+03:16:06.350 --> 03:16:06.360 align:start position:0%
+it's going to get the writer which is
+ 
+
+03:16:06.360 --> 03:16:08.361 align:start position:0%
+it's going to get the writer which is
+the<03:16:06.480><c> author</c><03:16:06.631><c> here</c><03:16:07.081><c> and</c><03:16:07.261><c> when</c><03:16:07.860><c> you're</c><03:16:07.980><c> setting</c>
+
+03:16:08.361 --> 03:16:08.371 align:start position:0%
+the author here and when you're setting
+ 
+
+03:16:08.371 --> 03:16:09.861 align:start position:0%
+the author here and when you're setting
+it's<03:16:08.581><c> the</c><03:16:08.700><c> same</c><03:16:09.001><c> so</c><03:16:09.570><c> you're</c><03:16:09.690><c> never</c>
+
+03:16:09.861 --> 03:16:09.871 align:start position:0%
+it's the same so you're never
+ 
+
+03:16:09.871 --> 03:16:12.230 align:start position:0%
+it's the same so you're never
+interacting<03:16:10.591><c> with</c><03:16:10.740><c> underscore</c><03:16:11.280><c> author</c><03:16:11.490><c> but</c>
+
+03:16:12.230 --> 03:16:12.240 align:start position:0%
+interacting with underscore author but
+ 
+
+03:16:12.240 --> 03:16:16.461 align:start position:0%
+interacting with underscore author but
+you<03:16:12.421><c> can</c><03:16:12.721><c> set</c><03:16:13.141><c> that</c><03:16:13.711><c> with</c><03:16:14.251><c> the</c><03:16:14.690><c> writer</c><03:16:15.690><c> setter</c>
+
+03:16:16.461 --> 03:16:16.471 align:start position:0%
+you can set that with the writer setter
+ 
+
+03:16:16.471 --> 03:16:18.711 align:start position:0%
+you can set that with the writer setter
+this<03:16:16.681><c> change</c><03:16:17.131><c> could</c><03:16:17.431><c> invoke</c><03:16:17.700><c> calculations</c><03:16:18.570><c> or</c>
+
+03:16:18.711 --> 03:16:18.721 align:start position:0%
+this change could invoke calculations or
+ 
+
+03:16:18.721 --> 03:16:21.201 align:start position:0%
+this change could invoke calculations or
+even<03:16:19.110><c> even</c><03:16:19.351><c> overriding</c><03:16:20.341><c> the</c><03:16:20.461><c> previous</c><03:16:20.881><c> value</c>
+
+03:16:21.201 --> 03:16:21.211 align:start position:0%
+even even overriding the previous value
+ 
+
+03:16:21.211 --> 03:16:24.051 align:start position:0%
+even even overriding the previous value
+completely<03:16:21.931><c> so</c><03:16:22.530><c> you</c><03:16:22.561><c> can</c><03:16:22.860><c> have</c><03:16:22.980><c> any</c><03:16:23.221><c> number</c><03:16:23.851><c> of</c>
+
+03:16:24.051 --> 03:16:24.061 align:start position:0%
+completely so you can have any number of
+ 
+
+03:16:24.061 --> 03:16:27.560 align:start position:0%
+completely so you can have any number of
+code<03:16:24.480><c> lines</c><03:16:24.780><c> in</c><03:16:25.200><c> this</c><03:16:25.471><c> setter</c><03:16:25.860><c> to</c><03:16:26.570><c> ultimately</c>
+
+03:16:27.560 --> 03:16:27.570 align:start position:0%
+code lines in this setter to ultimately
+ 
+
+03:16:27.570 --> 03:16:30.020 align:start position:0%
+code lines in this setter to ultimately
+maybe<03:16:28.411><c> do</c><03:16:28.711><c> different</c><03:16:29.041><c> calculations</c><03:16:29.700><c> before</c>
+
+03:16:30.020 --> 03:16:30.030 align:start position:0%
+maybe do different calculations before
+ 
+
+03:16:30.030 --> 03:16:31.970 align:start position:0%
+maybe do different calculations before
+you<03:16:30.121><c> set</c><03:16:30.391><c> it</c><03:16:30.541><c> or</c><03:16:30.721><c> a</c><03:16:30.780><c> calculation</c><03:16:31.591><c> before</c><03:16:31.771><c> you</c>
+
+03:16:31.970 --> 03:16:31.980 align:start position:0%
+you set it or a calculation before you
+ 
+
+03:16:31.980 --> 03:16:34.161 align:start position:0%
+you set it or a calculation before you
+get<03:16:32.251><c> the</c><03:16:32.461><c> property</c><03:16:32.940><c> so</c><03:16:33.480><c> what</c><03:16:33.631><c> we're</c><03:16:33.780><c> gonna</c><03:16:33.841><c> do</c>
+
+03:16:34.161 --> 03:16:34.171 align:start position:0%
+get the property so what we're gonna do
+ 
+
+03:16:34.171 --> 03:16:36.140 align:start position:0%
+get the property so what we're gonna do
+is<03:16:34.411><c> make</c><03:16:35.011><c> your</c><03:16:35.131><c> own</c><03:16:35.341><c> getter</c><03:16:35.641><c> and</c><03:16:35.700><c> setter</c><03:16:35.881><c> for</c>
+
+03:16:36.140 --> 03:16:36.150 align:start position:0%
+is make your own getter and setter for
+ 
+
+03:16:36.150 --> 03:16:39.261 align:start position:0%
+is make your own getter and setter for
+the<03:16:36.811><c> thermostat</c><03:16:37.530><c> class</c><03:16:38.190><c> we're</c><03:16:38.911><c> gonna</c><03:16:39.001><c> create</c>
+
+03:16:39.261 --> 03:16:39.271 align:start position:0%
+the thermostat class we're gonna create
+ 
+
+03:16:39.271 --> 03:16:41.390 align:start position:0%
+the thermostat class we're gonna create
+a<03:16:39.360><c> thermostat</c><03:16:39.841><c> class</c><03:16:40.141><c> and</c><03:16:40.530><c> we're</c><03:16:41.041><c> gonna</c><03:16:41.131><c> have</c>
+
+03:16:41.390 --> 03:16:41.400 align:start position:0%
+a thermostat class and we're gonna have
+ 
+
+03:16:41.400 --> 03:16:44.270 align:start position:0%
+a thermostat class and we're gonna have
+a<03:16:41.581><c> getter</c><03:16:41.940><c> and</c><03:16:42.030><c> setter</c><03:16:42.391><c> so</c><03:16:43.320><c> here's</c><03:16:43.801><c> the</c><03:16:44.041><c> thing</c>
+
+03:16:44.270 --> 03:16:44.280 align:start position:0%
+a getter and setter so here's the thing
+ 
+
+03:16:44.280 --> 03:16:46.791 align:start position:0%
+a getter and setter so here's the thing
+about<03:16:44.400><c> this</c><03:16:44.551><c> challenge</c><03:16:45.211><c> is</c><03:16:45.421><c> that</c><03:16:45.780><c> when</c><03:16:46.650><c> we</c>
+
+03:16:46.791 --> 03:16:46.801 align:start position:0%
+about this challenge is that when we
+ 
+
+03:16:46.801 --> 03:16:49.190 align:start position:0%
+about this challenge is that when we
+construct<03:16:47.431><c> the</c><03:16:47.610><c> class</c><03:16:47.911><c> it's</c><03:16:48.421><c> going</c><03:16:48.721><c> to</c><03:16:48.811><c> accept</c>
+
+03:16:49.190 --> 03:16:49.200 align:start position:0%
+construct the class it's going to accept
+ 
+
+03:16:49.200 --> 03:16:51.321 align:start position:0%
+construct the class it's going to accept
+Fahrenheit<03:16:49.980><c> temperature</c><03:16:50.730><c> but</c><03:16:51.061><c> we're</c><03:16:51.211><c> going</c>
+
+03:16:51.321 --> 03:16:51.331 align:start position:0%
+Fahrenheit temperature but we're going
+ 
+
+03:16:51.331 --> 03:16:52.850 align:start position:0%
+Fahrenheit temperature but we're going
+to<03:16:51.391><c> create</c><03:16:51.661><c> a</c><03:16:51.751><c> getter</c><03:16:52.081><c> and</c><03:16:52.171><c> setter</c><03:16:52.351><c> in</c><03:16:52.740><c> the</c>
+
+03:16:52.850 --> 03:16:52.860 align:start position:0%
+to create a getter and setter in the
+ 
+
+03:16:52.860 --> 03:16:54.501 align:start position:0%
+to create a getter and setter in the
+class<03:16:53.131><c> to</c><03:16:53.341><c> obtain</c><03:16:53.671><c> the</c><03:16:53.851><c> temperature</c><03:16:54.331><c> in</c>
+
+03:16:54.501 --> 03:16:54.511 align:start position:0%
+class to obtain the temperature in
+ 
+
+03:16:54.511 --> 03:16:57.081 align:start position:0%
+class to obtain the temperature in
+Celsius<03:16:55.320><c> so</c><03:16:56.011><c> it's</c><03:16:56.161><c> gonna</c><03:16:56.280><c> have</c><03:16:56.521><c> to</c><03:16:56.671><c> do</c><03:16:56.881><c> the</c>
+
+03:16:57.081 --> 03:16:57.091 align:start position:0%
+Celsius so it's gonna have to do the
+ 
+
+03:16:57.091 --> 03:17:00.111 align:start position:0%
+Celsius so it's gonna have to do the
+calculation<03:16:57.900><c> right</c><03:16:58.261><c> within</c><03:16:58.530><c> the</c><03:16:59.011><c> class</c><03:16:59.371><c> so</c>
+
+03:17:00.111 --> 03:17:00.121 align:start position:0%
+calculation right within the class so
+ 
+
+03:17:00.121 --> 03:17:02.421 align:start position:0%
+calculation right within the class so
+let's<03:17:00.331><c> do</c><03:17:00.601><c> that</c><03:17:00.631><c> we're</c><03:17:01.381><c> going</c><03:17:01.471><c> to</c><03:17:01.530><c> do</c><03:17:01.711><c> a</c><03:17:01.740><c> class</c>
+
+03:17:02.421 --> 03:17:02.431 align:start position:0%
+let's do that we're going to do a class
+ 
+
+03:17:02.431 --> 03:17:08.301 align:start position:0%
+let's do that we're going to do a class
+of<03:17:04.311><c> thermostat</c><03:17:05.311><c> and</c><03:17:06.561><c> in</c><03:17:07.561><c> this</c><03:17:07.681><c> class</c><03:17:07.921><c> we</c><03:17:08.131><c> need</c>
+
+03:17:08.301 --> 03:17:08.311 align:start position:0%
+of thermostat and in this class we need
+ 
+
+03:17:08.311 --> 03:17:11.871 align:start position:0%
+of thermostat and in this class we need
+the<03:17:08.400><c> constructor</c><03:17:10.221><c> but</c><03:17:11.221><c> when</c><03:17:11.431><c> you</c><03:17:11.551><c> first</c>
+
+03:17:11.871 --> 03:17:11.881 align:start position:0%
+the constructor but when you first
+ 
+
+03:17:11.881 --> 03:17:13.611 align:start position:0%
+the constructor but when you first
+create<03:17:12.360><c> the</c><03:17:12.541><c> thermostat</c><03:17:13.200><c> you're</c><03:17:13.411><c> going</c><03:17:13.530><c> to</c>
+
+03:17:13.611 --> 03:17:13.621 align:start position:0%
+create the thermostat you're going to
+ 
+
+03:17:13.621 --> 03:17:16.041 align:start position:0%
+create the thermostat you're going to
+pass<03:17:13.831><c> in</c><03:17:14.041><c> a</c><03:17:14.221><c> temperature</c><03:17:14.940><c> and</c><03:17:15.181><c> remember</c><03:17:15.900><c> this</c>
+
+03:17:16.041 --> 03:17:16.051 align:start position:0%
+pass in a temperature and remember this
+ 
+
+03:17:16.051 --> 03:17:19.701 align:start position:0%
+pass in a temperature and remember this
+is<03:17:16.261><c> going</c><03:17:16.561><c> to</c><03:17:16.771><c> be</c><03:17:17.181><c> Fahrenheit</c><03:17:18.181><c> now</c><03:17:19.141><c> within</c>
+
+03:17:19.701 --> 03:17:19.711 align:start position:0%
+is going to be Fahrenheit now within
+ 
+
+03:17:19.711 --> 03:17:22.041 align:start position:0%
+is going to be Fahrenheit now within
+this<03:17:19.921><c> constructor</c><03:17:20.820><c> we're</c><03:17:21.421><c> going</c><03:17:21.690><c> to</c><03:17:21.780><c> set</c><03:17:22.021><c> a</c>
+
+03:17:22.041 --> 03:17:22.051 align:start position:0%
+this constructor we're going to set a
+ 
+
+03:17:22.051 --> 03:17:25.011 align:start position:0%
+this constructor we're going to set a
+private<03:17:22.530><c> variable</c><03:17:22.740><c> this</c><03:17:23.311><c> dot</c><03:17:24.021><c> underscore</c>
+
+03:17:25.011 --> 03:17:25.021 align:start position:0%
+private variable this dot underscore
+ 
+
+03:17:25.021 --> 03:17:27.470 align:start position:0%
+private variable this dot underscore
+temp<03:17:25.530><c> so</c><03:17:26.521><c> the</c><03:17:27.121><c> word</c>
+
+03:17:27.470 --> 03:17:27.480 align:start position:0%
+temp so the word
+ 
+
+03:17:27.480 --> 03:17:31.430 align:start position:0%
+temp so the word
+this<03:17:27.860><c> just</c><03:17:28.860><c> means</c><03:17:29.131><c> that</c><03:17:29.341><c> this</c><03:17:30.080><c> variable</c><03:17:31.080><c> is</c>
+
+03:17:31.430 --> 03:17:31.440 align:start position:0%
+this just means that this variable is
+ 
+
+03:17:31.440 --> 03:17:33.621 align:start position:0%
+this just means that this variable is
+only<03:17:31.740><c> accessible</c><03:17:32.190><c> within</c><03:17:32.580><c> this</c><03:17:32.820><c> class</c><03:17:33.181><c> here</c>
+
+03:17:33.621 --> 03:17:33.631 align:start position:0%
+only accessible within this class here
+ 
+
+03:17:33.631 --> 03:17:36.881 align:start position:0%
+only accessible within this class here
+and<03:17:33.811><c> the</c><03:17:34.591><c> underscore</c><03:17:35.370><c> temp</c><03:17:36.000><c> whenever</c><03:17:36.570><c> you</c>
+
+03:17:36.881 --> 03:17:36.891 align:start position:0%
+and the underscore temp whenever you
+ 
+
+03:17:36.891 --> 03:17:39.801 align:start position:0%
+and the underscore temp whenever you
+start<03:17:37.891><c> a</c><03:17:38.070><c> variable</c><03:17:38.881><c> with</c><03:17:39.030><c> an</c><03:17:39.150><c> underscore</c>
+
+03:17:39.801 --> 03:17:39.811 align:start position:0%
+start a variable with an underscore
+ 
+
+03:17:39.811 --> 03:17:43.220 align:start position:0%
+start a variable with an underscore
+that's<03:17:40.740><c> going</c><03:17:41.280><c> to</c><03:17:41.490><c> generally</c><03:17:42.301><c> signify</c><03:17:42.931><c> that</c>
+
+03:17:43.220 --> 03:17:43.230 align:start position:0%
+that's going to generally signify that
+ 
+
+03:17:43.230 --> 03:17:45.020 align:start position:0%
+that's going to generally signify that
+it's<03:17:43.440><c> a</c><03:17:43.561><c> private</c><03:17:44.131><c> variable</c><03:17:44.311><c> that</c><03:17:44.761><c> you're</c><03:17:44.910><c> not</c>
+
+03:17:45.020 --> 03:17:45.030 align:start position:0%
+it's a private variable that you're not
+ 
+
+03:17:45.030 --> 03:17:46.701 align:start position:0%
+it's a private variable that you're not
+supposed<03:17:45.271><c> to</c><03:17:45.330><c> access</c><03:17:45.780><c> it</c><03:17:45.900><c> outside</c><03:17:46.021><c> of</c><03:17:46.591><c> that</c>
+
+03:17:46.701 --> 03:17:46.711 align:start position:0%
+supposed to access it outside of that
+ 
+
+03:17:46.711 --> 03:17:49.430 align:start position:0%
+supposed to access it outside of that
+scope<03:17:47.070><c> or</c><03:17:47.311><c> outside</c><03:17:47.610><c> of</c><03:17:47.671><c> that</c><03:17:47.761><c> class</c><03:17:48.120><c> so</c><03:17:48.870><c> we're</c>
+
+03:17:49.430 --> 03:17:49.440 align:start position:0%
+scope or outside of that class so we're
+ 
+
+03:17:49.440 --> 03:17:52.100 align:start position:0%
+scope or outside of that class so we're
+gonna<03:17:49.591><c> set</c><03:17:49.980><c> the</c><03:17:50.190><c> temp</c><03:17:50.641><c> and</c><03:17:50.971><c> we're</c><03:17:51.721><c> not</c><03:17:51.841><c> going</c>
+
+03:17:52.100 --> 03:17:52.110 align:start position:0%
+gonna set the temp and we're not going
+ 
+
+03:17:52.110 --> 03:17:54.411 align:start position:0%
+gonna set the temp and we're not going
+to<03:17:52.230><c> just</c><03:17:52.530><c> put</c><03:17:53.160><c> this</c><03:17:53.190><c> underscore</c><03:17:53.851><c> temp</c><03:17:54.091><c> equals</c>
+
+03:17:54.411 --> 03:17:54.421 align:start position:0%
+to just put this underscore temp equals
+ 
+
+03:17:54.421 --> 03:17:57.440 align:start position:0%
+to just put this underscore temp equals
+temp<03:17:54.931><c> because</c><03:17:55.650><c> it's</c><03:17:56.551><c> passed</c><03:17:56.971><c> in</c><03:17:57.271><c> as</c><03:17:57.421><c> a</c>
+
+03:17:57.440 --> 03:17:57.450 align:start position:0%
+temp because it's passed in as a
+ 
+
+03:17:57.450 --> 03:17:59.591 align:start position:0%
+temp because it's passed in as a
+Fahrenheit<03:17:58.141><c> and</c><03:17:58.290><c> we</c><03:17:58.440><c> want</c><03:17:58.620><c> to</c><03:17:58.681><c> convert</c><03:17:59.101><c> it</c><03:17:59.280><c> to</c>
+
+03:17:59.591 --> 03:17:59.601 align:start position:0%
+Fahrenheit and we want to convert it to
+ 
+
+03:17:59.601 --> 03:18:02.001 align:start position:0%
+Fahrenheit and we want to convert it to
+Celsius<03:18:00.601><c> I</c><03:18:00.870><c> just</c><03:18:01.320><c> happen</c><03:18:01.591><c> to</c><03:18:01.650><c> have</c><03:18:01.740><c> the</c>
+
+03:18:02.001 --> 03:18:02.011 align:start position:0%
+Celsius I just happen to have the
+ 
+
+03:18:02.011 --> 03:18:04.820 align:start position:0%
+Celsius I just happen to have the
+equation<03:18:02.580><c> for</c><03:18:02.610><c> Celsius</c><03:18:03.360><c> so</c><03:18:04.051><c> it's</c><03:18:04.230><c> five</c><03:18:04.591><c> over</c>
+
+03:18:04.820 --> 03:18:04.830 align:start position:0%
+equation for Celsius so it's five over
+ 
+
+03:18:04.830 --> 03:18:11.060 align:start position:0%
+equation for Celsius so it's five over
+nine<03:18:05.070><c> times</c><03:18:06.171><c> and</c><03:18:07.171><c> then</c><03:18:07.921><c> with</c><03:18:08.101><c> temp</c><03:18:10.070><c> minus</c>
+
+03:18:11.060 --> 03:18:11.070 align:start position:0%
+nine times and then with temp minus
+ 
+
+03:18:11.070 --> 03:18:15.381 align:start position:0%
+nine times and then with temp minus
+thirty-two<03:18:12.771><c> so</c><03:18:13.771><c> now</c><03:18:14.131><c> we</c><03:18:14.700><c> can</c><03:18:14.971><c> create</c><03:18:15.301><c> the</c>
+
+03:18:15.381 --> 03:18:15.391 align:start position:0%
+thirty-two so now we can create the
+ 
+
+03:18:15.391 --> 03:18:20.180 align:start position:0%
+thirty-two so now we can create the
+getter<03:18:16.021><c> and</c><03:18:16.110><c> setter</c><03:18:17.841><c> so</c><03:18:18.841><c> we'll</c><03:18:19.681><c> forget</c><03:18:20.070><c> it</c>
+
+03:18:20.180 --> 03:18:20.190 align:start position:0%
+getter and setter so we'll forget it
+ 
+
+03:18:20.190 --> 03:18:23.871 align:start position:0%
+getter and setter so we'll forget it
+will<03:18:20.280><c> you</c><03:18:20.370><c> get</c><03:18:20.961><c> temperature</c><03:18:21.961><c> and</c><03:18:22.761><c> we're</c><03:18:23.761><c> just</c>
+
+03:18:23.871 --> 03:18:23.881 align:start position:0%
+will you get temperature and we're just
+ 
+
+03:18:23.881 --> 03:18:28.360 align:start position:0%
+will you get temperature and we're just
+going<03:18:24.120><c> to</c><03:18:24.240><c> return</c><03:18:25.341><c> this</c><03:18:26.341><c> dot</c><03:18:26.961><c> underscore</c><03:18:27.961><c> temp</c>
+
+03:18:28.360 --> 03:18:28.370 align:start position:0%
+going to return this dot underscore temp
+ 
+
+03:18:28.370 --> 03:18:31.011 align:start position:0%
+going to return this dot underscore temp
+which<03:18:29.370><c> now</c><03:18:29.610><c> it's</c><03:18:29.881><c> in</c><03:18:30.030><c> Celsius</c><03:18:30.601><c> because</c><03:18:30.841><c> we're</c>
+
+03:18:31.011 --> 03:18:31.021 align:start position:0%
+which now it's in Celsius because we're
+ 
+
+03:18:31.021 --> 03:18:33.801 align:start position:0%
+which now it's in Celsius because we're
+storing<03:18:31.440><c> the</c><03:18:31.801><c> value</c><03:18:31.830><c> in</c><03:18:32.461><c> Celsius</c><03:18:33.061><c> even</c><03:18:33.601><c> though</c>
+
+03:18:33.801 --> 03:18:33.811 align:start position:0%
+storing the value in Celsius even though
+ 
+
+03:18:33.811 --> 03:18:36.230 align:start position:0%
+storing the value in Celsius even though
+the<03:18:34.320><c> thermostat</c><03:18:34.801><c> is</c><03:18:34.860><c> created</c><03:18:35.431><c> in</c><03:18:35.610><c> Fahrenheit</c>
+
+03:18:36.230 --> 03:18:36.240 align:start position:0%
+the thermostat is created in Fahrenheit
+ 
+
+03:18:36.240 --> 03:18:38.480 align:start position:0%
+the thermostat is created in Fahrenheit
+so<03:18:37.051><c> with</c><03:18:37.290><c> the</c><03:18:37.440><c> setter</c><03:18:37.740><c> it's</c><03:18:37.950><c> going</c><03:18:38.101><c> to</c><03:18:38.160><c> be</c><03:18:38.311><c> the</c>
+
+03:18:38.480 --> 03:18:38.490 align:start position:0%
+so with the setter it's going to be the
+ 
+
+03:18:38.490 --> 03:18:44.980 align:start position:0%
+so with the setter it's going to be the
+same<03:18:38.790><c> set</c><03:18:39.740><c> temperature</c><03:18:41.181><c> updated</c><03:18:42.410><c> temp</c><03:18:43.410><c> and</c>
+
+03:18:44.980 --> 03:18:44.990 align:start position:0%
+same set temperature updated temp and
+ 
+
+03:18:44.990 --> 03:18:48.140 align:start position:0%
+same set temperature updated temp and
+it's<03:18:45.990><c> now</c><03:18:46.261><c> going</c><03:18:46.620><c> to</c><03:18:46.891><c> still</c><03:18:47.160><c> be</c><03:18:47.190><c> in</c><03:18:47.400><c> Celsius</c><03:18:47.940><c> so</c>
+
+03:18:48.140 --> 03:18:48.150 align:start position:0%
+it's now going to still be in Celsius so
+ 
+
+03:18:48.150 --> 03:18:55.940 align:start position:0%
+it's now going to still be in Celsius so
+this<03:18:48.480><c> dot</c><03:18:49.730><c> temp</c><03:18:51.591><c> equals</c><03:18:52.820><c> updated</c><03:18:53.820><c> temp</c><03:18:54.950><c> so</c>
+
+03:18:55.940 --> 03:18:55.950 align:start position:0%
+this dot temp equals updated temp so
+ 
+
+03:18:55.950 --> 03:18:57.591 align:start position:0%
+this dot temp equals updated temp so
+let's<03:18:56.370><c> look</c><03:18:56.610><c> at</c><03:18:56.761><c> the</c><03:18:56.851><c> code</c><03:18:57.061><c> down</c><03:18:57.240><c> here</c><03:18:57.480><c> how</c>
+
+03:18:57.591 --> 03:18:57.601 align:start position:0%
+let's look at the code down here how
+ 
+
+03:18:57.601 --> 03:19:00.171 align:start position:0%
+let's look at the code down here how
+we're<03:18:57.750><c> using</c><03:18:57.780><c> it</c><03:18:58.171><c> so</c><03:18:58.740><c> the</c><03:18:59.040><c> consular</c><03:18:59.820><c> Mesilla</c>
+
+03:19:00.171 --> 03:19:00.181 align:start position:0%
+we're using it so the consular Mesilla
+ 
+
+03:19:00.181 --> 03:19:02.480 align:start position:0%
+we're using it so the consular Mesilla
+equals<03:19:00.631><c> mate</c><03:19:00.990><c> class</c><03:19:01.351><c> this</c><03:19:01.921><c> mate</c><03:19:02.250><c> class</c>
+
+03:19:02.480 --> 03:19:02.490 align:start position:0%
+equals mate class this mate class
+ 
+
+03:19:02.490 --> 03:19:04.220 align:start position:0%
+equals mate class this mate class
+function<03:19:03.091><c> is</c><03:19:03.240><c> going</c><03:19:03.391><c> to</c><03:19:03.480><c> return</c><03:19:03.931><c> this</c>
+
+03:19:04.220 --> 03:19:04.230 align:start position:0%
+function is going to return this
+ 
+
+03:19:04.230 --> 03:19:08.091 align:start position:0%
+function is going to return this
+thermostat<03:19:04.801><c> object</c><03:19:05.761><c> here</c><03:19:06.120><c> and</c><03:19:06.471><c> then</c><03:19:07.471><c> we're</c>
+
+03:19:08.091 --> 03:19:08.101 align:start position:0%
+thermostat object here and then we're
+ 
+
+03:19:08.101 --> 03:19:10.310 align:start position:0%
+thermostat object here and then we're
+going<03:19:08.280><c> to</c><03:19:08.400><c> do</c><03:19:08.521><c> a</c><03:19:08.551><c> constant</c><03:19:09.240><c> thermos</c><03:19:09.780><c> equals</c>
+
+03:19:10.310 --> 03:19:10.320 align:start position:0%
+going to do a constant thermos equals
+ 
+
+03:19:10.320 --> 03:19:12.171 align:start position:0%
+going to do a constant thermos equals
+new<03:19:10.561><c> thermostat</c><03:19:11.280><c> so</c><03:19:11.851><c> when</c><03:19:12.030><c> you're</c>
+
+03:19:12.171 --> 03:19:12.181 align:start position:0%
+new thermostat so when you're
+ 
+
+03:19:12.181 --> 03:19:14.150 align:start position:0%
+new thermostat so when you're
+instantiating<03:19:12.961><c> an</c><03:19:13.200><c> object</c><03:19:13.711><c> you</c><03:19:13.801><c> always</c><03:19:14.011><c> use</c>
+
+03:19:14.150 --> 03:19:14.160 align:start position:0%
+instantiating an object you always use
+ 
+
+03:19:14.160 --> 03:19:16.730 align:start position:0%
+instantiating an object you always use
+the<03:19:14.341><c> new</c><03:19:14.551><c> keyword</c><03:19:14.820><c> new</c><03:19:15.660><c> thermostat</c><03:19:16.320><c> that's</c>
+
+03:19:16.730 --> 03:19:16.740 align:start position:0%
+the new keyword new thermostat that's
+ 
+
+03:19:16.740 --> 03:19:20.421 align:start position:0%
+the new keyword new thermostat that's
+this<03:19:17.040><c> and</c><03:19:17.250><c> we're</c><03:19:17.341><c> passing</c><03:19:17.910><c> in</c><03:19:18.591><c> 76</c><03:19:19.591><c> that</c><03:19:20.131><c> goes</c>
+
+03:19:20.421 --> 03:19:20.431 align:start position:0%
+this and we're passing in 76 that goes
+ 
+
+03:19:20.431 --> 03:19:23.600 align:start position:0%
+this and we're passing in 76 that goes
+into<03:19:20.641><c> the</c><03:19:20.910><c> constructor</c><03:19:21.421><c> the</c><03:19:21.750><c> temp</c><03:19:22.080><c> and</c><03:19:22.351><c> so</c><03:19:23.311><c> we</c>
+
+03:19:23.600 --> 03:19:23.610 align:start position:0%
+into the constructor the temp and so we
+ 
+
+03:19:23.610 --> 03:19:25.371 align:start position:0%
+into the constructor the temp and so we
+do<03:19:23.820><c> this</c><03:19:23.940><c> calculation</c><03:19:24.240><c> to</c><03:19:24.870><c> convert</c><03:19:25.230><c> that</c>
+
+03:19:25.371 --> 03:19:25.381 align:start position:0%
+do this calculation to convert that
+ 
+
+03:19:25.381 --> 03:19:28.610 align:start position:0%
+do this calculation to convert that
+Fahrenheit<03:19:26.070><c> to</c><03:19:26.400><c> the</c><03:19:26.580><c> Celsius</c><03:19:26.940><c> in</c><03:19:27.511><c> this</c><03:19:28.080><c> local</c>
+
+03:19:28.610 --> 03:19:28.620 align:start position:0%
+Fahrenheit to the Celsius in this local
+ 
+
+03:19:28.620 --> 03:19:31.850 align:start position:0%
+Fahrenheit to the Celsius in this local
+variable<03:19:28.650><c> here</c><03:19:29.521><c> and</c><03:19:29.700><c> then</c><03:19:30.511><c> let</c><03:19:31.051><c> temp</c><03:19:31.410><c> equals</c>
+
+03:19:31.850 --> 03:19:31.860 align:start position:0%
+variable here and then let temp equals
+ 
+
+03:19:31.860 --> 03:19:33.680 align:start position:0%
+variable here and then let temp equals
+thermal<03:19:32.400><c> temperature</c>
+
+03:19:33.680 --> 03:19:33.690 align:start position:0%
+thermal temperature
+ 
+
+03:19:33.690 --> 03:19:36.470 align:start position:0%
+thermal temperature
+so<03:19:33.961><c> thermostat</c><03:19:34.650><c> temperature</c><03:19:35.311><c> is</c><03:19:35.551><c> going</c><03:19:36.301><c> to</c>
+
+03:19:36.470 --> 03:19:36.480 align:start position:0%
+so thermostat temperature is going to
+ 
+
+03:19:36.480 --> 03:19:39.201 align:start position:0%
+so thermostat temperature is going to
+use<03:19:36.900><c> the</c><03:19:37.141><c> getter</c><03:19:37.410><c> get</c><03:19:37.950><c> temperature</c><03:19:38.641><c> and</c><03:19:38.881><c> it's</c>
+
+03:19:39.201 --> 03:19:39.211 align:start position:0%
+use the getter get temperature and it's
+ 
+
+03:19:39.211 --> 03:19:41.300 align:start position:0%
+use the getter get temperature and it's
+going<03:19:39.330><c> to</c><03:19:39.421><c> return</c><03:19:39.811><c> this</c><03:19:40.261><c> down</c><03:19:40.561><c> underscore</c><03:19:40.950><c> 10</c>
+
+03:19:41.300 --> 03:19:41.310 align:start position:0%
+going to return this down underscore 10
+ 
+
+03:19:41.310 --> 03:19:43.880 align:start position:0%
+going to return this down underscore 10
+so<03:19:41.909><c> a</c><03:19:41.939><c> key</c><03:19:42.449><c> thing</c><03:19:42.479><c> to</c><03:19:42.779><c> look</c><03:19:42.960><c> at</c><03:19:43.170><c> is</c><03:19:43.409><c> that</c><03:19:43.439><c> there</c>
+
+03:19:43.880 --> 03:19:43.890 align:start position:0%
+so a key thing to look at is that there
+ 
+
+03:19:43.890 --> 03:19:46.399 align:start position:0%
+so a key thing to look at is that there
+are<03:19:44.040><c> no</c><03:19:44.369><c> parentheses</c><03:19:44.850><c> after</c><03:19:45.449><c> this</c><03:19:45.840><c> so</c>
+
+03:19:46.399 --> 03:19:46.409 align:start position:0%
+are no parentheses after this so
+ 
+
+03:19:46.409 --> 03:19:48.800 align:start position:0%
+are no parentheses after this so
+generally<03:19:46.949><c> if</c><03:19:47.189><c> there's</c><03:19:47.790><c> if</c><03:19:48.000><c> something</c><03:19:48.659><c> is</c><03:19:48.779><c> a</c>
+
+03:19:48.800 --> 03:19:48.810 align:start position:0%
+generally if there's if something is a
+ 
+
+03:19:48.810 --> 03:19:50.780 align:start position:0%
+generally if there's if something is a
+function<03:19:48.899><c> you</c><03:19:49.529><c> would</c><03:19:49.649><c> see</c><03:19:49.800><c> parentheses</c><03:19:50.489><c> after</c>
+
+03:19:50.780 --> 03:19:50.790 align:start position:0%
+function you would see parentheses after
+ 
+
+03:19:50.790 --> 03:19:53.840 align:start position:0%
+function you would see parentheses after
+the<03:19:51.029><c> function</c><03:19:51.479><c> name</c><03:19:51.659><c> but</c><03:19:52.350><c> if</c><03:19:52.590><c> it's</c><03:19:52.829><c> a</c><03:19:52.979><c> variable</c>
+
+03:19:53.840 --> 03:19:53.850 align:start position:0%
+the function name but if it's a variable
+ 
+
+03:19:53.850 --> 03:19:56.780 align:start position:0%
+the function name but if it's a variable
+or<03:19:54.060><c> property</c><03:19:54.779><c> name</c><03:19:55.020><c> it's</c><03:19:55.590><c> going</c><03:19:55.920><c> to</c><03:19:56.310><c> not</c><03:19:56.520><c> have</c>
+
+03:19:56.780 --> 03:19:56.790 align:start position:0%
+or property name it's going to not have
+ 
+
+03:19:56.790 --> 03:19:59.830 align:start position:0%
+or property name it's going to not have
+parentheses<03:19:57.449><c> so</c><03:19:57.989><c> getters</c><03:19:58.409><c> and</c><03:19:58.439><c> setters</c><03:19:58.649><c> are</c>
+
+03:19:59.830 --> 03:19:59.840 align:start position:0%
+parentheses so getters and setters are
+ 
+
+03:19:59.840 --> 03:20:03.050 align:start position:0%
+parentheses so getters and setters are
+access<03:20:00.840><c> similar</c><03:20:01.199><c> to</c><03:20:01.319><c> properties</c><03:20:01.859><c> and</c><03:20:02.130><c> then</c><03:20:02.909><c> we</c>
+
+03:20:03.050 --> 03:20:03.060 align:start position:0%
+access similar to properties and then we
+ 
+
+03:20:03.060 --> 03:20:04.490 align:start position:0%
+access similar to properties and then we
+can<03:20:03.239><c> use</c><03:20:03.390><c> the</c><03:20:03.630><c> setter</c><03:20:04.109><c> here</c>
+
+03:20:04.490 --> 03:20:04.500 align:start position:0%
+can use the setter here
+ 
+
+03:20:04.500 --> 03:20:07.460 align:start position:0%
+can use the setter here
+thermostat<03:20:05.130><c> temperature</c><03:20:05.640><c> equals</c><03:20:06.119><c> 26</c><03:20:07.109><c> and</c>
+
+03:20:07.460 --> 03:20:07.470 align:start position:0%
+thermostat temperature equals 26 and
+ 
+
+03:20:07.470 --> 03:20:09.439 align:start position:0%
+thermostat temperature equals 26 and
+then<03:20:08.040><c> it</c><03:20:08.189><c> sets</c><03:20:08.550><c> it</c><03:20:08.760><c> with</c><03:20:08.909><c> the</c><03:20:09.090><c> updated</c>
+
+03:20:09.439 --> 03:20:09.449 align:start position:0%
+then it sets it with the updated
+ 
+
+03:20:09.449 --> 03:20:12.500 align:start position:0%
+then it sets it with the updated
+temperature<03:20:09.989><c> and</c><03:20:10.229><c> now</c><03:20:11.159><c> we</c><03:20:11.760><c> can</c><03:20:11.970><c> say</c><03:20:12.119><c> temp</c>
+
+03:20:12.500 --> 03:20:12.510 align:start position:0%
+temperature and now we can say temp
+ 
+
+03:20:12.510 --> 03:20:15.200 align:start position:0%
+temperature and now we can say temp
+equals<03:20:12.930><c> thermos</c><03:20:13.319><c> temperature</c><03:20:14.040><c> and</c><03:20:14.310><c> if</c><03:20:14.819><c> we</c><03:20:15.000><c> do</c>
+
+03:20:15.200 --> 03:20:15.210 align:start position:0%
+equals thermos temperature and if we do
+ 
+
+03:20:15.210 --> 03:20:18.080 align:start position:0%
+equals thermos temperature and if we do
+a<03:20:15.239><c> console</c><03:20:15.899><c> dot</c><03:20:16.170><c> log</c><03:20:16.229><c> here</c><03:20:17.159><c> we</c><03:20:17.550><c> can</c><03:20:17.760><c> do</c><03:20:17.970><c> that</c>
+
+03:20:18.080 --> 03:20:18.090 align:start position:0%
+a console dot log here we can do that
+ 
+
+03:20:18.090 --> 03:20:20.479 align:start position:0%
+a console dot log here we can do that
+with<03:20:18.270><c> the</c><03:20:18.449><c> temp</c><03:20:18.869><c> and</c><03:20:19.170><c> it</c><03:20:19.649><c> should</c><03:20:19.920><c> have</c><03:20:20.130><c> the</c><03:20:20.189><c> new</c>
+
+03:20:20.479 --> 03:20:20.489 align:start position:0%
+with the temp and it should have the new
+ 
+
+03:20:20.489 --> 03:20:27.860 align:start position:0%
+with the temp and it should have the new
+temperature<03:20:21.090><c> if</c><03:20:21.720><c> I</c><03:20:22.159><c> load</c><03:20:23.159><c> that</c><03:20:23.430><c> 26</c>
+
+03:20:27.860 --> 03:20:27.870 align:start position:0%
+ 
+ 
+
+03:20:27.870 --> 03:20:30.440 align:start position:0%
+ 
+in<03:20:27.930><c> the</c><03:20:28.740><c> past</c><03:20:29.040><c> people</c><03:20:29.311><c> would</c><03:20:29.580><c> use</c><03:20:29.820><c> the</c><03:20:30.030><c> require</c>
+
+03:20:30.440 --> 03:20:30.450 align:start position:0%
+in the past people would use the require
+ 
+
+03:20:30.450 --> 03:20:32.930 align:start position:0%
+in the past people would use the require
+function<03:20:30.480><c> to</c><03:20:31.410><c> import</c><03:20:32.010><c> functions</c><03:20:32.521><c> and</c><03:20:32.670><c> code</c>
+
+03:20:32.930 --> 03:20:32.940 align:start position:0%
+function to import functions and code
+ 
+
+03:20:32.940 --> 03:20:36.470 align:start position:0%
+function to import functions and code
+from<03:20:33.240><c> other</c><03:20:33.390><c> files</c><03:20:34.080><c> but</c><03:20:35.040><c> now</c><03:20:35.280><c> we</c><03:20:35.340><c> have</c><03:20:35.760><c> import</c>
+
+03:20:36.470 --> 03:20:36.480 align:start position:0%
+from other files but now we have import
+ 
+
+03:20:36.480 --> 03:20:39.230 align:start position:0%
+from other files but now we have import
+and<03:20:36.720><c> export</c><03:20:36.990><c> you</c><03:20:37.950><c> can</c><03:20:38.010><c> export</c><03:20:38.610><c> code</c><03:20:38.910><c> in</c><03:20:39.061><c> one</c>
+
+03:20:39.230 --> 03:20:39.240 align:start position:0%
+and export you can export code in one
+ 
+
+03:20:39.240 --> 03:20:41.360 align:start position:0%
+and export you can export code in one
+file<03:20:39.540><c> and</c><03:20:39.900><c> then</c><03:20:39.990><c> import</c><03:20:40.170><c> it</c><03:20:40.680><c> in</c><03:20:40.771><c> another</c><03:20:41.010><c> file</c>
+
+03:20:41.360 --> 03:20:41.370 align:start position:0%
+file and then import it in another file
+ 
+
+03:20:41.370 --> 03:20:44.210 align:start position:0%
+file and then import it in another file
+it<03:20:42.120><c> also</c><03:20:42.390><c> allows</c><03:20:42.840><c> you</c><03:20:43.080><c> to</c><03:20:43.110><c> only</c><03:20:43.380><c> import</c>
+
+03:20:44.210 --> 03:20:44.220 align:start position:0%
+it also allows you to only import
+ 
+
+03:20:44.220 --> 03:20:46.370 align:start position:0%
+it also allows you to only import
+certain<03:20:44.490><c> functions</c><03:20:45.210><c> from</c><03:20:45.360><c> a</c><03:20:45.510><c> file</c><03:20:45.750><c> or</c><03:20:45.990><c> certain</c>
+
+03:20:46.370 --> 03:20:46.380 align:start position:0%
+certain functions from a file or certain
+ 
+
+03:20:46.380 --> 03:20:48.591 align:start position:0%
+certain functions from a file or certain
+variables<03:20:46.980><c> let</c><03:20:47.580><c> me</c><03:20:47.700><c> show</c><03:20:47.880><c> you</c><03:20:47.940><c> how</c><03:20:48.180><c> it</c><03:20:48.360><c> works</c>
+
+03:20:48.591 --> 03:20:48.601 align:start position:0%
+variables let me show you how it works
+ 
+
+03:20:48.601 --> 03:20:51.560 align:start position:0%
+variables let me show you how it works
+so<03:20:48.960><c> in</c><03:20:49.351><c> this</c><03:20:49.500><c> file</c><03:20:49.680><c> we</c><03:20:49.980><c> have</c><03:20:50.280><c> this</c><03:20:50.760><c> capitalized</c>
+
+03:20:51.560 --> 03:20:51.570 align:start position:0%
+so in this file we have this capitalized
+ 
+
+03:20:51.570 --> 03:20:54.020 align:start position:0%
+so in this file we have this capitalized
+string<03:20:51.990><c> function</c><03:20:52.561><c> we're</c><03:20:53.250><c> passing</c><03:20:53.730><c> in</c><03:20:53.820><c> the</c>
+
+03:20:54.020 --> 03:20:54.030 align:start position:0%
+string function we're passing in the
+ 
+
+03:20:54.030 --> 03:20:56.750 align:start position:0%
+string function we're passing in the
+string<03:20:54.271><c> hello</c><03:20:54.720><c> and</c><03:20:55.021><c> we</c><03:20:55.410><c> want</c><03:20:55.590><c> to</c><03:20:55.830><c> log</c><03:20:56.250><c> out</c><03:20:56.460><c> the</c>
+
+03:20:56.750 --> 03:20:56.760 align:start position:0%
+string hello and we want to log out the
+ 
+
+03:20:56.760 --> 03:20:59.180 align:start position:0%
+string hello and we want to log out the
+capitalized<03:20:57.450><c> strings</c><03:20:57.990><c> but</c><03:20:58.530><c> right</c><03:20:58.740><c> now</c><03:20:58.950><c> it</c>
+
+03:20:59.180 --> 03:20:59.190 align:start position:0%
+capitalized strings but right now it
+ 
+
+03:20:59.190 --> 03:21:01.310 align:start position:0%
+capitalized strings but right now it
+just<03:20:59.220><c> has</c><03:20:59.580><c> an</c><03:20:59.760><c> error</c><03:21:00.120><c> because</c><03:21:00.570><c> there</c><03:21:00.750><c> is</c><03:21:00.990><c> no</c>
+
+03:21:01.310 --> 03:21:01.320 align:start position:0%
+just has an error because there is no
+ 
+
+03:21:01.320 --> 03:21:03.591 align:start position:0%
+just has an error because there is no
+capitalized<03:21:02.130><c> string</c><03:21:02.430><c> function</c><03:21:03.000><c> in</c><03:21:03.150><c> this</c><03:21:03.330><c> file</c>
+
+03:21:03.591 --> 03:21:03.601 align:start position:0%
+capitalized string function in this file
+ 
+
+03:21:03.601 --> 03:21:06.290 align:start position:0%
+capitalized string function in this file
+however<03:21:04.561><c> in</c><03:21:04.860><c> this</c><03:21:04.950><c> other</c><03:21:05.250><c> file</c><03:21:05.580><c> we</c><03:21:05.851><c> do</c><03:21:06.030><c> have</c><03:21:06.271><c> a</c>
+
+03:21:06.290 --> 03:21:06.300 align:start position:0%
+however in this other file we do have a
+ 
+
+03:21:06.300 --> 03:21:08.870 align:start position:0%
+however in this other file we do have a
+capitalized<03:21:06.960><c> string</c><03:21:07.260><c> function</c><03:21:07.771><c> in</c><03:21:08.130><c> this</c>
+
+03:21:08.870 --> 03:21:08.880 align:start position:0%
+capitalized string function in this
+ 
+
+03:21:08.880 --> 03:21:13.250 align:start position:0%
+capitalized string function in this
+string<03:21:09.271><c> function</c><03:21:09.780><c> GJ</c><03:21:10.140><c> s</c><03:21:10.830><c> we</c><03:21:11.640><c> have</c><03:21:12.050><c> export</c><03:21:13.050><c> this</c>
+
+03:21:13.250 --> 03:21:13.260 align:start position:0%
+string function GJ s we have export this
+ 
+
+03:21:13.260 --> 03:21:15.020 align:start position:0%
+string function GJ s we have export this
+is<03:21:13.440><c> the</c><03:21:13.561><c> export</c><03:21:13.980><c> statement</c><03:21:14.490><c> I</c><03:21:14.521><c> was</c><03:21:14.640><c> talking</c>
+
+03:21:15.020 --> 03:21:15.030 align:start position:0%
+is the export statement I was talking
+ 
+
+03:21:15.030 --> 03:21:17.570 align:start position:0%
+is the export statement I was talking
+about<03:21:15.090><c> and</c><03:21:15.570><c> then</c><03:21:16.080><c> it's</c><03:21:16.200><c> exporting</c><03:21:16.980><c> this</c>
+
+03:21:17.570 --> 03:21:17.580 align:start position:0%
+about and then it's exporting this
+ 
+
+03:21:17.580 --> 03:21:20.261 align:start position:0%
+about and then it's exporting this
+function<03:21:18.540><c> it's</c><03:21:19.110><c> actually</c><03:21:19.530><c> a</c><03:21:19.561><c> variable</c>
+
+03:21:20.261 --> 03:21:20.271 align:start position:0%
+function it's actually a variable
+ 
+
+03:21:20.271 --> 03:21:23.210 align:start position:0%
+function it's actually a variable
+capitalized<03:21:21.271><c> string</c><03:21:21.660><c> that's</c><03:21:22.021><c> set</c><03:21:22.380><c> to</c><03:21:22.410><c> equal</c><03:21:23.070><c> a</c>
+
+03:21:23.210 --> 03:21:23.220 align:start position:0%
+capitalized string that's set to equal a
+ 
+
+03:21:23.220 --> 03:21:26.210 align:start position:0%
+capitalized string that's set to equal a
+function<03:21:23.851><c> this</c><03:21:24.390><c> is</c><03:21:24.450><c> a</c><03:21:24.930><c> an</c><03:21:25.260><c> arrow</c><03:21:25.650><c> function</c>
+
+03:21:26.210 --> 03:21:26.220 align:start position:0%
+function this is a an arrow function
+ 
+
+03:21:26.220 --> 03:21:29.240 align:start position:0%
+function this is a an arrow function
+where<03:21:26.580><c> we</c><03:21:26.730><c> pass</c><03:21:27.061><c> in</c><03:21:27.271><c> a</c><03:21:27.360><c> string</c><03:21:27.390><c> and</c><03:21:28.080><c> then</c><03:21:29.040><c> we</c>
+
+03:21:29.240 --> 03:21:29.250 align:start position:0%
+where we pass in a string and then we
+ 
+
+03:21:29.250 --> 03:21:33.110 align:start position:0%
+where we pass in a string and then we
+return<03:21:29.820><c> the</c><03:21:30.120><c> string</c><03:21:31.110><c> dot</c><03:21:31.440><c> to</c><03:21:31.800><c> uppercase</c><03:21:32.430><c> now</c><03:21:33.090><c> a</c>
+
+03:21:33.110 --> 03:21:33.120 align:start position:0%
+return the string dot to uppercase now a
+ 
+
+03:21:33.120 --> 03:21:35.420 align:start position:0%
+return the string dot to uppercase now a
+to<03:21:33.450><c> uppercase</c><03:21:33.930><c> is</c><03:21:34.140><c> just</c><03:21:34.380><c> a</c><03:21:34.500><c> string</c><03:21:34.920><c> function</c>
+
+03:21:35.420 --> 03:21:35.430 align:start position:0%
+to uppercase is just a string function
+ 
+
+03:21:35.430 --> 03:21:39.620 align:start position:0%
+to uppercase is just a string function
+that<03:21:35.811><c> makes</c><03:21:36.811><c> every</c><03:21:37.200><c> letter</c><03:21:37.410><c> uppercase</c><03:21:38.130><c> so</c><03:21:39.061><c> we</c>
+
+03:21:39.620 --> 03:21:39.630 align:start position:0%
+that makes every letter uppercase so we
+ 
+
+03:21:39.630 --> 03:21:43.910 align:start position:0%
+that makes every letter uppercase so we
+can<03:21:40.040><c> import</c><03:21:41.040><c> this</c><03:21:41.700><c> in</c><03:21:42.030><c> our</c><03:21:42.271><c> other</c><03:21:42.480><c> file</c><03:21:42.930><c> so</c>
+
+03:21:43.910 --> 03:21:43.920 align:start position:0%
+can import this in our other file so
+ 
+
+03:21:43.920 --> 03:21:46.400 align:start position:0%
+can import this in our other file so
+let's<03:21:44.250><c> go</c><03:21:44.430><c> back</c><03:21:44.610><c> to</c><03:21:44.760><c> our</c><03:21:44.851><c> other</c><03:21:44.970><c> file</c><03:21:45.360><c> and</c><03:21:45.660><c> I</c>
+
+03:21:46.400 --> 03:21:46.410 align:start position:0%
+let's go back to our other file and I
+ 
+
+03:21:46.410 --> 03:21:49.670 align:start position:0%
+let's go back to our other file and I
+will<03:21:46.820><c> import</c><03:21:47.820><c> and</c><03:21:48.780><c> with</c><03:21:49.200><c> the</c><03:21:49.320><c> import</c>
+
+03:21:49.670 --> 03:21:49.680 align:start position:0%
+will import and with the import
+ 
+
+03:21:49.680 --> 03:21:50.990 align:start position:0%
+will import and with the import
+statement<03:21:50.101><c> you're</c><03:21:50.280><c> going</c><03:21:50.400><c> to</c><03:21:50.460><c> use</c><03:21:50.580><c> curly</c>
+
+03:21:50.990 --> 03:21:51.000 align:start position:0%
+statement you're going to use curly
+ 
+
+03:21:51.000 --> 03:21:54.040 align:start position:0%
+statement you're going to use curly
+braces<03:21:51.030><c> and</c><03:21:51.720><c> then</c><03:21:52.530><c> I'll</c><03:21:52.650><c> put</c><03:21:52.860><c> capitalized</c>
+
+03:21:54.040 --> 03:21:54.050 align:start position:0%
+braces and then I'll put capitalized
+ 
+
+03:21:54.050 --> 03:21:58.490 align:start position:0%
+braces and then I'll put capitalized
+string<03:21:56.480><c> and</c><03:21:57.480><c> then</c><03:21:57.660><c> we</c><03:21:57.811><c> have</c><03:21:57.930><c> to</c><03:21:58.050><c> say</c><03:21:58.230><c> what</c>
+
+03:21:58.490 --> 03:21:58.500 align:start position:0%
+string and then we have to say what
+ 
+
+03:21:58.500 --> 03:22:00.710 align:start position:0%
+string and then we have to say what
+we're<03:21:58.650><c> importing</c><03:21:59.280><c> it</c><03:21:59.521><c> from</c><03:21:59.851><c> we</c><03:22:00.480><c> want</c><03:22:00.660><c> to</c>
+
+03:22:00.710 --> 03:22:00.720 align:start position:0%
+we're importing it from we want to
+ 
+
+03:22:00.720 --> 03:22:03.320 align:start position:0%
+we're importing it from we want to
+import<03:22:01.140><c> it</c><03:22:01.290><c> from</c><03:22:01.710><c> and</c><03:22:02.040><c> this</c><03:22:02.580><c> is</c><03:22:02.640><c> where</c><03:22:02.970><c> I</c><03:22:03.000><c> put</c>
+
+03:22:03.320 --> 03:22:03.330 align:start position:0%
+import it from and this is where I put
+ 
+
+03:22:03.330 --> 03:22:05.301 align:start position:0%
+import it from and this is where I put
+the<03:22:03.480><c> file</c><03:22:03.780><c> name</c><03:22:04.080><c> now</c><03:22:04.771><c> normally</c><03:22:05.190><c> you're</c><03:22:05.280><c> going</c>
+
+03:22:05.301 --> 03:22:05.311 align:start position:0%
+the file name now normally you're going
+ 
+
+03:22:05.311 --> 03:22:07.341 align:start position:0%
+the file name now normally you're going
+to<03:22:05.460><c> start</c><03:22:05.610><c> with</c><03:22:05.700><c> a</c><03:22:05.730><c> dot</c><03:22:05.970><c> slash</c><03:22:06.420><c> which</c><03:22:07.110><c> just</c>
+
+03:22:07.341 --> 03:22:07.351 align:start position:0%
+to start with a dot slash which just
+ 
+
+03:22:07.351 --> 03:22:09.470 align:start position:0%
+to start with a dot slash which just
+means<03:22:07.530><c> the</c><03:22:07.680><c> current</c><03:22:08.190><c> directory</c><03:22:08.760><c> and</c><03:22:08.970><c> I'll</c>
+
+03:22:09.470 --> 03:22:09.480 align:start position:0%
+means the current directory and I'll
+ 
+
+03:22:09.480 --> 03:22:13.810 align:start position:0%
+means the current directory and I'll
+type<03:22:09.750><c> in</c><03:22:09.900><c> the</c><03:22:09.960><c> file</c><03:22:10.140><c> name</c><03:22:10.190><c> string</c><03:22:11.930><c> function</c>
+
+03:22:13.810 --> 03:22:13.820 align:start position:0%
+type in the file name string function
+ 
+
+03:22:13.820 --> 03:22:17.000 align:start position:0%
+type in the file name string function
+now<03:22:14.820><c> the</c><03:22:15.450><c> file</c><03:22:15.690><c> name</c><03:22:15.930><c> is</c><03:22:16.080><c> a</c><03:22:16.110><c> dot</c><03:22:16.351><c> a</c><03:22:16.530><c> yes</c><03:22:16.680><c> after</c>
+
+03:22:17.000 --> 03:22:17.010 align:start position:0%
+now the file name is a dot a yes after
+ 
+
+03:22:17.010 --> 03:22:19.910 align:start position:0%
+now the file name is a dot a yes after
+it<03:22:17.311><c> but</c><03:22:17.610><c> that's</c><03:22:18.390><c> assumed</c><03:22:18.990><c> so</c><03:22:19.561><c> you</c><03:22:19.650><c> don't</c><03:22:19.800><c> have</c>
+
+03:22:19.910 --> 03:22:19.920 align:start position:0%
+it but that's assumed so you don't have
+ 
+
+03:22:19.920 --> 03:22:21.801 align:start position:0%
+it but that's assumed so you don't have
+to<03:22:20.040><c> put</c><03:22:20.190><c> yes</c><03:22:20.790><c> you</c><03:22:20.940><c> can</c><03:22:21.061><c> just</c><03:22:21.180><c> put</c><03:22:21.480><c> the</c><03:22:21.601><c> file</c>
+
+03:22:21.801 --> 03:22:21.811 align:start position:0%
+to put yes you can just put the file
+ 
+
+03:22:21.811 --> 03:22:24.650 align:start position:0%
+to put yes you can just put the file
+name<03:22:22.050><c> without</c><03:22:22.410><c> the</c><03:22:22.710><c> extension</c><03:22:23.280><c> so</c><03:22:24.000><c> if</c><03:22:24.300><c> I</c><03:22:24.420><c> run</c>
+
+03:22:24.650 --> 03:22:24.660 align:start position:0%
+name without the extension so if I run
+ 
+
+03:22:24.660 --> 03:22:26.960 align:start position:0%
+name without the extension so if I run
+this<03:22:24.900><c> you</c><03:22:25.440><c> can</c><03:22:25.590><c> see</c><03:22:25.771><c> hello</c><03:22:26.190><c> in</c><03:22:26.400><c> all</c><03:22:26.490><c> capital</c>
+
+03:22:26.960 --> 03:22:26.970 align:start position:0%
+this you can see hello in all capital
+ 
+
+03:22:26.970 --> 03:22:29.150 align:start position:0%
+this you can see hello in all capital
+letters<03:22:27.000><c> is</c><03:22:27.510><c> successfully</c><03:22:28.410><c> imported</c><03:22:28.890><c> this</c>
+
+03:22:29.150 --> 03:22:29.160 align:start position:0%
+letters is successfully imported this
+ 
+
+03:22:29.160 --> 03:22:31.400 align:start position:0%
+letters is successfully imported this
+function<03:22:29.640><c> from</c><03:22:29.790><c> the</c><03:22:29.910><c> other</c><03:22:30.030><c> file</c><03:22:30.300><c> and</c><03:22:30.630><c> we</c><03:22:31.110><c> used</c>
+
+03:22:31.400 --> 03:22:31.410 align:start position:0%
+function from the other file and we used
+ 
+
+03:22:31.410 --> 03:22:35.820 align:start position:0%
+function from the other file and we used
+it<03:22:31.590><c> in</c><03:22:31.771><c> this</c><03:22:31.950><c> file</c>
+
+03:22:35.820 --> 03:22:35.830 align:start position:0%
+ 
+ 
+
+03:22:35.830 --> 03:22:38.190 align:start position:0%
+ 
+I<03:22:35.890><c> talked</c><03:22:36.880><c> a</c><03:22:37.000><c> little</c><03:22:37.150><c> bit</c><03:22:37.360><c> about</c><03:22:37.600><c> export</c><03:22:38.140><c> in</c>
+
+03:22:38.190 --> 03:22:38.200 align:start position:0%
+I talked a little bit about export in
+ 
+
+03:22:38.200 --> 03:22:40.110 align:start position:0%
+I talked a little bit about export in
+the<03:22:38.230><c> last</c><03:22:38.590><c> lesson</c><03:22:38.920><c> but</c><03:22:39.430><c> now</c><03:22:39.550><c> I'm</c><03:22:39.760><c> going</c><03:22:39.940><c> to</c><03:22:40.000><c> go</c>
+
+03:22:40.110 --> 03:22:40.120 align:start position:0%
+the last lesson but now I'm going to go
+ 
+
+03:22:40.120 --> 03:22:43.230 align:start position:0%
+the last lesson but now I'm going to go
+into<03:22:40.390><c> more</c><03:22:40.660><c> detail</c><03:22:41.170><c> you</c><03:22:41.890><c> export</c><03:22:42.670><c> functions</c>
+
+03:22:43.230 --> 03:22:43.240 align:start position:0%
+into more detail you export functions
+ 
+
+03:22:43.240 --> 03:22:45.540 align:start position:0%
+into more detail you export functions
+and<03:22:43.420><c> variables</c><03:22:43.840><c> from</c><03:22:44.170><c> one</c><03:22:44.440><c> file</c><03:22:44.740><c> so</c><03:22:45.100><c> that</c><03:22:45.340><c> you</c>
+
+03:22:45.540 --> 03:22:45.550 align:start position:0%
+and variables from one file so that you
+ 
+
+03:22:45.550 --> 03:22:48.570 align:start position:0%
+and variables from one file so that you
+can<03:22:45.850><c> import</c><03:22:46.540><c> them</c><03:22:46.780><c> into</c><03:22:47.080><c> another</c><03:22:47.470><c> file</c><03:22:47.980><c> that's</c>
+
+03:22:48.570 --> 03:22:48.580 align:start position:0%
+can import them into another file that's
+ 
+
+03:22:48.580 --> 03:22:51.511 align:start position:0%
+can import them into another file that's
+how<03:22:48.760><c> you</c><03:22:48.820><c> can</c><03:22:49.061><c> reuse</c><03:22:49.240><c> different</c><03:22:49.930><c> code</c><03:22:50.200><c> so</c><03:22:51.070><c> we</c>
+
+03:22:51.511 --> 03:22:51.521 align:start position:0%
+how you can reuse different code so we
+ 
+
+03:22:51.521 --> 03:22:53.340 align:start position:0%
+how you can reuse different code so we
+have<03:22:51.760><c> this</c><03:22:51.910><c> function</c><03:22:52.450><c> here</c><03:22:52.660><c> this</c><03:22:53.140><c> is</c><03:22:53.320><c> a</c>
+
+03:22:53.340 --> 03:22:53.350 align:start position:0%
+have this function here this is a
+ 
+
+03:22:53.350 --> 03:22:55.290 align:start position:0%
+have this function here this is a
+capitalized<03:22:53.980><c> string</c><03:22:54.280><c> function</c><03:22:54.790><c> it</c><03:22:55.030><c> actually</c>
+
+03:22:55.290 --> 03:22:55.300 align:start position:0%
+capitalized string function it actually
+ 
+
+03:22:55.300 --> 03:22:57.030 align:start position:0%
+capitalized string function it actually
+just<03:22:55.420><c> capitalizes</c><03:22:56.080><c> the</c><03:22:56.110><c> first</c><03:22:56.561><c> letter</c><03:22:56.830><c> of</c><03:22:56.890><c> the</c>
+
+03:22:57.030 --> 03:22:57.040 align:start position:0%
+just capitalizes the first letter of the
+ 
+
+03:22:57.040 --> 03:22:59.070 align:start position:0%
+just capitalizes the first letter of the
+string<03:22:57.340><c> and</c><03:22:57.580><c> then</c><03:22:58.150><c> leaves</c><03:22:58.390><c> the</c><03:22:58.600><c> rest</c><03:22:58.811><c> of</c><03:22:58.990><c> the</c>
+
+03:22:59.070 --> 03:22:59.080 align:start position:0%
+string and then leaves the rest of the
+ 
+
+03:22:59.080 --> 03:23:02.340 align:start position:0%
+string and then leaves the rest of the
+string<03:22:59.410><c> lowercase</c><03:23:00.100><c> and</c><03:23:00.450><c> before</c><03:23:01.450><c> I</c><03:23:01.720><c> showed</c><03:23:02.200><c> you</c>
+
+03:23:02.340 --> 03:23:02.350 align:start position:0%
+string lowercase and before I showed you
+ 
+
+03:23:02.350 --> 03:23:04.200 align:start position:0%
+string lowercase and before I showed you
+you<03:23:02.470><c> can</c><03:23:02.650><c> just</c><03:23:02.800><c> put</c><03:23:03.010><c> export</c><03:23:03.550><c> right</c><03:23:03.790><c> before</c>
+
+03:23:04.200 --> 03:23:04.210 align:start position:0%
+you can just put export right before
+ 
+
+03:23:04.210 --> 03:23:06.360 align:start position:0%
+you can just put export right before
+here<03:23:04.570><c> but</c><03:23:05.080><c> we</c><03:23:05.230><c> can</c><03:23:05.440><c> explore</c><03:23:05.800><c> a</c><03:23:05.890><c> different</c><03:23:06.040><c> way</c>
+
+03:23:06.360 --> 03:23:06.370 align:start position:0%
+here but we can explore a different way
+ 
+
+03:23:06.370 --> 03:23:10.320 align:start position:0%
+here but we can explore a different way
+so<03:23:06.610><c> I'll</c><03:23:07.061><c> do</c><03:23:07.240><c> export</c><03:23:07.930><c> and</c><03:23:08.940><c> then</c><03:23:09.940><c> in</c><03:23:10.061><c> curly</c>
+
+03:23:10.320 --> 03:23:10.330 align:start position:0%
+so I'll do export and then in curly
+ 
+
+03:23:10.330 --> 03:23:15.120 align:start position:0%
+so I'll do export and then in curly
+braces<03:23:10.830><c> capitalized</c><03:23:12.690><c> capitalized</c><03:23:14.130><c> string</c>
+
+03:23:15.120 --> 03:23:15.130 align:start position:0%
+braces capitalized capitalized string
+ 
+
+03:23:15.130 --> 03:23:18.690 align:start position:0%
+braces capitalized capitalized string
+and<03:23:16.230><c> so</c><03:23:17.230><c> now</c><03:23:17.530><c> we've</c><03:23:17.830><c> just</c><03:23:18.010><c> explored</c><03:23:18.160><c> this</c>
+
+03:23:18.690 --> 03:23:18.700 align:start position:0%
+and so now we've just explored this
+ 
+
+03:23:18.700 --> 03:23:21.570 align:start position:0%
+and so now we've just explored this
+function<03:23:19.300><c> and</c><03:23:19.480><c> to</c><03:23:20.140><c> export</c><03:23:20.710><c> a</c><03:23:20.860><c> variable</c><03:23:21.460><c> like</c>
+
+03:23:21.570 --> 03:23:21.580 align:start position:0%
+function and to export a variable like
+ 
+
+03:23:21.580 --> 03:23:23.520 align:start position:0%
+function and to export a variable like
+this<03:23:21.820><c> we</c><03:23:22.030><c> have</c><03:23:22.180><c> Constable's</c><03:23:22.960><c> barkas</c>
+
+03:23:23.520 --> 03:23:23.530 align:start position:0%
+this we have Constable's barkas
+ 
+
+03:23:23.530 --> 03:23:25.980 align:start position:0%
+this we have Constable's barkas
+particles<03:23:24.100><c> foo</c><03:23:24.340><c> to</c><03:23:24.940><c> export</c><03:23:25.360><c> these</c><03:23:25.480><c> variables</c>
+
+03:23:25.980 --> 03:23:25.990 align:start position:0%
+particles foo to export these variables
+ 
+
+03:23:25.990 --> 03:23:30.980 align:start position:0%
+particles foo to export these variables
+you<03:23:26.110><c> just</c><03:23:26.320><c> type</c><03:23:27.190><c> an</c><03:23:27.370><c> export</c><03:23:28.110><c> like</c><03:23:29.110><c> both</c><03:23:29.320><c> before</c>
+
+03:23:30.980 --> 03:23:30.990 align:start position:0%
+you just type an export like both before
+ 
+
+03:23:30.990 --> 03:23:33.780 align:start position:0%
+you just type an export like both before
+so<03:23:31.990><c> now</c><03:23:32.170><c> in</c><03:23:32.320><c> this</c><03:23:32.440><c> file</c><03:23:32.740><c> we're</c><03:23:33.010><c> exporting</c><03:23:33.460><c> this</c>
+
+03:23:33.780 --> 03:23:33.790 align:start position:0%
+so now in this file we're exporting this
+ 
+
+03:23:33.790 --> 03:23:36.270 align:start position:0%
+so now in this file we're exporting this
+function<03:23:34.330><c> and</c><03:23:34.540><c> these</c><03:23:34.960><c> two</c><03:23:35.260><c> variables</c><03:23:35.680><c> and</c>
+
+03:23:36.270 --> 03:23:36.280 align:start position:0%
+function and these two variables and
+ 
+
+03:23:36.280 --> 03:23:38.310 align:start position:0%
+function and these two variables and
+then<03:23:36.940><c> we</c><03:23:37.090><c> could</c><03:23:37.271><c> import</c><03:23:37.750><c> them</c><03:23:37.990><c> into</c><03:23:38.140><c> another</c>
+
+03:23:38.310 --> 03:23:38.320 align:start position:0%
+then we could import them into another
+ 
+
+03:23:38.320 --> 03:23:42.280 align:start position:0%
+then we could import them into another
+file
+
+03:23:42.280 --> 03:23:42.290 align:start position:0%
+ 
+ 
+
+03:23:42.290 --> 03:23:45.130 align:start position:0%
+ 
+if<03:23:43.160><c> a</c><03:23:43.399><c> file</c><03:23:43.700><c> exports</c><03:23:44.510><c> multiple</c><03:23:44.960><c> different</c>
+
+03:23:45.130 --> 03:23:45.140 align:start position:0%
+if a file exports multiple different
+ 
+
+03:23:45.140 --> 03:23:47.320 align:start position:0%
+if a file exports multiple different
+things<03:23:45.290><c> you</c><03:23:45.770><c> can</c><03:23:45.979><c> import</c><03:23:46.760><c> each</c><03:23:47.000><c> things</c>
+
+03:23:47.320 --> 03:23:47.330 align:start position:0%
+things you can import each things
+ 
+
+03:23:47.330 --> 03:23:49.690 align:start position:0%
+things you can import each things
+individually<03:23:47.660><c> or</c><03:23:48.319><c> you</c><03:23:49.040><c> can</c><03:23:49.220><c> import</c>
+
+03:23:49.690 --> 03:23:49.700 align:start position:0%
+individually or you can import
+ 
+
+03:23:49.700 --> 03:23:51.760 align:start position:0%
+individually or you can import
+everything<03:23:50.210><c> so</c><03:23:51.020><c> let</c><03:23:51.229><c> me</c><03:23:51.319><c> show</c><03:23:51.470><c> you</c><03:23:51.500><c> how</c><03:23:51.740><c> you</c>
+
+03:23:51.760 --> 03:23:51.770 align:start position:0%
+everything so let me show you how you
+ 
+
+03:23:51.770 --> 03:23:53.559 align:start position:0%
+everything so let me show you how you
+would<03:23:51.890><c> import</c><03:23:52.310><c> everything</c><03:23:52.700><c> from</c><03:23:53.029><c> a</c><03:23:53.060><c> file</c>
+
+03:23:53.559 --> 03:23:53.569 align:start position:0%
+would import everything from a file
+ 
+
+03:23:53.569 --> 03:23:55.960 align:start position:0%
+would import everything from a file
+it's<03:23:53.990><c> just</c><03:23:54.260><c> import</c><03:23:54.920><c> and</c><03:23:55.220><c> then</c><03:23:55.729><c> you're</c><03:23:55.880><c> going</c>
+
+03:23:55.960 --> 03:23:55.970 align:start position:0%
+it's just import and then you're going
+ 
+
+03:23:55.970 --> 03:23:58.840 align:start position:0%
+it's just import and then you're going
+to<03:23:56.029><c> put</c><03:23:56.300><c> an</c><03:23:56.390><c> asterisk</c><03:23:56.660><c> or</c><03:23:57.140><c> a</c><03:23:57.170><c> star</c><03:23:57.649><c> and</c><03:23:58.069><c> then</c>
+
+03:23:58.840 --> 03:23:58.850 align:start position:0%
+to put an asterisk or a star and then
+ 
+
+03:23:58.850 --> 03:24:01.210 align:start position:0%
+to put an asterisk or a star and then
+you're<03:23:58.970><c> gonna</c><03:23:59.060><c> put</c><03:23:59.300><c> as</c><03:23:59.620><c> import</c><03:24:00.620><c> as</c><03:24:00.770><c> and</c><03:24:01.100><c> then</c>
+
+03:24:01.210 --> 03:24:01.220 align:start position:0%
+you're gonna put as import as and then
+ 
+
+03:24:01.220 --> 03:24:03.460 align:start position:0%
+you're gonna put as import as and then
+you<03:24:01.250><c> have</c><03:24:01.370><c> to</c><03:24:01.460><c> create</c><03:24:01.790><c> an</c><03:24:02.270><c> object</c><03:24:02.600><c> to</c><03:24:03.109><c> store</c>
+
+03:24:03.460 --> 03:24:03.470 align:start position:0%
+you have to create an object to store
+ 
+
+03:24:03.470 --> 03:24:06.700 align:start position:0%
+you have to create an object to store
+everything<03:24:03.979><c> in</c><03:24:04.370><c> so</c><03:24:05.090><c> I'm</c><03:24:05.479><c> gonna</c><03:24:05.630><c> import</c><03:24:06.229><c> stuff</c>
+
+03:24:06.700 --> 03:24:06.710 align:start position:0%
+everything in so I'm gonna import stuff
+ 
+
+03:24:06.710 --> 03:24:08.920 align:start position:0%
+everything in so I'm gonna import stuff
+from<03:24:07.069><c> a</c><03:24:07.220><c> file</c><03:24:07.460><c> called</c><03:24:07.700><c> capitalized</c><03:24:08.479><c> strings</c>
+
+03:24:08.920 --> 03:24:08.930 align:start position:0%
+from a file called capitalized strings
+ 
+
+03:24:08.930 --> 03:24:11.550 align:start position:0%
+from a file called capitalized strings
+so<03:24:09.529><c> I'm</c><03:24:09.620><c> going</c><03:24:09.800><c> to</c><03:24:09.859><c> call</c><03:24:10.130><c> this</c><03:24:10.340><c> capitalized</c>
+
+03:24:11.550 --> 03:24:11.560 align:start position:0%
+so I'm going to call this capitalized
+ 
+
+03:24:11.560 --> 03:24:15.460 align:start position:0%
+so I'm going to call this capitalized
+strings<03:24:12.939><c> so</c><03:24:13.939><c> this</c><03:24:14.210><c> could</c><03:24:14.420><c> really</c><03:24:14.600><c> be</c><03:24:14.720><c> anything</c>
+
+03:24:15.460 --> 03:24:15.470 align:start position:0%
+strings so this could really be anything
+ 
+
+03:24:15.470 --> 03:24:18.190 align:start position:0%
+strings so this could really be anything
+I'm<03:24:15.620><c> creating</c><03:24:16.340><c> an</c><03:24:16.550><c> object</c><03:24:16.850><c> with</c><03:24:17.600><c> this</c><03:24:17.899><c> and</c>
+
+03:24:18.190 --> 03:24:18.200 align:start position:0%
+I'm creating an object with this and
+ 
+
+03:24:18.200 --> 03:24:20.349 align:start position:0%
+I'm creating an object with this and
+then<03:24:18.950><c> I'm</c><03:24:19.069><c> going</c><03:24:19.189><c> to</c><03:24:19.279><c> say</c><03:24:19.430><c> what</c><03:24:19.790><c> I'm</c><03:24:19.880><c> importing</c>
+
+03:24:20.349 --> 03:24:20.359 align:start position:0%
+then I'm going to say what I'm importing
+ 
+
+03:24:20.359 --> 03:24:23.380 align:start position:0%
+then I'm going to say what I'm importing
+it<03:24:20.479><c> from</c><03:24:20.620><c> from</c><03:24:21.620><c> and</c><03:24:21.979><c> then</c><03:24:22.729><c> I</c><03:24:22.760><c> just</c><03:24:23.029><c> put</c><03:24:23.270><c> the</c>
+
+03:24:23.380 --> 03:24:23.390 align:start position:0%
+it from from and then I just put the
+ 
+
+03:24:23.390 --> 03:24:25.660 align:start position:0%
+it from from and then I just put the
+file<03:24:23.689><c> name</c><03:24:23.930><c> in</c><03:24:24.200><c> this</c><03:24:24.740><c> case</c><03:24:24.950><c> it's</c><03:24:25.430><c> just</c><03:24:25.490><c> going</c>
+
+03:24:25.660 --> 03:24:25.670 align:start position:0%
+file name in this case it's just going
+ 
+
+03:24:25.670 --> 03:24:30.370 align:start position:0%
+file name in this case it's just going
+to<03:24:25.729><c> be</c><03:24:26.200><c> capitalized</c><03:24:27.580><c> strings</c><03:24:28.990><c> sometimes</c><03:24:29.990><c> you</c>
+
+03:24:30.370 --> 03:24:30.380 align:start position:0%
+to be capitalized strings sometimes you
+ 
+
+03:24:30.380 --> 03:24:32.200 align:start position:0%
+to be capitalized strings sometimes you
+would<03:24:30.470><c> have</c><03:24:30.649><c> to</c><03:24:30.770><c> put</c><03:24:30.920><c> a</c><03:24:30.979><c> dot</c><03:24:31.250><c> slash</c><03:24:31.609><c> if</c><03:24:31.910><c> it's</c><03:24:32.090><c> in</c>
+
+03:24:32.200 --> 03:24:32.210 align:start position:0%
+would have to put a dot slash if it's in
+ 
+
+03:24:32.210 --> 03:24:34.360 align:start position:0%
+would have to put a dot slash if it's in
+the<03:24:32.330><c> same</c><03:24:32.569><c> directory</c><03:24:33.140><c> there</c><03:24:33.380><c> and</c><03:24:33.620><c> then</c><03:24:34.279><c> I'll</c>
+
+03:24:34.360 --> 03:24:34.370 align:start position:0%
+the same directory there and then I'll
+ 
+
+03:24:34.370 --> 03:24:35.920 align:start position:0%
+the same directory there and then I'll
+make<03:24:34.550><c> sure</c><03:24:34.640><c> to</c><03:24:34.729><c> put</c><03:24:34.850><c> a</c><03:24:34.880><c> semicolon</c><03:24:35.270><c> at</c><03:24:35.750><c> the</c><03:24:35.810><c> end</c>
+
+03:24:35.920 --> 03:24:35.930 align:start position:0%
+make sure to put a semicolon at the end
+ 
+
+03:24:35.930 --> 03:24:38.559 align:start position:0%
+make sure to put a semicolon at the end
+so<03:24:36.830><c> if</c><03:24:37.010><c> you're</c><03:24:37.160><c> importing</c><03:24:37.670><c> everything</c><03:24:38.390><c> you</c>
+
+03:24:38.559 --> 03:24:38.569 align:start position:0%
+so if you're importing everything you
+ 
+
+03:24:38.569 --> 03:24:40.990 align:start position:0%
+so if you're importing everything you
+always<03:24:38.720><c> start</c><03:24:39.020><c> off</c><03:24:39.109><c> with</c><03:24:39.350><c> import</c><03:24:39.890><c> star</c><03:24:40.250><c> as</c><03:24:40.580><c> and</c>
+
+03:24:40.990 --> 03:24:41.000 align:start position:0%
+always start off with import star as and
+ 
+
+03:24:41.000 --> 03:24:43.120 align:start position:0%
+always start off with import star as and
+then<03:24:41.479><c> this</c><03:24:41.779><c> can</c><03:24:42.080><c> be</c><03:24:42.200><c> anything</c><03:24:42.500><c> it</c><03:24:42.800><c> can</c><03:24:42.890><c> be</c><03:24:43.010><c> at</c>
+
+03:24:43.120 --> 03:24:43.130 align:start position:0%
+then this can be anything it can be at
+ 
+
+03:24:43.130 --> 03:24:44.830 align:start position:0%
+then this can be anything it can be at
+any<03:24:43.250><c> object</c><03:24:43.819><c> name</c><03:24:44.000><c> that</c><03:24:44.149><c> you</c><03:24:44.240><c> create</c><03:24:44.600><c> and</c>
+
+03:24:44.830 --> 03:24:44.840 align:start position:0%
+any object name that you create and
+ 
+
+03:24:44.840 --> 03:24:46.750 align:start position:0%
+any object name that you create and
+they're<03:24:45.290><c> going</c><03:24:45.380><c> to</c><03:24:45.470><c> put</c><03:24:45.620><c> from</c><03:24:45.979><c> and</c><03:24:46.279><c> then</c><03:24:46.700><c> you</c>
+
+03:24:46.750 --> 03:24:46.760 align:start position:0%
+they're going to put from and then you
+ 
+
+03:24:46.760 --> 03:24:48.250 align:start position:0%
+they're going to put from and then you
+put<03:24:46.939><c> the</c><03:24:47.029><c> file</c><03:24:47.270><c> name</c><03:24:47.510><c> in</c><03:24:47.689><c> quotation</c><03:24:48.229><c> marks</c>
+
+03:24:48.250 --> 03:24:48.260 align:start position:0%
+put the file name in quotation marks
+ 
+
+03:24:48.260 --> 03:24:52.920 align:start position:0%
+put the file name in quotation marks
+just<03:24:48.560><c> like</c><03:24:48.800><c> that</c>
+
+03:24:52.920 --> 03:24:52.930 align:start position:0%
+ 
+ 
+
+03:24:52.930 --> 03:24:55.530 align:start position:0%
+ 
+before<03:24:53.920><c> when</c><03:24:54.101><c> I</c><03:24:54.160><c> talked</c><03:24:54.370><c> about</c><03:24:54.460><c> exports</c><03:24:55.240><c> I</c><03:24:55.390><c> was</c>
+
+03:24:55.530 --> 03:24:55.540 align:start position:0%
+before when I talked about exports I was
+ 
+
+03:24:55.540 --> 03:24:58.051 align:start position:0%
+before when I talked about exports I was
+talking<03:24:55.930><c> about</c><03:24:55.960><c> named</c><03:24:56.500><c> exports</c><03:24:57.311><c> there's</c><03:24:57.910><c> also</c>
+
+03:24:58.051 --> 03:24:58.061 align:start position:0%
+talking about named exports there's also
+ 
+
+03:24:58.061 --> 03:25:00.660 align:start position:0%
+talking about named exports there's also
+something<03:24:58.450><c> called</c><03:24:58.601><c> an</c><03:24:58.930><c> export</c><03:24:59.500><c> default</c><03:25:00.040><c> this</c>
+
+03:25:00.660 --> 03:25:00.670 align:start position:0%
+something called an export default this
+ 
+
+03:25:00.670 --> 03:25:03.720 align:start position:0%
+something called an export default this
+is<03:25:00.730><c> a</c><03:25:01.090><c> fallback</c><03:25:01.660><c> export</c><03:25:02.620><c> and</c><03:25:02.860><c> it's</c><03:25:03.280><c> often</c><03:25:03.700><c> used</c>
+
+03:25:03.720 --> 03:25:03.730 align:start position:0%
+is a fallback export and it's often used
+ 
+
+03:25:03.730 --> 03:25:06.480 align:start position:0%
+is a fallback export and it's often used
+if<03:25:04.180><c> you</c><03:25:04.330><c> only</c><03:25:04.630><c> want</c><03:25:05.080><c> to</c><03:25:05.140><c> export</c><03:25:05.830><c> one</c><03:25:06.190><c> thing</c>
+
+03:25:06.480 --> 03:25:06.490 align:start position:0%
+if you only want to export one thing
+ 
+
+03:25:06.490 --> 03:25:09.810 align:start position:0%
+if you only want to export one thing
+from<03:25:06.880><c> a</c><03:25:07.000><c> file</c><03:25:07.330><c> so</c><03:25:08.140><c> if</c><03:25:08.440><c> you</c><03:25:08.920><c> let's</c><03:25:09.340><c> say</c><03:25:09.490><c> I</c><03:25:09.550><c> want</c>
+
+03:25:09.810 --> 03:25:09.820 align:start position:0%
+from a file so if you let's say I want
+ 
+
+03:25:09.820 --> 03:25:12.210 align:start position:0%
+from a file so if you let's say I want
+this<03:25:10.030><c> to</c><03:25:10.300><c> be</c><03:25:10.330><c> my</c><03:25:10.690><c> fallback</c><03:25:11.080><c> export</c><03:25:11.860><c> I'm</c><03:25:11.980><c> just</c>
+
+03:25:12.210 --> 03:25:12.220 align:start position:0%
+this to be my fallback export I'm just
+ 
+
+03:25:12.220 --> 03:25:14.341 align:start position:0%
+this to be my fallback export I'm just
+going<03:25:12.460><c> to</c><03:25:12.580><c> only</c><03:25:12.760><c> export</c><03:25:13.420><c> this</c><03:25:13.540><c> one</c><03:25:13.840><c> thing</c><03:25:14.110><c> from</c>
+
+03:25:14.341 --> 03:25:14.351 align:start position:0%
+going to only export this one thing from
+ 
+
+03:25:14.351 --> 03:25:18.000 align:start position:0%
+going to only export this one thing from
+the<03:25:14.470><c> file</c><03:25:14.710><c> I</c><03:25:15.040><c> can</c><03:25:15.370><c> just</c><03:25:15.760><c> put</c><03:25:16.030><c> export</c><03:25:17.010><c> default</c>
+
+03:25:18.000 --> 03:25:18.010 align:start position:0%
+the file I can just put export default
+ 
+
+03:25:18.010 --> 03:25:21.150 align:start position:0%
+the file I can just put export default
+so<03:25:19.000><c> now</c><03:25:19.210><c> we</c><03:25:19.271><c> know</c><03:25:19.660><c> that</c><03:25:19.690><c> this</c><03:25:20.021><c> is</c><03:25:20.260><c> just</c><03:25:20.290><c> the</c><03:25:20.650><c> the</c>
+
+03:25:21.150 --> 03:25:21.160 align:start position:0%
+so now we know that this is just the the
+ 
+
+03:25:21.160 --> 03:25:23.551 align:start position:0%
+so now we know that this is just the the
+fallback<03:25:21.460><c> though</c><03:25:22.390><c> basically</c><03:25:23.050><c> just</c><03:25:23.230><c> the</c><03:25:23.380><c> one</c>
+
+03:25:23.551 --> 03:25:23.561 align:start position:0%
+fallback though basically just the one
+ 
+
+03:25:23.561 --> 03:25:24.870 align:start position:0%
+fallback though basically just the one
+thing<03:25:23.771><c> we're</c><03:25:23.950><c> going</c><03:25:24.070><c> to</c><03:25:24.130><c> export</c><03:25:24.521><c> from</c><03:25:24.670><c> this</c>
+
+03:25:24.870 --> 03:25:24.880 align:start position:0%
+thing we're going to export from this
+ 
+
+03:25:24.880 --> 03:25:29.060 align:start position:0%
+thing we're going to export from this
+file
+
+03:25:29.060 --> 03:25:29.070 align:start position:0%
+ 
+ 
+
+03:25:29.070 --> 03:25:32.250 align:start position:0%
+ 
+so<03:25:30.070><c> we</c><03:25:30.250><c> talked</c><03:25:30.550><c> about</c><03:25:30.670><c> exporting</c><03:25:31.540><c> a</c><03:25:31.720><c> default</c>
+
+03:25:32.250 --> 03:25:32.260 align:start position:0%
+so we talked about exporting a default
+ 
+
+03:25:32.260 --> 03:25:34.650 align:start position:0%
+so we talked about exporting a default
+export<03:25:32.920><c> now</c><03:25:33.670><c> I'm</c><03:25:33.939><c> going</c><03:25:34.090><c> to</c><03:25:34.240><c> show</c><03:25:34.390><c> you</c><03:25:34.450><c> how</c><03:25:34.570><c> to</c>
+
+03:25:34.650 --> 03:25:34.660 align:start position:0%
+export now I'm going to show you how to
+ 
+
+03:25:34.660 --> 03:25:37.469 align:start position:0%
+export now I'm going to show you how to
+import<03:25:35.260><c> a</c><03:25:35.439><c> default</c><03:25:35.830><c> export</c><03:25:36.130><c> it's</c><03:25:37.030><c> pretty</c><03:25:37.390><c> much</c>
+
+03:25:37.469 --> 03:25:37.479 align:start position:0%
+import a default export it's pretty much
+ 
+
+03:25:37.479 --> 03:25:39.360 align:start position:0%
+import a default export it's pretty much
+the<03:25:37.689><c> same</c><03:25:37.840><c> as</c><03:25:38.020><c> before</c><03:25:38.140><c> but</c><03:25:38.380><c> there</c><03:25:38.740><c> is</c><03:25:38.920><c> a</c><03:25:38.950><c> slight</c>
+
+03:25:39.360 --> 03:25:39.370 align:start position:0%
+the same as before but there is a slight
+ 
+
+03:25:39.370 --> 03:25:42.090 align:start position:0%
+the same as before but there is a slight
+difference<03:25:40.090><c> so</c><03:25:40.660><c> we</c><03:25:41.050><c> are</c><03:25:41.170><c> going</c><03:25:41.380><c> to</c><03:25:41.470><c> pretend</c><03:25:41.920><c> we</c>
+
+03:25:42.090 --> 03:25:42.100 align:start position:0%
+difference so we are going to pretend we
+ 
+
+03:25:42.100 --> 03:25:44.670 align:start position:0%
+difference so we are going to pretend we
+have<03:25:42.370><c> a</c><03:25:42.399><c> file</c><03:25:42.729><c> called</c><03:25:42.760><c> math</c><03:25:43.420><c> functions</c><03:25:44.170><c> that</c>
+
+03:25:44.670 --> 03:25:44.680 align:start position:0%
+have a file called math functions that
+ 
+
+03:25:44.680 --> 03:25:47.610 align:start position:0%
+have a file called math functions that
+has<03:25:44.920><c> a</c><03:25:44.950><c> default</c><03:25:45.490><c> export</c><03:25:45.880><c> name</c><03:25:46.240><c> subtract</c><03:25:46.930><c> so</c>
+
+03:25:47.610 --> 03:25:47.620 align:start position:0%
+has a default export name subtract so
+ 
+
+03:25:47.620 --> 03:25:48.929 align:start position:0%
+has a default export name subtract so
+let<03:25:47.830><c> me</c><03:25:47.890><c> show</c><03:25:48.040><c> you</c><03:25:48.130><c> how</c><03:25:48.250><c> you</c><03:25:48.310><c> would</c><03:25:48.399><c> import</c>
+
+03:25:48.929 --> 03:25:48.939 align:start position:0%
+let me show you how you would import
+ 
+
+03:25:48.939 --> 03:25:52.380 align:start position:0%
+let me show you how you would import
+that<03:25:49.120><c> so</c><03:25:49.720><c> it's</c><03:25:49.840><c> going</c><03:25:49.930><c> to</c><03:25:49.990><c> be</c><03:25:50.140><c> import</c><03:25:51.390><c> subtract</c>
+
+03:25:52.380 --> 03:25:52.390 align:start position:0%
+that so it's going to be import subtract
+ 
+
+03:25:52.390 --> 03:25:55.620 align:start position:0%
+that so it's going to be import subtract
+and<03:25:53.010><c> we've</c><03:25:54.010><c> already</c><03:25:54.370><c> reached</c><03:25:54.880><c> the</c><03:25:55.120><c> difference</c>
+
+03:25:55.620 --> 03:25:55.630 align:start position:0%
+and we've already reached the difference
+ 
+
+03:25:55.630 --> 03:25:57.990 align:start position:0%
+and we've already reached the difference
+here<03:25:55.899><c> if</c><03:25:56.140><c> it's</c><03:25:56.439><c> not</c><03:25:56.530><c> a</c><03:25:56.649><c> default</c><03:25:57.220><c> export</c><03:25:57.640><c> you'll</c>
+
+03:25:57.990 --> 03:25:58.000 align:start position:0%
+here if it's not a default export you'll
+ 
+
+03:25:58.000 --> 03:26:00.690 align:start position:0%
+here if it's not a default export you'll
+put<03:25:58.270><c> curly</c><03:25:58.720><c> braces</c><03:25:58.990><c> around</c><03:25:59.200><c> this</c><03:25:59.649><c> but</c><03:26:00.280><c> it</c><03:26:00.430><c> is</c><03:26:00.670><c> a</c>
+
+03:26:00.690 --> 03:26:00.700 align:start position:0%
+put curly braces around this but it is a
+ 
+
+03:26:00.700 --> 03:26:03.240 align:start position:0%
+put curly braces around this but it is a
+default<03:26:01.359><c> export</c><03:26:01.899><c> so</c><03:26:02.170><c> we</c><03:26:02.380><c> are</c><03:26:02.500><c> not</c><03:26:02.740><c> going</c><03:26:03.130><c> to</c>
+
+03:26:03.240 --> 03:26:03.250 align:start position:0%
+default export so we are not going to
+ 
+
+03:26:03.250 --> 03:26:05.639 align:start position:0%
+default export so we are not going to
+use<03:26:03.430><c> curly</c><03:26:03.970><c> braces</c><03:26:04.000><c> but</c><03:26:04.870><c> we</c><03:26:04.990><c> still</c><03:26:05.260><c> have</c><03:26:05.470><c> to</c>
+
+03:26:05.639 --> 03:26:05.649 align:start position:0%
+use curly braces but we still have to
+ 
+
+03:26:05.649 --> 03:26:07.080 align:start position:0%
+use curly braces but we still have to
+say<03:26:05.859><c> what</c><03:26:06.130><c> it</c><03:26:06.220><c> what</c><03:26:06.370><c> it's</c><03:26:06.490><c> from</c>
+
+03:26:07.080 --> 03:26:07.090 align:start position:0%
+say what it what it's from
+ 
+
+03:26:07.090 --> 03:26:13.920 align:start position:0%
+say what it what it's from
+so<03:26:07.390><c> from</c><03:26:08.609><c> math</c><03:26:10.590><c> functions</c><03:26:12.149><c> okay</c><03:26:13.149><c> so</c><03:26:13.570><c> that</c><03:26:13.899><c> is</c>
+
+03:26:13.920 --> 03:26:13.930 align:start position:0%
+so from math functions okay so that is
+ 
+
+03:26:13.930 --> 03:26:18.110 align:start position:0%
+so from math functions okay so that is
+how<03:26:14.170><c> you</c><03:26:14.439><c> would</c><03:26:14.770><c> import</c><03:26:15.250><c> a</c><03:26:15.490><c> default</c><03:26:16.030><c> export</c>
+
+03:26:18.110 --> 03:26:18.120 align:start position:0%
+how you would import a default export
+ 
+
+03:26:18.120 --> 03:26:21.389 align:start position:0%
+how you would import a default export
+well<03:26:19.120><c> thanks</c><03:26:19.600><c> for</c><03:26:19.720><c> watching</c><03:26:19.890><c> don't</c><03:26:20.890><c> forget</c><03:26:21.010><c> to</c>
+
+03:26:21.389 --> 03:26:21.399 align:start position:0%
+well thanks for watching don't forget to
+ 
+
+03:26:21.399 --> 03:26:24.599 align:start position:0%
+well thanks for watching don't forget to
+subscribe<03:26:21.580><c> and</c><03:26:22.210><c> remember</c><03:26:22.770><c> use</c><03:26:23.770><c> your</c><03:26:23.800><c> code</c><03:26:24.310><c> for</c>
+
+03:26:24.599 --> 03:26:24.609 align:start position:0%
+subscribe and remember use your code for
+ 
+
+03:26:24.609 --> 03:26:26.820 align:start position:0%
+subscribe and remember use your code for
+good
+
