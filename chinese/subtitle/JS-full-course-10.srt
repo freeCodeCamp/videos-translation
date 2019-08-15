@@ -1,0 +1,3176 @@
+so<01:21:55.969><c> this</c><01:21:56.119><c> is</c><01:21:56.300><c> a</c><01:21:56.329><c> perfect</c><01:21:56.869><c> use</c><01:21:57.079><c> case</c><01:21:57.169><c> if</c><01:21:57.530><c> value</c>
+
+01:21:58.209 --> 01:21:58.219 align:start position:0%
+so this is a perfect use case if value
+ 
+
+01:21:58.219 --> 01:22:00.159 align:start position:0%
+so this is a perfect use case if value
+is<01:21:58.340><c> more</c><01:21:58.550><c> than</c><01:21:58.610><c> five</c><01:21:58.999><c> the</c><01:21:59.479><c> result</c><01:21:59.809><c> is</c><01:21:59.929><c> bigger</c>
+
+01:22:00.159 --> 01:22:00.169 align:start position:0%
+is more than five the result is bigger
+ 
+
+01:22:00.169 --> 01:22:03.129 align:start position:0%
+is more than five the result is bigger
+than<01:22:00.349><c> five</c><01:22:00.619><c> if</c><01:22:01.070><c> there</c><01:22:01.969><c> is</c><01:22:02.150><c> if</c><01:22:02.479><c> the</c><01:22:02.659><c> value</c><01:22:03.019><c> is</c>
+
+01:22:03.129 --> 01:22:03.139 align:start position:0%
+than five if there is if the value is
+ 
+
+01:22:03.139 --> 01:22:04.810 align:start position:0%
+than five if there is if the value is
+less<01:22:03.169><c> than</c><01:22:03.499><c> or</c><01:22:03.590><c> equal</c><01:22:03.709><c> to</c><01:22:03.979><c> five</c><01:22:04.159><c> the</c><01:22:04.340><c> result</c><01:22:04.669><c> is</c>
+
+01:22:04.810 --> 01:22:04.820 align:start position:0%
+less than or equal to five the result is
+ 
+
+01:22:04.820 --> 01:22:07.060 align:start position:0%
+less than or equal to five the result is
+five<01:22:05.090><c> or</c><01:22:05.119><c> smaller</c><01:22:05.539><c> we</c><01:22:06.320><c> can</c><01:22:06.349><c> do</c><01:22:06.619><c> this</c><01:22:06.800><c> with</c><01:22:06.949><c> an</c>
+
+01:22:07.060 --> 01:22:07.070 align:start position:0%
+five or smaller we can do this with an
+ 
+
+01:22:07.070 --> 01:22:08.919 align:start position:0%
+five or smaller we can do this with an
+else<01:22:07.340><c> statement</c><01:22:07.459><c> so</c><01:22:08.209><c> I'm</c><01:22:08.329><c> just</c><01:22:08.479><c> going</c><01:22:08.599><c> to</c><01:22:08.659><c> type</c>
+
+01:22:08.919 --> 01:22:08.929 align:start position:0%
+else statement so I'm just going to type
+ 
+
+01:22:08.929 --> 01:22:12.909 align:start position:0%
+else statement so I'm just going to type
+in<01:22:09.110><c> else</c><01:22:09.499><c> here</c><01:22:09.949><c> and</c><01:22:10.479><c> then</c><01:22:11.479><c> we</c><01:22:12.079><c> can</c><01:22:12.260><c> just</c><01:22:12.530><c> delete</c>
+
+01:22:12.909 --> 01:22:12.919 align:start position:0%
+in else here and then we can just delete
+ 
+
+01:22:12.919 --> 01:22:15.699 align:start position:0%
+in else here and then we can just delete
+this<01:22:13.099><c> whole</c><01:22:13.369><c> if</c><01:22:13.699><c> statement</c><01:22:14.360><c> just</c><01:22:15.260><c> like</c><01:22:15.439><c> that</c>
+
+01:22:15.699 --> 01:22:15.709 align:start position:0%
+this whole if statement just like that
+ 
+
+01:22:15.709 --> 01:22:18.429 align:start position:0%
+this whole if statement just like that
+and<01:22:15.979><c> now</c><01:22:16.909><c> we</c><01:22:16.969><c> have</c><01:22:17.150><c> if</c><01:22:17.570><c> the</c><01:22:18.019><c> value</c><01:22:18.349><c> is</c><01:22:18.409><c> less</c>
+
+01:22:18.429 --> 01:22:18.439 align:start position:0%
+and now we have if the value is less
+ 
+
+01:22:18.439 --> 01:22:20.140 align:start position:0%
+and now we have if the value is less
+than<01:22:18.619><c> five</c><01:22:19.010><c> the</c><01:22:19.429><c> results</c><01:22:19.789><c> will</c><01:22:19.880><c> be</c><01:22:19.909><c> bigger</c>
+
+01:22:20.140 --> 01:22:20.150 align:start position:0%
+than five the results will be bigger
+ 
+
+01:22:20.150 --> 01:22:22.779 align:start position:0%
+than five the results will be bigger
+than<01:22:20.300><c> five</c><01:22:20.510><c> else</c><01:22:21.079><c> if</c><01:22:21.559><c> it's</c><01:22:22.010><c> which</c><01:22:22.249><c> is</c><01:22:22.429><c> if</c><01:22:22.610><c> it's</c>
+
+01:22:22.779 --> 01:22:22.789 align:start position:0%
+than five else if it's which is if it's
+ 
+
+01:22:22.789 --> 01:22:26.049 align:start position:0%
+than five else if it's which is if it's
+not<01:22:23.030><c> more</c><01:22:23.780><c> than</c><01:22:23.929><c> five</c><01:22:24.199><c> we'll</c><01:22:24.860><c> return</c><01:22:25.130><c> five</c><01:22:25.729><c> or</c>
+
+01:22:26.049 --> 01:22:26.059 align:start position:0%
+not more than five we'll return five or
+ 
+
+01:22:26.059 --> 01:22:30.310 align:start position:0%
+not more than five we'll return five or
+smaller
+
+01:22:30.310 --> 01:22:30.320 align:start position:0%
+ 
+ 
+
+01:22:30.320 --> 01:22:32.560 align:start position:0%
+ 
+if<01:22:30.380><c> you</c><01:22:31.040><c> have</c><01:22:31.160><c> multiple</c><01:22:31.640><c> conditions</c><01:22:32.390><c> that</c>
+
+01:22:32.560 --> 01:22:32.570 align:start position:0%
+if you have multiple conditions that
+ 
+
+01:22:32.570 --> 01:22:34.810 align:start position:0%
+if you have multiple conditions that
+need<01:22:32.750><c> to</c><01:22:32.870><c> be</c><01:22:32.900><c> addressed</c><01:22:33.260><c> you</c><01:22:33.710><c> can</c><01:22:33.920><c> use</c><01:22:34.100><c> else</c><01:22:34.430><c> if</c>
+
+01:22:34.810 --> 01:22:34.820 align:start position:0%
+need to be addressed you can use else if
+ 
+
+01:22:34.820 --> 01:22:37.180 align:start position:0%
+need to be addressed you can use else if
+statements<01:22:35.810><c> it's</c><01:22:36.290><c> a</c><01:22:36.380><c> way</c><01:22:36.530><c> of</c><01:22:36.560><c> chaining</c><01:22:37.070><c> if</c>
+
+01:22:37.180 --> 01:22:37.190 align:start position:0%
+statements it's a way of chaining if
+ 
+
+01:22:37.190 --> 01:22:39.700 align:start position:0%
+statements it's a way of chaining if
+statements<01:22:37.850><c> together</c><01:22:38.000><c> in</c><01:22:38.540><c> this</c><01:22:39.050><c> example</c><01:22:39.470><c> we</c>
+
+01:22:39.700 --> 01:22:39.710 align:start position:0%
+statements together in this example we
+ 
+
+01:22:39.710 --> 01:22:42.280 align:start position:0%
+statements together in this example we
+have<01:22:39.740><c> three</c><01:22:39.860><c> conditions</c><01:22:40.370><c> if</c><01:22:41.030><c> value</c><01:22:41.930><c> is</c><01:22:41.960><c> more</c>
+
+01:22:42.280 --> 01:22:42.290 align:start position:0%
+have three conditions if value is more
+ 
+
+01:22:42.290 --> 01:22:44.200 align:start position:0%
+have three conditions if value is more
+than<01:22:42.350><c> 10</c><01:22:42.770><c> we're</c><01:22:43.130><c> gonna</c><01:22:43.250><c> return</c><01:22:43.490><c> greater</c><01:22:44.000><c> than</c>
+
+01:22:44.200 --> 01:22:44.210 align:start position:0%
+than 10 we're gonna return greater than
+ 
+
+01:22:44.210 --> 01:22:46.900 align:start position:0%
+than 10 we're gonna return greater than
+10<01:22:44.450><c> if</c><01:22:44.660><c> it's</c><01:22:45.170><c> less</c><01:22:45.410><c> than</c><01:22:45.560><c> 5</c><01:22:45.830><c> returns</c><01:22:46.640><c> smaller</c>
+
+01:22:46.900 --> 01:22:46.910 align:start position:0%
+10 if it's less than 5 returns smaller
+ 
+
+01:22:46.910 --> 01:22:50.260 align:start position:0%
+10 if it's less than 5 returns smaller
+than<01:22:47.150><c> 5</c><01:22:47.390><c> or</c><01:22:47.660><c> else</c><01:22:48.440><c> we're</c><01:22:49.160><c> gonna</c><01:22:49.280><c> return</c><01:22:49.700><c> 5</c><01:22:50.030><c> and</c>
+
+01:22:50.260 --> 01:22:50.270 align:start position:0%
+than 5 or else we're gonna return 5 and
+ 
+
+01:22:50.270 --> 01:22:53.020 align:start position:0%
+than 5 or else we're gonna return 5 and
+up<01:22:50.360><c> so</c><01:22:51.020><c> this</c><01:22:51.170><c> is</c><01:22:51.350><c> a</c><01:22:51.380><c> perfect</c><01:22:51.920><c> use</c><01:22:52.220><c> case</c><01:22:52.370><c> for</c><01:22:52.910><c> an</c>
+
+01:22:53.020 --> 01:22:53.030 align:start position:0%
+up so this is a perfect use case for an
+ 
+
+01:22:53.030 --> 01:22:55.720 align:start position:0%
+up so this is a perfect use case for an
+else<01:22:53.240><c> if</c><01:22:53.540><c> statement</c><01:22:54.290><c> so</c><01:22:54.920><c> this</c><01:22:55.220><c> is</c><01:22:55.340><c> how</c><01:22:55.400><c> we</c><01:22:55.460><c> do</c>
+
+01:22:55.720 --> 01:22:55.730 align:start position:0%
+else if statement so this is how we do
+ 
+
+01:22:55.730 --> 01:22:59.110 align:start position:0%
+else if statement so this is how we do
+it<01:22:55.760><c> well</c><01:22:56.240><c> do</c><01:22:56.660><c> else</c><01:22:56.990><c> and</c><01:22:57.550><c> then</c><01:22:58.550><c> just</c><01:22:58.880><c> we're</c>
+
+01:22:59.110 --> 01:22:59.120 align:start position:0%
+it well do else and then just we're
+ 
+
+01:22:59.120 --> 01:23:00.940 align:start position:0%
+it well do else and then just we're
+going<01:22:59.330><c> to</c><01:22:59.450><c> add</c><01:22:59.600><c> the</c><01:22:59.810><c> if</c><01:22:59.960><c> statement</c><01:23:00.530><c> at</c><01:23:00.620><c> the</c><01:23:00.800><c> end</c>
+
+01:23:00.940 --> 01:23:00.950 align:start position:0%
+going to add the if statement at the end
+ 
+
+01:23:00.950 --> 01:23:02.530 align:start position:0%
+going to add the if statement at the end
+of<01:23:01.160><c> the</c><01:23:01.220><c> else</c><01:23:01.400><c> I'm</c><01:23:01.610><c> just</c><01:23:01.640><c> gonna</c><01:23:01.910><c> delete</c><01:23:02.270><c> all</c>
+
+01:23:02.530 --> 01:23:02.540 align:start position:0%
+of the else I'm just gonna delete all
+ 
+
+01:23:02.540 --> 01:23:06.670 align:start position:0%
+of the else I'm just gonna delete all
+this<01:23:02.750><c> stuff</c><01:23:03.020><c> so</c><01:23:03.500><c> else</c><01:23:03.920><c> if</c><01:23:05.110><c> value</c><01:23:06.110><c> is</c><01:23:06.140><c> less</c><01:23:06.470><c> than</c>
+
+01:23:06.670 --> 01:23:06.680 align:start position:0%
+this stuff so else if value is less than
+ 
+
+01:23:06.680 --> 01:23:09.340 align:start position:0%
+this stuff so else if value is less than
+5<01:23:06.950><c> and</c><01:23:07.330><c> then</c><01:23:08.330><c> we're</c><01:23:08.480><c> gonna</c><01:23:08.570><c> have</c><01:23:08.810><c> one</c><01:23:09.080><c> final</c>
+
+01:23:09.340 --> 01:23:09.350 align:start position:0%
+5 and then we're gonna have one final
+ 
+
+01:23:09.350 --> 01:23:13.090 align:start position:0%
+5 and then we're gonna have one final
+else<01:23:09.650><c> statement</c><01:23:10.160><c> else</c><01:23:10.730><c> and</c><01:23:11.530><c> I'm</c><01:23:12.530><c> going</c><01:23:12.740><c> to</c><01:23:12.770><c> put</c>
+
+01:23:13.090 --> 01:23:13.100 align:start position:0%
+else statement else and I'm going to put
+ 
+
+01:23:13.100 --> 01:23:15.760 align:start position:0%
+else statement else and I'm going to put
+this<01:23:13.430><c> statement</c><01:23:13.820><c> here</c><01:23:14.360><c> this</c><01:23:14.840><c> final</c><01:23:15.350><c> return</c>
+
+01:23:15.760 --> 01:23:15.770 align:start position:0%
+this statement here this final return
+ 
+
+01:23:15.770 --> 01:23:18.910 align:start position:0%
+this statement here this final return
+just<01:23:16.610><c> gonna</c><01:23:16.820><c> cut</c><01:23:17.150><c> that</c><01:23:17.360><c> and</c><01:23:17.690><c> then</c><01:23:18.290><c> paste</c><01:23:18.620><c> it</c>
+
+01:23:18.910 --> 01:23:18.920 align:start position:0%
+just gonna cut that and then paste it
+ 
+
+01:23:18.920 --> 01:23:23.800 align:start position:0%
+just gonna cut that and then paste it
+right<01:23:18.950><c> in</c><01:23:19.250><c> there</c><01:23:19.520><c> so</c><01:23:20.420><c> now</c><01:23:21.940><c> we've</c><01:23:22.940><c> instead</c><01:23:23.720><c> of</c>
+
+01:23:23.800 --> 01:23:23.810 align:start position:0%
+right in there so now we've instead of
+ 
+
+01:23:23.810 --> 01:23:25.750 align:start position:0%
+right in there so now we've instead of
+using<01:23:24.110><c> multiple</c><01:23:24.380><c> if</c><01:23:24.860><c> statements</c><01:23:25.370><c> we</c><01:23:25.490><c> have</c><01:23:25.670><c> the</c>
+
+01:23:25.750 --> 01:23:25.760 align:start position:0%
+using multiple if statements we have the
+ 
+
+01:23:25.760 --> 01:23:28.240 align:start position:0%
+using multiple if statements we have the
+if<01:23:25.910><c> and</c><01:23:26.270><c> only</c><01:23:26.480><c> the</c><01:23:26.600><c> else</c><01:23:26.780><c> if</c><01:23:27.140><c> and</c><01:23:27.350><c> then</c><01:23:27.890><c> we</c><01:23:28.040><c> have</c>
+
+01:23:28.240 --> 01:23:28.250 align:start position:0%
+if and only the else if and then we have
+ 
+
+01:23:28.250 --> 01:23:32.770 align:start position:0%
+if and only the else if and then we have
+the<01:23:28.460><c> else</c>
+
+01:23:32.770 --> 01:23:32.780 align:start position:0%
+ 
+ 
+
+01:23:32.780 --> 01:23:35.260 align:start position:0%
+ 
+when<01:23:33.320><c> you're</c><01:23:33.500><c> using</c><01:23:33.770><c> else</c><01:23:34.130><c> if</c><01:23:34.400><c> statements</c>
+
+01:23:35.260 --> 01:23:35.270 align:start position:0%
+when you're using else if statements
+ 
+
+01:23:35.270 --> 01:23:38.140 align:start position:0%
+when you're using else if statements
+order<01:23:36.050><c> is</c><01:23:36.200><c> very</c><01:23:36.530><c> important</c><01:23:37.190><c> let's</c><01:23:37.790><c> look</c><01:23:38.030><c> at</c>
+
+01:23:38.140 --> 01:23:38.150 align:start position:0%
+order is very important let's look at
+ 
+
+01:23:38.150 --> 01:23:40.540 align:start position:0%
+order is very important let's look at
+this<01:23:38.270><c> example</c><01:23:38.480><c> here</c><01:23:39.230><c> in</c><01:23:39.350><c> this</c><01:23:39.800><c> function</c><01:23:40.280><c> first</c>
+
+01:23:40.540 --> 01:23:40.550 align:start position:0%
+this example here in this function first
+ 
+
+01:23:40.550 --> 01:23:42.910 align:start position:0%
+this example here in this function first
+we<01:23:40.790><c> check</c><01:23:41.060><c> if</c><01:23:41.300><c> the</c><01:23:41.510><c> value</c><01:23:41.720><c> is</c><01:23:42.080><c> less</c><01:23:42.350><c> than</c><01:23:42.380><c> 10</c>
+
+01:23:42.910 --> 01:23:42.920 align:start position:0%
+we check if the value is less than 10
+ 
+
+01:23:42.920 --> 01:23:46.930 align:start position:0%
+we check if the value is less than 10
+and<01:23:43.190><c> return</c><01:23:43.700><c> less</c><01:23:43.910><c> than</c><01:23:44.090><c> 10</c><01:23:44.360><c> then</c><01:23:45.170><c> else</c><01:23:46.070><c> if</c><01:23:46.370><c> we</c>
+
+01:23:46.930 --> 01:23:46.940 align:start position:0%
+and return less than 10 then else if we
+ 
+
+01:23:46.940 --> 01:23:49.150 align:start position:0%
+and return less than 10 then else if we
+check<01:23:47.240><c> if</c><01:23:47.420><c> the</c><01:23:47.450><c> value</c><01:23:47.930><c> is</c><01:23:48.050><c> less</c><01:23:48.080><c> than</c><01:23:48.470><c> 5</c><01:23:48.740><c> and</c>
+
+01:23:49.150 --> 01:23:49.160 align:start position:0%
+check if the value is less than 5 and
+ 
+
+01:23:49.160 --> 01:23:54.130 align:start position:0%
+check if the value is less than 5 and
+return<01:23:49.970><c> less</c><01:23:50.570><c> than</c><01:23:50.840><c> 5</c><01:23:51.580><c> well</c><01:23:52.580><c> if</c><01:23:52.820><c> we</c><01:23:53.510><c> look</c><01:23:53.990><c> at</c>
+
+01:23:54.130 --> 01:23:54.140 align:start position:0%
+return less than 5 well if we look at
+ 
+
+01:23:54.140 --> 01:23:56.050 align:start position:0%
+return less than 5 well if we look at
+this<01:23:54.260><c> example</c><01:23:54.650><c> when</c><01:23:55.040><c> we</c><01:23:55.130><c> pass</c><01:23:55.430><c> in</c><01:23:55.640><c> the</c><01:23:55.790><c> number</c>
+
+01:23:56.050 --> 01:23:56.060 align:start position:0%
+this example when we pass in the number
+ 
+
+01:23:56.060 --> 01:23:58.780 align:start position:0%
+this example when we pass in the number
+7<01:23:56.570><c> if</c><01:23:56.720><c> I</c><01:23:56.810><c> run</c><01:23:57.050><c> this</c><01:23:57.290><c> you'll</c><01:23:57.980><c> see</c><01:23:58.070><c> it's</c><01:23:58.490><c> going</c><01:23:58.670><c> to</c>
+
+01:23:58.780 --> 01:23:58.790 align:start position:0%
+7 if I run this you'll see it's going to
+ 
+
+01:23:58.790 --> 01:24:01.660 align:start position:0%
+7 if I run this you'll see it's going to
+say<01:23:59.120><c> less</c><01:23:59.780><c> than</c><01:23:59.810><c> 10</c><01:24:00.470><c> which</c><01:24:00.950><c> is</c><01:24:01.010><c> what</c><01:24:01.280><c> we</c><01:24:01.400><c> want</c>
+
+01:24:01.660 --> 01:24:01.670 align:start position:0%
+say less than 10 which is what we want
+ 
+
+01:24:01.670 --> 01:24:07.360 align:start position:0%
+say less than 10 which is what we want
+however<01:24:02.450><c> if</c><01:24:02.720><c> we</c><01:24:03.500><c> put</c><01:24:03.890><c> 3</c><01:24:05.860><c> it's</c><01:24:06.860><c> still</c><01:24:07.160><c> just</c>
+
+01:24:07.360 --> 01:24:07.370 align:start position:0%
+however if we put 3 it's still just
+ 
+
+01:24:07.370 --> 01:24:10.690 align:start position:0%
+however if we put 3 it's still just
+gonna<01:24:07.580><c> say</c><01:24:07.880><c> less</c><01:24:08.270><c> than</c><01:24:08.570><c> 10</c><01:24:09.340><c> really</c><01:24:10.340><c> we</c><01:24:10.460><c> want</c>
+
+01:24:10.690 --> 01:24:10.700 align:start position:0%
+gonna say less than 10 really we want
+ 
+
+01:24:10.700 --> 01:24:13.480 align:start position:0%
+gonna say less than 10 really we want
+this<01:24:10.820><c> to</c><01:24:11.000><c> say</c><01:24:11.180><c> less</c><01:24:11.480><c> than</c><01:24:11.510><c> 5</c><01:24:12.130><c> because</c><01:24:13.130><c> it</c><01:24:13.340><c> is</c>
+
+01:24:13.480 --> 01:24:13.490 align:start position:0%
+this to say less than 5 because it is
+ 
+
+01:24:13.490 --> 01:24:15.310 align:start position:0%
+this to say less than 5 because it is
+actually<01:24:13.730><c> less</c><01:24:14.390><c> than</c><01:24:14.450><c> 5</c>
+
+01:24:15.310 --> 01:24:15.320 align:start position:0%
+actually less than 5
+ 
+
+01:24:15.320 --> 01:24:17.770 align:start position:0%
+actually less than 5
+however<01:24:16.010><c> the</c><01:24:16.220><c> this</c><01:24:16.670><c> is</c><01:24:16.820><c> in</c><01:24:16.970><c> the</c><01:24:17.120><c> wrong</c><01:24:17.330><c> order</c>
+
+01:24:17.770 --> 01:24:17.780 align:start position:0%
+however the this is in the wrong order
+ 
+
+01:24:17.780 --> 01:24:21.190 align:start position:0%
+however the this is in the wrong order
+so<01:24:18.770><c> what</c><01:24:19.340><c> we</c><01:24:19.460><c> need</c><01:24:19.610><c> to</c><01:24:19.730><c> do</c><01:24:20.000><c> is</c><01:24:20.240><c> change</c><01:24:20.930><c> the</c>
+
+01:24:21.190 --> 01:24:21.200 align:start position:0%
+so what we need to do is change the
+ 
+
+01:24:21.200 --> 01:24:24.790 align:start position:0%
+so what we need to do is change the
+order<01:24:21.500><c> so</c><01:24:21.680><c> this</c><01:24:22.160><c> should</c><01:24:22.370><c> be</c><01:24:22.400><c> 5</c><01:24:23.470><c> this</c><01:24:24.470><c> should</c><01:24:24.680><c> be</c>
+
+01:24:24.790 --> 01:24:24.800 align:start position:0%
+order so this should be 5 this should be
+ 
+
+01:24:24.800 --> 01:24:29.170 align:start position:0%
+order so this should be 5 this should be
+5<01:24:25.100><c> and</c><01:24:25.460><c> this</c><01:24:26.120><c> should</c><01:24:26.360><c> be</c><01:24:26.510><c> 10</c><01:24:27.140><c> and</c><01:24:28.030><c> this</c><01:24:29.030><c> should</c>
+
+01:24:29.170 --> 01:24:29.180 align:start position:0%
+5 and this should be 10 and this should
+ 
+
+01:24:29.180 --> 01:24:32.890 align:start position:0%
+5 and this should be 10 and this should
+be<01:24:29.270><c> 10</c><01:24:29.570><c> so</c><01:24:30.260><c> once</c><01:24:31.070><c> the</c><01:24:31.370><c> first</c><01:24:31.790><c> condition</c><01:24:32.510><c> is</c><01:24:32.600><c> met</c>
+
+01:24:32.890 --> 01:24:32.900 align:start position:0%
+be 10 so once the first condition is met
+ 
+
+01:24:32.900 --> 01:24:34.930 align:start position:0%
+be 10 so once the first condition is met
+it<01:24:33.110><c> doesn't</c><01:24:33.410><c> even</c><01:24:33.470><c> check</c><01:24:33.950><c> for</c><01:24:34.340><c> the</c><01:24:34.550><c> rest</c><01:24:34.760><c> of</c>
+
+01:24:34.930 --> 01:24:34.940 align:start position:0%
+it doesn't even check for the rest of
+ 
+
+01:24:34.940 --> 01:24:37.000 align:start position:0%
+it doesn't even check for the rest of
+the<01:24:35.030><c> conditions</c><01:24:35.630><c> so</c><01:24:36.470><c> that's</c><01:24:36.680><c> why</c><01:24:36.860><c> it's</c>
+
+01:24:37.000 --> 01:24:37.010 align:start position:0%
+the conditions so that's why it's
+ 
+
+01:24:37.010 --> 01:24:39.850 align:start position:0%
+the conditions so that's why it's
+important<01:24:37.580><c> to</c><01:24:37.640><c> think</c><01:24:38.120><c> about</c><01:24:38.480><c> the</c><01:24:38.870><c> order</c><01:24:39.080><c> so</c><01:24:39.770><c> if</c>
+
+01:24:39.850 --> 01:24:39.860 align:start position:0%
+important to think about the order so if
+ 
+
+01:24:39.860 --> 01:24:43.360 align:start position:0%
+important to think about the order so if
+we<01:24:40.010><c> run</c><01:24:40.250><c> this</c><01:24:40.400><c> now</c><01:24:40.780><c> yep</c><01:24:41.810><c> less</c><01:24:42.140><c> than</c><01:24:42.380><c> 5</c><01:24:42.590><c> that's</c>
+
+01:24:43.360 --> 01:24:43.370 align:start position:0%
+we run this now yep less than 5 that's
+ 
+
+01:24:43.370 --> 01:24:47.820 align:start position:0%
+we run this now yep less than 5 that's
+what<01:24:43.580><c> we</c><01:24:43.670><c> want</c>
+
+01:24:47.820 --> 01:24:47.830 align:start position:0%
+ 
+ 
+
+01:24:47.830 --> 01:24:51.210 align:start position:0%
+ 
+you<01:24:48.400><c> can</c><01:24:48.580><c> also</c><01:24:48.820><c> chain</c><01:24:49.450><c> if</c><01:24:49.930><c> and</c><01:24:50.620><c> else</c><01:24:50.890><c> if</c>
+
+01:24:51.210 --> 01:24:51.220 align:start position:0%
+you can also chain if and else if
+ 
+
+01:24:51.220 --> 01:24:53.970 align:start position:0%
+you can also chain if and else if
+statements<01:24:51.940><c> so</c><01:24:52.390><c> I'm</c><01:24:52.570><c> going</c><01:24:52.900><c> to</c><01:24:53.110><c> complete</c><01:24:53.800><c> the</c>
+
+01:24:53.970 --> 01:24:53.980 align:start position:0%
+statements so I'm going to complete the
+ 
+
+01:24:53.980 --> 01:24:56.190 align:start position:0%
+statements so I'm going to complete the
+following<01:24:54.310><c> challenge</c><01:24:54.820><c> here</c><01:24:55.210><c> right</c><01:24:55.750><c> chained</c>
+
+01:24:56.190 --> 01:24:56.200 align:start position:0%
+following challenge here right chained
+ 
+
+01:24:56.200 --> 01:24:58.710 align:start position:0%
+following challenge here right chained
+if<01:24:56.470><c> /</c><01:24:56.920><c> else</c><01:24:57.250><c> if</c><01:24:57.580><c> statements</c><01:24:58.150><c> to</c><01:24:58.240><c> fulfill</c><01:24:58.600><c> the</c>
+
+01:24:58.710 --> 01:24:58.720 align:start position:0%
+if / else if statements to fulfill the
+ 
+
+01:24:58.720 --> 01:25:01.020 align:start position:0%
+if / else if statements to fulfill the
+following<01:24:59.080><c> conditions</c><01:24:59.590><c> so</c><01:25:00.340><c> we</c><01:25:00.670><c> have</c><01:25:00.850><c> these</c>
+
+01:25:01.020 --> 01:25:01.030 align:start position:0%
+following conditions so we have these
+ 
+
+01:25:01.030 --> 01:25:03.630 align:start position:0%
+following conditions so we have these
+conditions<01:25:01.690><c> where</c><01:25:02.050><c> if</c><01:25:02.560><c> the</c><01:25:02.950><c> number</c><01:25:03.250><c> is</c><01:25:03.370><c> less</c>
+
+01:25:03.630 --> 01:25:03.640 align:start position:0%
+conditions where if the number is less
+ 
+
+01:25:03.640 --> 01:25:05.820 align:start position:0%
+conditions where if the number is less
+than<01:25:03.670><c> five</c><01:25:04.060><c> we're</c><01:25:04.540><c> gonna</c><01:25:04.690><c> return</c><01:25:04.900><c> tiny</c><01:25:05.500><c> if</c>
+
+01:25:05.820 --> 01:25:05.830 align:start position:0%
+than five we're gonna return tiny if
+ 
+
+01:25:05.830 --> 01:25:08.790 align:start position:0%
+than five we're gonna return tiny if
+it's<01:25:06.280><c> less</c><01:25:06.490><c> than</c><01:25:06.520><c> ten</c><01:25:06.970><c> returns</c><01:25:07.390><c> small</c><01:25:07.690><c> and</c><01:25:07.990><c> so</c>
+
+01:25:08.790 --> 01:25:08.800 align:start position:0%
+it's less than ten returns small and so
+ 
+
+01:25:08.800 --> 01:25:10.830 align:start position:0%
+it's less than ten returns small and so
+on<01:25:09.040><c> so</c><01:25:09.670><c> what</c><01:25:09.820><c> I'm</c><01:25:09.910><c> gonna</c><01:25:10.000><c> do</c><01:25:10.240><c> is</c><01:25:10.390><c> actually</c><01:25:10.510><c> just</c>
+
+01:25:10.830 --> 01:25:10.840 align:start position:0%
+on so what I'm gonna do is actually just
+ 
+
+01:25:10.840 --> 01:25:13.680 align:start position:0%
+on so what I'm gonna do is actually just
+copy<01:25:11.110><c> this</c><01:25:11.530><c> right</c><01:25:11.770><c> here</c><01:25:12.100><c> because</c><01:25:12.850><c> this</c><01:25:13.420><c> is</c>
+
+01:25:13.680 --> 01:25:13.690 align:start position:0%
+copy this right here because this is
+ 
+
+01:25:13.690 --> 01:25:15.420 align:start position:0%
+copy this right here because this is
+written<01:25:14.170><c> as</c><01:25:14.380><c> part</c><01:25:14.680><c> of</c><01:25:14.740><c> it's</c><01:25:14.890><c> written</c><01:25:15.190><c> exactly</c>
+
+01:25:15.420 --> 01:25:15.430 align:start position:0%
+written as part of it's written exactly
+ 
+
+01:25:15.430 --> 01:25:17.400 align:start position:0%
+written as part of it's written exactly
+how<01:25:15.760><c> we</c><01:25:15.820><c> want</c><01:25:16.120><c> to</c><01:25:16.210><c> be</c><01:25:16.300><c> written</c><01:25:16.660><c> I'll</c><01:25:16.900><c> just</c>
+
+01:25:17.400 --> 01:25:17.410 align:start position:0%
+how we want to be written I'll just
+ 
+
+01:25:17.410 --> 01:25:20.880 align:start position:0%
+how we want to be written I'll just
+paste<01:25:17.860><c> it</c><01:25:18.220><c> here</c><01:25:18.250><c> and</c><01:25:19.170><c> I'm</c><01:25:20.170><c> going</c><01:25:20.320><c> to</c><01:25:20.440><c> just</c><01:25:20.650><c> add</c>
+
+01:25:20.880 --> 01:25:20.890 align:start position:0%
+paste it here and I'm going to just add
+ 
+
+01:25:20.890 --> 01:25:22.500 align:start position:0%
+paste it here and I'm going to just add
+the<01:25:21.160><c> if</c><01:25:21.310><c> and</c><01:25:21.520><c> else</c><01:25:21.640><c> statement</c><01:25:22.120><c> so</c><01:25:22.240><c> it's</c><01:25:22.390><c> gonna</c>
+
+01:25:22.500 --> 01:25:22.510 align:start position:0%
+the if and else statement so it's gonna
+ 
+
+01:25:22.510 --> 01:25:24.510 align:start position:0%
+the if and else statement so it's gonna
+be<01:25:22.570><c> if</c><01:25:22.870><c> and</c><01:25:23.200><c> then</c><01:25:23.890><c> we</c><01:25:24.010><c> put</c><01:25:24.280><c> this</c><01:25:24.370><c> in</c>
+
+01:25:24.510 --> 01:25:24.520 align:start position:0%
+be if and then we put this in
+ 
+
+01:25:24.520 --> 01:25:26.160 align:start position:0%
+be if and then we put this in
+parentheses<01:25:25.090><c> because</c><01:25:25.240><c> the</c><01:25:25.510><c> condition</c><01:25:26.080><c> is</c>
+
+01:25:26.160 --> 01:25:26.170 align:start position:0%
+parentheses because the condition is
+ 
+
+01:25:26.170 --> 01:25:28.650 align:start position:0%
+parentheses because the condition is
+always<01:25:26.500><c> in</c><01:25:26.680><c> parentheses</c><01:25:27.250><c> if</c><01:25:27.670><c> number</c><01:25:28.300><c> is</c><01:25:28.420><c> less</c>
+
+01:25:28.650 --> 01:25:28.660 align:start position:0%
+always in parentheses if number is less
+ 
+
+01:25:28.660 --> 01:25:31.590 align:start position:0%
+always in parentheses if number is less
+than<01:25:28.900><c> five</c><01:25:29.230><c> then</c><01:25:30.130><c> we're</c><01:25:30.610><c> going</c><01:25:30.820><c> to</c><01:25:30.880><c> use</c><01:25:31.270><c> the</c>
+
+01:25:31.590 --> 01:25:31.600 align:start position:0%
+than five then we're going to use the
+ 
+
+01:25:31.600 --> 01:25:35.070 align:start position:0%
+than five then we're going to use the
+curly<01:25:31.930><c> braces</c><01:25:32.350><c> and</c><01:25:32.890><c> we're</c><01:25:33.790><c> going</c><01:25:34.030><c> to</c><01:25:34.090><c> return</c>
+
+01:25:35.070 --> 01:25:35.080 align:start position:0%
+curly braces and we're going to return
+ 
+
+01:25:35.080 --> 01:25:37.050 align:start position:0%
+curly braces and we're going to return
+tiny<01:25:35.710><c> so</c><01:25:36.040><c> I'll</c><01:25:36.100><c> just</c><01:25:36.190><c> move</c><01:25:36.430><c> that</c><01:25:36.580><c> up</c><01:25:36.730><c> here</c><01:25:36.940><c> I'll</c>
+
+01:25:37.050 --> 01:25:37.060 align:start position:0%
+tiny so I'll just move that up here I'll
+ 
+
+01:25:37.060 --> 01:25:40.530 align:start position:0%
+tiny so I'll just move that up here I'll
+cut<01:25:37.780><c> it</c><01:25:37.930><c> and</c><01:25:38.110><c> paste</c><01:25:38.500><c> it</c><01:25:38.830><c> now</c><01:25:39.240><c> we're</c><01:25:40.240><c> going</c><01:25:40.420><c> to</c>
+
+01:25:40.530 --> 01:25:40.540 align:start position:0%
+cut it and paste it now we're going to
+ 
+
+01:25:40.540 --> 01:25:43.830 align:start position:0%
+cut it and paste it now we're going to
+use<01:25:40.660><c> an</c><01:25:41.110><c> else</c><01:25:41.410><c> if</c><01:25:42.100><c> statement</c><01:25:42.910><c> and</c><01:25:43.120><c> I</c><01:25:43.540><c> got</c><01:25:43.720><c> the</c>
+
+01:25:43.830 --> 01:25:43.840 align:start position:0%
+use an else if statement and I got the
+ 
+
+01:25:43.840 --> 01:25:45.120 align:start position:0%
+use an else if statement and I got the
+curly<01:25:44.290><c> braces</c>
+
+01:25:45.120 --> 01:25:45.130 align:start position:0%
+curly braces
+ 
+
+01:25:45.130 --> 01:25:47.280 align:start position:0%
+curly braces
+first<01:25:45.760><c> of</c><01:25:45.910><c> all</c><01:25:45.970><c> also</c><01:25:46.270><c> I</c><01:25:46.450><c> need</c><01:25:46.660><c> to</c><01:25:46.750><c> put</c><01:25:47.020><c> the</c>
+
+01:25:47.280 --> 01:25:47.290 align:start position:0%
+first of all also I need to put the
+ 
+
+01:25:47.290 --> 01:25:50.010 align:start position:0%
+first of all also I need to put the
+condition<01:25:47.920><c> in</c><01:25:48.130><c> these</c><01:25:48.310><c> parentheses</c><01:25:48.750><c> I'm</c><01:25:49.750><c> just</c>
+
+01:25:50.010 --> 01:25:50.020 align:start position:0%
+condition in these parentheses I'm just
+ 
+
+01:25:50.020 --> 01:25:52.800 align:start position:0%
+condition in these parentheses I'm just
+going<01:25:50.170><c> to</c><01:25:50.230><c> cut</c><01:25:50.470><c> this</c><01:25:51.120><c> number</c><01:25:52.120><c> is</c><01:25:52.360><c> less</c><01:25:52.750><c> than</c>
+
+01:25:52.800 --> 01:25:52.810 align:start position:0%
+going to cut this number is less than
+ 
+
+01:25:52.810 --> 01:25:55.170 align:start position:0%
+going to cut this number is less than
+ten<01:25:53.290><c> put</c><01:25:53.650><c> right</c><01:25:53.800><c> here</c><01:25:54.160><c> and</c><01:25:54.340><c> we're</c><01:25:55.030><c> gonna</c>
+
+01:25:55.170 --> 01:25:55.180 align:start position:0%
+ten put right here and we're gonna
+ 
+
+01:25:55.180 --> 01:25:58.590 align:start position:0%
+ten put right here and we're gonna
+return<01:25:55.450><c> this</c><01:25:56.320><c> small</c><01:25:56.830><c> so</c><01:25:57.820><c> I'll</c><01:25:58.060><c> put</c><01:25:58.330><c> that</c><01:25:58.540><c> in</c>
+
+01:25:58.590 --> 01:25:58.600 align:start position:0%
+return this small so I'll put that in
+ 
+
+01:25:58.600 --> 01:26:02.160 align:start position:0%
+return this small so I'll put that in
+the<01:25:58.930><c> curly</c><01:25:59.410><c> braces</c><01:25:59.680><c> here</c><01:25:59.920><c> and</c><01:26:00.450><c> then</c><01:26:01.450><c> we</c><01:26:01.840><c> have</c>
+
+01:26:02.160 --> 01:26:02.170 align:start position:0%
+the curly braces here and then we have
+ 
+
+01:26:02.170 --> 01:26:06.270 align:start position:0%
+the curly braces here and then we have
+another<01:26:02.470><c> else</c><01:26:03.190><c> if</c><01:26:03.640><c> statement</c><01:26:04.240><c> else</c><01:26:04.860><c> if</c><01:26:05.860><c> and</c>
+
+01:26:06.270 --> 01:26:06.280 align:start position:0%
+another else if statement else if and
+ 
+
+01:26:06.280 --> 01:26:09.180 align:start position:0%
+another else if statement else if and
+the<01:26:06.970><c> condition</c><01:26:07.600><c> just</c><01:26:07.930><c> like</c><01:26:08.050><c> before</c><01:26:08.560><c> number</c><01:26:08.890><c> is</c>
+
+01:26:09.180 --> 01:26:09.190 align:start position:0%
+the condition just like before number is
+ 
+
+01:26:09.190 --> 01:26:13.080 align:start position:0%
+the condition just like before number is
+less<01:26:09.670><c> than</c><01:26:09.940><c> fifteen</c><01:26:10.480><c> but</c><01:26:11.290><c> that</c><01:26:11.470><c> in</c><01:26:11.620><c> there</c><01:26:12.090><c> we</c>
+
+01:26:13.080 --> 01:26:13.090 align:start position:0%
+less than fifteen but that in there we
+ 
+
+01:26:13.090 --> 01:26:16.080 align:start position:0%
+less than fifteen but that in there we
+get<01:26:13.300><c> we</c><01:26:13.570><c> always</c><01:26:13.840><c> need</c><01:26:14.080><c> the</c><01:26:14.380><c> curly</c><01:26:14.830><c> braces</c><01:26:15.310><c> to</c>
+
+01:26:16.080 --> 01:26:16.090 align:start position:0%
+get we always need the curly braces to
+ 
+
+01:26:16.090 --> 01:26:17.820 align:start position:0%
+get we always need the curly braces to
+show<01:26:16.360><c> what's</c><01:26:16.630><c> going</c><01:26:16.810><c> to</c><01:26:16.840><c> happen</c><01:26:17.260><c> in</c><01:26:17.530><c> the</c><01:26:17.710><c> if</c>
+
+01:26:17.820 --> 01:26:17.830 align:start position:0%
+show what's going to happen in the if
+ 
+
+01:26:17.830 --> 01:26:19.770 align:start position:0%
+show what's going to happen in the if
+statement<01:26:18.000><c> so</c><01:26:19.000><c> I'm</c><01:26:19.120><c> just</c><01:26:19.300><c> cutting</c><01:26:19.540><c> and</c>
+
+01:26:19.770 --> 01:26:19.780 align:start position:0%
+statement so I'm just cutting and
+ 
+
+01:26:19.780 --> 01:26:22.710 align:start position:0%
+statement so I'm just cutting and
+pasting<01:26:19.960><c> the</c><01:26:20.260><c> text</c><01:26:20.340><c> again</c><01:26:21.340><c> we</c><01:26:22.090><c> have</c><01:26:22.240><c> an</c><01:26:22.390><c> else</c>
+
+01:26:22.710 --> 01:26:22.720 align:start position:0%
+pasting the text again we have an else
+ 
+
+01:26:22.720 --> 01:26:31.110 align:start position:0%
+pasting the text again we have an else
+if<01:26:24.000><c> and</c><01:26:25.080><c> then</c><01:26:26.080><c> we</c><01:26:26.200><c> have</c><01:26:26.350><c> this</c><01:26:26.620><c> year</c><01:26:29.880><c> and</c><01:26:30.880><c> we</c>
+
+01:26:31.110 --> 01:26:31.120 align:start position:0%
+if and then we have this year and we
+ 
+
+01:26:31.120 --> 01:26:38.040 align:start position:0%
+if and then we have this year and we
+have<01:26:31.150><c> return</c><01:26:31.930><c> large</c><01:26:36.210><c> another</c><01:26:37.210><c> actually</c><01:26:37.990><c> the</c>
+
+01:26:38.040 --> 01:26:38.050 align:start position:0%
+have return large another actually the
+ 
+
+01:26:38.050 --> 01:26:42.900 align:start position:0%
+have return large another actually the
+final<01:26:38.380><c> thing</c><01:26:38.590><c> is</c><01:26:38.620><c> just</c><01:26:38.830><c> going</c><01:26:39.100><c> to</c><01:26:39.400><c> be</c><01:26:40.440><c> else</c><01:26:41.910><c> we</c>
+
+01:26:42.900 --> 01:26:42.910 align:start position:0%
+final thing is just going to be else we
+ 
+
+01:26:42.910 --> 01:26:44.250 align:start position:0%
+final thing is just going to be else we
+don't<01:26:43.090><c> even</c><01:26:43.300><c> need</c><01:26:43.390><c> an</c><01:26:43.510><c> else</c><01:26:43.690><c> if</c><01:26:43.930><c> at</c><01:26:44.140><c> the</c>
+
+01:26:44.250 --> 01:26:44.260 align:start position:0%
+don't even need an else if at the
+ 
+
+01:26:44.260 --> 01:26:46.470 align:start position:0%
+don't even need an else if at the
+statement<01:26:44.710><c> at</c><01:26:44.890><c> the</c><01:26:45.070><c> end</c><01:26:45.250><c> we're</c><01:26:45.970><c> not</c><01:26:46.120><c> we</c><01:26:46.330><c> don't</c>
+
+01:26:46.470 --> 01:26:46.480 align:start position:0%
+statement at the end we're not we don't
+ 
+
+01:26:46.480 --> 01:26:48.120 align:start position:0%
+statement at the end we're not we don't
+even<01:26:46.600><c> need</c><01:26:46.750><c> to</c><01:26:46.810><c> put</c><01:26:47.050><c> the</c><01:26:47.200><c> condition</c><01:26:47.770><c> because</c>
+
+01:26:48.120 --> 01:26:48.130 align:start position:0%
+even need to put the condition because
+ 
+
+01:26:48.130 --> 01:26:50.400 align:start position:0%
+even need to put the condition because
+if<01:26:48.400><c> it's</c><01:26:49.000><c> more</c><01:26:49.090><c> than</c><01:26:49.540><c> equal</c><01:26:49.690><c> to</c><01:26:49.930><c> twenty</c><01:26:50.290><c> that's</c>
+
+01:26:50.400 --> 01:26:50.410 align:start position:0%
+if it's more than equal to twenty that's
+ 
+
+01:26:50.410 --> 01:26:52.620 align:start position:0%
+if it's more than equal to twenty that's
+going<01:26:50.620><c> to</c><01:26:50.680><c> be</c><01:26:50.740><c> everything</c><01:26:51.220><c> else</c><01:26:51.460><c> so</c><01:26:52.150><c> I'm</c><01:26:52.420><c> just</c>
+
+01:26:52.620 --> 01:26:52.630 align:start position:0%
+going to be everything else so I'm just
+ 
+
+01:26:52.630 --> 01:26:55.770 align:start position:0%
+going to be everything else so I'm just
+going<01:26:52.900><c> to</c><01:26:52.960><c> cut</c><01:26:53.860><c> this</c><01:26:54.130><c> we</c><01:26:54.730><c> don't</c><01:26:55.000><c> need</c><01:26:55.390><c> any</c><01:26:55.660><c> of</c>
+
+01:26:55.770 --> 01:26:55.780 align:start position:0%
+going to cut this we don't need any of
+ 
+
+01:26:55.780 --> 01:27:00.300 align:start position:0%
+going to cut this we don't need any of
+this<01:26:55.990><c> stuff</c><01:26:56.050><c> here</c><01:26:56.920><c> and</c><01:26:58.860><c> we're</c><01:26:59.860><c> just</c><01:26:59.980><c> going</c><01:27:00.220><c> to</c>
+
+01:27:00.300 --> 01:27:00.310 align:start position:0%
+this stuff here and we're just going to
+ 
+
+01:27:00.310 --> 01:27:01.180 align:start position:0%
+this stuff here and we're just going to
+return
+
+01:27:01.180 --> 01:27:01.190 align:start position:0%
+return
+ 
+
+01:27:01.190 --> 01:27:05.530 align:start position:0%
+return
+and<01:27:01.280><c> large</c><01:27:01.820><c> so</c><01:27:02.719><c> with</c><01:27:03.050><c> this</c><01:27:03.260><c> one</c><01:27:03.739><c> test</c><01:27:04.100><c> here</c><01:27:04.540><c> for</c>
+
+01:27:05.530 --> 01:27:05.540 align:start position:0%
+and large so with this one test here for
+ 
+
+01:27:05.540 --> 01:27:07.479 align:start position:0%
+and large so with this one test here for
+test<01:27:05.870><c> seven</c><01:27:06.320><c> we</c><01:27:06.440><c> can</c><01:27:06.620><c> actually</c><01:27:06.739><c> cancel</c><01:27:07.370><c> that</c>
+
+01:27:07.479 --> 01:27:07.489 align:start position:0%
+test seven we can actually cancel that
+ 
+
+01:27:07.489 --> 01:27:13.630 align:start position:0%
+test seven we can actually cancel that
+log<01:27:07.760><c> that</c><01:27:09.130><c> console</c><01:27:10.130><c> dot</c><01:27:10.430><c> log</c><01:27:11.410><c> and</c><01:27:12.489><c> see</c><01:27:13.489><c> what</c>
+
+01:27:13.630 --> 01:27:13.640 align:start position:0%
+log that console dot log and see what
+ 
+
+01:27:13.640 --> 01:27:15.760 align:start position:0%
+log that console dot log and see what
+returns<01:27:14.030><c> for</c><01:27:14.330><c> seven</c><01:27:14.780><c> we</c><01:27:15.260><c> can</c><01:27:15.380><c> try</c><01:27:15.560><c> a</c><01:27:15.590><c> few</c>
+
+01:27:15.760 --> 01:27:15.770 align:start position:0%
+returns for seven we can try a few
+ 
+
+01:27:15.770 --> 01:27:16.630 align:start position:0%
+returns for seven we can try a few
+different<01:27:15.830><c> things</c>
+
+01:27:16.630 --> 01:27:16.640 align:start position:0%
+different things
+ 
+
+01:27:16.640 --> 01:27:19.090 align:start position:0%
+different things
+ooh<01:27:16.670><c> we</c><01:27:17.239><c> have</c><01:27:17.360><c> an</c><01:27:17.449><c> ear</c><01:27:17.719><c> here</c><01:27:17.989><c> oh</c><01:27:18.110><c> forget</c><01:27:18.770><c> to</c><01:27:18.949><c> it</c>
+
+01:27:19.090 --> 01:27:19.100 align:start position:0%
+ooh we have an ear here oh forget to it
+ 
+
+01:27:19.100 --> 01:27:22.090 align:start position:0%
+ooh we have an ear here oh forget to it
+but<01:27:19.219><c> this</c><01:27:19.370><c> parenthesis</c><01:27:19.940><c> wrong</c><01:27:20.180><c> way</c><01:27:20.620><c> let's</c><01:27:21.620><c> try</c>
+
+01:27:22.090 --> 01:27:22.100 align:start position:0%
+but this parenthesis wrong way let's try
+ 
+
+01:27:22.100 --> 01:27:27.780 align:start position:0%
+but this parenthesis wrong way let's try
+that<01:27:22.280><c> again</c>
+
+01:27:27.780 --> 01:27:27.790 align:start position:0%
+ 
+ 
+
+01:27:27.790 --> 01:27:33.420 align:start position:0%
+ 
+small<01:27:28.790><c> but</c><01:27:29.570><c> if</c><01:27:29.660><c> this</c><01:27:29.870><c> is</c><01:27:30.820><c> 20</c><01:27:31.820><c> it</c><01:27:32.660><c> should</c><01:27:33.140><c> be</c>
+
+01:27:33.420 --> 01:27:33.430 align:start position:0%
+small but if this is 20 it should be
+ 
+
+01:27:33.430 --> 01:27:41.590 align:start position:0%
+small but if this is 20 it should be
+huge<01:27:34.430><c> and</c><01:27:35.860><c> if</c><01:27:37.000><c> it's</c><01:27:39.280><c> 19</c><01:27:40.280><c> which</c><01:27:41.180><c> would</c><01:27:41.300><c> be</c><01:27:41.360><c> less</c>
+
+01:27:41.590 --> 01:27:41.600 align:start position:0%
+huge and if it's 19 which would be less
+ 
+
+01:27:41.600 --> 01:27:44.260 align:start position:0%
+huge and if it's 19 which would be less
+than<01:27:41.810><c> 20</c><01:27:42.170><c> we</c><01:27:42.290><c> should</c><01:27:42.469><c> see</c><01:27:42.650><c> you</c><01:27:42.770><c> large</c><01:27:43.040><c> yep</c><01:27:43.969><c> that</c>
+
+01:27:44.260 --> 01:27:44.270 align:start position:0%
+than 20 we should see you large yep that
+ 
+
+01:27:44.270 --> 01:27:47.989 align:start position:0%
+than 20 we should see you large yep that
+worth
+
+01:27:47.989 --> 01:27:47.999 align:start position:0%
+ 
+ 
+
+01:27:47.999 --> 01:27:50.719 align:start position:0%
+ 
+in<01:27:48.059><c> the</c><01:27:48.659><c> game</c><01:27:48.839><c> of</c><01:27:48.989><c> golf</c><01:27:49.199><c> each</c><01:27:49.529><c> hole</c><01:27:49.889><c> has</c><01:27:50.189><c> a</c><01:27:50.219><c> par</c>
+
+01:27:50.719 --> 01:27:50.729 align:start position:0%
+in the game of golf each hole has a par
+ 
+
+01:27:50.729 --> 01:27:52.579 align:start position:0%
+in the game of golf each hole has a par
+which<01:27:51.329><c> means</c><01:27:51.599><c> the</c><01:27:51.779><c> average</c><01:27:52.199><c> number</c><01:27:52.409><c> of</c>
+
+01:27:52.579 --> 01:27:52.589 align:start position:0%
+which means the average number of
+ 
+
+01:27:52.589 --> 01:27:55.339 align:start position:0%
+which means the average number of
+strokes<01:27:52.979><c> you're</c><01:27:53.669><c> supposed</c><01:27:54.089><c> to</c><01:27:54.239><c> use</c><01:27:54.629><c> to</c><01:27:54.659><c> get</c>
+
+01:27:55.339 --> 01:27:55.349 align:start position:0%
+strokes you're supposed to use to get
+ 
+
+01:27:55.349 --> 01:27:58.639 align:start position:0%
+strokes you're supposed to use to get
+the<01:27:55.529><c> ball</c><01:27:55.769><c> into</c><01:27:56.069><c> the</c><01:27:56.399><c> hole</c><01:27:56.609><c> so</c><01:27:57.569><c> depending</c><01:27:58.529><c> on</c>
+
+01:27:58.639 --> 01:27:58.649 align:start position:0%
+the ball into the hole so depending on
+ 
+
+01:27:58.649 --> 01:28:00.949 align:start position:0%
+the ball into the hole so depending on
+how<01:27:58.799><c> far</c><01:27:59.069><c> above</c><01:27:59.729><c> or</c><01:27:59.909><c> below</c><01:28:00.029><c> par</c><01:28:00.389><c> your</c><01:28:00.629><c> strokes</c>
+
+01:28:00.949 --> 01:28:00.959 align:start position:0%
+how far above or below par your strokes
+ 
+
+01:28:00.959 --> 01:28:03.589 align:start position:0%
+how far above or below par your strokes
+are<01:28:01.169><c> there's</c><01:28:01.409><c> a</c><01:28:01.469><c> different</c><01:28:01.889><c> nickname</c><01:28:02.239><c> so</c><01:28:03.239><c> here</c>
+
+01:28:03.589 --> 01:28:03.599 align:start position:0%
+are there's a different nickname so here
+ 
+
+01:28:03.599 --> 01:28:04.909 align:start position:0%
+are there's a different nickname so here
+are<01:28:03.689><c> some</c><01:28:03.779><c> of</c><01:28:03.869><c> the</c><01:28:03.929><c> nicknames</c><01:28:04.289><c> hole-in-one</c>
+
+01:28:04.909 --> 01:28:04.919 align:start position:0%
+are some of the nicknames hole-in-one
+ 
+
+01:28:04.919 --> 01:28:07.999 align:start position:0%
+are some of the nicknames hole-in-one
+Eagle<01:28:05.489><c> birdie</c><01:28:05.849><c> par</c><01:28:06.419><c> and</c><01:28:06.839><c> we're</c><01:28:07.529><c> gonna</c><01:28:07.709><c> write</c><01:28:07.979><c> a</c>
+
+01:28:07.999 --> 01:28:08.009 align:start position:0%
+Eagle birdie par and we're gonna write a
+ 
+
+01:28:08.009 --> 01:28:10.729 align:start position:0%
+Eagle birdie par and we're gonna write a
+function<01:28:08.609><c> where</c><01:28:08.909><c> you</c><01:28:09.029><c> pass</c><01:28:09.389><c> in</c><01:28:09.689><c> the</c><01:28:09.959><c> par</c><01:28:10.319><c> and</c>
+
+01:28:10.729 --> 01:28:10.739 align:start position:0%
+function where you pass in the par and
+ 
+
+01:28:10.739 --> 01:28:12.949 align:start position:0%
+function where you pass in the par and
+you<01:28:11.219><c> also</c><01:28:11.459><c> pass</c><01:28:11.909><c> on</c><01:28:11.939><c> the</c><01:28:12.239><c> stroke</c><01:28:12.599><c> so</c><01:28:12.779><c> you</c><01:28:12.839><c> can</c>
+
+01:28:12.949 --> 01:28:12.959 align:start position:0%
+you also pass on the stroke so you can
+ 
+
+01:28:12.959 --> 01:28:15.229 align:start position:0%
+you also pass on the stroke so you can
+see<01:28:13.079><c> up</c><01:28:13.169><c> here</c><01:28:13.199><c> par</c><01:28:13.709><c> and</c><01:28:14.009><c> strokes</c><01:28:14.459><c> and</c><01:28:14.699><c> it's</c>
+
+01:28:15.229 --> 01:28:15.239 align:start position:0%
+see up here par and strokes and it's
+ 
+
+01:28:15.239 --> 01:28:18.619 align:start position:0%
+see up here par and strokes and it's
+going<01:28:15.419><c> to</c><01:28:15.539><c> return</c><01:28:16.079><c> the</c><01:28:16.709><c> nickname</c><01:28:17.339><c> so</c><01:28:18.269><c> that's</c>
+
+01:28:18.619 --> 01:28:18.629 align:start position:0%
+going to return the nickname so that's
+ 
+
+01:28:18.629 --> 01:28:20.389 align:start position:0%
+going to return the nickname so that's
+what<01:28:18.869><c> we're</c><01:28:18.989><c> going</c><01:28:19.109><c> to</c><01:28:19.229><c> write</c><01:28:19.769><c> you</c><01:28:19.979><c> can</c><01:28:20.159><c> see</c>
+
+01:28:20.389 --> 01:28:20.399 align:start position:0%
+what we're going to write you can see
+ 
+
+01:28:20.399 --> 01:28:22.999 align:start position:0%
+what we're going to write you can see
+this<01:28:20.639><c> table</c><01:28:21.029><c> here</c><01:28:21.479><c> shows</c><01:28:21.989><c> what</c><01:28:22.199><c> we</c><01:28:22.529><c> have</c><01:28:22.679><c> to</c><01:28:22.829><c> do</c>
+
+01:28:22.999 --> 01:28:23.009 align:start position:0%
+this table here shows what we have to do
+ 
+
+01:28:23.009 --> 01:28:27.409 align:start position:0%
+this table here shows what we have to do
+if<01:28:23.249><c> the</c><01:28:23.849><c> strokes</c><01:28:24.269><c> are</c><01:28:24.599><c> 1</c><01:28:25.729><c> then</c><01:28:26.729><c> you</c><01:28:27.269><c> get</c><01:28:27.389><c> a</c>
+
+01:28:27.409 --> 01:28:27.419 align:start position:0%
+if the strokes are 1 then you get a
+ 
+
+01:28:27.419 --> 01:28:28.009 align:start position:0%
+if the strokes are 1 then you get a
+hole-in-one
+
+01:28:28.009 --> 01:28:28.019 align:start position:0%
+hole-in-one
+ 
+
+01:28:28.019 --> 01:28:29.959 align:start position:0%
+hole-in-one
+if<01:28:28.229><c> the</c><01:28:28.619><c> stroke</c><01:28:28.919><c> is</c><01:28:29.129><c> less</c><01:28:29.459><c> than</c><01:28:29.579><c> or</c><01:28:29.669><c> equal</c><01:28:29.729><c> to</c>
+
+01:28:29.959 --> 01:28:29.969 align:start position:0%
+if the stroke is less than or equal to
+ 
+
+01:28:29.969 --> 01:28:33.139 align:start position:0%
+if the stroke is less than or equal to
+par<01:28:30.359><c> minus</c><01:28:30.689><c> 2</c><01:28:30.929><c> you</c><01:28:31.529><c> get</c><01:28:31.709><c> an</c><01:28:31.799><c> eagle</c><01:28:32.219><c> and</c><01:28:32.399><c> so</c><01:28:32.969><c> on</c>
+
+01:28:33.139 --> 01:28:33.149 align:start position:0%
+par minus 2 you get an eagle and so on
+ 
+
+01:28:33.149 --> 01:28:35.299 align:start position:0%
+par minus 2 you get an eagle and so on
+and<01:28:33.419><c> we</c><01:28:33.839><c> also</c><01:28:34.049><c> have</c><01:28:34.349><c> this</c><01:28:34.499><c> array</c><01:28:34.919><c> that's</c><01:28:35.189><c> gonna</c>
+
+01:28:35.299 --> 01:28:35.309 align:start position:0%
+and we also have this array that's gonna
+ 
+
+01:28:35.309 --> 01:28:36.919 align:start position:0%
+and we also have this array that's gonna
+make<01:28:35.579><c> it</c><01:28:35.609><c> easier</c><01:28:35.939><c> because</c><01:28:36.269><c> we</c><01:28:36.419><c> can</c><01:28:36.449><c> you</c><01:28:36.659><c> just</c>
+
+01:28:36.919 --> 01:28:36.929 align:start position:0%
+make it easier because we can you just
+ 
+
+01:28:36.929 --> 01:28:38.629 align:start position:0%
+make it easier because we can you just
+use<01:28:37.199><c> things</c><01:28:37.529><c> from</c><01:28:37.619><c> this</c><01:28:37.889><c> array</c><01:28:38.189><c> instead</c><01:28:38.489><c> of</c>
+
+01:28:38.629 --> 01:28:38.639 align:start position:0%
+use things from this array instead of
+ 
+
+01:28:38.639 --> 01:28:41.419 align:start position:0%
+use things from this array instead of
+typing<01:28:38.909><c> out</c><01:28:39.149><c> the</c><01:28:39.209><c> words</c><01:28:39.629><c> so</c><01:28:40.559><c> we're</c><01:28:41.159><c> going</c><01:28:41.339><c> to</c>
+
+01:28:41.419 --> 01:28:41.429 align:start position:0%
+typing out the words so we're going to
+ 
+
+01:28:41.429 --> 01:28:44.989 align:start position:0%
+typing out the words so we're going to
+start<01:28:41.729><c> with</c><01:28:41.879><c> an</c><01:28:42.059><c> if</c><01:28:42.299><c> statement</c><01:28:42.569><c> if</c><01:28:43.559><c> and</c><01:28:44.099><c> then</c>
+
+01:28:44.989 --> 01:28:44.999 align:start position:0%
+start with an if statement if and then
+ 
+
+01:28:44.999 --> 01:28:51.849 align:start position:0%
+start with an if statement if and then
+we<01:28:45.179><c> have</c><01:28:45.479><c> to</c><01:28:45.689><c> put</c><01:28:46.229><c> the</c><01:28:46.379><c> condition</c><01:28:46.979><c> if</c><01:28:48.679><c> strokes</c>
+
+01:28:51.849 --> 01:28:51.859 align:start position:0%
+ 
+ 
+
+01:28:51.859 --> 01:28:54.679 align:start position:0%
+ 
+equals<01:28:52.859><c> equals</c><01:28:53.399><c> that's</c><01:28:53.939><c> the</c><01:28:54.179><c> Equality</c>
+
+01:28:54.679 --> 01:28:54.689 align:start position:0%
+equals equals that's the Equality
+ 
+
+01:28:54.689 --> 01:28:55.999 align:start position:0%
+equals equals that's the Equality
+operator<01:28:54.719><c> we</c><01:28:55.319><c> don't</c><01:28:55.469><c> want</c><01:28:55.589><c> to</c><01:28:55.649><c> use</c><01:28:55.739><c> a</c><01:28:55.769><c> single</c>
+
+01:28:55.999 --> 01:28:56.009 align:start position:0%
+operator we don't want to use a single
+ 
+
+01:28:56.009 --> 01:28:57.559 align:start position:0%
+operator we don't want to use a single
+equal<01:28:56.399><c> sign</c><01:28:56.459><c> because</c><01:28:56.879><c> that</c><01:28:56.999><c> would</c><01:28:57.179><c> be</c><01:28:57.389><c> the</c>
+
+01:28:57.559 --> 01:28:57.569 align:start position:0%
+equal sign because that would be the
+ 
+
+01:28:57.569 --> 01:29:01.549 align:start position:0%
+equal sign because that would be the
+assignment<01:28:58.199><c> operator</c><01:28:58.319><c> if</c><01:28:58.889><c> it</c><01:28:59.489><c> equals</c><01:28:59.909><c> 1</c><01:29:00.569><c> then</c>
+
+01:29:01.549 --> 01:29:01.559 align:start position:0%
+assignment operator if it equals 1 then
+ 
+
+01:29:01.559 --> 01:29:04.429 align:start position:0%
+assignment operator if it equals 1 then
+we<01:29:02.099><c> can</c><01:29:02.369><c> return</c><01:29:02.849><c> and</c><01:29:03.269><c> we</c><01:29:03.869><c> can</c><01:29:04.019><c> see</c><01:29:04.199><c> down</c><01:29:04.379><c> here</c>
+
+01:29:04.429 --> 01:29:04.439 align:start position:0%
+we can return and we can see down here
+ 
+
+01:29:04.439 --> 01:29:07.099 align:start position:0%
+we can return and we can see down here
+we're<01:29:05.009><c> gonna</c><01:29:05.099><c> return</c><01:29:05.459><c> hole-in-one</c><01:29:06.299><c> but</c><01:29:06.959><c> we</c>
+
+01:29:07.099 --> 01:29:07.109 align:start position:0%
+we're gonna return hole-in-one but we
+ 
+
+01:29:07.109 --> 01:29:09.379 align:start position:0%
+we're gonna return hole-in-one but we
+can<01:29:07.289><c> just</c><01:29:07.319><c> use</c><01:29:07.619><c> it</c><01:29:07.649><c> from</c><01:29:07.949><c> this</c><01:29:08.069><c> names</c><01:29:08.429><c> array</c><01:29:08.819><c> so</c>
+
+01:29:09.379 --> 01:29:09.389 align:start position:0%
+can just use it from this names array so
+ 
+
+01:29:09.389 --> 01:29:11.029 align:start position:0%
+can just use it from this names array so
+it's<01:29:09.539><c> going</c><01:29:09.629><c> to</c><01:29:09.689><c> be</c><01:29:09.779><c> named</c><01:29:10.109><c> and</c><01:29:10.469><c> this</c><01:29:10.769><c> is</c><01:29:10.919><c> the</c>
+
+01:29:11.029 --> 01:29:11.039 align:start position:0%
+it's going to be named and this is the
+ 
+
+01:29:11.039 --> 01:29:13.519 align:start position:0%
+it's going to be named and this is the
+meet<01:29:11.159><c> index</c><01:29:11.579><c> 0</c><01:29:12.029><c> of</c><01:29:12.269><c> the</c><01:29:12.419><c> array</c><01:29:12.779><c> so</c><01:29:13.049><c> we'll</c><01:29:13.379><c> do</c>
+
+01:29:13.519 --> 01:29:13.529 align:start position:0%
+meet index 0 of the array so we'll do
+ 
+
+01:29:13.529 --> 01:29:18.529 align:start position:0%
+meet index 0 of the array so we'll do
+names<01:29:13.889><c> and</c><01:29:14.279><c> then</c><01:29:15.149><c> 0</c><01:29:16.729><c> and</c><01:29:17.729><c> then</c><01:29:18.149><c> we</c><01:29:18.209><c> can</c><01:29:18.359><c> do</c><01:29:18.419><c> an</c>
+
+01:29:18.529 --> 01:29:18.539 align:start position:0%
+names and then 0 and then we can do an
+ 
+
+01:29:18.539 --> 01:29:22.489 align:start position:0%
+names and then 0 and then we can do an
+else<01:29:18.779><c> if</c><01:29:18.989><c> else</c><01:29:19.499><c> if</c><01:29:19.979><c> and</c><01:29:21.049><c> then</c><01:29:22.049><c> we</c><01:29:22.139><c> can</c><01:29:22.289><c> put</c><01:29:22.409><c> the</c>
+
+01:29:22.489 --> 01:29:22.499 align:start position:0%
+else if else if and then we can put the
+ 
+
+01:29:22.499 --> 01:29:30.969 align:start position:0%
+else if else if and then we can put the
+condition<01:29:23.009><c> strokes</c><01:29:25.189><c> expel</c><01:29:26.189><c> strokes</c><01:29:26.609><c> right</c>
+
+01:29:30.969 --> 01:29:30.979 align:start position:0%
+ 
+ 
+
+01:29:30.979 --> 01:29:34.399 align:start position:0%
+ 
+spokes<01:29:31.979><c> and</c><01:29:32.369><c> then</c><01:29:33.119><c> we</c><01:29:33.329><c> can</c><01:29:33.569><c> just</c><01:29:33.899><c> actually</c>
+
+01:29:34.399 --> 01:29:34.409 align:start position:0%
+spokes and then we can just actually
+ 
+
+01:29:34.409 --> 01:29:36.769 align:start position:0%
+spokes and then we can just actually
+copy<01:29:34.859><c> this</c><01:29:35.099><c> right</c><01:29:35.309><c> from</c><01:29:35.429><c> here</c><01:29:35.819><c> less</c><01:29:36.479><c> than</c><01:29:36.509><c> or</c>
+
+01:29:36.769 --> 01:29:36.779 align:start position:0%
+copy this right from here less than or
+ 
+
+01:29:36.779 --> 01:29:41.389 align:start position:0%
+copy this right from here less than or
+equal<01:29:37.109><c> to</c><01:29:37.229><c> power</c><01:29:37.529><c> minus</c><01:29:37.949><c> 2</c><01:29:38.339><c> and</c><01:29:39.379><c> then</c><01:29:40.379><c> we</c><01:29:41.279><c> are</c>
+
+01:29:41.389 --> 01:29:41.399 align:start position:0%
+equal to power minus 2 and then we are
+ 
+
+01:29:41.399 --> 01:29:46.039 align:start position:0%
+equal to power minus 2 and then we are
+going<01:29:41.639><c> to</c><01:29:41.729><c> return</c><01:29:42.319><c> name</c><01:29:43.319><c> and</c><01:29:44.749><c> this</c><01:29:45.749><c> will</c><01:29:45.929><c> be</c>
+
+01:29:46.039 --> 01:29:46.049 align:start position:0%
+going to return name and this will be
+ 
+
+01:29:46.049 --> 01:29:50.419 align:start position:0%
+going to return name and this will be
+the<01:29:46.259><c> index</c><01:29:46.679><c> 1</c><01:29:47.249><c> which</c><01:29:48.089><c> is</c><01:29:48.299><c> an</c><01:29:48.479><c> eagle</c><01:29:49.199><c> at</c><01:29:49.979><c> this</c>
+
+01:29:50.419 --> 01:29:50.429 align:start position:0%
+the index 1 which is an eagle at this
+ 
+
+01:29:50.429 --> 01:29:52.249 align:start position:0%
+the index 1 which is an eagle at this
+point<01:29:50.729><c> I</c><01:29:50.909><c> can</c><01:29:51.209><c> do</c><01:29:51.329><c> some</c><01:29:51.509><c> copying</c><01:29:51.929><c> and</c><01:29:52.079><c> pasting</c>
+
+01:29:52.249 --> 01:29:52.259 align:start position:0%
+point I can do some copying and pasting
+ 
+
+01:29:52.259 --> 01:29:54.169 align:start position:0%
+point I can do some copying and pasting
+I'm<01:29:52.769><c> going</c><01:29:53.129><c> to</c><01:29:53.189><c> copy</c><01:29:53.369><c> this</c><01:29:53.519><c> whole</c><01:29:53.669><c> thing's</c><01:29:53.999><c> a</c>
+
+01:29:54.169 --> 01:29:54.179 align:start position:0%
+I'm going to copy this whole thing's a
+ 
+
+01:29:54.179 --> 01:29:55.849 align:start position:0%
+I'm going to copy this whole thing's a
+lot<01:29:54.359><c> of</c><01:29:54.449><c> this</c><01:29:54.569><c> rest</c><01:29:54.929><c> of</c><01:29:55.019><c> this</c><01:29:55.079><c> will</c><01:29:55.229><c> be</c><01:29:55.349><c> else</c><01:29:55.559><c> if</c>
+
+01:29:55.849 --> 01:29:55.859 align:start position:0%
+lot of this rest of this will be else if
+ 
+
+01:29:55.859 --> 01:30:00.559 align:start position:0%
+lot of this rest of this will be else if
+so<01:29:56.609><c> else</c><01:29:57.209><c> if</c><01:29:57.539><c> strokes</c><01:29:58.199><c> is</c><01:29:59.179><c> this</c><01:30:00.179><c> time</c><01:30:00.359><c> is</c><01:30:00.449><c> going</c>
+
+01:30:00.559 --> 01:30:00.569 align:start position:0%
+so else if strokes is this time is going
+ 
+
+01:30:00.569 --> 01:30:01.920 align:start position:0%
+so else if strokes is this time is going
+to<01:30:00.599><c> be</c><01:30:00.679><c> equal</c>
+
+01:30:01.920 --> 01:30:01.930 align:start position:0%
+to be equal
+ 
+
+01:30:01.930 --> 01:30:09.470 align:start position:0%
+to be equal
+to<01:30:02.580><c> par</c><01:30:03.580><c> -</c><01:30:05.760><c> one</c><01:30:06.760><c> and</c><01:30:07.590><c> we're</c><01:30:08.590><c> going</c><01:30:08.800><c> to</c><01:30:09.010><c> return</c>
+
+01:30:09.470 --> 01:30:09.480 align:start position:0%
+to par - one and we're going to return
+ 
+
+01:30:09.480 --> 01:30:13.830 align:start position:0%
+to par - one and we're going to return
+this<01:30:10.480><c> many</c><01:30:10.750><c> birdie</c><01:30:11.080><c> which</c><01:30:11.950><c> is</c><01:30:12.220><c> array</c><01:30:13.000><c> index</c><01:30:13.360><c> -</c>
+
+01:30:13.830 --> 01:30:13.840 align:start position:0%
+this many birdie which is array index -
+ 
+
+01:30:13.840 --> 01:30:19.350 align:start position:0%
+this many birdie which is array index -
+and<01:30:15.720><c> I'm</c><01:30:16.720><c> going</c><01:30:16.990><c> to</c><01:30:17.310><c> continue</c><01:30:18.310><c> just</c><01:30:19.000><c> like</c><01:30:19.150><c> this</c>
+
+01:30:19.350 --> 01:30:19.360 align:start position:0%
+and I'm going to continue just like this
+ 
+
+01:30:19.360 --> 01:30:24.290 align:start position:0%
+and I'm going to continue just like this
+so<01:30:20.310><c> this</c><01:30:21.310><c> time</c><01:30:21.580><c> it's</c><01:30:21.850><c> if</c><01:30:22.210><c> strokes</c><01:30:22.960><c> equal</c><01:30:23.470><c> par</c>
+
+01:30:24.290 --> 01:30:24.300 align:start position:0%
+so this time it's if strokes equal par
+ 
+
+01:30:24.300 --> 01:30:31.890 align:start position:0%
+so this time it's if strokes equal par
+we're<01:30:25.300><c> going</c><01:30:25.420><c> to</c><01:30:25.480><c> return</c><01:30:26.100><c> name</c><01:30:27.270><c> index</c><01:30:28.290><c> 3</c><01:30:29.550><c> C</c><01:30:30.550><c> 0</c><01:30:31.210><c> 1</c>
+
+01:30:31.890 --> 01:30:31.900 align:start position:0%
+we're going to return name index 3 C 0 1
+ 
+
+01:30:31.900 --> 01:30:35.120 align:start position:0%
+we're going to return name index 3 C 0 1
+2<01:30:32.530><c> 3</c><01:30:33.040><c> is</c><01:30:33.220><c> going</c><01:30:33.310><c> to</c><01:30:33.370><c> be</c><01:30:33.430><c> the</c><01:30:33.520><c> word</c><01:30:33.640><c> par</c><01:30:34.000><c> up</c><01:30:34.210><c> here</c>
+
+01:30:35.120 --> 01:30:35.130 align:start position:0%
+2 3 is going to be the word par up here
+ 
+
+01:30:35.130 --> 01:30:38.160 align:start position:0%
+2 3 is going to be the word par up here
+they'll<01:30:36.130><c> just</c><01:30:36.340><c> keep</c><01:30:36.610><c> just</c><01:30:36.910><c> like</c><01:30:37.030><c> this</c><01:30:37.330><c> now</c>
+
+01:30:38.160 --> 01:30:38.170 align:start position:0%
+they'll just keep just like this now
+ 
+
+01:30:38.170 --> 01:30:41.700 align:start position:0%
+they'll just keep just like this now
+it's<01:30:38.350><c> going</c><01:30:38.470><c> to</c><01:30:38.500><c> be</c><01:30:38.650><c> R</c><01:30:39.040><c> plus</c><01:30:39.390><c> 1</c><01:30:40.560><c> and</c><01:30:41.560><c> we'll</c>
+
+01:30:41.700 --> 01:30:41.710 align:start position:0%
+it's going to be R plus 1 and we'll
+ 
+
+01:30:41.710 --> 01:30:46.470 align:start position:0%
+it's going to be R plus 1 and we'll
+change<01:30:41.950><c> this</c><01:30:42.190><c> to</c><01:30:42.250><c> 4</c><01:30:44.700><c> now</c><01:30:45.700><c> it's</c><01:30:46.090><c> going</c><01:30:46.330><c> to</c><01:30:46.360><c> be</c>
+
+01:30:46.470 --> 01:30:46.480 align:start position:0%
+change this to 4 now it's going to be
+ 
+
+01:30:46.480 --> 01:30:53.610 align:start position:0%
+change this to 4 now it's going to be
+par<01:30:47.670><c> plus</c><01:30:49.410><c> 2</c><01:30:50.460><c> and</c><01:30:51.460><c> we'll</c><01:30:51.700><c> change</c><01:30:52.000><c> this</c><01:30:52.330><c> to</c><01:30:52.750><c> 5</c>
+
+01:30:53.610 --> 01:30:53.620 align:start position:0%
+par plus 2 and we'll change this to 5
+ 
+
+01:30:53.620 --> 01:30:56.250 align:start position:0%
+par plus 2 and we'll change this to 5
+which<01:30:54.580><c> is</c><01:30:54.640><c> gonna</c><01:30:54.880><c> be</c><01:30:55.030><c> the</c><01:30:55.240><c> double</c><01:30:55.810><c> bogey</c>
+
+01:30:56.250 --> 01:30:56.260 align:start position:0%
+which is gonna be the double bogey
+ 
+
+01:30:56.260 --> 01:31:01.890 align:start position:0%
+which is gonna be the double bogey
+and<01:30:57.390><c> finally</c><01:30:58.390><c> if</c><01:30:59.140><c> strokes</c><01:30:59.830><c> is</c><01:31:00.450><c> change</c><01:31:01.450><c> this</c><01:31:01.660><c> to</c>
+
+01:31:01.890 --> 01:31:01.900 align:start position:0%
+and finally if strokes is change this to
+ 
+
+01:31:01.900 --> 01:31:07.110 align:start position:0%
+and finally if strokes is change this to
+more<01:31:02.590><c> than</c><01:31:02.890><c> or</c><01:31:03.070><c> equal</c><01:31:03.460><c> to</c><01:31:03.700><c> car</c><01:31:04.630><c> plus</c><01:31:05.790><c> 3</c><01:31:06.790><c> that</c>
+
+01:31:07.110 --> 01:31:07.120 align:start position:0%
+more than or equal to car plus 3 that
+ 
+
+01:31:07.120 --> 01:31:10.860 align:start position:0%
+more than or equal to car plus 3 that
+means<01:31:07.750><c> you</c><01:31:08.530><c> did</c><01:31:08.710><c> very</c><01:31:08.740><c> poorly</c><01:31:09.360><c> so</c><01:31:10.360><c> you</c><01:31:10.450><c> should</c>
+
+01:31:10.860 --> 01:31:10.870 align:start position:0%
+means you did very poorly so you should
+ 
+
+01:31:10.870 --> 01:31:14.250 align:start position:0%
+means you did very poorly so you should
+just<01:31:10.900><c> go</c><01:31:11.230><c> home</c><01:31:12.120><c> so</c><01:31:13.120><c> it's</c><01:31:13.360><c> going</c><01:31:13.630><c> to</c><01:31:13.810><c> be</c><01:31:13.930><c> named</c>
+
+01:31:14.250 --> 01:31:14.260 align:start position:0%
+just go home so it's going to be named
+ 
+
+01:31:14.260 --> 01:31:19.010 align:start position:0%
+just go home so it's going to be named
+index<01:31:15.330><c> 6</c><01:31:16.330><c> and</c><01:31:16.810><c> we</c><01:31:17.320><c> don't</c><01:31:17.500><c> need</c><01:31:17.680><c> this</c><01:31:17.860><c> anymore</c>
+
+01:31:19.010 --> 01:31:19.020 align:start position:0%
+index 6 and we don't need this anymore
+ 
+
+01:31:19.020 --> 01:31:21.990 align:start position:0%
+index 6 and we don't need this anymore
+so<01:31:20.020><c> now</c><01:31:20.290><c> we're</c><01:31:20.440><c> gonna</c><01:31:20.560><c> do</c><01:31:20.860><c> some</c><01:31:21.130><c> tests</c><01:31:21.730><c> here</c>
+
+01:31:21.990 --> 01:31:22.000 align:start position:0%
+so now we're gonna do some tests here
+ 
+
+01:31:22.000 --> 01:31:27.590 align:start position:0%
+so now we're gonna do some tests here
+I'm<01:31:22.570><c> gonna</c><01:31:22.810><c> do</c><01:31:23.620><c> a</c><01:31:23.650><c> console</c><01:31:25.860><c> console</c><01:31:26.860><c> dot</c><01:31:27.190><c> log</c>
+
+01:31:27.590 --> 01:31:27.600 align:start position:0%
+I'm gonna do a console console dot log
+ 
+
+01:31:27.600 --> 01:31:30.480 align:start position:0%
+I'm gonna do a console console dot log
+and<01:31:28.600><c> we're</c><01:31:28.750><c> going</c><01:31:28.960><c> to</c><01:31:29.020><c> pass</c><01:31:29.470><c> in</c><01:31:29.800><c> the</c><01:31:29.830><c> function</c>
+
+01:31:30.480 --> 01:31:30.490 align:start position:0%
+and we're going to pass in the function
+ 
+
+01:31:30.490 --> 01:31:32.370 align:start position:0%
+and we're going to pass in the function
+that<01:31:30.520><c> we're</c><01:31:30.760><c> calling</c><01:31:30.940><c> so</c><01:31:31.570><c> in</c><01:31:31.690><c> this</c><01:31:31.840><c> case</c><01:31:32.140><c> the</c>
+
+01:31:32.370 --> 01:31:32.380 align:start position:0%
+that we're calling so in this case the
+ 
+
+01:31:32.380 --> 01:31:35.910 align:start position:0%
+that we're calling so in this case the
+par<01:31:32.680><c> is</c><01:31:32.950><c> 5</c><01:31:33.340><c> and</c><01:31:33.760><c> the</c><01:31:33.850><c> strokes</c><01:31:34.210><c> are</c><01:31:34.420><c> 4</c><01:31:34.840><c> so</c><01:31:35.590><c> that</c>
+
+01:31:35.910 --> 01:31:35.920 align:start position:0%
+par is 5 and the strokes are 4 so that
+ 
+
+01:31:35.920 --> 01:31:38.640 align:start position:0%
+par is 5 and the strokes are 4 so that
+should<01:31:36.400><c> return</c><01:31:37.050><c> birdie</c><01:31:38.050><c> let's</c><01:31:38.410><c> see</c><01:31:38.530><c> what</c>
+
+01:31:38.640 --> 01:31:38.650 align:start position:0%
+should return birdie let's see what
+ 
+
+01:31:38.650 --> 01:31:39.740 align:start position:0%
+should return birdie let's see what
+happens
+
+01:31:39.740 --> 01:31:39.750 align:start position:0%
+happens
+ 
+
+01:31:39.750 --> 01:31:44.670 align:start position:0%
+happens
+no<01:31:41.070><c> ok</c><01:31:42.070><c> that's</c><01:31:42.430><c> not</c><01:31:42.790><c> what</c><01:31:43.090><c> I</c><01:31:43.240><c> expected</c><01:31:44.110><c> it's</c>
+
+01:31:44.670 --> 01:31:44.680 align:start position:0%
+no ok that's not what I expected it's
+ 
+
+01:31:44.680 --> 01:31:48.990 align:start position:0%
+no ok that's not what I expected it's
+because<01:31:45.310><c> this</c><01:31:45.790><c> should</c><01:31:46.000><c> be</c><01:31:46.120><c> names</c><01:31:48.000><c> spelled</c>
+
+01:31:48.990 --> 01:31:49.000 align:start position:0%
+because this should be names spelled
+ 
+
+01:31:49.000 --> 01:31:53.970 align:start position:0%
+because this should be names spelled
+this<01:31:49.330><c> wrong</c><01:31:52.350><c> and</c><01:31:53.350><c> that's</c><01:31:53.590><c> why</c><01:31:53.710><c> sometimes</c>
+
+01:31:53.970 --> 01:31:53.980 align:start position:0%
+this wrong and that's why sometimes
+ 
+
+01:31:53.980 --> 01:31:56.550 align:start position:0%
+this wrong and that's why sometimes
+better<01:31:54.400><c> to</c><01:31:54.520><c> check</c><01:31:54.910><c> before</c><01:31:55.480><c> you</c><01:31:55.510><c> go</c><01:31:55.990><c> through</c>
+
+01:31:56.550 --> 01:31:56.560 align:start position:0%
+better to check before you go through
+ 
+
+01:31:56.560 --> 01:31:57.990 align:start position:0%
+better to check before you go through
+the<01:31:56.650><c> whole</c><01:31:56.830><c> thing</c><01:31:56.860><c> you</c><01:31:57.220><c> can</c><01:31:57.370><c> test</c><01:31:57.640><c> things</c><01:31:57.850><c> as</c>
+
+01:31:57.990 --> 01:31:58.000 align:start position:0%
+the whole thing you can test things as
+ 
+
+01:31:58.000 --> 01:31:59.700 align:start position:0%
+the whole thing you can test things as
+you<01:31:58.150><c> go</c><01:31:58.300><c> but</c><01:31:58.810><c> let's</c><01:31:59.020><c> do</c><01:31:59.260><c> that</c><01:31:59.350><c> again</c>
+
+01:31:59.700 --> 01:31:59.710 align:start position:0%
+you go but let's do that again
+ 
+
+01:31:59.710 --> 01:32:06.330 align:start position:0%
+you go but let's do that again
+yep<01:32:00.010><c> birdie</c><01:32:00.400><c> and</c><01:32:00.760><c> if</c><01:32:01.660><c> I</c><01:32:02.040><c> type</c><01:32:03.040><c> in</c><01:32:03.360><c> 2</c><01:32:04.360><c> here</c><01:32:05.340><c> eagle</c>
+
+01:32:06.330 --> 01:32:06.340 align:start position:0%
+yep birdie and if I type in 2 here eagle
+ 
+
+01:32:06.340 --> 01:32:07.650 align:start position:0%
+yep birdie and if I type in 2 here eagle
+if<01:32:06.550><c> I</c>
+
+01:32:07.650 --> 01:32:07.660 align:start position:0%
+if I
+ 
+
+01:32:07.660 --> 01:32:09.480 align:start position:0%
+if I
+type<01:32:07.840><c> and</c><01:32:08.140><c> eat</c><01:32:08.470><c> it's</c><01:32:08.800><c> probably</c><01:32:09.100><c> that</c><01:32:09.160><c> tell</c><01:32:09.400><c> us</c>
+
+01:32:09.480 --> 01:32:09.490 align:start position:0%
+type and eat it's probably that tell us
+ 
+
+01:32:09.490 --> 01:32:13.260 align:start position:0%
+type and eat it's probably that tell us
+to<01:32:09.640><c> go</c><01:32:09.850><c> home</c><01:32:10.120><c> go</c><01:32:11.020><c> home</c><01:32:11.050><c> yep</c><01:32:12.070><c> we</c><01:32:12.580><c> just</c><01:32:12.850><c> completed</c>
+
+01:32:13.260 --> 01:32:13.270 align:start position:0%
+to go home go home yep we just completed
+ 
+
+01:32:13.270 --> 01:32:17.840 align:start position:0%
+to go home go home yep we just completed
+this<01:32:13.420><c> challenge</c>
+
+01:32:17.840 --> 01:32:17.850 align:start position:0%
+ 
+ 
+
+01:32:17.850 --> 01:32:20.330 align:start position:0%
+ 
+instead<01:32:18.570><c> of</c><01:32:18.660><c> using</c><01:32:18.840><c> chained</c><01:32:19.410><c> else</c><01:32:19.980><c> if</c>
+
+01:32:20.330 --> 01:32:20.340 align:start position:0%
+instead of using chained else if
+ 
+
+01:32:20.340 --> 01:32:22.340 align:start position:0%
+instead of using chained else if
+statements<01:32:21.120><c> you</c><01:32:21.360><c> can</c><01:32:21.540><c> use</c><01:32:21.750><c> a</c><01:32:21.780><c> switch</c>
+
+01:32:22.340 --> 01:32:22.350 align:start position:0%
+statements you can use a switch
+ 
+
+01:32:22.350 --> 01:32:24.980 align:start position:0%
+statements you can use a switch
+statement<01:32:22.680><c> a</c><01:32:23.310><c> switch</c><01:32:24.030><c> statement</c><01:32:24.180><c> test</c><01:32:24.750><c> of</c>
+
+01:32:24.980 --> 01:32:24.990 align:start position:0%
+statement a switch statement test of
+ 
+
+01:32:24.990 --> 01:32:27.200 align:start position:0%
+statement a switch statement test of
+value<01:32:25.380><c> and</c><01:32:25.530><c> can</c><01:32:25.680><c> have</c><01:32:25.920><c> many</c><01:32:26.160><c> case</c><01:32:26.550><c> statements</c>
+
+01:32:27.200 --> 01:32:27.210 align:start position:0%
+value and can have many case statements
+ 
+
+01:32:27.210 --> 01:32:30.320 align:start position:0%
+value and can have many case statements
+which<01:32:27.630><c> define</c><01:32:28.140><c> various</c><01:32:28.530><c> possible</c><01:32:29.010><c> values</c><01:32:29.520><c> so</c>
+
+01:32:30.320 --> 01:32:30.330 align:start position:0%
+which define various possible values so
+ 
+
+01:32:30.330 --> 01:32:32.570 align:start position:0%
+which define various possible values so
+let<01:32:30.540><c> me</c><01:32:30.630><c> show</c><01:32:30.780><c> you</c><01:32:30.840><c> how</c><01:32:31.020><c> that</c><01:32:31.260><c> works</c><01:32:31.580><c> here</c>
+
+01:32:32.570 --> 01:32:32.580 align:start position:0%
+let me show you how that works here
+ 
+
+01:32:32.580 --> 01:32:34.070 align:start position:0%
+let me show you how that works here
+we're<01:32:32.820><c> going</c><01:32:32.970><c> to</c><01:32:33.180><c> write</c><01:32:33.360><c> a</c><01:32:33.390><c> switch</c><01:32:33.900><c> statement</c>
+
+01:32:34.070 --> 01:32:34.080 align:start position:0%
+we're going to write a switch statement
+ 
+
+01:32:34.080 --> 01:32:36.350 align:start position:0%
+we're going to write a switch statement
+which<01:32:34.620><c> tests</c><01:32:35.130><c> Val</c><01:32:35.340><c> and</c><01:32:35.580><c> sets</c><01:32:35.790><c> the</c><01:32:35.940><c> answer</c><01:32:36.270><c> to</c>
+
+01:32:36.350 --> 01:32:36.360 align:start position:0%
+which tests Val and sets the answer to
+ 
+
+01:32:36.360 --> 01:32:38.630 align:start position:0%
+which tests Val and sets the answer to
+the<01:32:36.450><c> following</c><01:32:36.600><c> conditions</c><01:32:37.380><c> if</c><01:32:37.920><c> we</c><01:32:38.070><c> pass</c><01:32:38.490><c> in</c>
+
+01:32:38.630 --> 01:32:38.640 align:start position:0%
+the following conditions if we pass in
+ 
+
+01:32:38.640 --> 01:32:41.030 align:start position:0%
+the following conditions if we pass in
+one<01:32:38.940><c> the</c><01:32:39.570><c> answer</c><01:32:39.900><c> should</c><01:32:40.020><c> be</c><01:32:40.080><c> alpha</c><01:32:40.320><c> if</c><01:32:40.830><c> we</c>
+
+01:32:41.030 --> 01:32:41.040 align:start position:0%
+one the answer should be alpha if we
+ 
+
+01:32:41.040 --> 01:32:43.310 align:start position:0%
+one the answer should be alpha if we
+pass<01:32:41.250><c> on</c><01:32:41.400><c> to</c><01:32:41.610><c> the</c><01:32:42.330><c> answer</c><01:32:42.510><c> should</c><01:32:42.660><c> be</c><01:32:42.720><c> beta</c><01:32:43.020><c> and</c>
+
+01:32:43.310 --> 01:32:43.320 align:start position:0%
+pass on to the answer should be beta and
+ 
+
+01:32:43.320 --> 01:32:45.860 align:start position:0%
+pass on to the answer should be beta and
+so<01:32:43.860><c> on</c><01:32:44.040><c> so</c><01:32:44.730><c> let</c><01:32:45.090><c> me</c><01:32:45.150><c> show</c><01:32:45.270><c> you</c><01:32:45.360><c> how</c><01:32:45.510><c> that</c><01:32:45.570><c> works</c>
+
+01:32:45.860 --> 01:32:45.870 align:start position:0%
+so on so let me show you how that works
+ 
+
+01:32:45.870 --> 01:32:48.140 align:start position:0%
+so on so let me show you how that works
+we'll<01:32:46.650><c> just</c><01:32:46.950><c> type</c><01:32:47.190><c> in</c><01:32:47.370><c> the</c><01:32:47.490><c> word</c><01:32:47.520><c> switch</c>
+
+01:32:48.140 --> 01:32:48.150 align:start position:0%
+we'll just type in the word switch
+ 
+
+01:32:48.150 --> 01:32:50.780 align:start position:0%
+we'll just type in the word switch
+that's<01:32:48.420><c> a</c><01:32:48.600><c> key</c><01:32:48.840><c> word</c><01:32:49.050><c> here</c><01:32:49.080><c> and</c><01:32:49.620><c> we're</c><01:32:50.280><c> testing</c>
+
+01:32:50.780 --> 01:32:50.790 align:start position:0%
+that's a key word here and we're testing
+ 
+
+01:32:50.790 --> 01:32:52.850 align:start position:0%
+that's a key word here and we're testing
+the<01:32:51.270><c> valve</c><01:32:51.660><c> that's</c><01:32:51.990><c> passed</c><01:32:52.260><c> into</c><01:32:52.530><c> this</c>
+
+01:32:52.850 --> 01:32:52.860 align:start position:0%
+the valve that's passed into this
+ 
+
+01:32:52.860 --> 01:32:56.300 align:start position:0%
+the valve that's passed into this
+function<01:32:53.490><c> so</c><01:32:53.840><c> it</c><01:32:54.840><c> starts</c><01:32:55.500><c> off</c><01:32:55.680><c> kind</c><01:32:55.980><c> of</c><01:32:56.070><c> like</c>
+
+01:32:56.300 --> 01:32:56.310 align:start position:0%
+function so it starts off kind of like
+ 
+
+01:32:56.310 --> 01:33:00.500 align:start position:0%
+function so it starts off kind of like
+an<01:32:56.460><c> if</c><01:32:56.760><c> statement</c><01:32:57.150><c> and</c><01:32:57.740><c> right</c><01:32:58.740><c> now</c><01:32:59.240><c> so</c><01:33:00.240><c> we're</c>
+
+01:33:00.500 --> 01:33:00.510 align:start position:0%
+an if statement and right now so we're
+ 
+
+01:33:00.510 --> 01:33:03.020 align:start position:0%
+an if statement and right now so we're
+gonna<01:33:00.630><c> compare</c><01:33:01.170><c> the</c><01:33:01.740><c> Val</c><01:33:02.040><c> to</c><01:33:02.580><c> the</c><01:33:02.700><c> different</c>
+
+01:33:03.020 --> 01:33:03.030 align:start position:0%
+gonna compare the Val to the different
+ 
+
+01:33:03.030 --> 01:33:05.900 align:start position:0%
+gonna compare the Val to the different
+cases<01:33:03.270><c> that</c><01:33:04.080><c> we</c><01:33:04.200><c> have</c><01:33:04.470><c> so</c><01:33:05.100><c> we'll</c><01:33:05.280><c> have</c><01:33:05.430><c> case</c>
+
+01:33:05.900 --> 01:33:05.910 align:start position:0%
+cases that we have so we'll have case
+ 
+
+01:33:05.910 --> 01:33:08.960 align:start position:0%
+cases that we have so we'll have case
+and<01:33:06.590><c> the</c><01:33:07.590><c> first</c><01:33:07.860><c> number</c><01:33:08.160><c> is</c><01:33:08.430><c> going</c><01:33:08.550><c> to</c><01:33:08.640><c> be</c><01:33:08.700><c> one</c>
+
+01:33:08.960 --> 01:33:08.970 align:start position:0%
+and the first number is going to be one
+ 
+
+01:33:08.970 --> 01:33:13.190 align:start position:0%
+and the first number is going to be one
+so<01:33:09.830><c> here</c><01:33:10.830><c> we're</c><01:33:11.100><c> saying</c><01:33:11.340><c> if</c><01:33:11.610><c> the</c><01:33:12.240><c> case</c><01:33:12.510><c> of</c><01:33:12.930><c> Val</c>
+
+01:33:13.190 --> 01:33:13.200 align:start position:0%
+so here we're saying if the case of Val
+ 
+
+01:33:13.200 --> 01:33:17.090 align:start position:0%
+so here we're saying if the case of Val
+is<01:33:13.530><c> 1</c><01:33:13.860><c> if</c><01:33:14.160><c> Val</c><01:33:14.520><c> equals</c><01:33:15.000><c> 1</c><01:33:15.720><c> and</c><01:33:15.990><c> it's</c><01:33:16.530><c> using</c><01:33:16.830><c> the</c>
+
+01:33:17.090 --> 01:33:17.100 align:start position:0%
+is 1 if Val equals 1 and it's using the
+ 
+
+01:33:17.100 --> 01:33:19.310 align:start position:0%
+is 1 if Val equals 1 and it's using the
+strict<01:33:17.490><c> equality</c><01:33:17.640><c> operator</c><01:33:18.540><c> so</c><01:33:19.020><c> it's</c><01:33:19.200><c> like</c>
+
+01:33:19.310 --> 01:33:19.320 align:start position:0%
+strict equality operator so it's like
+ 
+
+01:33:19.320 --> 01:33:21.680 align:start position:0%
+strict equality operator so it's like
+that<01:33:19.470><c> equals</c><01:33:19.860><c> equals</c><01:33:20.220><c> equals</c><01:33:20.760><c> it's</c><01:33:21.420><c> going</c><01:33:21.630><c> to</c>
+
+01:33:21.680 --> 01:33:21.690 align:start position:0%
+that equals equals equals it's going to
+ 
+
+01:33:21.690 --> 01:33:23.300 align:start position:0%
+that equals equals equals it's going to
+make<01:33:21.840><c> sure</c><01:33:21.870><c> that</c><01:33:22.230><c> the</c><01:33:22.380><c> type</c><01:33:22.710><c> of</c><01:33:22.740><c> the</c><01:33:23.100><c> variable</c>
+
+01:33:23.300 --> 01:33:23.310 align:start position:0%
+make sure that the type of the variable
+ 
+
+01:33:23.310 --> 01:33:26.090 align:start position:0%
+make sure that the type of the variable
+are<01:33:23.880><c> the</c><01:33:24.030><c> same</c><01:33:24.240><c> so</c><01:33:24.570><c> a</c><01:33:24.600><c> string</c><01:33:25.320><c> 1</c><01:33:25.620><c> and</c><01:33:25.770><c> a</c><01:33:25.800><c> number</c>
+
+01:33:26.090 --> 01:33:26.100 align:start position:0%
+are the same so a string 1 and a number
+ 
+
+01:33:26.100 --> 01:33:29.690 align:start position:0%
+are the same so a string 1 and a number
+1<01:33:26.310><c> will</c><01:33:26.490><c> not</c><01:33:26.640><c> be</c><01:33:26.700><c> equal</c><01:33:26.990><c> but</c><01:33:27.990><c> if</c><01:33:28.230><c> the</c><01:33:28.560><c> case</c><01:33:28.830><c> is</c><01:33:29.160><c> 1</c>
+
+01:33:29.690 --> 01:33:29.700 align:start position:0%
+1 will not be equal but if the case is 1
+ 
+
+01:33:29.700 --> 01:33:35.120 align:start position:0%
+1 will not be equal but if the case is 1
+then<01:33:30.600><c> we're</c><01:33:31.380><c> going</c><01:33:31.740><c> to</c><01:33:32.060><c> set</c><01:33:33.060><c> answer</c><01:33:33.690><c> to</c><01:33:34.350><c> equal</c>
+
+01:33:35.120 --> 01:33:35.130 align:start position:0%
+then we're going to set answer to equal
+ 
+
+01:33:35.130 --> 01:33:40.610 align:start position:0%
+then we're going to set answer to equal
+alpha<01:33:37.100><c> we'll</c><01:33:38.100><c> just</c><01:33:38.340><c> use</c><01:33:38.520><c> the</c><01:33:38.810><c> like</c><01:33:39.810><c> this</c><01:33:39.990><c> alpha</c>
+
+01:33:40.610 --> 01:33:40.620 align:start position:0%
+alpha we'll just use the like this alpha
+ 
+
+01:33:40.620 --> 01:33:47.300 align:start position:0%
+alpha we'll just use the like this alpha
+and<01:33:41.690><c> then</c><01:33:43.730><c> we</c><01:33:44.730><c> are</c><01:33:44.850><c> going</c><01:33:45.060><c> to</c><01:33:45.150><c> break</c><01:33:46.310><c> break</c>
+
+01:33:47.300 --> 01:33:47.310 align:start position:0%
+and then we are going to break break
+ 
+
+01:33:47.310 --> 01:33:49.580 align:start position:0%
+and then we are going to break break
+means<01:33:47.640><c> that</c><01:33:47.850><c> we're</c><01:33:48.030><c> at</c><01:33:48.300><c> the</c><01:33:48.480><c> end</c><01:33:48.510><c> of</c><01:33:49.020><c> that</c><01:33:49.200><c> case</c>
+
+01:33:49.580 --> 01:33:49.590 align:start position:0%
+means that we're at the end of that case
+ 
+
+01:33:49.590 --> 01:33:52.250 align:start position:0%
+means that we're at the end of that case
+statement<01:33:50.190><c> and</c><01:33:50.460><c> once</c><01:33:51.000><c> you</c><01:33:51.150><c> break</c><01:33:51.420><c> it</c><01:33:51.660><c> it</c><01:33:51.870><c> just</c>
+
+01:33:52.250 --> 01:33:52.260 align:start position:0%
+statement and once you break it it just
+ 
+
+01:33:52.260 --> 01:33:54.500 align:start position:0%
+statement and once you break it it just
+goes<01:33:53.070><c> to</c><01:33:53.430><c> the</c><01:33:53.460><c> end</c><01:33:53.730><c> of</c><01:33:53.940><c> the</c><01:33:54.060><c> switch</c><01:33:54.360><c> statement</c>
+
+01:33:54.500 --> 01:33:54.510 align:start position:0%
+goes to the end of the switch statement
+ 
+
+01:33:54.510 --> 01:33:56.360 align:start position:0%
+goes to the end of the switch statement
+it<01:33:54.870><c> doesn't</c><01:33:55.140><c> evaluate</c><01:33:55.350><c> anything</c><01:33:55.890><c> else</c><01:33:56.070><c> in</c><01:33:56.250><c> the</c>
+
+01:33:56.360 --> 01:33:56.370 align:start position:0%
+it doesn't evaluate anything else in the
+ 
+
+01:33:56.370 --> 01:33:59.390 align:start position:0%
+it doesn't evaluate anything else in the
+switch<01:33:56.610><c> statement</c><01:33:56.810><c> so</c><01:33:57.810><c> we're</c><01:33:58.470><c> also</c><01:33:58.710><c> going</c><01:33:59.310><c> to</c>
+
+01:33:59.390 --> 01:33:59.400 align:start position:0%
+switch statement so we're also going to
+ 
+
+01:33:59.400 --> 01:34:04.010 align:start position:0%
+switch statement so we're also going to
+have<01:34:00.110><c> case</c><01:34:01.130><c> two</c><01:34:02.130><c> and</c><01:34:02.670><c> one</c><01:34:03.510><c> thing</c><01:34:03.690><c> I</c><01:34:03.780><c> forgot</c>
+
+01:34:04.010 --> 01:34:04.020 align:start position:0%
+have case two and one thing I forgot
+ 
+
+01:34:04.020 --> 01:34:06.260 align:start position:0%
+have case two and one thing I forgot
+that<01:34:04.590><c> we're</c><01:34:05.040><c> gonna</c><01:34:05.130><c> is</c><01:34:05.310><c> going</c><01:34:05.430><c> to</c><01:34:05.490><c> end</c><01:34:05.790><c> in</c><01:34:06.030><c> that</c>
+
+01:34:06.260 --> 01:34:06.270 align:start position:0%
+that we're gonna is going to end in that
+ 
+
+01:34:06.270 --> 01:34:07.820 align:start position:0%
+that we're gonna is going to end in that
+so<01:34:06.600><c> it's</c><01:34:06.750><c> easier</c><01:34:07.080><c> to</c><01:34:07.110><c> see</c><01:34:07.410><c> the</c><01:34:07.530><c> different</c>
+
+01:34:07.820 --> 01:34:07.830 align:start position:0%
+so it's easier to see the different
+ 
+
+01:34:07.830 --> 01:34:12.470 align:start position:0%
+so it's easier to see the different
+cases<01:34:08.100><c> and</c><01:34:09.290><c> case</c><01:34:10.290><c> 2</c><01:34:10.650><c> the</c><01:34:10.920><c> answer</c><01:34:11.580><c> is</c><01:34:12.030><c> going</c><01:34:12.360><c> to</c>
+
+01:34:12.470 --> 01:34:12.480 align:start position:0%
+cases and case 2 the answer is going to
+ 
+
+01:34:12.480 --> 01:34:16.910 align:start position:0%
+cases and case 2 the answer is going to
+set<01:34:12.720><c> equal</c><01:34:12.930><c> to</c><01:34:13.220><c> beta</c><01:34:14.220><c> and</c><01:34:15.320><c> then</c><01:34:16.320><c> we</c><01:34:16.500><c> always</c>
+
+01:34:16.910 --> 01:34:16.920 align:start position:0%
+set equal to beta and then we always
+ 
+
+01:34:16.920 --> 01:34:19.460 align:start position:0%
+set equal to beta and then we always
+need<01:34:17.130><c> the</c><01:34:17.250><c> break</c><01:34:17.490><c> statement</c><01:34:17.670><c> if</c><01:34:18.540><c> you</c><01:34:18.960><c> don't</c>
+
+01:34:19.460 --> 01:34:19.470 align:start position:0%
+need the break statement if you don't
+ 
+
+01:34:19.470 --> 01:34:22.550 align:start position:0%
+need the break statement if you don't
+have<01:34:19.710><c> a</c><01:34:19.740><c> break</c><01:34:20.040><c> statement</c><01:34:20.370><c> it</c><01:34:20.970><c> will</c><01:34:21.420><c> just</c><01:34:21.900><c> run</c>
+
+01:34:22.550 --> 01:34:22.560 align:start position:0%
+have a break statement it will just run
+ 
+
+01:34:22.560 --> 01:34:24.710 align:start position:0%
+have a break statement it will just run
+through<01:34:23.280><c> to</c><01:34:23.460><c> the</c><01:34:23.550><c> next</c><01:34:23.910><c> case</c><01:34:24.210><c> statement</c>
+
+01:34:24.710 --> 01:34:24.720 align:start position:0%
+through to the next case statement
+ 
+
+01:34:24.720 --> 01:34:28.400 align:start position:0%
+through to the next case statement
+automatically<01:34:25.500><c> so</c><01:34:26.010><c> if</c><01:34:26.400><c> the</c><01:34:27.060><c> case</c><01:34:27.360><c> was</c><01:34:27.630><c> one</c><01:34:28.050><c> and</c>
+
+01:34:28.400 --> 01:34:28.410 align:start position:0%
+automatically so if the case was one and
+ 
+
+01:34:28.410 --> 01:34:31.010 align:start position:0%
+automatically so if the case was one and
+you<01:34:29.070><c> did</c><01:34:29.250><c> not</c><01:34:29.400><c> have</c><01:34:29.520><c> a</c><01:34:29.580><c> break</c><01:34:29.880><c> here</c><01:34:30.240><c> first</c><01:34:30.840><c> who</c>
+
+01:34:31.010 --> 01:34:31.020 align:start position:0%
+you did not have a break here first who
+ 
+
+01:34:31.020 --> 01:34:31.790 align:start position:0%
+you did not have a break here first who
+would<01:34:31.140><c> set</c><01:34:31.380><c> the</c><01:34:31.500><c> and</c>
+
+01:34:31.790 --> 01:34:31.800 align:start position:0%
+would set the and
+ 
+
+01:34:31.800 --> 01:34:34.370 align:start position:0%
+would set the and
+alpha<01:34:32.340><c> and</c><01:34:32.550><c> then</c><01:34:33.270><c> it</c><01:34:33.540><c> would</c><01:34:33.659><c> set</c><01:34:33.900><c> the</c><01:34:33.929><c> answer</c>
+
+01:34:34.370 --> 01:34:34.380 align:start position:0%
+alpha and then it would set the answer
+ 
+
+01:34:34.380 --> 01:34:36.649 align:start position:0%
+alpha and then it would set the answer
+to<01:34:34.500><c> beta</c><01:34:34.739><c> it</c><01:34:35.099><c> would</c><01:34:35.460><c> just</c><01:34:35.639><c> skip</c><01:34:35.909><c> over</c><01:34:36.150><c> right</c><01:34:36.510><c> to</c>
+
+01:34:36.649 --> 01:34:36.659 align:start position:0%
+to beta it would just skip over right to
+ 
+
+01:34:36.659 --> 01:34:38.600 align:start position:0%
+to beta it would just skip over right to
+the<01:34:36.750><c> next</c><01:34:37.020><c> case</c><01:34:37.230><c> Thema</c><01:34:37.500><c> but</c><01:34:37.679><c> since</c><01:34:37.860><c> the</c><01:34:38.340><c> break</c>
+
+01:34:38.600 --> 01:34:38.610 align:start position:0%
+the next case Thema but since the break
+ 
+
+01:34:38.610 --> 01:34:41.510 align:start position:0%
+the next case Thema but since the break
+is<01:34:38.820><c> here</c><01:34:38.849><c> it's</c><01:34:39.690><c> going</c><01:34:40.079><c> to</c><01:34:40.290><c> go</c><01:34:41.010><c> out</c><01:34:41.250><c> of</c><01:34:41.400><c> the</c>
+
+01:34:41.510 --> 01:34:41.520 align:start position:0%
+is here it's going to go out of the
+ 
+
+01:34:41.520 --> 01:34:43.490 align:start position:0%
+is here it's going to go out of the
+switch<01:34:41.790><c> damn</c><01:34:42.030><c> it</c><01:34:42.179><c> completely</c><01:34:42.750><c> so</c><01:34:42.960><c> it</c><01:34:43.170><c> would</c><01:34:43.290><c> go</c>
+
+01:34:43.490 --> 01:34:43.500 align:start position:0%
+switch damn it completely so it would go
+ 
+
+01:34:43.500 --> 01:34:45.740 align:start position:0%
+switch damn it completely so it would go
+start<01:34:44.250><c> writing</c><01:34:44.460><c> the</c><01:34:44.520><c> code</c><01:34:44.699><c> after</c><01:34:45.210><c> this</c><01:34:45.389><c> last</c>
+
+01:34:45.740 --> 01:34:45.750 align:start position:0%
+start writing the code after this last
+ 
+
+01:34:45.750 --> 01:34:49.609 align:start position:0%
+start writing the code after this last
+curly<01:34:46.290><c> bracket</c><01:34:46.800><c> so</c><01:34:47.760><c> now</c><01:34:48.690><c> we're</c><01:34:49.170><c> going</c><01:34:49.260><c> to</c><01:34:49.320><c> case</c>
+
+01:34:49.609 --> 01:34:49.619 align:start position:0%
+curly bracket so now we're going to case
+ 
+
+01:34:49.619 --> 01:34:52.100 align:start position:0%
+curly bracket so now we're going to case
+three<01:34:50.400><c> we'll</c><01:34:50.880><c> just</c><01:34:51.090><c> do</c><01:34:51.210><c> some</c><01:34:51.420><c> copying</c><01:34:51.929><c> and</c>
+
+01:34:52.100 --> 01:34:52.110 align:start position:0%
+three we'll just do some copying and
+ 
+
+01:34:52.110 --> 01:34:57.709 align:start position:0%
+three we'll just do some copying and
+pasting<01:34:52.380><c> here</c><01:34:54.199><c> and</c><01:34:55.969><c> we're</c><01:34:56.969><c> gonna</c><01:34:57.030><c> have</c><01:34:57.420><c> four</c>
+
+01:34:57.709 --> 01:34:57.719 align:start position:0%
+pasting here and we're gonna have four
+ 
+
+01:34:57.719 --> 01:34:59.330 align:start position:0%
+pasting here and we're gonna have four
+cases<01:34:58.139><c> I'll</c><01:34:58.320><c> just</c><01:34:58.469><c> do</c><01:34:58.650><c> the</c><01:34:58.800><c> rest</c><01:34:58.980><c> of</c><01:34:59.070><c> the</c><01:34:59.130><c> cop</c>
+
+01:34:59.330 --> 01:34:59.340 align:start position:0%
+cases I'll just do the rest of the cop
+ 
+
+01:34:59.340 --> 01:35:02.350 align:start position:0%
+cases I'll just do the rest of the cop
+the<01:34:59.550><c> pasting</c><01:35:00.030><c> here</c><01:35:00.239><c> so</c><01:35:00.690><c> we'll</c><01:35:00.900><c> have</c><01:35:01.020><c> three</c><01:35:01.500><c> and</c>
+
+01:35:02.350 --> 01:35:02.360 align:start position:0%
+the pasting here so we'll have three and
+ 
+
+01:35:02.360 --> 01:35:08.330 align:start position:0%
+the pasting here so we'll have three and
+four<01:35:03.739><c> alpha</c><01:35:04.969><c> beta</c><01:35:05.969><c> and</c><01:35:06.500><c> then</c><01:35:07.500><c> we</c><01:35:07.650><c> have</c><01:35:07.829><c> gamma</c>
+
+01:35:08.330 --> 01:35:08.340 align:start position:0%
+four alpha beta and then we have gamma
+ 
+
+01:35:08.340 --> 01:35:16.040 align:start position:0%
+four alpha beta and then we have gamma
+and<01:35:10.010><c> Delta</c><01:35:14.030><c> and</c><01:35:15.030><c> we</c><01:35:15.150><c> know</c><01:35:15.360><c> that</c><01:35:15.570><c> the</c><01:35:15.719><c> switch</c>
+
+01:35:16.040 --> 01:35:16.050 align:start position:0%
+and Delta and we know that the switch
+ 
+
+01:35:16.050 --> 01:35:19.729 align:start position:0%
+and Delta and we know that the switch
+statement<01:35:16.559><c> is</c><01:35:16.739><c> over</c><01:35:17.780><c> because</c><01:35:18.780><c> we</c><01:35:19.050><c> have</c><01:35:19.380><c> this</c>
+
+01:35:19.729 --> 01:35:19.739 align:start position:0%
+statement is over because we have this
+ 
+
+01:35:19.739 --> 01:35:21.950 align:start position:0%
+statement is over because we have this
+final<01:35:20.369><c> curly</c><01:35:20.760><c> bracket</c><01:35:21.239><c> and</c><01:35:21.329><c> then</c><01:35:21.809><c> we're</c><01:35:21.929><c> just</c>
+
+01:35:21.950 --> 01:35:21.960 align:start position:0%
+final curly bracket and then we're just
+ 
+
+01:35:21.960 --> 01:35:25.729 align:start position:0%
+final curly bracket and then we're just
+going<01:35:22.199><c> to</c><01:35:22.230><c> return</c><01:35:22.590><c> answer</c><01:35:23.300><c> so</c><01:35:24.300><c> let's</c><01:35:25.139><c> do</c><01:35:25.440><c> some</c>
+
+01:35:25.729 --> 01:35:25.739 align:start position:0%
+going to return answer so let's do some
+ 
+
+01:35:25.739 --> 01:35:27.379 align:start position:0%
+going to return answer so let's do some
+tests<01:35:26.130><c> to</c><01:35:26.309><c> really</c><01:35:26.670><c> test</c><01:35:26.940><c> this</c><01:35:27.090><c> we're</c><01:35:27.239><c> going</c><01:35:27.329><c> to</c>
+
+01:35:27.379 --> 01:35:27.389 align:start position:0%
+tests to really test this we're going to
+ 
+
+01:35:27.389 --> 01:35:30.439 align:start position:0%
+tests to really test this we're going to
+have<01:35:27.480><c> to</c><01:35:27.690><c> add</c><01:35:27.840><c> a</c><01:35:27.869><c> console</c><01:35:28.590><c> dot</c><01:35:28.770><c> log</c><01:35:28.829><c> here</c><01:35:29.790><c> to</c>
+
+01:35:30.439 --> 01:35:30.449 align:start position:0%
+have to add a console dot log here to
+ 
+
+01:35:30.449 --> 01:35:33.080 align:start position:0%
+have to add a console dot log here to
+log<01:35:30.719><c> what</c><01:35:30.929><c> it's</c><01:35:31.079><c> going</c><01:35:31.199><c> to</c><01:35:31.260><c> be</c><01:35:31.530><c> and</c><01:35:31.820><c> I'll</c><01:35:32.820><c> run</c>
+
+01:35:33.080 --> 01:35:33.090 align:start position:0%
+log what it's going to be and I'll run
+ 
+
+01:35:33.090 --> 01:35:39.560 align:start position:0%
+log what it's going to be and I'll run
+this<01:35:33.679><c> alpha</c><01:35:34.679><c> good</c><01:35:35.070><c> now</c><01:35:35.670><c> two</c><01:35:36.139><c> should</c><01:35:37.139><c> be</c><01:35:37.400><c> beta</c><01:35:38.570><c> 3</c>
+
+01:35:39.560 --> 01:35:39.570 align:start position:0%
+this alpha good now two should be beta 3
+ 
+
+01:35:39.570 --> 01:35:43.430 align:start position:0%
+this alpha good now two should be beta 3
+should<01:35:40.290><c> be</c><01:35:40.790><c> gamma</c><01:35:41.790><c> good</c><01:35:42.329><c> and</c><01:35:42.630><c> we'll</c><01:35:43.260><c> just</c>
+
+01:35:43.430 --> 01:35:43.440 align:start position:0%
+should be gamma good and we'll just
+ 
+
+01:35:43.440 --> 01:35:44.479 align:start position:0%
+should be gamma good and we'll just
+assume<01:35:43.679><c> for</c><01:35:43.920><c> is</c><01:35:44.010><c> correct</c>
+
+01:35:44.479 --> 01:35:44.489 align:start position:0%
+assume for is correct
+ 
+
+01:35:44.489 --> 01:35:48.780 align:start position:0%
+assume for is correct
+so<01:35:44.730><c> we're</c><01:35:45.000><c> done</c>
+
+01:35:48.780 --> 01:35:48.790 align:start position:0%
+ 
+ 
+
+01:35:48.790 --> 01:35:51.000 align:start position:0%
+ 
+now<01:35:49.420><c> I'll</c><01:35:49.570><c> talk</c><01:35:49.780><c> to</c><01:35:49.840><c> you</c><01:35:50.050><c> about</c><01:35:50.170><c> the</c><01:35:50.440><c> default</c>
+
+01:35:51.000 --> 01:35:51.010 align:start position:0%
+now I'll talk to you about the default
+ 
+
+01:35:51.010 --> 01:35:53.790 align:start position:0%
+now I'll talk to you about the default
+option<01:35:51.610><c> in</c><01:35:51.760><c> a</c><01:35:51.880><c> switch</c><01:35:52.150><c> statement</c><01:35:52.360><c> the</c><01:35:53.350><c> default</c>
+
+01:35:53.790 --> 01:35:53.800 align:start position:0%
+option in a switch statement the default
+ 
+
+01:35:53.800 --> 01:35:56.100 align:start position:0%
+option in a switch statement the default
+option<01:35:54.250><c> is</c><01:35:54.340><c> kind</c><01:35:54.610><c> of</c><01:35:54.640><c> like</c><01:35:54.880><c> else</c><01:35:55.180><c> in</c><01:35:55.660><c> an</c>
+
+01:35:56.100 --> 01:35:56.110 align:start position:0%
+option is kind of like else in an
+ 
+
+01:35:56.110 --> 01:35:59.400 align:start position:0%
+option is kind of like else in an
+if-else<01:35:56.620><c> statement</c><01:35:57.400><c> so</c><01:35:58.150><c> here's</c><01:35:58.750><c> a</c><01:35:58.960><c> switch</c>
+
+01:35:59.400 --> 01:35:59.410 align:start position:0%
+if-else statement so here's a switch
+ 
+
+01:35:59.410 --> 01:36:01.110 align:start position:0%
+if-else statement so here's a switch
+statement<01:35:59.560><c> that's</c><01:36:00.070><c> very</c><01:36:00.280><c> similar</c><01:36:00.580><c> to</c><01:36:00.850><c> the</c><01:36:00.940><c> one</c>
+
+01:36:01.110 --> 01:36:01.120 align:start position:0%
+statement that's very similar to the one
+ 
+
+01:36:01.120 --> 01:36:03.420 align:start position:0%
+statement that's very similar to the one
+we<01:36:01.240><c> already</c><01:36:01.510><c> saw</c><01:36:01.780><c> and</c><01:36:02.140><c> it's</c><01:36:02.800><c> inside</c><01:36:03.220><c> this</c>
+
+01:36:03.420 --> 01:36:03.430 align:start position:0%
+we already saw and it's inside this
+ 
+
+01:36:03.430 --> 01:36:05.340 align:start position:0%
+we already saw and it's inside this
+function<01:36:04.000><c> where</c><01:36:04.150><c> we</c><01:36:04.180><c> pass</c><01:36:04.570><c> in</c><01:36:04.750><c> a</c><01:36:04.840><c> value</c><01:36:04.870><c> into</c>
+
+01:36:05.340 --> 01:36:05.350 align:start position:0%
+function where we pass in a value into
+ 
+
+01:36:05.350 --> 01:36:07.170 align:start position:0%
+function where we pass in a value into
+the<01:36:05.500><c> function</c><01:36:05.530><c> and</c><01:36:06.280><c> we're</c><01:36:06.580><c> going</c><01:36:06.700><c> to</c><01:36:06.760><c> check</c><01:36:06.970><c> if</c>
+
+01:36:07.170 --> 01:36:07.180 align:start position:0%
+the function and we're going to check if
+ 
+
+01:36:07.180 --> 01:36:09.630 align:start position:0%
+the function and we're going to check if
+the<01:36:07.300><c> value</c><01:36:07.450><c> equals</c><01:36:08.140><c> a</c><01:36:08.260><c> if</c><01:36:08.530><c> it</c><01:36:08.650><c> equals</c><01:36:08.740><c> a</c><01:36:09.100><c> the</c>
+
+01:36:09.630 --> 01:36:09.640 align:start position:0%
+the value equals a if it equals a the
+ 
+
+01:36:09.640 --> 01:36:11.730 align:start position:0%
+the value equals a if it equals a the
+answer<01:36:09.940><c> is</c><01:36:10.030><c> gonna</c><01:36:10.360><c> be</c><01:36:10.480><c> set</c><01:36:10.720><c> to</c><01:36:10.810><c> Apple</c><01:36:11.230><c> B</c>
+
+01:36:11.730 --> 01:36:11.740 align:start position:0%
+answer is gonna be set to Apple B
+ 
+
+01:36:11.740 --> 01:36:15.420 align:start position:0%
+answer is gonna be set to Apple B
+intercept<01:36:12.610><c> the</c><01:36:12.730><c> birds</c><01:36:12.970><c> see</c><01:36:13.390><c> cat</c><01:36:14.110><c> so</c><01:36:14.950><c> in</c><01:36:15.280><c> this</c>
+
+01:36:15.420 --> 01:36:15.430 align:start position:0%
+intercept the birds see cat so in this
+ 
+
+01:36:15.430 --> 01:36:18.960 align:start position:0%
+intercept the birds see cat so in this
+example<01:36:15.990><c> we</c><01:36:16.990><c> can</c><01:36:17.020><c> see</c><01:36:17.440><c> that</c><01:36:17.470><c> we</c><01:36:18.280><c> passed</c><01:36:18.700><c> in</c>
+
+01:36:18.960 --> 01:36:18.970 align:start position:0%
+example we can see that we passed in
+ 
+
+01:36:18.970 --> 01:36:23.310 align:start position:0%
+example we can see that we passed in
+here<01:36:19.480><c> we</c><01:36:20.020><c> pass</c><01:36:20.260><c> in</c><01:36:20.470><c> a</c><01:36:20.770><c> and</c><01:36:21.130><c> it</c><01:36:22.090><c> returned</c><01:36:22.690><c> Apple</c>
+
+01:36:23.310 --> 01:36:23.320 align:start position:0%
+here we pass in a and it returned Apple
+ 
+
+01:36:23.320 --> 01:36:25.950 align:start position:0%
+here we pass in a and it returned Apple
+because<01:36:24.040><c> that</c><01:36:24.640><c> was</c><01:36:24.790><c> one</c><01:36:24.940><c> of</c><01:36:24.970><c> the</c><01:36:25.090><c> options</c><01:36:25.240><c> but</c>
+
+01:36:25.950 --> 01:36:25.960 align:start position:0%
+because that was one of the options but
+ 
+
+01:36:25.960 --> 01:36:28.290 align:start position:0%
+because that was one of the options but
+what<01:36:26.200><c> if</c><01:36:26.320><c> we</c><01:36:26.470><c> pass</c><01:36:26.740><c> in</c><01:36:26.980><c> something</c><01:36:27.250><c> else</c><01:36:27.610><c> if</c><01:36:27.910><c> I</c>
+
+01:36:28.290 --> 01:36:28.300 align:start position:0%
+what if we pass in something else if I
+ 
+
+01:36:28.300 --> 01:36:31.230 align:start position:0%
+what if we pass in something else if I
+pass<01:36:28.600><c> in</c><01:36:28.630><c> the</c><01:36:29.020><c> number</c><01:36:29.200><c> two</c><01:36:29.680><c> here</c><01:36:30.250><c> it's</c><01:36:31.030><c> going</c>
+
+01:36:31.230 --> 01:36:31.240 align:start position:0%
+pass in the number two here it's going
+ 
+
+01:36:31.240 --> 01:36:33.330 align:start position:0%
+pass in the number two here it's going
+to<01:36:31.300><c> return</c><01:36:31.600><c> an</c><01:36:31.750><c> empty</c><01:36:32.050><c> string</c><01:36:32.380><c> that's</c><01:36:32.950><c> because</c>
+
+01:36:33.330 --> 01:36:33.340 align:start position:0%
+to return an empty string that's because
+ 
+
+01:36:33.340 --> 01:36:35.340 align:start position:0%
+to return an empty string that's because
+the<01:36:33.490><c> answer</c><01:36:33.970><c> is</c><01:36:34.000><c> set</c><01:36:34.300><c> to</c><01:36:34.420><c> an</c><01:36:34.510><c> empty</c><01:36:34.720><c> string</c><01:36:35.080><c> and</c>
+
+01:36:35.340 --> 01:36:35.350 align:start position:0%
+the answer is set to an empty string and
+ 
+
+01:36:35.350 --> 01:36:37.830 align:start position:0%
+the answer is set to an empty string and
+we<01:36:35.650><c> never</c><01:36:35.920><c> override</c><01:36:36.610><c> the</c><01:36:36.850><c> answer</c><01:36:37.270><c> here</c><01:36:37.540><c> so</c><01:36:37.570><c> it</c>
+
+01:36:37.830 --> 01:36:37.840 align:start position:0%
+we never override the answer here so it
+ 
+
+01:36:37.840 --> 01:36:41.310 align:start position:0%
+we never override the answer here so it
+just<01:36:38.050><c> returns</c><01:36:38.440><c> that</c><01:36:38.680><c> empty</c><01:36:39.100><c> string</c><01:36:40.110><c> what</c><01:36:41.110><c> if</c>
+
+01:36:41.310 --> 01:36:41.320 align:start position:0%
+just returns that empty string what if
+ 
+
+01:36:41.320 --> 01:36:45.180 align:start position:0%
+just returns that empty string what if
+we<01:36:41.560><c> want</c><01:36:41.770><c> to</c><01:36:41.830><c> return</c><01:36:42.040><c> something</c><01:36:42.910><c> anytime</c><01:36:43.840><c> a</c><01:36:44.500><c> B</c>
+
+01:36:45.180 --> 01:36:45.190 align:start position:0%
+we want to return something anytime a B
+ 
+
+01:36:45.190 --> 01:36:47.220 align:start position:0%
+we want to return something anytime a B
+or<01:36:45.250><c> C</c><01:36:45.490><c> is</c><01:36:45.520><c> not</c><01:36:45.850><c> passed</c><01:36:46.390><c> through</c><01:36:46.750><c> so</c><01:36:46.990><c> for</c>
+
+01:36:47.220 --> 01:36:47.230 align:start position:0%
+or C is not passed through so for
+ 
+
+01:36:47.230 --> 01:36:48.840 align:start position:0%
+or C is not passed through so for
+anything<01:36:47.440><c> else</c><01:36:47.770><c> that's</c><01:36:48.130><c> passed</c><01:36:48.460><c> into</c><01:36:48.670><c> the</c>
+
+01:36:48.840 --> 01:36:48.850 align:start position:0%
+anything else that's passed into the
+ 
+
+01:36:48.850 --> 01:36:51.630 align:start position:0%
+anything else that's passed into the
+function<01:36:49.050><c> we're</c><01:36:50.050><c> gonna</c><01:36:50.230><c> do</c><01:36:50.500><c> default</c><01:36:51.160><c> this</c><01:36:51.580><c> is</c>
+
+01:36:51.630 --> 01:36:51.640 align:start position:0%
+function we're gonna do default this is
+ 
+
+01:36:51.640 --> 01:36:54.960 align:start position:0%
+function we're gonna do default this is
+like<01:36:51.910><c> the</c><01:36:52.060><c> else</c><01:36:52.240><c> statement</c><01:36:52.420><c> so</c><01:36:53.700><c> the</c><01:36:54.700><c> default</c>
+
+01:36:54.960 --> 01:36:54.970 align:start position:0%
+like the else statement so the default
+ 
+
+01:36:54.970 --> 01:37:00.110 align:start position:0%
+like the else statement so the default
+we're<01:36:55.300><c> gonna</c><01:36:55.450><c> do</c><01:36:55.510><c> answer</c><01:36:56.550><c> equals</c><01:36:57.550><c> it's</c><01:36:58.420><c> off</c>
+
+01:37:00.110 --> 01:37:00.120 align:start position:0%
+we're gonna do answer equals it's off
+ 
+
+01:37:00.120 --> 01:37:05.100 align:start position:0%
+we're gonna do answer equals it's off
+again<01:37:01.120><c> we're</c><01:37:01.240><c> gonna</c><01:37:01.330><c> have</c><01:37:01.510><c> the</c><01:37:01.660><c> break</c><01:37:03.810><c> so</c><01:37:04.810><c> now</c>
+
+01:37:05.100 --> 01:37:05.110 align:start position:0%
+again we're gonna have the break so now
+ 
+
+01:37:05.110 --> 01:37:06.930 align:start position:0%
+again we're gonna have the break so now
+whenever<01:37:05.770><c> we</c><01:37:05.980><c> pass</c><01:37:06.280><c> in</c><01:37:06.550><c> something</c><01:37:06.760><c> that's</c><01:37:06.820><c> not</c>
+
+01:37:06.930 --> 01:37:06.940 align:start position:0%
+whenever we pass in something that's not
+ 
+
+01:37:06.940 --> 01:37:09.750 align:start position:0%
+whenever we pass in something that's not
+a<01:37:07.090><c> B</c><01:37:07.150><c> or</c><01:37:07.360><c> C</c><01:37:07.390><c> it's</c><01:37:07.810><c> gonna</c><01:37:08.050><c> return</c><01:37:08.170><c> stuff</c><01:37:08.830><c> so</c><01:37:09.640><c> we</c>
+
+01:37:09.750 --> 01:37:09.760 align:start position:0%
+a B or C it's gonna return stuff so we
+ 
+
+01:37:09.760 --> 01:37:13.380 align:start position:0%
+a B or C it's gonna return stuff so we
+can<01:37:09.790><c> pass</c><01:37:10.240><c> in</c><01:37:10.600><c> five</c><01:37:11.560><c> it's</c><01:37:12.490><c> gonna</c><01:37:12.700><c> rain</c><01:37:12.940><c> return</c>
+
+01:37:13.380 --> 01:37:13.390 align:start position:0%
+can pass in five it's gonna rain return
+ 
+
+01:37:13.390 --> 01:37:17.040 align:start position:0%
+can pass in five it's gonna rain return
+stuff<01:37:13.840><c> but</c><01:37:14.650><c> if</c><01:37:14.890><c> I</c><01:37:15.160><c> go</c><01:37:15.460><c> back</c><01:37:15.820><c> the</c><01:37:16.540><c> pass</c><01:37:16.840><c> again</c>
+
+01:37:17.040 --> 01:37:17.050 align:start position:0%
+stuff but if I go back the pass again
+ 
+
+01:37:17.050 --> 01:37:18.690 align:start position:0%
+stuff but if I go back the pass again
+see<01:37:17.500><c> one</c><01:37:17.830><c> of</c><01:37:17.950><c> the</c><01:37:18.010><c> things</c><01:37:18.070><c> they</c><01:37:18.310><c> have</c><01:37:18.400><c> a</c><01:37:18.460><c> case</c>
+
+01:37:18.690 --> 01:37:18.700 align:start position:0%
+see one of the things they have a case
+ 
+
+01:37:18.700 --> 01:37:21.660 align:start position:0%
+see one of the things they have a case
+for<01:37:18.970><c> it'll</c><01:37:19.330><c> return</c><01:37:19.630><c> cat</c><01:37:20.140><c> and</c><01:37:20.500><c> that's</c><01:37:21.460><c> the</c>
+
+01:37:21.660 --> 01:37:21.670 align:start position:0%
+for it'll return cat and that's the
+ 
+
+01:37:21.670 --> 01:37:25.990 align:start position:0%
+for it'll return cat and that's the
+switch<01:37:21.940><c> statement</c>
+
+01:37:25.990 --> 01:37:26.000 align:start position:0%
+ 
+ 
+
+01:37:26.000 --> 01:37:28.000 align:start position:0%
+ 
+sometimes<01:37:26.900><c> you</c><01:37:27.200><c> want</c><01:37:27.410><c> a</c><01:37:27.470><c> switch</c><01:37:27.830><c> statement</c>
+
+01:37:28.000 --> 01:37:28.010 align:start position:0%
+sometimes you want a switch statement
+ 
+
+01:37:28.010 --> 01:37:30.850 align:start position:0%
+sometimes you want a switch statement
+where<01:37:28.670><c> multiple</c><01:37:29.390><c> inputs</c><01:37:30.050><c> give</c><01:37:30.380><c> the</c><01:37:30.560><c> same</c>
+
+01:37:30.850 --> 01:37:30.860 align:start position:0%
+where multiple inputs give the same
+ 
+
+01:37:30.860 --> 01:37:33.520 align:start position:0%
+where multiple inputs give the same
+output<01:37:31.330><c> well</c><01:37:32.330><c> that's</c><01:37:32.540><c> easy</c><01:37:32.840><c> enough</c><01:37:32.990><c> by</c>
+
+01:37:33.520 --> 01:37:33.530 align:start position:0%
+output well that's easy enough by
+ 
+
+01:37:33.530 --> 01:37:36.730 align:start position:0%
+output well that's easy enough by
+omitting<01:37:34.190><c> the</c><01:37:34.670><c> break</c><01:37:35.180><c> statement</c><01:37:35.570><c> let</c><01:37:36.470><c> me</c><01:37:36.560><c> show</c>
+
+01:37:36.730 --> 01:37:36.740 align:start position:0%
+omitting the break statement let me show
+ 
+
+01:37:36.740 --> 01:37:39.400 align:start position:0%
+omitting the break statement let me show
+you<01:37:36.800><c> how</c><01:37:36.980><c> that</c><01:37:37.010><c> works</c><01:37:37.430><c> so</c><01:37:38.150><c> let's</c><01:37:38.390><c> get</c><01:37:38.780><c> a</c><01:37:38.840><c> switch</c>
+
+01:37:39.400 --> 01:37:39.410 align:start position:0%
+you how that works so let's get a switch
+ 
+
+01:37:39.410 --> 01:37:43.090 align:start position:0%
+you how that works so let's get a switch
+statement<01:37:39.560><c> here</c><01:37:40.160><c> and</c><01:37:40.840><c> we're</c><01:37:41.840><c> gonna</c><01:37:41.900><c> have</c><01:37:42.290><c> Val</c>
+
+01:37:43.090 --> 01:37:43.100 align:start position:0%
+statement here and we're gonna have Val
+ 
+
+01:37:43.100 --> 01:37:44.940 align:start position:0%
+statement here and we're gonna have Val
+that's<01:37:43.610><c> what's</c><01:37:43.820><c> passed</c><01:37:44.090><c> into</c><01:37:44.300><c> the</c><01:37:44.480><c> function</c>
+
+01:37:44.940 --> 01:37:44.950 align:start position:0%
+that's what's passed into the function
+ 
+
+01:37:44.950 --> 01:37:48.700 align:start position:0%
+that's what's passed into the function
+and<01:37:45.950><c> in</c><01:37:46.670><c> this</c><01:37:46.820><c> case</c><01:37:47.180><c> when</c><01:37:47.720><c> you</c><01:37:47.780><c> want</c><01:37:48.080><c> the</c><01:37:48.320><c> case</c>
+
+01:37:48.700 --> 01:37:48.710 align:start position:0%
+and in this case when you want the case
+ 
+
+01:37:48.710 --> 01:37:51.790 align:start position:0%
+and in this case when you want the case
+of<01:37:49.010><c> one</c><01:37:49.340><c> two</c><01:37:49.640><c> and</c><01:37:49.820><c> three</c><01:37:50.210><c> all</c><01:37:50.540><c> to</c><01:37:51.260><c> return</c><01:37:51.650><c> the</c>
+
+01:37:51.790 --> 01:37:51.800 align:start position:0%
+of one two and three all to return the
+ 
+
+01:37:51.800 --> 01:37:54.400 align:start position:0%
+of one two and three all to return the
+answer<01:37:52.190><c> of</c><01:37:52.400><c> lo</c><01:37:52.730><c> so</c><01:37:53.420><c> I</c><01:37:53.450><c> can</c><01:37:53.690><c> do</c><01:37:53.780><c> it</c><01:37:53.810><c> like</c><01:37:53.930><c> this</c>
+
+01:37:54.400 --> 01:37:54.410 align:start position:0%
+answer of lo so I can do it like this
+ 
+
+01:37:54.410 --> 01:37:58.060 align:start position:0%
+answer of lo so I can do it like this
+case<01:37:54.890><c> one</c><01:37:55.400><c> and</c><01:37:55.810><c> I</c><01:37:56.810><c> can</c><01:37:56.960><c> go</c><01:37:57.110><c> straight</c><01:37:57.500><c> into</c><01:37:57.650><c> case</c>
+
+01:37:58.060 --> 01:37:58.070 align:start position:0%
+case one and I can go straight into case
+ 
+
+01:37:58.070 --> 01:38:01.950 align:start position:0%
+case one and I can go straight into case
+two<01:37:58.700><c> and</c><01:37:59.440><c> then</c><01:38:00.440><c> I</c><01:38:00.500><c> can</c><01:38:00.620><c> go</c><01:38:00.740><c> straight</c><01:38:01.010><c> into</c><01:38:01.160><c> case</c>
+
+01:38:01.950 --> 01:38:01.960 align:start position:0%
+two and then I can go straight into case
+ 
+
+01:38:01.960 --> 01:38:05.980 align:start position:0%
+two and then I can go straight into case
+three<01:38:02.960><c> and</c><01:38:03.730><c> since</c><01:38:04.730><c> I</c><01:38:04.820><c> don't</c><01:38:04.880><c> have</c><01:38:05.150><c> any</c><01:38:05.600><c> break</c>
+
+01:38:05.980 --> 01:38:05.990 align:start position:0%
+three and since I don't have any break
+ 
+
+01:38:05.990 --> 01:38:08.620 align:start position:0%
+three and since I don't have any break
+statement<01:38:06.620><c> between</c><01:38:07.100><c> these</c><01:38:07.220><c> cases</c><01:38:07.520><c> it</c><01:38:08.450><c> will</c>
+
+01:38:08.620 --> 01:38:08.630 align:start position:0%
+statement between these cases it will
+ 
+
+01:38:08.630 --> 01:38:10.270 align:start position:0%
+statement between these cases it will
+just<01:38:08.930><c> keep</c><01:38:09.140><c> going</c><01:38:09.410><c> to</c><01:38:09.740><c> the</c><01:38:09.830><c> next</c><01:38:10.070><c> one</c>
+
+01:38:10.270 --> 01:38:10.280 align:start position:0%
+just keep going to the next one
+ 
+
+01:38:10.280 --> 01:38:13.120 align:start position:0%
+just keep going to the next one
+automatically<01:38:11.180><c> and</c><01:38:11.540><c> now</c><01:38:12.140><c> I'm</c><01:38:12.470><c> gonna</c><01:38:12.590><c> say</c><01:38:12.890><c> that</c>
+
+01:38:13.120 --> 01:38:13.130 align:start position:0%
+automatically and now I'm gonna say that
+ 
+
+01:38:13.130 --> 01:38:17.680 align:start position:0%
+automatically and now I'm gonna say that
+the<01:38:13.400><c> answer</c><01:38:13.730><c> is</c><01:38:14.440><c> must</c><01:38:15.440><c> be</c><01:38:15.800><c> set</c><01:38:16.040><c> to</c><01:38:16.070><c> equal</c><01:38:16.690><c> low</c>
+
+01:38:17.680 --> 01:38:17.690 align:start position:0%
+the answer is must be set to equal low
+ 
+
+01:38:17.690 --> 01:38:20.740 align:start position:0%
+the answer is must be set to equal low
+and<01:38:18.430><c> here</c><01:38:19.430><c> is</c><01:38:19.580><c> where</c><01:38:20.030><c> I</c><01:38:20.060><c> put</c><01:38:20.360><c> the</c><01:38:20.510><c> break</c>
+
+01:38:20.740 --> 01:38:20.750 align:start position:0%
+and here is where I put the break
+ 
+
+01:38:20.750 --> 01:38:22.630 align:start position:0%
+and here is where I put the break
+statement<01:38:21.070><c> okay</c><01:38:22.070><c> now</c><01:38:22.220><c> we're</c><01:38:22.340><c> gonna</c><01:38:22.460><c> do</c><01:38:22.550><c> the</c>
+
+01:38:22.630 --> 01:38:22.640 align:start position:0%
+statement okay now we're gonna do the
+ 
+
+01:38:22.640 --> 01:38:24.820 align:start position:0%
+statement okay now we're gonna do the
+same<01:38:22.850><c> thing</c><01:38:22.910><c> with</c><01:38:23.300><c> cases</c><01:38:23.810><c> four</c><01:38:24.140><c> through</c><01:38:24.440><c> six</c>
+
+01:38:24.820 --> 01:38:24.830 align:start position:0%
+same thing with cases four through six
+ 
+
+01:38:24.830 --> 01:38:26.650 align:start position:0%
+same thing with cases four through six
+and<01:38:25.220><c> actually</c><01:38:25.940><c> I'm</c><01:38:26.000><c> just</c><01:38:26.030><c> going</c><01:38:26.270><c> to</c><01:38:26.300><c> do</c><01:38:26.480><c> some</c>
+
+01:38:26.650 --> 01:38:26.660 align:start position:0%
+and actually I'm just going to do some
+ 
+
+01:38:26.660 --> 01:38:28.360 align:start position:0%
+and actually I'm just going to do some
+copying<01:38:27.170><c> and</c><01:38:27.320><c> pasting</c><01:38:27.470><c> I'm</c><01:38:27.770><c> gonna</c><01:38:27.920><c> copy</c><01:38:28.130><c> all</c>
+
+01:38:28.360 --> 01:38:28.370 align:start position:0%
+copying and pasting I'm gonna copy all
+ 
+
+01:38:28.370 --> 01:38:31.870 align:start position:0%
+copying and pasting I'm gonna copy all
+this<01:38:28.640><c> and</c><01:38:29.140><c> now</c><01:38:30.140><c> we're</c><01:38:30.290><c> going</c><01:38:30.440><c> to</c><01:38:30.560><c> paste</c><01:38:31.010><c> that's</c>
+
+01:38:31.870 --> 01:38:31.880 align:start position:0%
+this and now we're going to paste that's
+ 
+
+01:38:31.880 --> 01:38:33.940 align:start position:0%
+this and now we're going to paste that's
+four<01:38:32.450><c> five</c><01:38:32.660><c> six</c><01:38:32.930><c> we're</c><01:38:33.440><c> gonna</c><01:38:33.590><c> do</c><01:38:33.680><c> the</c><01:38:33.770><c> same</c>
+
+01:38:33.940 --> 01:38:33.950 align:start position:0%
+four five six we're gonna do the same
+ 
+
+01:38:33.950 --> 01:38:36.010 align:start position:0%
+four five six we're gonna do the same
+thing<01:38:34.130><c> with</c><01:38:34.250><c> seven</c><01:38:34.580><c> eight</c><01:38:34.700><c> nine</c><01:38:34.940><c> so</c><01:38:35.720><c> I'm</c><01:38:35.900><c> gonna</c>
+
+01:38:36.010 --> 01:38:36.020 align:start position:0%
+thing with seven eight nine so I'm gonna
+ 
+
+01:38:36.020 --> 01:38:37.630 align:start position:0%
+thing with seven eight nine so I'm gonna
+do<01:38:36.170><c> copy</c><01:38:36.440><c> and</c><01:38:36.650><c> paste</c><01:38:36.860><c> again</c><01:38:37.040><c> and</c><01:38:37.490><c> then</c><01:38:37.580><c> I'm</c>
+
+01:38:37.630 --> 01:38:37.640 align:start position:0%
+do copy and paste again and then I'm
+ 
+
+01:38:37.640 --> 01:38:39.790 align:start position:0%
+do copy and paste again and then I'm
+just<01:38:37.670><c> going</c><01:38:37.850><c> to</c><01:38:37.970><c> update</c><01:38:38.150><c> the</c><01:38:38.480><c> code</c><01:38:38.780><c> so</c><01:38:39.440><c> this</c><01:38:39.680><c> is</c>
+
+01:38:39.790 --> 01:38:39.800 align:start position:0%
+just going to update the code so this is
+ 
+
+01:38:39.800 --> 01:38:43.600 align:start position:0%
+just going to update the code so this is
+gonna<01:38:39.890><c> be</c><01:38:40.010><c> four</c><01:38:40.550><c> five</c><01:38:41.150><c> six</c><01:38:41.720><c> we'll</c><01:38:42.560><c> have</c><01:38:42.740><c> seven</c>
+
+01:38:43.600 --> 01:38:43.610 align:start position:0%
+gonna be four five six we'll have seven
+ 
+
+01:38:43.610 --> 01:38:48.270 align:start position:0%
+gonna be four five six we'll have seven
+eight<01:38:43.820><c> nine</c><01:38:44.420><c> and</c><01:38:45.080><c> we're</c><01:38:45.530><c> gonna</c><01:38:45.620><c> have</c><01:38:45.950><c> mid</c><01:38:46.640><c> and</c>
+
+01:38:48.270 --> 01:38:48.280 align:start position:0%
+eight nine and we're gonna have mid and
+ 
+
+01:38:48.280 --> 01:38:51.630 align:start position:0%
+eight nine and we're gonna have mid and
+high<01:38:49.420><c> so</c><01:38:50.420><c> if</c><01:38:50.600><c> the</c><01:38:50.750><c> case</c><01:38:50.960><c> is</c><01:38:51.080><c> one</c><01:38:51.290><c> two</c><01:38:51.440><c> or</c><01:38:51.560><c> three</c>
+
+01:38:51.630 --> 01:38:51.640 align:start position:0%
+high so if the case is one two or three
+ 
+
+01:38:51.640 --> 01:38:53.920 align:start position:0%
+high so if the case is one two or three
+like<01:38:52.640><c> for</c><01:38:52.790><c> instance</c><01:38:52.880><c> if</c><01:38:53.120><c> it's</c><01:38:53.270><c> one</c><01:38:53.540><c> it's</c><01:38:53.780><c> gonna</c>
+
+01:38:53.920 --> 01:38:53.930 align:start position:0%
+like for instance if it's one it's gonna
+ 
+
+01:38:53.930 --> 01:38:55.600 align:start position:0%
+like for instance if it's one it's gonna
+pass<01:38:54.260><c> through</c><01:38:54.500><c> two</c><01:38:54.740><c> and</c><01:38:54.890><c> three</c><01:38:55.100><c> to</c><01:38:55.190><c> get</c><01:38:55.340><c> low</c>
+
+01:38:55.600 --> 01:38:55.610 align:start position:0%
+pass through two and three to get low
+ 
+
+01:38:55.610 --> 01:38:57.610 align:start position:0%
+pass through two and three to get low
+and<01:38:55.640><c> then</c><01:38:55.910><c> it's</c><01:38:56.000><c> gonna</c><01:38:56.090><c> break</c><01:38:56.480><c> out</c><01:38:56.750><c> if</c><01:38:57.050><c> it's</c>
+
+01:38:57.610 --> 01:38:57.620 align:start position:0%
+and then it's gonna break out if it's
+ 
+
+01:38:57.620 --> 01:38:59.440 align:start position:0%
+and then it's gonna break out if it's
+four<01:38:57.920><c> five</c><01:38:58.070><c> or</c><01:38:58.250><c> six</c><01:38:58.280><c> it's</c><01:38:58.670><c> gonna</c><01:38:58.820><c> pass</c><01:38:59.090><c> through</c>
+
+01:38:59.440 --> 01:38:59.450 align:start position:0%
+four five or six it's gonna pass through
+ 
+
+01:38:59.450 --> 01:39:01.900 align:start position:0%
+four five or six it's gonna pass through
+to<01:39:00.140><c> get</c><01:39:00.290><c> to</c><01:39:00.350><c> mid</c><01:39:00.890><c> and</c><01:39:01.310><c> then</c><01:39:01.430><c> it's</c><01:39:01.520><c> gonna</c><01:39:01.640><c> break</c>
+
+01:39:01.900 --> 01:39:01.910 align:start position:0%
+to get to mid and then it's gonna break
+ 
+
+01:39:01.910 --> 01:39:03.400 align:start position:0%
+to get to mid and then it's gonna break
+out<01:39:02.090><c> seven</c><01:39:02.570><c> eight</c><01:39:02.630><c> nine</c><01:39:02.840><c> it's</c><01:39:03.020><c> gonna</c><01:39:03.110><c> pass</c>
+
+01:39:03.400 --> 01:39:03.410 align:start position:0%
+out seven eight nine it's gonna pass
+ 
+
+01:39:03.410 --> 01:39:05.770 align:start position:0%
+out seven eight nine it's gonna pass
+through<01:39:03.590><c> to</c><01:39:03.740><c> high</c><01:39:03.980><c> and</c><01:39:04.190><c> break</c><01:39:04.370><c> out</c><01:39:04.580><c> so</c><01:39:05.420><c> let's</c>
+
+01:39:05.770 --> 01:39:05.780 align:start position:0%
+through to high and break out so let's
+ 
+
+01:39:05.780 --> 01:39:08.080 align:start position:0%
+through to high and break out so let's
+test<01:39:06.230><c> this</c><01:39:06.470><c> out</c><01:39:06.710><c> and</c><01:39:06.770><c> see</c><01:39:07.070><c> since</c><01:39:07.940><c> we're</c>
+
+01:39:08.080 --> 01:39:08.090 align:start position:0%
+test this out and see since we're
+ 
+
+01:39:08.090 --> 01:39:09.760 align:start position:0%
+test this out and see since we're
+passing<01:39:08.540><c> in</c><01:39:08.630><c> the</c><01:39:08.720><c> number</c><01:39:08.990><c> one</c><01:39:09.320><c> here</c><01:39:09.680><c> it's</c>
+
+01:39:09.760 --> 01:39:09.770 align:start position:0%
+passing in the number one here it's
+ 
+
+01:39:09.770 --> 01:39:12.880 align:start position:0%
+passing in the number one here it's
+going<01:39:09.890><c> to</c><01:39:09.980><c> be</c><01:39:10.040><c> low</c><01:39:10.400><c> but</c><01:39:11.120><c> if</c><01:39:11.270><c> we</c><01:39:11.390><c> pass</c><01:39:11.690><c> in</c><01:39:12.050><c> five</c>
+
+01:39:12.880 --> 01:39:12.890 align:start position:0%
+going to be low but if we pass in five
+ 
+
+01:39:12.890 --> 01:39:15.340 align:start position:0%
+going to be low but if we pass in five
+we<01:39:13.130><c> should</c><01:39:13.370><c> get</c><01:39:13.520><c> mid</c><01:39:13.940><c> and</c><01:39:14.270><c> if</c><01:39:14.750><c> it's</c><01:39:14.930><c> seven</c>
+
+01:39:15.340 --> 01:39:15.350 align:start position:0%
+we should get mid and if it's seven
+ 
+
+01:39:15.350 --> 01:39:16.660 align:start position:0%
+we should get mid and if it's seven
+eight<01:39:15.650><c> or</c><01:39:15.830><c> nine</c>
+
+01:39:16.660 --> 01:39:16.670 align:start position:0%
+eight or nine
+ 
+
+01:39:16.670 --> 01:39:23.020 align:start position:0%
+eight or nine
+we<01:39:17.450><c> should</c><01:39:17.810><c> get</c><01:39:18.050><c> high</c>
+
+01:39:23.020 --> 01:39:23.030 align:start position:0%
+ 
+ 
+
+01:39:23.030 --> 01:39:25.240 align:start position:0%
+ 
+sometimes<01:39:23.870><c> a</c><01:39:24.050><c> switch</c><01:39:24.470><c> statement</c><01:39:24.650><c> can</c><01:39:25.100><c> be</c>
+
+01:39:25.240 --> 01:39:25.250 align:start position:0%
+sometimes a switch statement can be
+ 
+
+01:39:25.250 --> 01:39:27.700 align:start position:0%
+sometimes a switch statement can be
+easier<01:39:25.760><c> to</c><01:39:25.970><c> write</c><01:39:26.240><c> and</c><01:39:26.510><c> easier</c><01:39:27.050><c> to</c><01:39:27.170><c> understand</c>
+
+01:39:27.700 --> 01:39:27.710 align:start position:0%
+easier to write and easier to understand
+ 
+
+01:39:27.710 --> 01:39:31.390 align:start position:0%
+easier to write and easier to understand
+then<01:39:28.520><c> a</c><01:39:28.550><c> chain</c><01:39:29.000><c> of</c><01:39:29.330><c> if-else</c><01:39:30.050><c> statements</c><01:39:30.830><c> so</c>
+
+01:39:31.390 --> 01:39:31.400 align:start position:0%
+then a chain of if-else statements so
+ 
+
+01:39:31.400 --> 01:39:34.930 align:start position:0%
+then a chain of if-else statements so
+we're<01:39:31.670><c> going</c><01:39:31.880><c> to</c><01:39:32.000><c> change</c><01:39:32.720><c> this</c><01:39:33.560><c> chain</c><01:39:34.190><c> of</c><01:39:34.490><c> else</c>
+
+01:39:34.930 --> 01:39:34.940 align:start position:0%
+we're going to change this chain of else
+ 
+
+01:39:34.940 --> 01:39:37.570 align:start position:0%
+we're going to change this chain of else
+if<01:39:35.300><c> statements</c><01:39:35.900><c> to</c><01:39:36.380><c> become</c><01:39:36.800><c> a</c><01:39:36.950><c> switch</c>
+
+01:39:37.570 --> 01:39:37.580 align:start position:0%
+if statements to become a switch
+ 
+
+01:39:37.580 --> 01:39:41.290 align:start position:0%
+if statements to become a switch
+statement<01:39:38.200><c> so</c><01:39:39.200><c> let's</c><01:39:40.040><c> do</c><01:39:40.760><c> that</c><01:39:40.790><c> right</c><01:39:41.090><c> now</c>
+
+01:39:41.290 --> 01:39:41.300 align:start position:0%
+statement so let's do that right now
+ 
+
+01:39:41.300 --> 01:39:43.120 align:start position:0%
+statement so let's do that right now
+so<01:39:41.780><c> I'm</c><01:39:41.840><c> gonna</c><01:39:41.930><c> start</c><01:39:42.290><c> with</c><01:39:42.530><c> the</c><01:39:42.770><c> switch</c>
+
+01:39:43.120 --> 01:39:43.130 align:start position:0%
+so I'm gonna start with the switch
+ 
+
+01:39:43.130 --> 01:39:46.270 align:start position:0%
+so I'm gonna start with the switch
+keyword<01:39:44.120><c> and</c><01:39:44.450><c> we're</c><01:39:45.380><c> going</c><01:39:45.620><c> to</c><01:39:45.710><c> be</c><01:39:45.830><c> evaluating</c>
+
+01:39:46.270 --> 01:39:46.280 align:start position:0%
+keyword and we're going to be evaluating
+ 
+
+01:39:46.280 --> 01:39:49.570 align:start position:0%
+keyword and we're going to be evaluating
+the<01:39:46.610><c> value</c><01:39:46.850><c> with</c><01:39:47.780><c> open</c><01:39:48.350><c> curly</c><01:39:48.740><c> braket</c><01:39:49.280><c> and</c><01:39:49.430><c> we</c>
+
+01:39:49.570 --> 01:39:49.580 align:start position:0%
+the value with open curly braket and we
+ 
+
+01:39:49.580 --> 01:39:51.190 align:start position:0%
+the value with open curly braket and we
+want<01:39:49.760><c> to</c><01:39:49.850><c> make</c><01:39:50.000><c> sure</c><01:39:50.180><c> to</c><01:39:50.270><c> have</c><01:39:50.330><c> an</c><01:39:50.510><c> end</c><01:39:50.720><c> curly</c>
+
+01:39:51.190 --> 01:39:51.200 align:start position:0%
+want to make sure to have an end curly
+ 
+
+01:39:51.200 --> 01:39:56.950 align:start position:0%
+want to make sure to have an end curly
+bracket<01:39:51.680><c> end</c><01:39:52.270><c> so</c><01:39:53.270><c> for</c><01:39:53.900><c> a</c><01:39:53.930><c> case</c><01:39:54.500><c> Bob</c><01:39:55.960><c> we're</c>
+
+01:39:56.950 --> 01:39:56.960 align:start position:0%
+bracket end so for a case Bob we're
+ 
+
+01:39:56.960 --> 01:40:01.720 align:start position:0%
+bracket end so for a case Bob we're
+gonna<01:39:57.140><c> set</c><01:39:57.350><c> the</c><01:39:57.530><c> answer</c><01:39:59.140><c> to</c><01:40:00.140><c> Marlee</c><01:40:00.650><c> and</c><01:40:00.860><c> then</c>
+
+01:40:01.720 --> 01:40:01.730 align:start position:0%
+gonna set the answer to Marlee and then
+ 
+
+01:40:01.730 --> 01:40:06.030 align:start position:0%
+gonna set the answer to Marlee and then
+we<01:40:01.880><c> need</c><01:40:02.060><c> to</c><01:40:02.180><c> have</c><01:40:02.330><c> a</c><01:40:02.360><c> break</c><01:40:02.690><c> in</c><01:40:02.900><c> here</c><01:40:04.000><c> for</c><01:40:05.000><c> case</c>
+
+01:40:06.030 --> 01:40:06.040 align:start position:0%
+we need to have a break in here for case
+ 
+
+01:40:06.040 --> 01:40:12.160 align:start position:0%
+we need to have a break in here for case
+42<01:40:08.260><c> we're</c><01:40:09.260><c> gonna</c><01:40:09.410><c> set</c><01:40:09.620><c> the</c><01:40:09.740><c> answer</c><01:40:10.190><c> to</c><01:40:11.170><c> the</c>
+
+01:40:12.160 --> 01:40:12.170 align:start position:0%
+42 we're gonna set the answer to the
+ 
+
+01:40:12.170 --> 01:40:24.130 align:start position:0%
+42 we're gonna set the answer to the
+answer<01:40:14.680><c> or</c><01:40:19.000><c> case</c><01:40:20.230><c> one</c><01:40:22.330><c> whole</c><01:40:23.330><c> set</c><01:40:23.570><c> the</c><01:40:23.690><c> answer</c>
+
+01:40:24.130 --> 01:40:24.140 align:start position:0%
+answer or case one whole set the answer
+ 
+
+01:40:24.140 --> 01:40:30.430 align:start position:0%
+answer or case one whole set the answer
+to<01:40:24.500><c> there</c><01:40:25.340><c> is</c><01:40:25.550><c> no</c><01:40:25.910><c> number</c><01:40:26.450><c> one</c><01:40:26.930><c> oh</c><01:40:29.260><c> we</c><01:40:30.260><c> need</c><01:40:30.320><c> a</c>
+
+01:40:30.430 --> 01:40:30.440 align:start position:0%
+to there is no number one oh we need a
+ 
+
+01:40:30.440 --> 01:40:42.390 align:start position:0%
+to there is no number one oh we need a
+break<01:40:30.740><c> up</c><01:40:30.950><c> here</c><01:40:35.830><c> for</c><01:40:36.830><c> case</c><01:40:38.050><c> 99</c><01:40:40.600><c> the</c><01:40:41.600><c> answer</c><01:40:42.020><c> is</c>
+
+01:40:42.390 --> 01:40:42.400 align:start position:0%
+break up here for case 99 the answer is
+ 
+
+01:40:42.400 --> 01:40:46.660 align:start position:0%
+break up here for case 99 the answer is
+miss<01:40:43.400><c> by</c><01:40:43.670><c> this</c><01:40:43.730><c> much</c><01:40:44.540><c> and</c><01:40:45.410><c> then</c><01:40:46.370><c> we</c><01:40:46.460><c> need</c><01:40:46.610><c> a</c>
+
+01:40:46.660 --> 01:40:46.670 align:start position:0%
+miss by this much and then we need a
+ 
+
+01:40:46.670 --> 01:40:58.660 align:start position:0%
+miss by this much and then we need a
+break<01:40:46.970><c> now</c><01:40:48.760><c> we</c><01:40:49.760><c> have</c><01:40:50.180><c> for</c><01:40:52.360><c> case</c><01:40:53.360><c> seven</c><01:40:57.670><c> well</c>
+
+01:40:58.660 --> 01:40:58.670 align:start position:0%
+break now we have for case seven well
+ 
+
+01:40:58.670 --> 01:41:04.930 align:start position:0%
+break now we have for case seven well
+seven<01:40:59.860><c> eight</c><01:41:00.860><c> nine</c><01:41:01.190><c> and</c><01:41:01.810><c> break</c><01:41:02.810><c> and</c><01:41:03.190><c> now</c><01:41:04.190><c> we</c>
+
+01:41:04.930 --> 01:41:04.940 align:start position:0%
+seven eight nine and break and now we
+ 
+
+01:41:04.940 --> 01:41:08.320 align:start position:0%
+seven eight nine and break and now we
+just<01:41:05.210><c> changed</c><01:41:06.200><c> that</c><01:41:06.440><c> chain</c><01:41:07.370><c> of</c><01:41:07.400><c> else</c><01:41:08.000><c> if</c>
+
+01:41:08.320 --> 01:41:08.330 align:start position:0%
+just changed that chain of else if
+ 
+
+01:41:08.330 --> 01:41:14.290 align:start position:0%
+just changed that chain of else if
+statements<01:41:08.930><c> into</c><01:41:09.650><c> a</c><01:41:09.680><c> switch</c><01:41:10.340><c> statement</c>
+
+01:41:14.290 --> 01:41:14.300 align:start position:0%
+ 
+ 
+
+01:41:14.300 --> 01:41:16.600 align:start position:0%
+ 
+here's<01:41:15.079><c> a</c><01:41:15.139><c> little</c><01:41:15.349><c> trick</c><01:41:15.739><c> when</c><01:41:16.039><c> you</c><01:41:16.190><c> want</c><01:41:16.460><c> a</c>
+
+01:41:16.600 --> 01:41:16.610 align:start position:0%
+here's a little trick when you want a
+ 
+
+01:41:16.610 --> 01:41:19.270 align:start position:0%
+here's a little trick when you want a
+function<01:41:17.269><c> to</c><01:41:17.539><c> return</c><01:41:17.989><c> a</c><01:41:18.019><c> boolean</c><01:41:18.679><c> a</c><01:41:18.860><c> true</c><01:41:19.130><c> or</c>
+
+01:41:19.270 --> 01:41:19.280 align:start position:0%
+function to return a boolean a true or
+ 
+
+01:41:19.280 --> 01:41:21.819 align:start position:0%
+function to return a boolean a true or
+false<01:41:19.309><c> value</c><01:41:19.760><c> you</c><01:41:20.749><c> can</c><01:41:20.929><c> see</c><01:41:21.110><c> in</c><01:41:21.199><c> this</c><01:41:21.380><c> function</c>
+
+01:41:21.819 --> 01:41:21.829 align:start position:0%
+false value you can see in this function
+ 
+
+01:41:21.829 --> 01:41:23.799 align:start position:0%
+false value you can see in this function
+we're<01:41:22.010><c> checking</c><01:41:22.429><c> if</c><01:41:22.550><c> a</c><01:41:22.760><c> is</c><01:41:22.940><c> less</c><01:41:23.150><c> than</c><01:41:23.210><c> B</c><01:41:23.599><c> and</c>
+
+01:41:23.799 --> 01:41:23.809 align:start position:0%
+we're checking if a is less than B and
+ 
+
+01:41:23.809 --> 01:41:27.100 align:start position:0%
+we're checking if a is less than B and
+if<01:41:24.650><c> so</c><01:41:24.829><c> we</c><01:41:25.039><c> return</c><01:41:25.369><c> true</c><01:41:25.579><c> else</c><01:41:25.880><c> we</c><01:41:26.630><c> return</c>
+
+01:41:27.100 --> 01:41:27.110 align:start position:0%
+if so we return true else we return
+ 
+
+01:41:27.110 --> 01:41:30.250 align:start position:0%
+if so we return true else we return
+false<01:41:27.579><c> you</c><01:41:28.579><c> may</c><01:41:28.760><c> remember</c><01:41:29.210><c> from</c><01:41:29.449><c> before</c><01:41:29.809><c> that</c>
+
+01:41:30.250 --> 01:41:30.260 align:start position:0%
+false you may remember from before that
+ 
+
+01:41:30.260 --> 01:41:32.859 align:start position:0%
+false you may remember from before that
+all<01:41:30.469><c> comparison</c><01:41:31.280><c> operators</c><01:41:31.999><c> return</c><01:41:32.630><c> a</c>
+
+01:41:32.859 --> 01:41:32.869 align:start position:0%
+all comparison operators return a
+ 
+
+01:41:32.869 --> 01:41:36.250 align:start position:0%
+all comparison operators return a
+boolean<01:41:33.260><c> true</c><01:41:33.949><c> or</c><01:41:34.219><c> false</c><01:41:34.550><c> value</c><01:41:34.929><c> so</c><01:41:35.929><c> instead</c>
+
+01:41:36.250 --> 01:41:36.260 align:start position:0%
+boolean true or false value so instead
+ 
+
+01:41:36.260 --> 01:41:39.009 align:start position:0%
+boolean true or false value so instead
+of<01:41:36.320><c> using</c><01:41:36.650><c> this</c><01:41:36.920><c> if</c><01:41:37.130><c> statement</c><01:41:37.730><c> here</c><01:41:38.030><c> we</c><01:41:38.840><c> can</c>
+
+01:41:39.009 --> 01:41:39.019 align:start position:0%
+of using this if statement here we can
+ 
+
+01:41:39.019 --> 01:41:40.569 align:start position:0%
+of using this if statement here we can
+just<01:41:39.050><c> do</c><01:41:39.440><c> that</c><01:41:39.469><c> we</c><01:41:39.650><c> can</c><01:41:39.800><c> actually</c><01:41:39.949><c> delete</c><01:41:40.369><c> all</c>
+
+01:41:40.569 --> 01:41:40.579 align:start position:0%
+just do that we can actually delete all
+ 
+
+01:41:40.579 --> 01:41:45.339 align:start position:0%
+just do that we can actually delete all
+of<01:41:40.639><c> this</c><01:41:41.090><c> and</c><01:41:41.389><c> just</c><01:41:42.820><c> return</c><01:41:43.820><c> the</c><01:41:44.630><c> result</c><01:41:45.079><c> of</c>
+
+01:41:45.339 --> 01:41:45.349 align:start position:0%
+of this and just return the result of
+ 
+
+01:41:45.349 --> 01:41:49.209 align:start position:0%
+of this and just return the result of
+this<01:41:45.650><c> return</c><01:41:47.139><c> we're</c><01:41:48.139><c> just</c><01:41:48.320><c> returning</c><01:41:48.469><c> the</c>
+
+01:41:49.209 --> 01:41:49.219 align:start position:0%
+this return we're just returning the
+ 
+
+01:41:49.219 --> 01:41:52.479 align:start position:0%
+this return we're just returning the
+result<01:41:49.639><c> of</c><01:41:49.880><c> a</c><01:41:50.090><c> is</c><01:41:50.420><c> less</c><01:41:50.690><c> than</c><01:41:50.749><c> B</c><01:41:51.110><c> so</c><01:41:51.349><c> this</c><01:41:52.249><c> is</c>
+
+01:41:52.479 --> 01:41:52.489 align:start position:0%
+result of a is less than B so this is
+ 
+
+01:41:52.489 --> 01:41:55.839 align:start position:0%
+result of a is less than B so this is
+going<01:41:52.699><c> to</c><01:41:52.940><c> be</c><01:41:53.329><c> true</c><01:41:53.690><c> or</c><01:41:53.960><c> false</c><01:41:54.380><c> and</c><01:41:54.829><c> we</c><01:41:55.670><c> can</c>
+
+01:41:55.839 --> 01:41:55.849 align:start position:0%
+going to be true or false and we can
+ 
+
+01:41:55.849 --> 01:41:58.479 align:start position:0%
+going to be true or false and we can
+just<01:41:55.999><c> skip</c><01:41:56.300><c> that</c><01:41:56.539><c> whole</c><01:41:56.599><c> if</c><01:41:57.260><c> statement</c><01:41:58.070><c> logic</c>
+
+01:41:58.479 --> 01:41:58.489 align:start position:0%
+just skip that whole if statement logic
+ 
+
+01:41:58.489 --> 01:42:02.529 align:start position:0%
+just skip that whole if statement logic
+and<01:41:58.730><c> just</c><01:41:58.969><c> return</c><01:41:59.420><c> this</c><01:41:59.960><c> so</c><01:42:00.769><c> if</c><01:42:01.039><c> we</c><01:42:01.760><c> consul</c>
+
+01:42:02.529 --> 01:42:02.539 align:start position:0%
+and just return this so if we consul
+ 
+
+01:42:02.539 --> 01:42:07.060 align:start position:0%
+and just return this so if we consul
+don't<01:42:02.690><c> log</c><01:42:02.900><c> this</c><01:42:03.139><c> out</c><01:42:04.449><c> console.log</c><01:42:05.710><c> we</c><01:42:06.710><c> should</c>
+
+01:42:07.060 --> 01:42:07.070 align:start position:0%
+don't log this out console.log we should
+ 
+
+01:42:07.070 --> 01:42:12.669 align:start position:0%
+don't log this out console.log we should
+be<01:42:07.249><c> able</c><01:42:07.309><c> to</c><01:42:07.429><c> see</c><01:42:07.699><c> if</c><01:42:09.010><c> 10</c><01:42:10.010><c> is</c><01:42:10.039><c> less</c><01:42:10.670><c> than</c><01:42:10.880><c> 15</c><01:42:11.679><c> it</c>
+
+01:42:12.669 --> 01:42:12.679 align:start position:0%
+be able to see if 10 is less than 15 it
+ 
+
+01:42:12.679 --> 01:42:15.160 align:start position:0%
+be able to see if 10 is less than 15 it
+is<01:42:12.829><c> less</c><01:42:13.039><c> than</c><01:42:13.190><c> 15</c><01:42:13.519><c> it's</c><01:42:13.699><c> true</c><01:42:13.969><c> but</c><01:42:14.659><c> if</c><01:42:14.749><c> we</c><01:42:14.869><c> put</c>
+
+01:42:15.160 --> 01:42:15.170 align:start position:0%
+is less than 15 it's true but if we put
+ 
+
+01:42:15.170 --> 01:42:23.460 align:start position:0%
+is less than 15 it's true but if we put
+a<01:42:15.760><c> 20</c><01:42:16.760><c> here</c><01:42:17.030><c> and</c><01:42:18.190><c> it's</c><01:42:19.190><c> false</c>
+
+01:42:23.460 --> 01:42:23.470 align:start position:0%
+ 
+ 
+
+01:42:23.470 --> 01:42:25.530 align:start position:0%
+ 
+we've<01:42:24.100><c> already</c><01:42:24.280><c> seen</c><01:42:24.550><c> a</c><01:42:24.610><c> few</c><01:42:24.700><c> examples</c><01:42:25.420><c> of</c>
+
+01:42:25.530 --> 01:42:25.540 align:start position:0%
+we've already seen a few examples of
+ 
+
+01:42:25.540 --> 01:42:28.080 align:start position:0%
+we've already seen a few examples of
+this<01:42:25.720><c> but</c><01:42:26.170><c> you</c><01:42:26.350><c> can</c><01:42:26.590><c> return</c><01:42:27.070><c> early</c><01:42:27.580><c> from</c><01:42:27.880><c> a</c>
+
+01:42:28.080 --> 01:42:28.090 align:start position:0%
+this but you can return early from a
+ 
+
+01:42:28.090 --> 01:42:30.840 align:start position:0%
+this but you can return early from a
+function<01:42:28.690><c> with</c><01:42:28.930><c> the</c><01:42:29.140><c> return</c><01:42:29.530><c> statement</c><01:42:29.860><c> so</c><01:42:30.760><c> if</c>
+
+01:42:30.840 --> 01:42:30.850 align:start position:0%
+function with the return statement so if
+ 
+
+01:42:30.850 --> 01:42:33.690 align:start position:0%
+function with the return statement so if
+you<01:42:30.940><c> see</c><01:42:31.120><c> this</c><01:42:31.390><c> this</c><01:42:32.320><c> function</c><01:42:32.560><c> right</c><01:42:32.860><c> here</c><01:42:32.920><c> we</c>
+
+01:42:33.690 --> 01:42:33.700 align:start position:0%
+you see this this function right here we
+ 
+
+01:42:33.700 --> 01:42:35.700 align:start position:0%
+you see this this function right here we
+return<01:42:34.180><c> at</c><01:42:34.420><c> the</c><01:42:34.540><c> very</c><01:42:34.750><c> end</c><01:42:34.990><c> of</c><01:42:35.140><c> the</c><01:42:35.290><c> function</c>
+
+01:42:35.700 --> 01:42:35.710 align:start position:0%
+return at the very end of the function
+ 
+
+01:42:35.710 --> 01:42:38.580 align:start position:0%
+return at the very end of the function
+and<01:42:35.920><c> so</c><01:42:36.670><c> it</c><01:42:36.790><c> leaves</c><01:42:37.060><c> a</c><01:42:37.330><c> function</c><01:42:37.840><c> and</c><01:42:38.080><c> returns</c>
+
+01:42:38.580 --> 01:42:38.590 align:start position:0%
+and so it leaves a function and returns
+ 
+
+01:42:38.590 --> 01:42:41.130 align:start position:0%
+and so it leaves a function and returns
+this<01:42:38.860><c> value</c><01:42:39.310><c> from</c><01:42:39.490><c> the</c><01:42:39.640><c> function</c><01:42:39.820><c> but</c><01:42:40.810><c> you</c><01:42:40.840><c> can</c>
+
+01:42:41.130 --> 01:42:41.140 align:start position:0%
+this value from the function but you can
+ 
+
+01:42:41.140 --> 01:42:44.010 align:start position:0%
+this value from the function but you can
+leave<01:42:41.320><c> the</c><01:42:41.560><c> function</c><01:42:42.010><c> anytime</c><01:42:42.670><c> with</c><01:42:43.360><c> a</c><01:42:43.390><c> return</c>
+
+01:42:44.010 --> 01:42:44.020 align:start position:0%
+leave the function anytime with a return
+ 
+
+01:42:44.020 --> 01:42:46.470 align:start position:0%
+leave the function anytime with a return
+statement<01:42:44.380><c> so</c><01:42:45.160><c> we're</c><01:42:45.460><c> going</c><01:42:45.670><c> to</c><01:42:45.760><c> modify</c><01:42:46.120><c> this</c>
+
+01:42:46.470 --> 01:42:46.480 align:start position:0%
+statement so we're going to modify this
+ 
+
+01:42:46.480 --> 01:42:49.260 align:start position:0%
+statement so we're going to modify this
+function<01:42:46.930><c> so</c><01:42:46.960><c> that</c><01:42:47.200><c> if</c><01:42:47.590><c> a</c><01:42:47.950><c> or</c><01:42:48.010><c> b</c><01:42:48.520><c> are</c><01:42:48.760><c> less</c><01:42:49.030><c> than</c>
+
+01:42:49.260 --> 01:42:49.270 align:start position:0%
+function so that if a or b are less than
+ 
+
+01:42:49.270 --> 01:42:52.140 align:start position:0%
+function so that if a or b are less than
+zero<01:42:49.720><c> the</c><01:42:50.320><c> function</c><01:42:50.530><c> will</c><01:42:50.920><c> immediately</c><01:42:51.640><c> exit</c>
+
+01:42:52.140 --> 01:42:52.150 align:start position:0%
+zero the function will immediately exit
+ 
+
+01:42:52.150 --> 01:42:54.750 align:start position:0%
+zero the function will immediately exit
