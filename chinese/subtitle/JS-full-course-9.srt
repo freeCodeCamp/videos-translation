@@ -1,0 +1,2152 @@
+the<01:07:33.479><c> number</c><01:07:33.719><c> six</c><01:07:33.989><c> to</c><01:07:34.109><c> be</c><01:07:34.229><c> added</c><01:07:34.619><c> to</c><01:07:34.769><c> the</c><01:07:34.890><c> end</c><01:07:35.069><c> of</c>
+
+01:07:35.390 --> 01:07:35.400 align:start position:0%
+the number six to be added to the end of
+ 
+
+01:07:35.400 --> 01:07:38.890 align:start position:0%
+the number six to be added to the end of
+the<01:07:35.579><c> array</c><01:07:35.819><c> so</c><01:07:36.089><c> we'll</c><01:07:36.660><c> just</c><01:07:36.809><c> do</c><01:07:36.960><c> our</c><01:07:37.549><c> push</c><01:07:38.549><c> and</c>
+
+01:07:38.890 --> 01:07:38.900 align:start position:0%
+the array so we'll just do our push and
+ 
+
+01:07:38.900 --> 01:07:45.440 align:start position:0%
+the array so we'll just do our push and
+then<01:07:39.900><c> I'll</c><01:07:40.200><c> put</c><01:07:41.039><c> in</c><01:07:41.660><c> num</c><01:07:43.789><c> just</c><01:07:44.789><c> like</c><01:07:44.969><c> that</c>
+
+01:07:45.440 --> 01:07:45.450 align:start position:0%
+then I'll put in num just like that
+ 
+
+01:07:45.450 --> 01:07:50.059 align:start position:0%
+then I'll put in num just like that
+well<01:07:45.839><c> actually</c><01:07:46.019><c> it's</c><01:07:46.289><c> item</c><01:07:46.819><c> so</c><01:07:48.680><c> what</c><01:07:49.680><c> we</c><01:07:49.799><c> did</c>
+
+01:07:50.059 --> 01:07:50.069 align:start position:0%
+well actually it's item so what we did
+ 
+
+01:07:50.069 --> 01:07:52.339 align:start position:0%
+well actually it's item so what we did
+we<01:07:50.460><c> took</c><01:07:50.759><c> this</c><01:07:51.089><c> array</c><01:07:51.479><c> that</c><01:07:51.719><c> was</c><01:07:51.839><c> passed</c><01:07:52.170><c> down</c>
+
+01:07:52.339 --> 01:07:52.349 align:start position:0%
+we took this array that was passed down
+ 
+
+01:07:52.349 --> 01:07:55.099 align:start position:0%
+we took this array that was passed down
+here<01:07:52.920><c> which</c><01:07:53.430><c> is</c><01:07:53.640><c> in</c><01:07:53.880><c> this</c><01:07:53.999><c> case</c><01:07:54.059><c> test</c><01:07:54.779><c> array</c>
+
+01:07:55.099 --> 01:07:55.109 align:start position:0%
+here which is in this case test array
+ 
+
+01:07:55.109 --> 01:07:57.469 align:start position:0%
+here which is in this case test array
+and<01:07:55.410><c> we</c><01:07:55.769><c> pushed</c><01:07:56.219><c> the</c><01:07:56.460><c> item</c><01:07:56.819><c> that</c><01:07:56.999><c> was</c><01:07:57.089><c> passed</c>
+
+01:07:57.469 --> 01:07:57.479 align:start position:0%
+and we pushed the item that was passed
+ 
+
+01:07:57.479 --> 01:08:02.329 align:start position:0%
+and we pushed the item that was passed
+in<01:07:57.779><c> and</c><01:07:58.019><c> in</c><01:07:58.829><c> this</c><01:07:59.069><c> case</c><01:07:59.309><c> here</c><01:07:59.700><c> it's</c><01:07:59.819><c> im6</c><01:08:00.739><c> now</c><01:08:01.739><c> we</c>
+
+01:08:02.329 --> 01:08:02.339 align:start position:0%
+in and in this case here it's im6 now we
+ 
+
+01:08:02.339 --> 01:08:06.469 align:start position:0%
+in and in this case here it's im6 now we
+want<01:08:02.609><c> to</c><01:08:03.349><c> return</c><01:08:04.349><c> the</c><01:08:05.069><c> first</c><01:08:05.579><c> item</c><01:08:06.150><c> on</c><01:08:06.269><c> the</c>
+
+01:08:06.469 --> 01:08:06.479 align:start position:0%
+want to return the first item on the
+ 
+
+01:08:06.479 --> 01:08:08.330 align:start position:0%
+want to return the first item on the
+list<01:08:06.660><c> we</c><01:08:07.229><c> want</c><01:08:07.410><c> to</c><01:08:07.499><c> remove</c>
+
+01:08:08.330 --> 01:08:08.340 align:start position:0%
+list we want to remove
+ 
+
+01:08:08.340 --> 01:08:11.120 align:start position:0%
+list we want to remove
+and<01:08:08.430><c> return</c><01:08:09.210><c> this</c><01:08:09.390><c> item</c><01:08:09.600><c> so</c><01:08:10.380><c> that</c><01:08:10.590><c> when</c><01:08:11.010><c> we</c>
+
+01:08:11.120 --> 01:08:11.130 align:start position:0%
+and return this item so that when we
+ 
+
+01:08:11.130 --> 01:08:14.210 align:start position:0%
+and return this item so that when we
+council<01:08:11.610><c> that</c><01:08:11.730><c> log</c><01:08:12.110><c> here</c><01:08:13.110><c> it</c><01:08:13.320><c> should</c><01:08:13.620><c> show</c><01:08:13.950><c> the</c>
+
+01:08:14.210 --> 01:08:14.220 align:start position:0%
+council that log here it should show the
+ 
+
+01:08:14.220 --> 01:08:17.599 align:start position:0%
+council that log here it should show the
+number<01:08:14.580><c> one</c><01:08:14.940><c> so</c><01:08:15.930><c> instead</c><01:08:16.410><c> of</c><01:08:16.470><c> returning</c><01:08:16.890><c> item</c>
+
+01:08:17.599 --> 01:08:17.609 align:start position:0%
+number one so instead of returning item
+ 
+
+01:08:17.609 --> 01:08:21.040 align:start position:0%
+number one so instead of returning item
+I'm<01:08:18.030><c> gonna</c><01:08:18.390><c> return</c><01:08:18.780><c> our</c><01:08:19.580><c> shift</c>
+
+01:08:21.040 --> 01:08:21.050 align:start position:0%
+I'm gonna return our shift
+ 
+
+01:08:21.050 --> 01:08:24.470 align:start position:0%
+I'm gonna return our shift
+that's<01:08:22.050><c> what</c><01:08:22.319><c> shift</c><01:08:22.680><c> does</c><01:08:22.950><c> shift</c><01:08:23.640><c> removes</c><01:08:24.240><c> the</c>
+
+01:08:24.470 --> 01:08:24.480 align:start position:0%
+that's what shift does shift removes the
+ 
+
+01:08:24.480 --> 01:08:27.050 align:start position:0%
+that's what shift does shift removes the
+first<01:08:24.839><c> item</c><01:08:25.319><c> and</c><01:08:25.500><c> returns</c><01:08:26.010><c> that</c><01:08:26.250><c> first</c><01:08:26.609><c> item</c>
+
+01:08:27.050 --> 01:08:27.060 align:start position:0%
+first item and returns that first item
+ 
+
+01:08:27.060 --> 01:08:32.570 align:start position:0%
+first item and returns that first item
+so<01:08:27.839><c> let's</c><01:08:28.050><c> check</c><01:08:28.380><c> this</c><01:08:28.560><c> out</c><01:08:30.950><c> okay</c><01:08:31.950><c> you</c><01:08:32.220><c> can</c><01:08:32.430><c> see</c>
+
+01:08:32.570 --> 01:08:32.580 align:start position:0%
+so let's check this out okay you can see
+ 
+
+01:08:32.580 --> 01:08:35.840 align:start position:0%
+so let's check this out okay you can see
+before<01:08:33.180><c> one</c><01:08:33.780><c> two</c><01:08:33.960><c> three</c><01:08:34.200><c> four</c><01:08:34.410><c> five</c><01:08:34.850><c> then</c>
+
+01:08:35.840 --> 01:08:35.850 align:start position:0%
+before one two three four five then
+ 
+
+01:08:35.850 --> 01:08:38.090 align:start position:0%
+before one two three four five then
+we've<01:08:36.240><c> popped</c><01:08:36.600><c> off</c><01:08:36.810><c> the</c><01:08:36.839><c> one</c><01:08:37.260><c> and</c><01:08:37.470><c> after</c><01:08:37.980><c> it's</c>
+
+01:08:38.090 --> 01:08:38.100 align:start position:0%
+we've popped off the one and after it's
+ 
+
+01:08:38.100 --> 01:08:44.349 align:start position:0%
+we've popped off the one and after it's
+two<01:08:38.370><c> three</c><01:08:38.609><c> four</c><01:08:38.940><c> five</c><01:08:39.210><c> six</c><01:08:39.589><c> we</c><01:08:40.589><c> did</c><01:08:40.770><c> it</c>
+
+01:08:44.349 --> 01:08:44.359 align:start position:0%
+ 
+ 
+
+01:08:44.359 --> 01:08:47.240 align:start position:0%
+ 
+boolean<01:08:45.359><c> czar</c><01:08:45.779><c> another</c><01:08:46.259><c> data</c><01:08:46.680><c> type</c><01:08:47.040><c> in</c>
+
+01:08:47.240 --> 01:08:47.250 align:start position:0%
+boolean czar another data type in
+ 
+
+01:08:47.250 --> 01:08:50.090 align:start position:0%
+boolean czar another data type in
+JavaScript<01:08:47.660><c> there</c><01:08:48.660><c> are</c><01:08:48.870><c> only</c><01:08:49.049><c> two</c><01:08:49.469><c> values</c>
+
+01:08:50.090 --> 01:08:50.100 align:start position:0%
+JavaScript there are only two values
+ 
+
+01:08:50.100 --> 01:08:53.420 align:start position:0%
+JavaScript there are only two values
+true<01:08:50.730><c> or</c><01:08:51.029><c> false</c><01:08:51.839><c> they're</c><01:08:52.739><c> basically</c><01:08:53.130><c> little</c>
+
+01:08:53.420 --> 01:08:53.430 align:start position:0%
+true or false they're basically little
+ 
+
+01:08:53.430 --> 01:08:56.269 align:start position:0%
+true or false they're basically little
+on-off<01:08:53.910><c> switches</c><01:08:54.540><c> where</c><01:08:54.779><c> true</c><01:08:55.109><c> is</c><01:08:55.410><c> on</c><01:08:55.770><c> and</c>
+
+01:08:56.269 --> 01:08:56.279 align:start position:0%
+on-off switches where true is on and
+ 
+
+01:08:56.279 --> 01:08:57.890 align:start position:0%
+on-off switches where true is on and
+false<01:08:56.910><c> is</c><01:08:57.210><c> off</c>
+
+01:08:57.890 --> 01:08:57.900 align:start position:0%
+false is off
+ 
+
+01:08:57.900 --> 01:09:00.289 align:start position:0%
+false is off
+they<01:08:58.440><c> don't</c><01:08:58.799><c> use</c><01:08:59.040><c> quotation</c><01:08:59.880><c> marks</c><01:08:59.910><c> around</c>
+
+01:09:00.289 --> 01:09:00.299 align:start position:0%
+they don't use quotation marks around
+ 
+
+01:09:00.299 --> 01:09:03.140 align:start position:0%
+they don't use quotation marks around
+the<01:09:01.199><c> the</c><01:09:01.500><c> boolean</c><01:09:01.710><c> C</c><01:09:02.219><c> it</c><01:09:02.370><c> just</c><01:09:02.580><c> says</c><01:09:02.699><c> return</c>
+
+01:09:03.140 --> 01:09:03.150 align:start position:0%
+the the boolean C it just says return
+ 
+
+01:09:03.150 --> 01:09:05.990 align:start position:0%
+the the boolean C it just says return
+false<01:09:03.600><c> so</c><01:09:04.319><c> this</c><01:09:04.650><c> is</c><01:09:04.799><c> a</c><01:09:04.830><c> function</c><01:09:05.339><c> here</c><01:09:05.580><c> it</c>
+
+01:09:05.990 --> 01:09:06.000 align:start position:0%
+false so this is a function here it
+ 
+
+01:09:06.000 --> 01:09:08.450 align:start position:0%
+false so this is a function here it
+should<01:09:06.120><c> be</c><01:09:06.180><c> indented</c><01:09:06.870><c> where</c><01:09:07.589><c> it's</c><01:09:07.949><c> just</c><01:09:08.130><c> going</c>
+
+01:09:08.450 --> 01:09:08.460 align:start position:0%
+should be indented where it's just going
+ 
+
+01:09:08.460 --> 01:09:10.999 align:start position:0%
+should be indented where it's just going
+to<01:09:08.580><c> return</c><01:09:08.790><c> false</c><01:09:09.540><c> when</c><01:09:10.500><c> you</c><01:09:10.620><c> call</c><01:09:10.830><c> this</c>
+
+01:09:10.999 --> 01:09:11.009 align:start position:0%
+to return false when you call this
+ 
+
+01:09:11.009 --> 01:09:13.729 align:start position:0%
+to return false when you call this
+function<01:09:11.310><c> it</c><01:09:11.759><c> could</c><01:09:12.390><c> also</c><01:09:12.630><c> be</c><01:09:12.870><c> true</c><01:09:13.350><c> so</c><01:09:13.620><c> we</c>
+
+01:09:13.729 --> 01:09:13.739 align:start position:0%
+function it could also be true so we
+ 
+
+01:09:13.739 --> 01:09:16.910 align:start position:0%
+function it could also be true so we
+could<01:09:13.920><c> return</c><01:09:14.250><c> true</c><01:09:14.989><c> you</c><01:09:15.989><c> can</c><01:09:16.199><c> use</c><01:09:16.380><c> true</c><01:09:16.739><c> and</c>
+
+01:09:16.910 --> 01:09:16.920 align:start position:0%
+could return true you can use true and
+ 
+
+01:09:16.920 --> 01:09:19.939 align:start position:0%
+could return true you can use true and
+false<01:09:17.130><c> in</c><01:09:17.460><c> more</c><01:09:17.640><c> places</c><01:09:17.850><c> than</c><01:09:18.449><c> just</c><01:09:19.080><c> function</c>
+
+01:09:19.939 --> 01:09:19.949 align:start position:0%
+false in more places than just function
+ 
+
+01:09:19.949 --> 01:09:22.340 align:start position:0%
+false in more places than just function
+returns<01:09:20.339><c> and</c><01:09:20.759><c> we'll</c><01:09:21.449><c> be</c><01:09:21.600><c> talking</c><01:09:21.930><c> more</c><01:09:22.140><c> about</c>
+
+01:09:22.340 --> 01:09:22.350 align:start position:0%
+returns and we'll be talking more about
+ 
+
+01:09:22.350 --> 01:09:26.849 align:start position:0%
+returns and we'll be talking more about
+that<01:09:22.469><c> later</c>
+
+01:09:26.849 --> 01:09:26.859 align:start position:0%
+ 
+ 
+
+01:09:26.859 --> 01:09:29.729 align:start position:0%
+ 
+an<01:09:26.920><c> if</c><01:09:27.850><c> statement</c><01:09:28.210><c> is</c><01:09:28.659><c> used</c><01:09:28.719><c> to</c><01:09:29.560><c> make</c>
+
+01:09:29.729 --> 01:09:29.739 align:start position:0%
+an if statement is used to make
+ 
+
+01:09:29.739 --> 01:09:33.629 align:start position:0%
+an if statement is used to make
+decisions<01:09:29.980><c> in</c><01:09:30.819><c> code</c><01:09:31.230><c> the</c><01:09:32.230><c> keyword</c><01:09:32.710><c> if</c><01:09:32.949><c> tells</c>
+
+01:09:33.629 --> 01:09:33.639 align:start position:0%
+decisions in code the keyword if tells
+ 
+
+01:09:33.639 --> 01:09:36.329 align:start position:0%
+decisions in code the keyword if tells
+JavaScript<01:09:34.420><c> to</c><01:09:34.719><c> execute</c><01:09:35.380><c> the</c><01:09:35.589><c> code</c><01:09:35.830><c> in</c><01:09:36.159><c> the</c>
+
+01:09:36.329 --> 01:09:36.339 align:start position:0%
+JavaScript to execute the code in the
+ 
+
+01:09:36.339 --> 01:09:38.609 align:start position:0%
+JavaScript to execute the code in the
+curly<01:09:36.730><c> braces</c><01:09:37.000><c> under</c><01:09:37.600><c> certain</c><01:09:37.900><c> conditions</c>
+
+01:09:38.609 --> 01:09:38.619 align:start position:0%
+curly braces under certain conditions
+ 
+
+01:09:38.619 --> 01:09:42.030 align:start position:0%
+curly braces under certain conditions
+defined<01:09:39.400><c> in</c><01:09:39.699><c> the</c><01:09:39.850><c> parentheses</c><01:09:40.449><c> so</c><01:09:41.319><c> here</c><01:09:41.799><c> is</c><01:09:42.009><c> a</c>
+
+01:09:42.030 --> 01:09:42.040 align:start position:0%
+defined in the parentheses so here is a
+ 
+
+01:09:42.040 --> 01:09:45.030 align:start position:0%
+defined in the parentheses so here is a
+full<01:09:42.580><c> if</c><01:09:42.790><c> statement</c><01:09:43.239><c> right</c><01:09:43.359><c> here</c><01:09:43.420><c> and</c><01:09:44.040><c> there's</c>
+
+01:09:45.030 --> 01:09:45.040 align:start position:0%
+full if statement right here and there's
+ 
+
+01:09:45.040 --> 01:09:47.760 align:start position:0%
+full if statement right here and there's
+always<01:09:45.509><c> parentheses</c><01:09:46.509><c> after</c><01:09:46.779><c> the</c><01:09:47.109><c> keyword</c><01:09:47.560><c> if</c>
+
+01:09:47.760 --> 01:09:47.770 align:start position:0%
+always parentheses after the keyword if
+ 
+
+01:09:47.770 --> 01:09:50.999 align:start position:0%
+always parentheses after the keyword if
+and<01:09:48.250><c> here</c><01:09:49.000><c> is</c><01:09:49.119><c> the</c><01:09:49.299><c> condition</c><01:09:49.929><c> so</c><01:09:50.619><c> if</c><01:09:50.859><c> the</c>
+
+01:09:50.999 --> 01:09:51.009 align:start position:0%
+and here is the condition so if the
+ 
+
+01:09:51.009 --> 01:09:53.039 align:start position:0%
+and here is the condition so if the
+stuff<01:09:51.310><c> inside</c><01:09:51.819><c> this</c><01:09:52.089><c> print</c><01:09:52.480><c> inside</c><01:09:52.869><c> these</c>
+
+01:09:53.039 --> 01:09:53.049 align:start position:0%
+stuff inside this print inside these
+ 
+
+01:09:53.049 --> 01:09:56.330 align:start position:0%
+stuff inside this print inside these
+parentheses<01:09:53.679><c> evaluates</c><01:09:54.369><c> to</c><01:09:54.580><c> true</c><01:09:54.610><c> then</c><01:09:55.270><c> the</c>
+
+01:09:56.330 --> 01:09:56.340 align:start position:0%
+parentheses evaluates to true then the
+ 
+
+01:09:56.340 --> 01:10:00.240 align:start position:0%
+parentheses evaluates to true then the
+code<01:09:57.340><c> within</c><01:09:58.300><c> these</c><01:09:58.510><c> curly</c><01:09:59.050><c> braces</c><01:09:59.350><c> will</c><01:10:00.010><c> be</c>
+
+01:10:00.240 --> 01:10:00.250 align:start position:0%
+code within these curly braces will be
+ 
+
+01:10:00.250 --> 01:10:03.810 align:start position:0%
+code within these curly braces will be
+evaluated<01:10:01.150><c> or</c><01:10:01.210><c> run</c><01:10:01.630><c> so</c><01:10:02.560><c> in</c><01:10:02.679><c> this</c><01:10:02.860><c> case</c><01:10:03.219><c> it's</c><01:10:03.639><c> a</c>
+
+01:10:03.810 --> 01:10:03.820 align:start position:0%
+evaluated or run so in this case it's a
+ 
+
+01:10:03.820 --> 01:10:07.290 align:start position:0%
+evaluated or run so in this case it's a
+variable<01:10:04.270><c> so</c><01:10:04.659><c> if</c><01:10:04.960><c> the</c><01:10:05.290><c> is</c><01:10:05.619><c> it</c><01:10:06.400><c> true</c><01:10:06.730><c> variable</c>
+
+01:10:07.290 --> 01:10:07.300 align:start position:0%
+variable so if the is it true variable
+ 
+
+01:10:07.300 --> 01:10:11.189 align:start position:0%
+variable so if the is it true variable
+is<01:10:07.420><c> true</c><01:10:07.690><c> it</c><01:10:08.080><c> will</c><01:10:08.619><c> return</c><01:10:09.040><c> yes</c><01:10:09.489><c> it's</c><01:10:09.760><c> true</c><01:10:10.199><c> now</c>
+
+01:10:11.189 --> 01:10:11.199 align:start position:0%
+is true it will return yes it's true now
+ 
+
+01:10:11.199 --> 01:10:13.290 align:start position:0%
+is true it will return yes it's true now
+if<01:10:11.380><c> it's</c><01:10:11.560><c> is</c><01:10:11.710><c> not</c><01:10:11.739><c> true</c><01:10:12.369><c> then</c><01:10:12.850><c> we'll</c><01:10:13.030><c> get</c><01:10:13.150><c> to</c>
+
+01:10:13.290 --> 01:10:13.300 align:start position:0%
+if it's is not true then we'll get to
+ 
+
+01:10:13.300 --> 01:10:15.780 align:start position:0%
+if it's is not true then we'll get to
+the<01:10:13.420><c> second</c><01:10:13.929><c> return</c><01:10:14.260><c> statement</c><01:10:14.800><c> no</c><01:10:15.429><c> it's</c>
+
+01:10:15.780 --> 01:10:15.790 align:start position:0%
+the second return statement no it's
+ 
+
+01:10:15.790 --> 01:10:20.490 align:start position:0%
+the second return statement no it's
+false<01:10:16.239><c> so</c><01:10:17.230><c> this</c><01:10:17.650><c> whole</c><01:10:18.090><c> function</c><01:10:19.090><c> here</c><01:10:19.630><c> takes</c>
+
+01:10:20.490 --> 01:10:20.500 align:start position:0%
+false so this whole function here takes
+ 
+
+01:10:20.500 --> 01:10:23.129 align:start position:0%
+false so this whole function here takes
+in<01:10:20.800><c> a</c><01:10:20.980><c> variable</c><01:10:21.429><c> and</c><01:10:21.790><c> we</c><01:10:22.239><c> check</c><01:10:22.690><c> if</c><01:10:22.960><c> that's</c>
+
+01:10:23.129 --> 01:10:23.139 align:start position:0%
+in a variable and we check if that's
+ 
+
+01:10:23.139 --> 01:10:25.590 align:start position:0%
+in a variable and we check if that's
+true<01:10:23.530><c> or</c><01:10:23.679><c> not</c><01:10:23.710><c> so</c><01:10:24.190><c> I'm</c><01:10:24.850><c> gonna</c><01:10:24.969><c> make</c><01:10:25.150><c> another</c>
+
+01:10:25.590 --> 01:10:25.600 align:start position:0%
+true or not so I'm gonna make another
+ 
+
+01:10:25.600 --> 01:10:28.050 align:start position:0%
+true or not so I'm gonna make another
+example<01:10:26.230><c> just</c><01:10:26.260><c> like</c><01:10:26.739><c> this</c><01:10:27.010><c> we</c><01:10:27.639><c> have</c><01:10:27.820><c> another</c>
+
+01:10:28.050 --> 01:10:28.060 align:start position:0%
+example just like this we have another
+ 
+
+01:10:28.060 --> 01:10:30.030 align:start position:0%
+example just like this we have another
+function<01:10:28.420><c> that</c><01:10:28.900><c> hasn't</c><01:10:29.080><c> been</c><01:10:29.320><c> filled</c><01:10:29.560><c> out</c><01:10:29.770><c> yet</c>
+
+01:10:30.030 --> 01:10:30.040 align:start position:0%
+function that hasn't been filled out yet
+ 
+
+01:10:30.040 --> 01:10:33.090 align:start position:0%
+function that hasn't been filled out yet
+true<01:10:30.969><c> or</c><01:10:31.179><c> false</c><01:10:31.510><c> and</c><01:10:31.869><c> there's</c><01:10:32.500><c> a</c><01:10:32.560><c> variable</c><01:10:32.980><c> S</c>
+
+01:10:33.090 --> 01:10:33.100 align:start position:0%
+true or false and there's a variable S
+ 
+
+01:10:33.100 --> 01:10:36.600 align:start position:0%
+true or false and there's a variable S
+pass<01:10:33.429><c> in</c><01:10:33.760><c> was</c><01:10:34.330><c> that</c><01:10:34.659><c> true</c><01:10:35.110><c> so</c><01:10:35.889><c> we'll</c><01:10:36.040><c> say</c><01:10:36.310><c> if</c>
+
+01:10:36.600 --> 01:10:36.610 align:start position:0%
+pass in was that true so we'll say if
+ 
+
+01:10:36.610 --> 01:10:40.820 align:start position:0%
+pass in was that true so we'll say if
+and<01:10:37.060><c> then</c><01:10:37.719><c> the</c><01:10:37.900><c> parentheses</c><01:10:38.639><c> was</c><01:10:39.639><c> that</c><01:10:40.150><c> true</c>
+
+01:10:40.820 --> 01:10:40.830 align:start position:0%
+and then the parentheses was that true
+ 
+
+01:10:40.830 --> 01:10:43.830 align:start position:0%
+and then the parentheses was that true
+but<01:10:41.830><c> that's</c><01:10:42.070><c> true</c><01:10:42.369><c> we're</c><01:10:42.790><c> going</c><01:10:43.090><c> to</c><01:10:43.360><c> return</c>
+
+01:10:43.830 --> 01:10:43.840 align:start position:0%
+but that's true we're going to return
+ 
+
+01:10:43.840 --> 01:10:47.250 align:start position:0%
+but that's true we're going to return
+something<01:10:44.670><c> it</c><01:10:45.670><c> will</c><01:10:46.119><c> be</c><01:10:46.300><c> a</c><01:10:46.330><c> string</c><01:10:46.780><c> just</c><01:10:47.050><c> like</c>
+
+01:10:47.250 --> 01:10:47.260 align:start position:0%
+something it will be a string just like
+ 
+
+01:10:47.260 --> 01:10:51.660 align:start position:0%
+something it will be a string just like
+before<01:10:47.469><c> and</c><01:10:48.070><c> the</c><01:10:48.550><c> string</c><01:10:48.909><c> is</c><01:10:49.139><c> yes</c><01:10:50.159><c> that</c><01:10:51.159><c> was</c>
+
+01:10:51.660 --> 01:10:51.670 align:start position:0%
+before and the string is yes that was
+ 
+
+01:10:51.670 --> 01:10:56.010 align:start position:0%
+before and the string is yes that was
+true<01:10:52.360><c> if</c><01:10:53.250><c> it's</c><01:10:54.250><c> not</c><01:10:54.639><c> true</c><01:10:55.030><c> then</c><01:10:55.570><c> we'll</c><01:10:55.810><c> get</c>
+
+01:10:56.010 --> 01:10:56.020 align:start position:0%
+true if it's not true then we'll get
+ 
+
+01:10:56.020 --> 01:10:58.890 align:start position:0%
+true if it's not true then we'll get
+this<01:10:56.260><c> second</c><01:10:56.860><c> return</c><01:10:57.790><c> statement</c><01:10:58.480><c> in</c><01:10:58.570><c> the</c>
+
+01:10:58.890 --> 01:10:58.900 align:start position:0%
+this second return statement in the
+ 
+
+01:10:58.900 --> 01:11:01.320 align:start position:0%
+this second return statement in the
+function<01:10:59.380><c> and</c><01:10:59.699><c> we'll</c><01:11:00.699><c> return</c><01:11:00.909><c> a</c><01:11:01.119><c> different</c>
+
+01:11:01.320 --> 01:11:01.330 align:start position:0%
+function and we'll return a different
+ 
+
+01:11:01.330 --> 01:11:08.990 align:start position:0%
+function and we'll return a different
+string<01:11:01.810><c> will</c><01:11:02.710><c> return</c><01:11:03.190><c> no</c><01:11:04.030><c> that</c><01:11:04.810><c> was</c><01:11:05.380><c> false</c>
+
+01:11:08.990 --> 01:11:09.000 align:start position:0%
+ 
+ 
+
+01:11:09.000 --> 01:11:10.850 align:start position:0%
+ 
+false
+
+01:11:10.850 --> 01:11:10.860 align:start position:0%
+false
+ 
+
+01:11:10.860 --> 01:11:15.930 align:start position:0%
+false
+let<01:11:11.860><c> me</c><01:11:11.949><c> just</c><01:11:12.070><c> add</c><01:11:12.280><c> some</c><01:11:13.679><c> semicolons</c><01:11:14.679><c> and</c><01:11:14.949><c> then</c>
+
+01:11:15.930 --> 01:11:15.940 align:start position:0%
+let me just add some semicolons and then
+ 
+
+01:11:15.940 --> 01:11:18.899 align:start position:0%
+let me just add some semicolons and then
+I<01:11:16.210><c> can</c><01:11:16.840><c> run</c><01:11:17.170><c> this</c><01:11:17.440><c> and</c><01:11:17.770><c> we'll</c><01:11:18.639><c> see</c><01:11:18.670><c> what</c>
+
+01:11:18.899 --> 01:11:18.909 align:start position:0%
+I can run this and we'll see what
+ 
+
+01:11:18.909 --> 01:11:19.379 align:start position:0%
+I can run this and we'll see what
+happens
+
+01:11:19.379 --> 01:11:19.389 align:start position:0%
+happens
+ 
+
+01:11:19.389 --> 01:11:21.810 align:start position:0%
+happens
+Oh<01:11:19.480><c> returnees</c><01:11:20.350><c> we</c><01:11:20.530><c> spelled</c><01:11:20.830><c> correctly</c><01:11:21.040><c> so</c><01:11:21.670><c> let</c>
+
+01:11:21.810 --> 01:11:21.820 align:start position:0%
+Oh returnees we spelled correctly so let
+ 
+
+01:11:21.820 --> 01:11:25.200 align:start position:0%
+Oh returnees we spelled correctly so let
+me<01:11:21.909><c> spell</c><01:11:22.750><c> return</c><01:11:23.199><c> correctly</c><01:11:23.800><c> so</c><01:11:24.699><c> before</c><01:11:25.179><c> I</c>
+
+01:11:25.200 --> 01:11:25.210 align:start position:0%
+me spell return correctly so before I
+ 
+
+01:11:25.210 --> 01:11:28.200 align:start position:0%
+me spell return correctly so before I
+run<01:11:25.600><c> this</c><01:11:25.810><c> I'm</c><01:11:26.050><c> going</c><01:11:26.440><c> to</c><01:11:26.679><c> edit</c><01:11:27.010><c> console</c><01:11:27.940><c> dot</c>
+
+01:11:28.200 --> 01:11:28.210 align:start position:0%
+run this I'm going to edit console dot
+ 
+
+01:11:28.210 --> 01:11:31.590 align:start position:0%
+run this I'm going to edit console dot
+log<01:11:28.270><c> here</c><01:11:29.230><c> so</c><01:11:30.159><c> we</c><01:11:30.340><c> can</c><01:11:30.550><c> console</c><01:11:31.030><c> to</c><01:11:31.179><c> log</c><01:11:31.420><c> the</c>
+
+01:11:31.590 --> 01:11:31.600 align:start position:0%
+log here so we can console to log the
+ 
+
+01:11:31.600 --> 01:11:34.800 align:start position:0%
+log here so we can console to log the
+answer<01:11:32.469><c> so</c><01:11:33.159><c> this</c><01:11:33.400><c> is</c><01:11:33.610><c> the</c><01:11:33.880><c> function</c><01:11:34.449><c> call</c><01:11:34.780><c> here</c>
+
+01:11:34.800 --> 01:11:34.810 align:start position:0%
+answer so this is the function call here
+ 
+
+01:11:34.810 --> 01:11:38.220 align:start position:0%
+answer so this is the function call here
+true<01:11:35.500><c> or</c><01:11:35.650><c> false</c><01:11:35.889><c> we're</c><01:11:36.250><c> passing</c><01:11:36.820><c> in</c><01:11:37.000><c> true</c><01:11:37.929><c> and</c>
+
+01:11:38.220 --> 01:11:38.230 align:start position:0%
+true or false we're passing in true and
+ 
+
+01:11:38.230 --> 01:11:40.710 align:start position:0%
+true or false we're passing in true and
+then<01:11:39.070><c> we're</c><01:11:39.219><c> going</c><01:11:39.400><c> to</c><01:11:39.489><c> log</c><01:11:39.969><c> what</c>
+
+01:11:40.710 --> 01:11:40.720 align:start position:0%
+then we're going to log what
+ 
+
+01:11:40.720 --> 01:11:44.340 align:start position:0%
+then we're going to log what
+returned<01:11:41.200><c> here</c><01:11:41.680><c> yes</c><01:11:42.340><c> that</c><01:11:42.730><c> was</c><01:11:43.030><c> true</c><01:11:43.390><c> since</c><01:11:44.230><c> we</c>
+
+01:11:44.340 --> 01:11:44.350 align:start position:0%
+returned here yes that was true since we
+ 
+
+01:11:44.350 --> 01:11:47.370 align:start position:0%
+returned here yes that was true since we
+passed<01:11:44.650><c> and</c><01:11:44.950><c> true</c><01:11:45.250><c> this</c><01:11:45.970><c> if</c><01:11:46.180><c> same</c><01:11:46.600><c> evaluates</c><01:11:47.260><c> a</c>
+
+01:11:47.370 --> 01:11:47.380 align:start position:0%
+passed and true this if same evaluates a
+ 
+
+01:11:47.380 --> 01:11:53.470 align:start position:0%
+passed and true this if same evaluates a
+true<01:11:47.650><c> and</c><01:11:47.950><c> this</c><01:11:48.340><c> code</c><01:11:48.700><c> is</c><01:11:48.880><c> run</c><01:11:49.150><c> right</c><01:11:49.600><c> here</c>
+
+01:11:53.470 --> 01:11:53.480 align:start position:0%
+ 
+ 
+
+01:11:53.480 --> 01:11:56.290 align:start position:0%
+ 
+there<01:11:54.320><c> are</c><01:11:54.470><c> many</c><01:11:54.710><c> comparison</c><01:11:55.520><c> operators</c><01:11:56.120><c> in</c>
+
+01:11:56.290 --> 01:11:56.300 align:start position:0%
+there are many comparison operators in
+ 
+
+01:11:56.300 --> 01:11:59.320 align:start position:0%
+there are many comparison operators in
+JavaScript<01:11:57.140><c> that</c><01:11:57.440><c> will</c><01:11:57.920><c> return</c><01:11:58.340><c> a</c><01:11:58.400><c> boolean</c><01:11:58.790><c> of</c>
+
+01:11:59.320 --> 01:11:59.330 align:start position:0%
+JavaScript that will return a boolean of
+ 
+
+01:11:59.330 --> 01:12:02.410 align:start position:0%
+JavaScript that will return a boolean of
+true<01:11:59.750><c> or</c><01:11:59.780><c> false</c><01:12:00.320><c> the</c><01:12:01.160><c> most</c><01:12:01.400><c> common</c><01:12:01.910><c> is</c><01:12:02.090><c> the</c>
+
+01:12:02.410 --> 01:12:02.420 align:start position:0%
+true or false the most common is the
+ 
+
+01:12:02.420 --> 01:12:05.560 align:start position:0%
+true or false the most common is the
+Equality<01:12:03.290><c> operator</c><01:12:03.320><c> and</c><01:12:04.190><c> it's</c><01:12:04.700><c> often</c><01:12:05.120><c> used</c><01:12:05.150><c> in</c>
+
+01:12:05.560 --> 01:12:05.570 align:start position:0%
+Equality operator and it's often used in
+ 
+
+01:12:05.570 --> 01:12:08.260 align:start position:0%
+Equality operator and it's often used in
+an<01:12:05.690><c> if</c><01:12:05.900><c> statement</c><01:12:06.170><c> so</c><01:12:07.040><c> here</c><01:12:07.340><c> it</c><01:12:07.640><c> just</c><01:12:07.820><c> says</c><01:12:08.000><c> if</c>
+
+01:12:08.260 --> 01:12:08.270 align:start position:0%
+an if statement so here it just says if
+ 
+
+01:12:08.270 --> 01:12:10.750 align:start position:0%
+an if statement so here it just says if
+Val<01:12:08.960><c> so</c><01:12:09.440><c> we</c><01:12:09.590><c> have</c><01:12:09.680><c> this</c><01:12:09.800><c> whole</c><01:12:09.980><c> if</c><01:12:10.280><c> statement</c>
+
+01:12:10.750 --> 01:12:10.760 align:start position:0%
+Val so we have this whole if statement
+ 
+
+01:12:10.760 --> 01:12:13.390 align:start position:0%
+Val so we have this whole if statement
+right<01:12:10.820><c> here</c><01:12:10.880><c> if</c><01:12:11.300><c> Val</c><01:12:12.110><c> we're</c><01:12:12.680><c> gonna</c><01:12:12.800><c> see</c><01:12:13.130><c> if</c><01:12:13.250><c> if</c>
+
+01:12:13.390 --> 01:12:13.400 align:start position:0%
+right here if Val we're gonna see if if
+ 
+
+01:12:13.400 --> 01:12:18.280 align:start position:0%
+right here if Val we're gonna see if if
+Val<01:12:14.050><c> equals</c><01:12:15.050><c> 12</c><01:12:15.890><c> now</c><01:12:16.880><c> to</c><01:12:16.940><c> check</c><01:12:17.450><c> if</c><01:12:17.630><c> it</c><01:12:17.780><c> equals</c>
+
+01:12:18.280 --> 01:12:18.290 align:start position:0%
+Val equals 12 now to check if it equals
+ 
+
+01:12:18.290 --> 01:12:20.530 align:start position:0%
+Val equals 12 now to check if it equals
+12<01:12:18.770><c> we're</c><01:12:19.400><c> gonna</c><01:12:19.489><c> have</c><01:12:19.700><c> to</c><01:12:19.850><c> use</c><01:12:19.970><c> the</c><01:12:20.180><c> double</c>
+
+01:12:20.530 --> 01:12:20.540 align:start position:0%
+12 we're gonna have to use the double
+ 
+
+01:12:20.540 --> 01:12:23.920 align:start position:0%
+12 we're gonna have to use the double
+equal<01:12:20.989><c> sign</c><01:12:21.260><c> that</c><01:12:22.130><c> is</c><01:12:22.550><c> the</c><01:12:23.300><c> Equality</c><01:12:23.900><c> operator</c>
+
+01:12:23.920 --> 01:12:23.930 align:start position:0%
+equal sign that is the Equality operator
+ 
+
+01:12:23.930 --> 01:12:28.540 align:start position:0%
+equal sign that is the Equality operator
+and<01:12:24.770><c> we'll</c><01:12:25.040><c> say</c><01:12:25.220><c> if</c><01:12:25.489><c> Val</c><01:12:26.090><c> equals</c><01:12:26.560><c> 12</c><01:12:27.560><c> the</c>
+
+01:12:28.540 --> 01:12:28.550 align:start position:0%
+and we'll say if Val equals 12 the
+ 
+
+01:12:28.550 --> 01:12:30.910 align:start position:0%
+and we'll say if Val equals 12 the
+reason<01:12:28.970><c> why</c><01:12:29.090><c> we</c><01:12:29.300><c> can't</c><01:12:29.630><c> just</c><01:12:29.870><c> use</c><01:12:30.050><c> a</c><01:12:30.080><c> single</c>
+
+01:12:30.910 --> 01:12:30.920 align:start position:0%
+reason why we can't just use a single
+ 
+
+01:12:30.920 --> 01:12:33.640 align:start position:0%
+reason why we can't just use a single
+equal<01:12:31.100><c> sign</c><01:12:31.489><c> is</c><01:12:32.060><c> that</c><01:12:32.570><c> a</c><01:12:32.750><c> single</c><01:12:33.290><c> equal</c><01:12:33.590><c> sign</c>
+
+01:12:33.640 --> 01:12:33.650 align:start position:0%
+equal sign is that a single equal sign
+ 
+
+01:12:33.650 --> 01:12:36.850 align:start position:0%
+equal sign is that a single equal sign
+is<01:12:34.130><c> the</c><01:12:34.370><c> assignment</c><01:12:34.760><c> operator</c><01:12:35.300><c> if</c><01:12:35.930><c> we</c><01:12:36.500><c> just</c>
+
+01:12:36.850 --> 01:12:36.860 align:start position:0%
+is the assignment operator if we just
+ 
+
+01:12:36.860 --> 01:12:39.490 align:start position:0%
+is the assignment operator if we just
+had<01:12:37.010><c> a</c><01:12:37.040><c> single</c><01:12:37.610><c> equal</c><01:12:38.060><c> sign</c><01:12:38.090><c> that</c><01:12:39.020><c> would</c><01:12:39.230><c> mean</c>
+
+01:12:39.490 --> 01:12:39.500 align:start position:0%
+had a single equal sign that would mean
+ 
+
+01:12:39.500 --> 01:12:42.610 align:start position:0%
+had a single equal sign that would mean
+that<01:12:39.530><c> we</c><01:12:39.770><c> were</c><01:12:40.070><c> setting</c><01:12:40.700><c> the</c><01:12:41.360><c> value</c><01:12:42.350><c> of</c><01:12:42.380><c> the</c>
+
+01:12:42.610 --> 01:12:42.620 align:start position:0%
+that we were setting the value of the
+ 
+
+01:12:42.620 --> 01:12:46.270 align:start position:0%
+that we were setting the value of the
+Val<01:12:42.860><c> variable</c><01:12:43.450><c> to</c><01:12:44.450><c> equal</c><01:12:45.080><c> 12</c><01:12:45.440><c> we're</c><01:12:46.100><c> not</c>
+
+01:12:46.270 --> 01:12:46.280 align:start position:0%
+Val variable to equal 12 we're not
+ 
+
+01:12:46.280 --> 01:12:48.460 align:start position:0%
+Val variable to equal 12 we're not
+trying<01:12:46.760><c> to</c><01:12:46.820><c> set</c><01:12:47.120><c> this</c><01:12:47.330><c> to</c><01:12:47.510><c> equal</c><01:12:47.960><c> 12</c>
+
+01:12:48.460 --> 01:12:48.470 align:start position:0%
+trying to set this to equal 12
+ 
+
+01:12:48.470 --> 01:12:52.120 align:start position:0%
+trying to set this to equal 12
+we're<01:12:48.950><c> trying</c><01:12:49.220><c> to</c><01:12:49.280><c> check</c><01:12:49.850><c> if</c><01:12:50.380><c> the</c><01:12:51.380><c> value</c><01:12:51.920><c> of</c>
+
+01:12:52.120 --> 01:12:52.130 align:start position:0%
+we're trying to check if the value of
+ 
+
+01:12:52.130 --> 01:12:54.760 align:start position:0%
+we're trying to check if the value of
+this<01:12:52.280><c> variable</c><01:12:52.400><c> equals</c><01:12:53.390><c> 12</c><01:12:53.810><c> so</c><01:12:54.110><c> we</c><01:12:54.560><c> have</c><01:12:54.650><c> to</c>
+
+01:12:54.760 --> 01:12:54.770 align:start position:0%
+this variable equals 12 so we have to
+ 
+
+01:12:54.770 --> 01:12:57.850 align:start position:0%
+this variable equals 12 so we have to
+use<01:12:54.890><c> the</c><01:12:55.070><c> double</c><01:12:55.430><c> equal</c><01:12:55.820><c> sign</c><01:12:56.120><c> so</c><01:12:56.480><c> now</c><01:12:57.380><c> this</c>
+
+01:12:57.850 --> 01:12:57.860 align:start position:0%
+use the double equal sign so now this
+ 
+
+01:12:57.860 --> 01:13:00.610 align:start position:0%
+use the double equal sign so now this
+test<01:12:58.280><c> equal</c><01:12:58.730><c> function</c><01:12:59.030><c> is</c><01:12:59.510><c> going</c><01:12:59.840><c> to</c><01:12:59.960><c> test</c><01:13:00.350><c> to</c>
+
+01:13:00.610 --> 01:13:00.620 align:start position:0%
+test equal function is going to test to
+ 
+
+01:13:00.620 --> 01:13:03.400 align:start position:0%
+test equal function is going to test to
+see<01:13:00.650><c> if</c><01:13:00.890><c> the</c><01:13:01.520><c> number</c><01:13:01.760><c> we</c><01:13:01.880><c> pass</c><01:13:02.120><c> in</c><01:13:02.390><c> is</c><01:13:02.600><c> equal</c><01:13:03.170><c> to</c>
+
+01:13:03.400 --> 01:13:03.410 align:start position:0%
+see if the number we pass in is equal to
+ 
+
+01:13:03.410 --> 01:13:06.550 align:start position:0%
+see if the number we pass in is equal to
+12<01:13:03.890><c> I</c><01:13:04.220><c> can</c><01:13:04.910><c> do</c><01:13:05.030><c> a</c><01:13:05.060><c> console</c><01:13:05.780><c> that</c><01:13:05.960><c> law</c><01:13:06.200><c> here</c>
+
+01:13:06.550 --> 01:13:06.560 align:start position:0%
+12 I can do a console that law here
+ 
+
+01:13:06.560 --> 01:13:11.800 align:start position:0%
+12 I can do a console that law here
+console<01:13:07.280><c> dot</c><01:13:07.460><c> log</c><01:13:07.520><c> and</c><01:13:08.410><c> then</c><01:13:09.410><c> we</c><01:13:09.530><c> can</c><01:13:10.660><c> see</c><01:13:11.660><c> what</c>
+
+01:13:11.800 --> 01:13:11.810 align:start position:0%
+console dot log and then we can see what
+ 
+
+01:13:11.810 --> 01:13:14.740 align:start position:0%
+console dot log and then we can see what
+appears<01:13:12.110><c> in</c><01:13:12.770><c> the</c><01:13:13.010><c> console</c><01:13:13.520><c> here</c><01:13:13.820><c> not</c><01:13:14.300><c> equal</c>
+
+01:13:14.740 --> 01:13:14.750 align:start position:0%
+appears in the console here not equal
+ 
+
+01:13:14.750 --> 01:13:20.970 align:start position:0%
+appears in the console here not equal
+because<01:13:15.350><c> 10</c><01:13:15.739><c> does</c><01:13:16.130><c> not</c><01:13:16.370><c> equal</c><01:13:16.880><c> 12</c>
+
+01:13:20.970 --> 01:13:20.980 align:start position:0%
+ 
+ 
+
+01:13:20.980 --> 01:13:23.370 align:start position:0%
+ 
+we<01:13:21.940><c> learned</c><01:13:22.239><c> about</c><01:13:22.360><c> the</c><01:13:22.630><c> Equality</c><01:13:23.080><c> operator</c>
+
+01:13:23.370 --> 01:13:23.380 align:start position:0%
+we learned about the Equality operator
+ 
+
+01:13:23.380 --> 01:13:26.520 align:start position:0%
+we learned about the Equality operator
+which<01:13:24.160><c> is</c><01:13:24.370><c> the</c><01:13:24.550><c> double</c><01:13:24.910><c> equal</c><01:13:25.330><c> sign</c><01:13:25.600><c> there's</c>
+
+01:13:26.520 --> 01:13:26.530 align:start position:0%
+which is the double equal sign there's
+ 
+
+01:13:26.530 --> 01:13:29.370 align:start position:0%
+which is the double equal sign there's
+also<01:13:26.890><c> the</c><01:13:27.250><c> strict</c><01:13:27.730><c> equality</c><01:13:28.000><c> operator</c><01:13:28.960><c> the</c>
+
+01:13:29.370 --> 01:13:29.380 align:start position:0%
+also the strict equality operator the
+ 
+
+01:13:29.380 --> 01:13:32.189 align:start position:0%
+also the strict equality operator the
+triple<01:13:29.920><c> equal</c><01:13:30.219><c> sign</c><01:13:30.489><c> so</c><01:13:30.850><c> here</c><01:13:31.690><c> we're</c><01:13:31.900><c> checking</c>
+
+01:13:32.189 --> 01:13:32.199 align:start position:0%
+triple equal sign so here we're checking
+ 
+
+01:13:32.199 --> 01:13:35.459 align:start position:0%
+triple equal sign so here we're checking
+if<01:13:32.469><c> 3</c><01:13:32.949><c> equals</c><01:13:33.820><c> 3</c><01:13:34.390><c> with</c><01:13:34.690><c> the</c><01:13:34.840><c> strict</c><01:13:35.290><c> equality</c>
+
+01:13:35.459 --> 01:13:35.469 align:start position:0%
+if 3 equals 3 with the strict equality
+ 
+
+01:13:35.469 --> 01:13:38.580 align:start position:0%
+if 3 equals 3 with the strict equality
+operator<01:13:36.429><c> so</c><01:13:36.969><c> the</c><01:13:37.239><c> difference</c><01:13:37.780><c> is</c><01:13:37.960><c> that</c><01:13:38.380><c> the</c>
+
+01:13:38.580 --> 01:13:38.590 align:start position:0%
+operator so the difference is that the
+ 
+
+01:13:38.590 --> 01:13:40.860 align:start position:0%
+operator so the difference is that the
+Equality<01:13:39.219><c> operator</c><01:13:39.250><c> the</c><01:13:39.940><c> double</c><01:13:40.270><c> equal</c><01:13:40.630><c> sign</c>
+
+01:13:40.860 --> 01:13:40.870 align:start position:0%
+Equality operator the double equal sign
+ 
+
+01:13:40.870 --> 01:13:43.410 align:start position:0%
+Equality operator the double equal sign
+attempts<01:13:41.770><c> to</c><01:13:41.920><c> convert</c><01:13:42.250><c> both</c><01:13:42.550><c> values</c><01:13:43.150><c> being</c>
+
+01:13:43.410 --> 01:13:43.420 align:start position:0%
+attempts to convert both values being
+ 
+
+01:13:43.420 --> 01:13:46.020 align:start position:0%
+attempts to convert both values being
+compared<01:13:44.050><c> to</c><01:13:44.290><c> a</c><01:13:44.320><c> common</c><01:13:44.800><c> type</c><01:13:45.070><c> while</c><01:13:45.820><c> the</c>
+
+01:13:46.020 --> 01:13:46.030 align:start position:0%
+compared to a common type while the
+ 
+
+01:13:46.030 --> 01:13:48.660 align:start position:0%
+compared to a common type while the
+strict<01:13:46.480><c> equality</c><01:13:46.600><c> operator</c><01:13:47.469><c> does</c><01:13:47.710><c> not</c><01:13:48.040><c> do</c><01:13:48.520><c> the</c>
+
+01:13:48.660 --> 01:13:48.670 align:start position:0%
+strict equality operator does not do the
+ 
+
+01:13:48.670 --> 01:13:51.180 align:start position:0%
+strict equality operator does not do the
+type<01:13:48.910><c> conversion</c><01:13:49.570><c> so</c><01:13:50.199><c> this</c><01:13:50.230><c> is</c><01:13:50.890><c> going</c><01:13:51.070><c> to</c>
+
+01:13:51.180 --> 01:13:51.190 align:start position:0%
+type conversion so this is going to
+ 
+
+01:13:51.190 --> 01:13:53.850 align:start position:0%
+type conversion so this is going to
+evaluate<01:13:51.850><c> to</c><01:13:52.060><c> true</c><01:13:52.090><c> the</c><01:13:52.630><c> 3</c><01:13:52.960><c> equals</c><01:13:53.500><c> equals</c>
+
+01:13:53.850 --> 01:13:53.860 align:start position:0%
+evaluate to true the 3 equals equals
+ 
+
+01:13:53.860 --> 01:13:57.600 align:start position:0%
+evaluate to true the 3 equals equals
+equals<01:13:54.070><c> 3</c><01:13:54.699><c> but</c><01:13:55.570><c> the</c><01:13:55.810><c> 3</c><01:13:56.170><c> equals</c><01:13:56.770><c> equals</c><01:13:57.130><c> equals</c>
+
+01:13:57.600 --> 01:13:57.610 align:start position:0%
+equals 3 but the 3 equals equals equals
+ 
+
+01:13:57.610 --> 01:14:00.660 align:start position:0%
+equals 3 but the 3 equals equals equals
+3<01:13:58.150><c> with</c><01:13:58.480><c> the</c><01:13:58.510><c> string</c><01:13:59.110><c> on</c><01:13:59.350><c> this</c><01:13:59.560><c> side</c><01:13:59.860><c> is</c><01:14:00.160><c> going</c>
+
+01:14:00.660 --> 01:14:00.670 align:start position:0%
+3 with the string on this side is going
+ 
+
+01:14:00.670 --> 01:14:03.660 align:start position:0%
+3 with the string on this side is going
+to<01:14:00.850><c> evaluate</c><01:14:01.120><c> to</c><01:14:01.449><c> false</c><01:14:02.070><c> both</c><01:14:03.070><c> of</c><01:14:03.370><c> these</c><01:14:03.489><c> would</c>
+
+01:14:03.660 --> 01:14:03.670 align:start position:0%
+to evaluate to false both of these would
+ 
+
+01:14:03.670 --> 01:14:05.370 align:start position:0%
+to evaluate to false both of these would
+be<01:14:03.730><c> true</c><01:14:04.150><c> if</c><01:14:04.360><c> we</c><01:14:04.480><c> were</c><01:14:04.570><c> using</c><01:14:04.750><c> the</c><01:14:04.989><c> double</c>
+
+01:14:05.370 --> 01:14:05.380 align:start position:0%
+be true if we were using the double
+ 
+
+01:14:05.380 --> 01:14:08.970 align:start position:0%
+be true if we were using the double
+equal<01:14:05.770><c> sign</c><01:14:06.090><c> because</c><01:14:07.090><c> the</c><01:14:08.050><c> string</c><01:14:08.530><c> would</c><01:14:08.920><c> be</c>
+
+01:14:08.970 --> 01:14:08.980 align:start position:0%
+equal sign because the string would be
+ 
+
+01:14:08.980 --> 01:14:11.790 align:start position:0%
+equal sign because the string would be
+converted<01:14:09.820><c> to</c><01:14:09.850><c> a</c><01:14:10.060><c> number</c><01:14:10.810><c> and</c><01:14:11.110><c> they</c><01:14:11.560><c> would</c><01:14:11.679><c> be</c>
+
+01:14:11.790 --> 01:14:11.800 align:start position:0%
+converted to a number and they would be
+ 
+
+01:14:11.800 --> 01:14:14.400 align:start position:0%
+converted to a number and they would be
+equal<01:14:12.070><c> to</c><01:14:12.100><c> true</c><01:14:12.489><c> but</c><01:14:13.120><c> with</c><01:14:13.330><c> the</c><01:14:13.540><c> triple</c><01:14:14.080><c> equal</c>
+
+01:14:14.400 --> 01:14:14.410 align:start position:0%
+equal to true but with the triple equal
+ 
+
+01:14:14.410 --> 01:14:16.640 align:start position:0%
+equal to true but with the triple equal
+sign<01:14:14.620><c> it</c><01:14:14.980><c> does</c><01:14:15.160><c> not</c><01:14:15.340><c> get</c><01:14:15.640><c> converted</c><01:14:16.000><c> to</c><01:14:16.120><c> a</c>
+
+01:14:16.640 --> 01:14:16.650 align:start position:0%
+sign it does not get converted to a
+ 
+
+01:14:16.650 --> 01:14:19.800 align:start position:0%
+sign it does not get converted to a
+number<01:14:17.650><c> so</c><01:14:18.219><c> it</c><01:14:18.489><c> would</c><01:14:18.640><c> be</c><01:14:18.790><c> evaluate</c><01:14:19.420><c> to</c><01:14:19.570><c> false</c>
+
+01:14:19.800 --> 01:14:19.810 align:start position:0%
+number so it would be evaluate to false
+ 
+
+01:14:19.810 --> 01:14:23.370 align:start position:0%
+number so it would be evaluate to false
+the<01:14:20.230><c> second</c><01:14:20.650><c> one</c><01:14:20.800><c> with</c><01:14:21.489><c> the</c><01:14:21.699><c> 3</c><01:14:21.910><c> equal</c><01:14:22.179><c> signs</c><01:14:22.420><c> so</c>
+
+01:14:23.370 --> 01:14:23.380 align:start position:0%
+the second one with the 3 equal signs so
+ 
+
+01:14:23.380 --> 01:14:25.770 align:start position:0%
+the second one with the 3 equal signs so
+here<01:14:24.040><c> we're</c><01:14:24.400><c> just</c><01:14:24.429><c> going</c><01:14:24.850><c> to</c><01:14:24.940><c> use</c><01:14:25.270><c> it</c><01:14:25.300><c> right</c><01:14:25.630><c> in</c>
+
+01:14:25.770 --> 01:14:25.780 align:start position:0%
+here we're just going to use it right in
+ 
+
+01:14:25.780 --> 01:14:28.320 align:start position:0%
+here we're just going to use it right in
+this<01:14:25.929><c> if</c><01:14:26.170><c> statement</c><01:14:26.350><c> and</c><01:14:26.980><c> who</c><01:14:27.429><c> equals</c><01:14:27.910><c> equals</c>
+
+01:14:28.320 --> 01:14:28.330 align:start position:0%
+this if statement and who equals equals
+ 
+
+01:14:28.330 --> 01:14:34.950 align:start position:0%
+this if statement and who equals equals
+equals<01:14:29.520><c> 7</c><01:14:30.520><c> so</c><01:14:31.239><c> now</c><01:14:31.750><c> we</c><01:14:32.410><c> can</c><01:14:32.710><c> pass</c><01:14:33.100><c> in</c><01:14:33.960><c> the</c>
+
+01:14:34.950 --> 01:14:34.960 align:start position:0%
+equals 7 so now we can pass in the
+ 
+
+01:14:34.960 --> 01:14:37.620 align:start position:0%
+equals 7 so now we can pass in the
+number<01:14:35.469><c> 7</c><01:14:36.010><c> and</c><01:14:36.280><c> it's</c><01:14:36.550><c> going</c><01:14:36.730><c> to</c><01:14:36.790><c> evaluate</c><01:14:37.510><c> to</c>
+
+01:14:37.620 --> 01:14:37.630 align:start position:0%
+number 7 and it's going to evaluate to
+ 
+
+01:14:37.630 --> 01:14:40.620 align:start position:0%
+number 7 and it's going to evaluate to
+true<01:14:37.660><c> but</c><01:14:38.230><c> if</c><01:14:38.350><c> we</c><01:14:38.560><c> pass</c><01:14:38.949><c> in</c><01:14:39.219><c> a</c><01:14:39.340><c> string</c><01:14:39.420><c> 7</c><01:14:40.420><c> it</c>
+
+01:14:40.620 --> 01:14:40.630 align:start position:0%
+true but if we pass in a string 7 it
+ 
+
+01:14:40.630 --> 01:14:46.209 align:start position:0%
+true but if we pass in a string 7 it
+will<01:14:40.810><c> evaluate</c><01:14:41.199><c> to</c><01:14:41.770><c> false</c>
+
+01:14:46.209 --> 01:14:46.219 align:start position:0%
+ 
+ 
+
+01:14:46.219 --> 01:14:49.029 align:start position:0%
+ 
+we<01:14:46.909><c> will</c><01:14:47.119><c> do</c><01:14:47.269><c> one</c><01:14:47.479><c> more</c><01:14:47.510><c> review</c><01:14:48.320><c> with</c><01:14:48.769><c> the</c>
+
+01:14:49.029 --> 01:14:49.039 align:start position:0%
+we will do one more review with the
+ 
+
+01:14:49.039 --> 01:14:51.159 align:start position:0%
+we will do one more review with the
+Equality<01:14:49.519><c> operator</c><01:14:49.789><c> and</c><01:14:50.570><c> the</c><01:14:50.809><c> strict</c>
+
+01:14:51.159 --> 01:14:51.169 align:start position:0%
+Equality operator and the strict
+ 
+
+01:14:51.169 --> 01:14:54.939 align:start position:0%
+Equality operator and the strict
+equality<01:14:51.349><c> operator</c><01:14:52.249><c> so</c><01:14:53.030><c> if</c><01:14:53.329><c> I</c><01:14:53.570><c> run</c><01:14:54.260><c> this</c><01:14:54.320><c> here</c>
+
+01:14:54.939 --> 01:14:54.949 align:start position:0%
+equality operator so if I run this here
+ 
+
+01:14:54.949 --> 01:14:57.549 align:start position:0%
+equality operator so if I run this here
+we'll<01:14:55.309><c> see</c><01:14:55.489><c> in</c><01:14:55.579><c> the</c><01:14:55.699><c> the</c><01:14:56.269><c> console</c><01:14:56.840><c> says</c><01:14:57.079><c> equal</c>
+
+01:14:57.549 --> 01:14:57.559 align:start position:0%
+we'll see in the the console says equal
+ 
+
+01:14:57.559 --> 01:15:00.489 align:start position:0%
+we'll see in the the console says equal
+because<01:14:58.340><c> it's</c><01:14:58.699><c> checking</c><01:14:58.999><c> if</c><01:14:59.389><c> the</c><01:14:59.719><c> number</c><01:15:00.079><c> 10</c>
+
+01:15:00.489 --> 01:15:00.499 align:start position:0%
+because it's checking if the number 10
+ 
+
+01:15:00.499 --> 01:15:03.750 align:start position:0%
+because it's checking if the number 10
+and<01:15:00.739><c> the</c><01:15:01.249><c> string</c><01:15:01.309><c> 10</c><01:15:01.999><c> are</c><01:15:02.239><c> equal</c><01:15:02.749><c> so</c><01:15:03.289><c> if</c><01:15:03.469><c> a</c>
+
+01:15:03.750 --> 01:15:03.760 align:start position:0%
+and the string 10 are equal so if a
+ 
+
+01:15:03.760 --> 01:15:06.310 align:start position:0%
+and the string 10 are equal so if a
+equals<01:15:04.760><c> B</c><01:15:04.880><c> the</c><01:15:05.300><c> number</c><01:15:05.449><c> 10</c><01:15:05.749><c> equals</c><01:15:05.959><c> a</c><01:15:06.050><c> strict</c>
+
+01:15:06.310 --> 01:15:06.320 align:start position:0%
+equals B the number 10 equals a strict
+ 
+
+01:15:06.320 --> 01:15:09.219 align:start position:0%
+equals B the number 10 equals a strict
+number<01:15:06.530><c> 10</c><01:15:06.739><c> returned</c><01:15:07.400><c> equal</c><01:15:08.090><c> since</c><01:15:08.929><c> we're</c>
+
+01:15:09.219 --> 01:15:09.229 align:start position:0%
+number 10 returned equal since we're
+ 
+
+01:15:09.229 --> 01:15:11.529 align:start position:0%
+number 10 returned equal since we're
+using<01:15:09.469><c> the</c><01:15:09.739><c> Equality</c><01:15:10.219><c> operator</c><01:15:10.489><c> with</c><01:15:11.239><c> with</c>
+
+01:15:11.529 --> 01:15:11.539 align:start position:0%
+using the Equality operator with with
+ 
+
+01:15:11.539 --> 01:15:14.259 align:start position:0%
+using the Equality operator with with
+two<01:15:11.869><c> equal</c><01:15:12.260><c> signs</c><01:15:12.530><c> it</c><01:15:12.919><c> performs</c><01:15:13.760><c> a</c><01:15:13.939><c> type</c>
+
+01:15:14.259 --> 01:15:14.269 align:start position:0%
+two equal signs it performs a type
+ 
+
+01:15:14.269 --> 01:15:17.229 align:start position:0%
+two equal signs it performs a type
+conversion<01:15:15.050><c> and</c><01:15:15.289><c> it</c><01:15:15.829><c> converts</c><01:15:16.309><c> the</c><01:15:16.760><c> string</c>
+
+01:15:17.229 --> 01:15:17.239 align:start position:0%
+conversion and it converts the string
+ 
+
+01:15:17.239 --> 01:15:20.439 align:start position:0%
+conversion and it converts the string
+into<01:15:17.840><c> a</c><01:15:17.869><c> number</c><01:15:18.380><c> but</c><01:15:19.130><c> if</c><01:15:19.369><c> we</c><01:15:19.669><c> use</c><01:15:19.880><c> the</c><01:15:20.119><c> strict</c>
+
+01:15:20.439 --> 01:15:20.449 align:start position:0%
+into a number but if we use the strict
+ 
+
+01:15:20.449 --> 01:15:22.719 align:start position:0%
+into a number but if we use the strict
+equality<01:15:20.659><c> operator</c><01:15:21.499><c> with</c><01:15:21.889><c> three</c><01:15:22.159><c> equal</c><01:15:22.429><c> signs</c>
+
+01:15:22.719 --> 01:15:22.729 align:start position:0%
+equality operator with three equal signs
+ 
+
+01:15:22.729 --> 01:15:25.569 align:start position:0%
+equality operator with three equal signs
+I'll<01:15:23.059><c> run</c><01:15:23.599><c> that</c><01:15:23.780><c> again</c><01:15:24.139><c> and</c><01:15:24.380><c> you'll</c><01:15:24.949><c> see</c><01:15:25.159><c> not</c>
+
+01:15:25.569 --> 01:15:25.579 align:start position:0%
+I'll run that again and you'll see not
+ 
+
+01:15:25.579 --> 01:15:28.899 align:start position:0%
+I'll run that again and you'll see not
+equal<01:15:26.119><c> in</c><01:15:26.360><c> the</c><01:15:26.630><c> console</c><01:15:27.139><c> because</c><01:15:27.679><c> now</c><01:15:28.219><c> it's</c>
+
+01:15:28.899 --> 01:15:28.909 align:start position:0%
+equal in the console because now it's
+ 
+
+01:15:28.909 --> 01:15:32.169 align:start position:0%
+equal in the console because now it's
+not<01:15:29.179><c> converting</c><01:15:30.079><c> the</c><01:15:30.499><c> types</c><01:15:31.010><c> and</c><01:15:31.309><c> it's</c><01:15:31.939><c> just</c>
+
+01:15:32.169 --> 01:15:32.179 align:start position:0%
+not converting the types and it's just
+ 
+
+01:15:32.179 --> 01:15:34.779 align:start position:0%
+not converting the types and it's just
+checking<01:15:32.719><c> if</c><01:15:32.900><c> a</c><01:15:33.139><c> number</c><01:15:33.619><c> is</c><01:15:33.800><c> equal</c><01:15:34.669><c> to</c><01:15:34.760><c> a</c>
+
+01:15:34.779 --> 01:15:34.789 align:start position:0%
+checking if a number is equal to a
+ 
+
+01:15:34.789 --> 01:15:41.100 align:start position:0%
+checking if a number is equal to a
+string<01:15:35.059><c> which</c><01:15:35.360><c> is</c><01:15:35.510><c> not</c><01:15:35.719><c> so</c><01:15:36.139><c> we</c><01:15:36.320><c> get</c><01:15:36.530><c> not</c><01:15:36.769><c> equal</c>
+
+01:15:41.100 --> 01:15:41.110 align:start position:0%
+ 
+ 
+
+01:15:41.110 --> 01:15:43.800 align:start position:0%
+ 
+now<01:15:41.740><c> I</c><01:15:41.770><c> will</c><01:15:42.160><c> show</c><01:15:42.400><c> you</c><01:15:42.460><c> the</c><01:15:42.820><c> inequality</c>
+
+01:15:43.800 --> 01:15:43.810 align:start position:0%
+now I will show you the inequality
+ 
+
+01:15:43.810 --> 01:15:46.170 align:start position:0%
+now I will show you the inequality
+operator<01:15:44.290><c> which</c><01:15:44.920><c> is</c><01:15:45.130><c> basically</c><01:15:45.490><c> the</c><01:15:45.640><c> opposite</c>
+
+01:15:46.170 --> 01:15:46.180 align:start position:0%
+operator which is basically the opposite
+ 
+
+01:15:46.180 --> 01:15:49.650 align:start position:0%
+operator which is basically the opposite
+of<01:15:46.360><c> the</c><01:15:46.510><c> Equality</c><01:15:47.290><c> operator</c><01:15:47.580><c> so</c><01:15:48.580><c> I'm</c><01:15:48.910><c> gonna</c><01:15:49.210><c> do</c>
+
+01:15:49.650 --> 01:15:49.660 align:start position:0%
+of the Equality operator so I'm gonna do
+ 
+
+01:15:49.660 --> 01:15:51.300 align:start position:0%
+of the Equality operator so I'm gonna do
+the<01:15:49.780><c> inequality</c><01:15:50.440><c> operator</c><01:15:50.920><c> with</c><01:15:51.130><c> an</c>
+
+01:15:51.300 --> 01:15:51.310 align:start position:0%
+the inequality operator with an
+ 
+
+01:15:51.310 --> 01:15:53.580 align:start position:0%
+the inequality operator with an
+exclamation<01:15:51.640><c> point</c><01:15:52.000><c> in</c><01:15:52.450><c> an</c><01:15:52.570><c> equal</c><01:15:53.020><c> sign</c><01:15:53.260><c> in</c>
+
+01:15:53.580 --> 01:15:53.590 align:start position:0%
+exclamation point in an equal sign in
+ 
+
+01:15:53.590 --> 01:15:57.060 align:start position:0%
+exclamation point in an equal sign in
+this<01:15:54.340><c> case</c><01:15:54.640><c> I'm</c><01:15:54.910><c> going</c><01:15:55.300><c> to</c><01:15:55.450><c> see</c><01:15:55.810><c> if</c><01:15:56.110><c> the</c><01:15:56.800><c> value</c>
+
+01:15:57.060 --> 01:15:57.070 align:start position:0%
+this case I'm going to see if the value
+ 
+
+01:15:57.070 --> 01:16:02.850 align:start position:0%
+this case I'm going to see if the value
+is<01:15:57.610><c> not</c><01:15:58.480><c> equal</c><01:15:58.870><c> to</c><01:15:59.550><c> 99</c><01:16:00.550><c> and</c><01:16:01.230><c> again</c><01:16:02.230><c> just</c><01:16:02.740><c> like</c>
+
+01:16:02.850 --> 01:16:02.860 align:start position:0%
+is not equal to 99 and again just like
+ 
+
+01:16:02.860 --> 01:16:05.280 align:start position:0%
+is not equal to 99 and again just like
+the<01:16:03.070><c> Equality</c><01:16:03.550><c> operator</c><01:16:03.600><c> this</c><01:16:04.600><c> does</c><01:16:04.930><c> type</c>
+
+01:16:05.280 --> 01:16:05.290 align:start position:0%
+the Equality operator this does type
+ 
+
+01:16:05.290 --> 01:16:07.920 align:start position:0%
+the Equality operator this does type
+conversion<01:16:06.010><c> so</c><01:16:06.730><c> let's</c><01:16:07.300><c> just</c><01:16:07.480><c> run</c><01:16:07.720><c> this</c>
+
+01:16:07.920 --> 01:16:07.930 align:start position:0%
+conversion so let's just run this
+ 
+
+01:16:07.930 --> 01:16:11.040 align:start position:0%
+conversion so let's just run this
+program<01:16:08.260><c> and</c><01:16:08.800><c> we'll</c><01:16:09.220><c> see</c><01:16:09.460><c> it</c><01:16:09.730><c> is</c><01:16:09.940><c> not</c><01:16:10.450><c> equal</c>
+
+01:16:11.040 --> 01:16:11.050 align:start position:0%
+program and we'll see it is not equal
+ 
+
+01:16:11.050 --> 01:16:13.590 align:start position:0%
+program and we'll see it is not equal
+because<01:16:11.740><c> 10</c><01:16:12.250><c> we</c><01:16:12.430><c> pass</c><01:16:12.700><c> them</c><01:16:12.970><c> 10</c><01:16:13.270><c> into</c><01:16:13.510><c> the</c>
+
+01:16:13.590 --> 01:16:13.600 align:start position:0%
+because 10 we pass them 10 into the
+ 
+
+01:16:13.600 --> 01:16:16.860 align:start position:0%
+because 10 we pass them 10 into the
+function<01:16:14.020><c> here</c><01:16:14.290><c> and</c><01:16:14.440><c> 10</c><01:16:15.130><c> is</c><01:16:15.340><c> not</c><01:16:15.820><c> equal</c><01:16:16.360><c> to</c><01:16:16.390><c> 99</c>
+
+01:16:16.860 --> 01:16:16.870 align:start position:0%
+function here and 10 is not equal to 99
+ 
+
+01:16:16.870 --> 01:16:22.570 align:start position:0%
+function here and 10 is not equal to 99
+so<01:16:17.320><c> we</c><01:16:18.190><c> get</c><01:16:18.430><c> not</c><01:16:18.610><c> equal</c>
+
+01:16:22.570 --> 01:16:22.580 align:start position:0%
+ 
+ 
+
+01:16:22.580 --> 01:16:25.180 align:start position:0%
+ 
+the<01:16:23.360><c> strict</c><01:16:23.780><c> inequality</c><01:16:24.500><c> operator</c><01:16:24.920><c> is</c>
+
+01:16:25.180 --> 01:16:25.190 align:start position:0%
+the strict inequality operator is
+ 
+
+01:16:25.190 --> 01:16:27.490 align:start position:0%
+the strict inequality operator is
+basically<01:16:25.760><c> the</c><01:16:26.000><c> opposite</c><01:16:26.540><c> of</c><01:16:26.720><c> the</c><01:16:27.080><c> strict</c>
+
+01:16:27.490 --> 01:16:27.500 align:start position:0%
+basically the opposite of the strict
+ 
+
+01:16:27.500 --> 01:16:30.580 align:start position:0%
+basically the opposite of the strict
+equality<01:16:27.820><c> operator</c><01:16:28.820><c> and</c><01:16:29.420><c> works</c><01:16:29.630><c> like</c><01:16:29.750><c> this</c><01:16:30.080><c> so</c>
+
+01:16:30.580 --> 01:16:30.590 align:start position:0%
+equality operator and works like this so
+ 
+
+01:16:30.590 --> 01:16:32.890 align:start position:0%
+equality operator and works like this so
+it<01:16:30.800><c> says</c><01:16:30.980><c> if</c><01:16:31.190><c> Val</c><01:16:31.460><c> I'm</c><01:16:31.730><c> going</c><01:16:31.880><c> to</c><01:16:31.940><c> do</c><01:16:32.060><c> if</c><01:16:32.270><c> Val</c>
+
+01:16:32.890 --> 01:16:32.900 align:start position:0%
+it says if Val I'm going to do if Val
+ 
+
+01:16:32.900 --> 01:16:38.530 align:start position:0%
+it says if Val I'm going to do if Val
+does<01:16:33.680><c> not</c><01:16:34.040><c> equal</c><01:16:35.530><c> 17</c><01:16:36.530><c> so</c><01:16:37.520><c> this</c><01:16:37.790><c> is</c><01:16:37.970><c> the</c><01:16:38.150><c> strict</c>
+
+01:16:38.530 --> 01:16:38.540 align:start position:0%
+does not equal 17 so this is the strict
+ 
+
+01:16:38.540 --> 01:16:40.480 align:start position:0%
+does not equal 17 so this is the strict
+inequality<01:16:39.200><c> operator</c><01:16:39.590><c> instead</c><01:16:39.890><c> of</c><01:16:40.010><c> one</c><01:16:40.190><c> equal</c>
+
+01:16:40.480 --> 01:16:40.490 align:start position:0%
+inequality operator instead of one equal
+ 
+
+01:16:40.490 --> 01:16:43.060 align:start position:0%
+inequality operator instead of one equal
+sign<01:16:40.670><c> we</c><01:16:40.850><c> have</c><01:16:40.880><c> two</c><01:16:41.210><c> equal</c><01:16:41.540><c> signs</c><01:16:41.750><c> and</c><01:16:42.260><c> that</c>
+
+01:16:43.060 --> 01:16:43.070 align:start position:0%
+sign we have two equal signs and that
+ 
+
+01:16:43.070 --> 01:16:44.860 align:start position:0%
+sign we have two equal signs and that
+means<01:16:43.310><c> it's</c><01:16:43.520><c> going</c><01:16:43.670><c> to</c><01:16:43.820><c> check</c><01:16:44.120><c> if</c><01:16:44.300><c> this</c><01:16:44.420><c> is</c><01:16:44.480><c> not</c>
+
+01:16:44.860 --> 01:16:44.870 align:start position:0%
+means it's going to check if this is not
+ 
+
+01:16:44.870 --> 01:16:48.190 align:start position:0%
+means it's going to check if this is not
+true<01:16:45.260><c> but</c><01:16:45.920><c> it's</c><01:16:46.070><c> not</c><01:16:46.370><c> going</c><01:16:46.820><c> to</c><01:16:46.940><c> convert</c><01:16:47.780><c> types</c>
+
+01:16:48.190 --> 01:16:48.200 align:start position:0%
+true but it's not going to convert types
+ 
+
+01:16:48.200 --> 01:16:50.710 align:start position:0%
+true but it's not going to convert types
+so<01:16:49.130><c> for</c><01:16:49.340><c> instance</c><01:16:49.730><c> if</c><01:16:49.940><c> we</c><01:16:50.060><c> are</c><01:16:50.090><c> checking</c><01:16:50.480><c> if</c>
+
+01:16:50.710 --> 01:16:50.720 align:start position:0%
+so for instance if we are checking if
+ 
+
+01:16:50.720 --> 01:16:53.740 align:start position:0%
+so for instance if we are checking if
+the<01:16:50.900><c> number</c><01:16:51.320><c> three</c><01:16:51.620><c> does</c><01:16:51.980><c> not</c><01:16:52.010><c> equal</c><01:16:52.970><c> the</c>
+
+01:16:53.740 --> 01:16:53.750 align:start position:0%
+the number three does not equal the
+ 
+
+01:16:53.750 --> 01:16:57.280 align:start position:0%
+the number three does not equal the
+string<01:16:54.440><c> three</c><01:16:54.830><c> that</c><01:16:55.490><c> would</c><01:16:55.640><c> be</c><01:16:55.820><c> true</c><01:16:56.300><c> so</c><01:16:57.170><c> in</c>
+
+01:16:57.280 --> 01:16:57.290 align:start position:0%
+string three that would be true so in
+ 
+
+01:16:57.290 --> 01:16:59.680 align:start position:0%
+string three that would be true so in
+this<01:16:57.470><c> example</c><01:16:57.890><c> we're</c><01:16:58.340><c> just</c><01:16:58.370><c> checking</c><01:16:59.030><c> if</c><01:16:59.210><c> ten</c>
+
+01:16:59.680 --> 01:16:59.690 align:start position:0%
+this example we're just checking if ten
+ 
+
+01:16:59.690 --> 01:17:03.100 align:start position:0%
+this example we're just checking if ten
+does<01:17:00.350><c> not</c><01:17:00.560><c> equal</c><01:17:00.830><c> 17</c><01:17:01.460><c> if</c><01:17:01.730><c> we</c><01:17:02.270><c> run</c><01:17:02.540><c> this</c><01:17:02.750><c> we</c><01:17:02.810><c> will</c>
+
+01:17:03.100 --> 01:17:03.110 align:start position:0%
+does not equal 17 if we run this we will
+ 
+
+01:17:03.110 --> 01:17:07.850 align:start position:0%
+does not equal 17 if we run this we will
+see<01:17:03.290><c> it's</c><01:17:03.440><c> not</c><01:17:03.710><c> equal</c>
+
+01:17:07.850 --> 01:17:07.860 align:start position:0%
+ 
+ 
+
+01:17:07.860 --> 01:17:09.920 align:start position:0%
+ 
+we<01:17:08.580><c> can</c><01:17:08.760><c> also</c><01:17:08.910><c> use</c><01:17:09.180><c> the</c><01:17:09.420><c> greater</c><01:17:09.780><c> than</c>
+
+01:17:09.920 --> 01:17:09.930 align:start position:0%
+we can also use the greater than
+ 
+
+01:17:09.930 --> 01:17:12.260 align:start position:0%
+we can also use the greater than
+operator<01:17:10.770><c> so</c><01:17:11.370><c> in</c><01:17:11.490><c> this</c><01:17:11.610><c> function</c><01:17:11.880><c> we're</c>
+
+01:17:12.260 --> 01:17:12.270 align:start position:0%
+operator so in this function we're
+ 
+
+01:17:12.270 --> 01:17:15.770 align:start position:0%
+operator so in this function we're
+checking<01:17:12.630><c> if</c><01:17:12.990><c> a</c><01:17:13.140><c> value</c><01:17:13.380><c> is</c><01:17:13.560><c> over</c><01:17:14.040><c> 100</c><01:17:14.790><c> so</c><01:17:15.450><c> I'm</c>
+
+01:17:15.770 --> 01:17:15.780 align:start position:0%
+checking if a value is over 100 so I'm
+ 
+
+01:17:15.780 --> 01:17:19.610 align:start position:0%
+checking if a value is over 100 so I'm
+going<01:17:16.050><c> to</c><01:17:16.080><c> put</c><01:17:16.410><c> greater</c><01:17:16.980><c> than</c><01:17:17.810><c> 100</c><01:17:18.810><c> and</c><01:17:18.990><c> then</c>
+
+01:17:19.610 --> 01:17:19.620 align:start position:0%
+going to put greater than 100 and then
+ 
+
+01:17:19.620 --> 01:17:21.620 align:start position:0%
+going to put greater than 100 and then
+here<01:17:19.950><c> we're</c><01:17:20.100><c> checking</c><01:17:20.370><c> if</c><01:17:20.670><c> a</c><01:17:20.820><c> value</c><01:17:21.060><c> is</c><01:17:21.210><c> over</c>
+
+01:17:21.620 --> 01:17:21.630 align:start position:0%
+here we're checking if a value is over
+ 
+
+01:17:21.630 --> 01:17:26.360 align:start position:0%
+here we're checking if a value is over
+10<01:17:21.990><c> so</c><01:17:22.650><c> I'll</c><01:17:22.980><c> put</c><01:17:23.280><c> greater</c><01:17:23.760><c> than</c><01:17:24.320><c> 10</c><01:17:25.320><c> so</c><01:17:25.590><c> here</c>
+
+01:17:26.360 --> 01:17:26.370 align:start position:0%
+10 so I'll put greater than 10 so here
+ 
+
+01:17:26.370 --> 01:17:28.870 align:start position:0%
+10 so I'll put greater than 10 so here
+we<01:17:26.490><c> call</c><01:17:26.700><c> the</c><01:17:26.850><c> function</c><01:17:27.030><c> we</c><01:17:27.360><c> pass</c><01:17:27.690><c> in</c><01:17:27.990><c> 10</c><01:17:28.470><c> and</c>
+
+01:17:28.870 --> 01:17:28.880 align:start position:0%
+we call the function we pass in 10 and
+ 
+
+01:17:28.880 --> 01:17:32.780 align:start position:0%
+we call the function we pass in 10 and
+if<01:17:29.880><c> I</c><01:17:30.180><c> run</c><01:17:30.990><c> that</c><01:17:31.020><c> function</c><01:17:31.680><c> you'll</c><01:17:32.040><c> see</c><01:17:32.280><c> 10</c><01:17:32.670><c> or</c>
+
+01:17:32.780 --> 01:17:32.790 align:start position:0%
+if I run that function you'll see 10 or
+ 
+
+01:17:32.790 --> 01:17:34.820 align:start position:0%
+if I run that function you'll see 10 or
+under<01:17:32.820><c> because</c><01:17:33.570><c> we're</c><01:17:33.840><c> not</c><01:17:33.990><c> over</c><01:17:34.260><c> 100</c><01:17:34.680><c> we're</c>
+
+01:17:34.820 --> 01:17:34.830 align:start position:0%
+under because we're not over 100 we're
+ 
+
+01:17:34.830 --> 01:17:37.460 align:start position:0%
+under because we're not over 100 we're
+not<01:17:34.920><c> over</c><01:17:35.190><c> 10</c><01:17:35.460><c> or</c><01:17:36.000><c> 10</c><01:17:36.330><c> or</c><01:17:36.450><c> under</c><01:17:36.480><c> because</c><01:17:37.350><c> we</c>
+
+01:17:37.460 --> 01:17:37.470 align:start position:0%
+not over 10 or 10 or under because we
+ 
+
+01:17:37.470 --> 01:17:42.239 align:start position:0%
+not over 10 or 10 or under because we
+passed<01:17:37.740><c> in</c><01:17:38.040><c> 10</c>
+
+01:17:42.239 --> 01:17:42.249 align:start position:0%
+ 
+ 
+
+01:17:42.249 --> 01:17:44.819 align:start position:0%
+ 
+we<01:17:43.090><c> can</c><01:17:43.269><c> also</c><01:17:43.510><c> use</c><01:17:43.840><c> the</c><01:17:44.050><c> greater</c><01:17:44.380><c> than</c><01:17:44.499><c> or</c>
+
+01:17:44.819 --> 01:17:44.829 align:start position:0%
+we can also use the greater than or
+ 
+
+01:17:44.829 --> 01:17:47.520 align:start position:0%
+we can also use the greater than or
+equal<01:17:45.099><c> to</c><01:17:45.369><c> operator</c><01:17:45.820><c> so</c><01:17:46.809><c> we'll</c><01:17:47.019><c> finish</c><01:17:47.229><c> this</c>
+
+01:17:47.520 --> 01:17:47.530 align:start position:0%
+equal to operator so we'll finish this
+ 
+
+01:17:47.530 --> 01:17:50.399 align:start position:0%
+equal to operator so we'll finish this
+function<01:17:48.099><c> by</c><01:17:48.309><c> using</c><01:17:48.539><c> greater</c><01:17:49.539><c> than</c><01:17:49.840><c> or</c><01:17:49.989><c> equal</c>
+
+01:17:50.399 --> 01:17:50.409 align:start position:0%
+function by using greater than or equal
+ 
+
+01:17:50.409 --> 01:17:52.799 align:start position:0%
+function by using greater than or equal
+to<01:17:50.590><c> that's</c><01:17:50.949><c> just</c><01:17:51.280><c> a</c><01:17:51.610><c> greater</c><01:17:52.239><c> than</c><01:17:52.300><c> sign</c><01:17:52.539><c> in</c><01:17:52.690><c> an</c>
+
+01:17:52.799 --> 01:17:52.809 align:start position:0%
+to that's just a greater than sign in an
+ 
+
+01:17:52.809 --> 01:17:56.219 align:start position:0%
+to that's just a greater than sign in an
+equal<01:17:53.139><c> sign</c><01:17:53.380><c> and</c><01:17:53.710><c> we'll</c><01:17:54.340><c> put</c><01:17:54.550><c> 20</c><01:17:55.119><c> down</c><01:17:55.809><c> here</c>
+
+01:17:56.219 --> 01:17:56.229 align:start position:0%
+equal sign and we'll put 20 down here
+ 
+
+01:17:56.229 --> 01:18:02.339 align:start position:0%
+equal sign and we'll put 20 down here
+just<01:17:57.059><c> greater</c><01:17:58.059><c> than</c><01:17:58.239><c> or</c><01:17:58.749><c> equal</c><01:17:59.320><c> to</c><01:18:00.239><c> 10</c><01:18:01.239><c> if</c><01:18:01.900><c> I</c>
+
+01:18:02.339 --> 01:18:02.349 align:start position:0%
+just greater than or equal to 10 if I
+ 
+
+01:18:02.349 --> 01:18:05.040 align:start position:0%
+just greater than or equal to 10 if I
+run<01:18:02.650><c> that</c><01:18:02.920><c> we</c><01:18:03.579><c> should</c><01:18:03.789><c> see</c><01:18:04.030><c> 10</c><01:18:04.599><c> or</c><01:18:04.719><c> over</c>
+
+01:18:05.040 --> 01:18:05.050 align:start position:0%
+run that we should see 10 or over
+ 
+
+01:18:05.050 --> 01:18:07.080 align:start position:0%
+run that we should see 10 or over
+because<01:18:05.440><c> we're</c><01:18:05.860><c> passing</c><01:18:06.309><c> in</c><01:18:06.429><c> 10</c><01:18:06.729><c> and</c><01:18:06.969><c> it's</c>
+
+01:18:07.080 --> 01:18:07.090 align:start position:0%
+because we're passing in 10 and it's
+ 
+
+01:18:07.090 --> 01:18:12.160 align:start position:0%
+because we're passing in 10 and it's
+greater<01:18:07.389><c> than</c><01:18:07.510><c> or</c><01:18:07.749><c> equal</c><01:18:07.869><c> to</c><01:18:08.260><c> 10</c>
+
+01:18:12.160 --> 01:18:12.170 align:start position:0%
+ 
+ 
+
+01:18:12.170 --> 01:18:14.380 align:start position:0%
+ 
+now<01:18:12.740><c> I'll</c><01:18:13.040><c> show</c><01:18:13.250><c> you</c><01:18:13.340><c> an</c><01:18:13.460><c> example</c><01:18:13.550><c> of</c><01:18:13.910><c> the</c><01:18:14.090><c> less</c>
+
+01:18:14.380 --> 01:18:14.390 align:start position:0%
+now I'll show you an example of the less
+ 
+
+01:18:14.390 --> 01:18:17.020 align:start position:0%
+now I'll show you an example of the less
+than<01:18:14.420><c> operator</c><01:18:15.170><c> with</c><01:18:15.770><c> this</c><01:18:15.980><c> function</c><01:18:16.520><c> we're</c>
+
+01:18:17.020 --> 01:18:17.030 align:start position:0%
+than operator with this function we're
+ 
+
+01:18:17.030 --> 01:18:19.890 align:start position:0%
+than operator with this function we're
+going<01:18:17.060><c> to</c><01:18:17.210><c> check</c><01:18:17.570><c> if</c><01:18:17.840><c> the</c><01:18:18.020><c> value</c><01:18:18.230><c> is</c><01:18:18.680><c> less</c><01:18:19.430><c> than</c>
+
+01:18:19.890 --> 01:18:19.900 align:start position:0%
+going to check if the value is less than
+ 
+
+01:18:19.900 --> 01:18:23.800 align:start position:0%
+going to check if the value is less than
+25<01:18:20.900><c> and</c><01:18:21.290><c> then</c><01:18:22.100><c> here</c><01:18:22.730><c> we're</c><01:18:22.940><c> checking</c><01:18:23.360><c> if</c><01:18:23.570><c> a</c>
+
+01:18:23.800 --> 01:18:23.810 align:start position:0%
+25 and then here we're checking if a
+ 
+
+01:18:23.810 --> 01:18:28.660 align:start position:0%
+25 and then here we're checking if a
+value<01:18:24.140><c> is</c><01:18:24.670><c> less</c><01:18:25.670><c> than</c><01:18:26.170><c> 55</c><01:18:27.170><c> so</c><01:18:27.860><c> here's</c><01:18:28.340><c> a</c><01:18:28.460><c> trick</c>
+
+01:18:28.660 --> 01:18:28.670 align:start position:0%
+value is less than 55 so here's a trick
+ 
+
+01:18:28.670 --> 01:18:30.880 align:start position:0%
+value is less than 55 so here's a trick
+I<01:18:28.880><c> use</c><01:18:29.090><c> to</c><01:18:29.120><c> remember</c><01:18:29.660><c> which</c><01:18:30.080><c> symbol</c><01:18:30.500><c> is</c><01:18:30.620><c> less</c>
+
+01:18:30.880 --> 01:18:30.890 align:start position:0%
+I use to remember which symbol is less
+ 
+
+01:18:30.890 --> 01:18:34.090 align:start position:0%
+I use to remember which symbol is less
+than<01:18:31.100><c> 1</c><01:18:31.580><c> which</c><01:18:31.820><c> symbol</c><01:18:32.300><c> is</c><01:18:32.450><c> more</c><01:18:32.870><c> than</c><01:18:33.170><c> if</c><01:18:33.500><c> you</c>
+
+01:18:34.090 --> 01:18:34.100 align:start position:0%
+than 1 which symbol is more than if you
+ 
+
+01:18:34.100 --> 01:18:36.400 align:start position:0%
+than 1 which symbol is more than if you
+see<01:18:34.340><c> the</c><01:18:34.640><c> less</c><01:18:34.940><c> than</c><01:18:35.270><c> symbol</c><01:18:35.570><c> looks</c><01:18:36.020><c> kind</c><01:18:36.320><c> of</c>
+
+01:18:36.400 --> 01:18:36.410 align:start position:0%
+see the less than symbol looks kind of
+ 
+
+01:18:36.410 --> 01:18:38.950 align:start position:0%
+see the less than symbol looks kind of
+like<01:18:36.560><c> the</c><01:18:36.830><c> letter</c><01:18:37.100><c> L</c><01:18:37.370><c> which</c><01:18:38.300><c> is</c><01:18:38.330><c> the</c><01:18:38.660><c> first</c>
+
+01:18:38.950 --> 01:18:38.960 align:start position:0%
+like the letter L which is the first
+ 
+
+01:18:38.960 --> 01:18:40.900 align:start position:0%
+like the letter L which is the first
+letter<01:18:39.170><c> in</c><01:18:39.290><c> less</c><01:18:39.620><c> than</c><01:18:39.920><c> and</c><01:18:40.160><c> then</c><01:18:40.580><c> the</c><01:18:40.670><c> more</c>
+
+01:18:40.900 --> 01:18:40.910 align:start position:0%
+letter in less than and then the more
+ 
+
+01:18:40.910 --> 01:18:46.430 align:start position:0%
+letter in less than and then the more
+than<01:18:41.090><c> symbol</c><01:18:41.510><c> is</c><01:18:41.630><c> just</c><01:18:41.660><c> the</c><01:18:42.050><c> opposite</c>
+
+01:18:46.430 --> 01:18:46.440 align:start position:0%
+ 
+ 
+
+01:18:46.440 --> 01:18:49.070 align:start position:0%
+ 
+and<01:18:46.530><c> we</c><01:18:47.100><c> also</c><01:18:47.280><c> have</c><01:18:47.610><c> the</c><01:18:47.850><c> less</c><01:18:48.120><c> than</c><01:18:48.390><c> or</c><01:18:48.570><c> equal</c>
+
+01:18:49.070 --> 01:18:49.080 align:start position:0%
+and we also have the less than or equal
+ 
+
+01:18:49.080 --> 01:18:51.500 align:start position:0%
+and we also have the less than or equal
+to<01:18:49.260><c> operator</c><01:18:49.469><c> we</c><01:18:50.100><c> can</c><01:18:50.130><c> use</c><01:18:50.460><c> in</c><01:18:50.610><c> JavaScript</c><01:18:51.300><c> so</c>
+
+01:18:51.500 --> 01:18:51.510 align:start position:0%
+to operator we can use in JavaScript so
+ 
+
+01:18:51.510 --> 01:18:54.350 align:start position:0%
+to operator we can use in JavaScript so
+here<01:18:52.199><c> we're</c><01:18:52.380><c> going</c><01:18:52.500><c> to</c><01:18:52.560><c> check</c><01:18:52.890><c> if</c><01:18:53.160><c> it's</c><01:18:53.850><c> less</c>
+
+01:18:54.350 --> 01:18:54.360 align:start position:0%
+here we're going to check if it's less
+ 
+
+01:18:54.360 --> 01:18:57.200 align:start position:0%
+here we're going to check if it's less
+than<01:18:54.570><c> or</c><01:18:54.690><c> equal</c><01:18:54.840><c> to</c><01:18:55.230><c> 12</c><01:18:55.650><c> so</c><01:18:56.489><c> we</c><01:18:56.699><c> just</c><01:18:56.910><c> put</c><01:18:57.090><c> the</c>
+
+01:18:57.200 --> 01:18:57.210 align:start position:0%
+than or equal to 12 so we just put the
+ 
+
+01:18:57.210 --> 01:19:01.580 align:start position:0%
+than or equal to 12 so we just put the
+less<01:18:57.480><c> than</c><01:18:57.780><c> operator</c><01:18:58.489><c> 12</c><01:18:59.489><c> Oh</c><01:19:00.110><c> evil</c><01:19:01.110><c> less</c><01:19:01.380><c> than</c>
+
+01:19:01.580 --> 01:19:01.590 align:start position:0%
+less than operator 12 Oh evil less than
+ 
+
+01:19:01.590 --> 01:19:04.640 align:start position:0%
+less than operator 12 Oh evil less than
+or<01:19:01.710><c> equal</c><01:19:02.330><c> that's</c><01:19:03.330><c> an</c><01:19:03.449><c> important</c><01:19:03.870><c> part</c><01:19:04.110><c> here</c>
+
+01:19:04.640 --> 01:19:04.650 align:start position:0%
+or equal that's an important part here
+ 
+
+01:19:04.650 --> 01:19:09.290 align:start position:0%
+or equal that's an important part here
+it's<01:19:04.949><c> the</c><01:19:05.340><c> less</c><01:19:06.270><c> than</c><01:19:06.600><c> or</c><01:19:06.630><c> equal</c><01:19:07.290><c> to</c><01:19:07.790><c> 24</c><01:19:08.790><c> to</c>
+
+01:19:09.290 --> 01:19:09.300 align:start position:0%
+it's the less than or equal to 24 to
+ 
+
+01:19:09.300 --> 01:19:11.510 align:start position:0%
+it's the less than or equal to 24 to
+make<01:19:09.480><c> this</c><01:19:09.660><c> statement</c><01:19:09.989><c> true</c><01:19:10.199><c> and</c><01:19:10.680><c> if</c><01:19:11.130><c> we</c><01:19:11.250><c> run</c>
+
+01:19:11.510 --> 01:19:11.520 align:start position:0%
+make this statement true and if we run
+ 
+
+01:19:11.520 --> 01:19:14.420 align:start position:0%
+make this statement true and if we run
+we<01:19:12.150><c> see</c><01:19:12.420><c> smaller</c><01:19:13.170><c> than</c><01:19:13.380><c> or</c><01:19:13.620><c> equal</c><01:19:14.010><c> to</c><01:19:14.160><c> 12</c>
+
+01:19:14.420 --> 01:19:14.430 align:start position:0%
+we see smaller than or equal to 12
+ 
+
+01:19:14.430 --> 01:19:19.690 align:start position:0%
+we see smaller than or equal to 12
+number<01:19:15.150><c> 10</c><01:19:15.330><c> we</c><01:19:15.449><c> passed</c><01:19:15.690><c> in</c>
+
+01:19:19.690 --> 01:19:19.700 align:start position:0%
+ 
+ 
+
+01:19:19.700 --> 01:19:21.980 align:start position:0%
+ 
+sometimes<01:19:20.700><c> you</c><01:19:20.850><c> want</c><01:19:21.000><c> to</c><01:19:21.030><c> check</c><01:19:21.330><c> if</c><01:19:21.600><c> two</c>
+
+01:19:21.980 --> 01:19:21.990 align:start position:0%
+sometimes you want to check if two
+ 
+
+01:19:21.990 --> 01:19:25.070 align:start position:0%
+sometimes you want to check if two
+things<01:19:22.320><c> are</c><01:19:22.560><c> true</c><01:19:22.590><c> at</c><01:19:23.130><c> the</c><01:19:23.490><c> same</c><01:19:23.760><c> time</c><01:19:24.150><c> for</c>
+
+01:19:25.070 --> 01:19:25.080 align:start position:0%
+things are true at the same time for
+ 
+
+01:19:25.080 --> 01:19:27.680 align:start position:0%
+things are true at the same time for
+instance<01:19:25.470><c> you</c><01:19:25.950><c> may</c><01:19:26.130><c> want</c><01:19:26.160><c> to</c><01:19:26.370><c> check</c><01:19:26.670><c> if</c><01:19:26.970><c> this</c>
+
+01:19:27.680 --> 01:19:27.690 align:start position:0%
+instance you may want to check if this
+ 
+
+01:19:27.690 --> 01:19:33.380 align:start position:0%
+instance you may want to check if this
+value<01:19:28.140><c> is</c><01:19:29.150><c> less</c><01:19:30.150><c> than</c><01:19:30.450><c> or</c><01:19:30.720><c> equal</c><01:19:31.590><c> to</c><01:19:32.180><c> 50</c><01:19:33.180><c> and</c>
+
+01:19:33.380 --> 01:19:33.390 align:start position:0%
+value is less than or equal to 50 and
+ 
+
+01:19:33.390 --> 01:19:37.450 align:start position:0%
+value is less than or equal to 50 and
+you<01:19:33.960><c> also</c><01:19:34.260><c> want</c><01:19:34.680><c> to</c><01:19:34.710><c> check</c><01:19:34.980><c> if</c><01:19:35.160><c> the</c><01:19:35.310><c> value</c><01:19:35.790><c> is</c>
+
+01:19:37.450 --> 01:19:37.460 align:start position:0%
+you also want to check if the value is
+ 
+
+01:19:37.460 --> 01:19:44.450 align:start position:0%
+you also want to check if the value is
+more<01:19:38.460><c> than</c><01:19:38.520><c> or</c><01:19:39.090><c> equal</c><01:19:39.780><c> to</c><01:19:40.430><c> 25</c><01:19:42.620><c> so</c><01:19:43.620><c> we</c><01:19:43.650><c> here</c><01:19:44.340><c> we</c>
+
+01:19:44.450 --> 01:19:44.460 align:start position:0%
+more than or equal to 25 so we here we
+ 
+
+01:19:44.460 --> 01:19:46.400 align:start position:0%
+more than or equal to 25 so we here we
+have<01:19:44.550><c> a</c><01:19:44.580><c> nested</c><01:19:45.030><c> if</c><01:19:45.150><c> statement</c><01:19:45.720><c> so</c><01:19:46.170><c> it's</c><01:19:46.290><c> going</c>
+
+01:19:46.400 --> 01:19:46.410 align:start position:0%
+have a nested if statement so it's going
+ 
+
+01:19:46.410 --> 01:19:48.080 align:start position:0%
+have a nested if statement so it's going
+to<01:19:46.470><c> check</c><01:19:46.800><c> if</c><01:19:46.950><c> it's</c><01:19:47.100><c> less</c><01:19:47.340><c> than</c><01:19:47.520><c> equal</c><01:19:47.700><c> to</c><01:19:47.760><c> 50</c>
+
+01:19:48.080 --> 01:19:48.090 align:start position:0%
+to check if it's less than equal to 50
+ 
+
+01:19:48.090 --> 01:19:49.700 align:start position:0%
+to check if it's less than equal to 50
+and<01:19:48.330><c> if</c><01:19:48.570><c> it's</c><01:19:48.750><c> more</c><01:19:48.930><c> than</c><01:19:48.960><c> equal</c><01:19:49.230><c> to</c><01:19:49.290><c> 25</c><01:19:49.680><c> then</c>
+
+01:19:49.700 --> 01:19:49.710 align:start position:0%
+and if it's more than equal to 25 then
+ 
+
+01:19:49.710 --> 01:19:52.100 align:start position:0%
+and if it's more than equal to 25 then
+it's<01:19:50.010><c> going</c><01:19:50.100><c> to</c><01:19:50.160><c> return</c><01:19:50.280><c> yes</c><01:19:50.760><c> but</c><01:19:51.750><c> there's</c><01:19:51.960><c> an</c>
+
+01:19:52.100 --> 01:19:52.110 align:start position:0%
+it's going to return yes but there's an
+ 
+
+01:19:52.110 --> 01:19:54.680 align:start position:0%
+it's going to return yes but there's an
+easier<01:19:52.590><c> way</c><01:19:52.860><c> to</c><01:19:52.890><c> do</c><01:19:53.370><c> this</c><01:19:53.580><c> so</c><01:19:53.850><c> what</c><01:19:54.450><c> I'm</c><01:19:54.570><c> going</c>
+
+01:19:54.680 --> 01:19:54.690 align:start position:0%
+easier way to do this so what I'm going
+ 
+
+01:19:54.690 --> 01:19:56.870 align:start position:0%
+easier way to do this so what I'm going
+to<01:19:54.720><c> do</c><01:19:54.840><c> is</c><01:19:54.990><c> copy</c><01:19:55.320><c> this</c><01:19:55.710><c> where</c><01:19:56.010><c> it</c><01:19:56.160><c> says</c><01:19:56.400><c> value</c>
+
+01:19:56.870 --> 01:19:56.880 align:start position:0%
+to do is copy this where it says value
+ 
+
+01:19:56.880 --> 01:19:59.690 align:start position:0%
+to do is copy this where it says value
+is<01:19:57.000><c> more</c><01:19:57.240><c> than</c><01:19:57.480><c> or</c><01:19:57.570><c> equal</c><01:19:57.900><c> to</c><01:19:58.050><c> 25</c><01:19:58.620><c> I'm</c><01:19:59.160><c> going</c><01:19:59.640><c> to</c>
+
+01:19:59.690 --> 01:19:59.700 align:start position:0%
+is more than or equal to 25 I'm going to
+ 
+
+01:19:59.700 --> 01:20:03.110 align:start position:0%
+is more than or equal to 25 I'm going to
+delete<01:19:59.940><c> this</c><01:20:00.240><c> nested</c><01:20:00.990><c> if</c><01:20:01.170><c> statement</c><01:20:02.000><c> so</c><01:20:03.000><c> we</c>
+
+01:20:03.110 --> 01:20:03.120 align:start position:0%
+delete this nested if statement so we
+ 
+
+01:20:03.120 --> 01:20:05.930 align:start position:0%
+delete this nested if statement so we
+don't<01:20:03.330><c> need</c><01:20:03.480><c> that</c><01:20:03.690><c> if</c><01:20:03.870><c> statement</c><01:20:04.440><c> and</c><01:20:04.940><c> I'm</c>
+
+01:20:05.930 --> 01:20:05.940 align:start position:0%
+don't need that if statement and I'm
+ 
+
+01:20:05.940 --> 01:20:09.890 align:start position:0%
+don't need that if statement and I'm
+going<01:20:06.240><c> to</c><01:20:06.360><c> use</c><01:20:06.720><c> the</c><01:20:07.200><c> and</c><01:20:07.470><c> operator</c><01:20:08.390><c> so</c><01:20:09.390><c> we</c><01:20:09.570><c> have</c>
+
+01:20:09.890 --> 01:20:09.900 align:start position:0%
+going to use the and operator so we have
+ 
+
+01:20:09.900 --> 01:20:13.280 align:start position:0%
+going to use the and operator so we have
+less<01:20:10.680><c> than</c><01:20:10.890><c> or</c><01:20:10.980><c> equal</c><01:20:11.100><c> to</c><01:20:11.430><c> 50</c><01:20:11.910><c> and</c><01:20:12.120><c> if</c><01:20:12.750><c> I</c><01:20:12.900><c> put</c>
+
+01:20:13.280 --> 01:20:13.290 align:start position:0%
+less than or equal to 50 and if I put
+ 
+
+01:20:13.290 --> 01:20:17.090 align:start position:0%
+less than or equal to 50 and if I put
+two<01:20:14.100><c> ampersands</c><01:20:14.730><c> like</c><01:20:15.660><c> this</c><01:20:15.960><c> that</c><01:20:16.560><c> means</c><01:20:16.770><c> and</c>
+
+01:20:17.090 --> 01:20:17.100 align:start position:0%
+two ampersands like this that means and
+ 
+
+01:20:17.100 --> 01:20:20.090 align:start position:0%
+two ampersands like this that means and
+now<01:20:18.090><c> I'm</c><01:20:18.180><c> going</c><01:20:18.330><c> to</c><01:20:18.420><c> put</c><01:20:18.600><c> value</c><01:20:19.140><c> is</c><01:20:19.380><c> more</c><01:20:20.040><c> than</c>
+
+01:20:20.090 --> 01:20:20.100 align:start position:0%
+now I'm going to put value is more than
+ 
+
+01:20:20.100 --> 01:20:23.420 align:start position:0%
+now I'm going to put value is more than
+or<01:20:20.370><c> equal</c><01:20:20.700><c> to</c><01:20:20.820><c> 25</c><01:20:21.300><c> so</c><01:20:22.050><c> this</c><01:20:22.290><c> says</c><01:20:22.560><c> if</c><01:20:22.740><c> value</c><01:20:23.280><c> is</c>
+
+01:20:23.420 --> 01:20:23.430 align:start position:0%
+or equal to 25 so this says if value is
+ 
+
+01:20:23.430 --> 01:20:27.440 align:start position:0%
+or equal to 25 so this says if value is
+less<01:20:23.730><c> than</c><01:20:23.760><c> or</c><01:20:23.970><c> equal</c><01:20:24.030><c> to</c><01:20:24.330><c> 50</c><01:20:24.810><c> and</c><01:20:25.880><c> the</c><01:20:26.880><c> value</c>
+
+01:20:27.440 --> 01:20:27.450 align:start position:0%
+less than or equal to 50 and the value
+ 
+
+01:20:27.450 --> 01:20:31.120 align:start position:0%
+less than or equal to 50 and the value
+is<01:20:27.600><c> also</c><01:20:28.260><c> more</c><01:20:28.890><c> than</c><01:20:28.920><c> or</c><01:20:29.310><c> equal</c><01:20:29.640><c> to</c><01:20:29.760><c> 25</c><01:20:30.360><c> then</c>
+
+01:20:31.120 --> 01:20:31.130 align:start position:0%
+is also more than or equal to 25 then
+ 
+
+01:20:31.130 --> 01:20:34.250 align:start position:0%
+is also more than or equal to 25 then
+we're<01:20:32.130><c> going</c><01:20:32.250><c> to</c><01:20:32.310><c> return</c><01:20:32.640><c> yes</c><01:20:33.000><c> so</c><01:20:33.450><c> both</c><01:20:33.840><c> this</c>
+
+01:20:34.250 --> 01:20:34.260 align:start position:0%
+we're going to return yes so both this
+ 
+
+01:20:34.260 --> 01:20:36.620 align:start position:0%
+we're going to return yes so both this
+statement<01:20:34.560><c> and</c><01:20:34.950><c> this</c><01:20:35.670><c> statement</c><01:20:35.730><c> have</c><01:20:36.330><c> to</c><01:20:36.540><c> be</c>
+
+01:20:36.620 --> 01:20:36.630 align:start position:0%
+statement and this statement have to be
+ 
+
+01:20:36.630 --> 01:20:39.110 align:start position:0%
+statement and this statement have to be
+true<01:20:36.990><c> to</c><01:20:37.560><c> get</c><01:20:37.770><c> into</c><01:20:38.220><c> inside</c><01:20:38.790><c> this</c><01:20:38.880><c> if</c>
+
+01:20:39.110 --> 01:20:39.120 align:start position:0%
+true to get into inside this if
+ 
+
+01:20:39.120 --> 01:20:43.790 align:start position:0%
+true to get into inside this if
+statement<01:20:39.600><c> here</c>
+
+01:20:43.790 --> 01:20:43.800 align:start position:0%
+ 
+ 
+
+01:20:43.800 --> 01:20:46.910 align:start position:0%
+ 
+in<01:20:43.860><c> this</c><01:20:44.820><c> code</c><01:20:45.180><c> here</c><01:20:45.660><c> we're</c><01:20:45.990><c> checking</c><01:20:46.320><c> if</c><01:20:46.680><c> the</c>
+
+01:20:46.910 --> 01:20:46.920 align:start position:0%
+in this code here we're checking if the
+ 
+
+01:20:46.920 --> 01:20:51.920 align:start position:0%
+in this code here we're checking if the
+value<01:20:47.130><c> is</c><01:20:47.640><c> not</c><01:20:47.900><c> between</c><01:20:48.900><c> 10</c><01:20:49.320><c> and</c><01:20:49.350><c> 20</c><01:20:50.120><c> so</c><01:20:51.120><c> if</c><01:20:51.510><c> the</c>
+
+01:20:51.920 --> 01:20:51.930 align:start position:0%
+value is not between 10 and 20 so if the
+ 
+
+01:20:51.930 --> 01:20:54.980 align:start position:0%
+value is not between 10 and 20 so if the
+value<01:20:52.080><c> is</c><01:20:52.530><c> less</c><01:20:53.160><c> than</c><01:20:53.220><c> 10</c><01:20:53.760><c> we</c><01:20:54.120><c> return</c><01:20:54.540><c> outside</c>
+
+01:20:54.980 --> 01:20:54.990 align:start position:0%
+value is less than 10 we return outside
+ 
+
+01:20:54.990 --> 01:20:57.920 align:start position:0%
+value is less than 10 we return outside
+and<01:20:55.290><c> if</c><01:20:55.680><c> the</c><01:20:55.830><c> value</c><01:20:56.190><c> is</c><01:20:56.370><c> more</c><01:20:56.820><c> than</c><01:20:57.030><c> 20</c><01:20:57.570><c> we</c>
+
+01:20:57.920 --> 01:20:57.930 align:start position:0%
+and if the value is more than 20 we
+ 
+
+01:20:57.930 --> 01:21:01.040 align:start position:0%
+and if the value is more than 20 we
+return<01:20:58.350><c> outside</c><01:20:58.830><c> there</c><01:20:59.820><c> is</c><01:21:00.150><c> an</c><01:21:00.390><c> easier</c><01:21:00.840><c> way</c><01:21:00.900><c> to</c>
+
+01:21:01.040 --> 01:21:01.050 align:start position:0%
+return outside there is an easier way to
+ 
+
+01:21:01.050 --> 01:21:05.090 align:start position:0%
+return outside there is an easier way to
+do<01:21:01.380><c> this</c><01:21:01.410><c> with</c><01:21:01.980><c> the</c><01:21:02.220><c> logical</c><01:21:02.850><c> or</c><01:21:03.120><c> operator</c><01:21:04.100><c> so</c>
+
+01:21:05.090 --> 01:21:05.100 align:start position:0%
+do this with the logical or operator so
+ 
+
+01:21:05.100 --> 01:21:07.190 align:start position:0%
+do this with the logical or operator so
+I'm<01:21:05.400><c> just</c><01:21:05.790><c> going</c><01:21:05.970><c> to</c><01:21:06.060><c> delete</c><01:21:06.240><c> this</c><01:21:06.660><c> whole</c><01:21:06.870><c> if</c>
+
+01:21:07.190 --> 01:21:07.200 align:start position:0%
+I'm just going to delete this whole if
+ 
+
+01:21:07.200 --> 01:21:10.100 align:start position:0%
+I'm just going to delete this whole if
+statement<01:21:07.710><c> here</c><01:21:07.950><c> and</c><01:21:08.100><c> then</c><01:21:09.030><c> I</c><01:21:09.210><c> can</c><01:21:09.270><c> add</c><01:21:09.690><c> an</c><01:21:09.870><c> or</c>
+
+01:21:10.100 --> 01:21:10.110 align:start position:0%
+statement here and then I can add an or
+ 
+
+01:21:10.110 --> 01:21:15.830 align:start position:0%
+statement here and then I can add an or
+statement<01:21:10.760><c> which</c><01:21:11.760><c> is</c><01:21:12.000><c> just</c><01:21:12.390><c> 2</c><01:21:13.730><c> pipes</c><01:21:14.730><c> so</c><01:21:15.720><c> I'm</c>
+
+01:21:15.830 --> 01:21:15.840 align:start position:0%
+statement which is just 2 pipes so I'm
+ 
+
+01:21:15.840 --> 01:21:19.550 align:start position:0%
+statement which is just 2 pipes so I'm
+going<01:21:15.960><c> to</c><01:21:15.990><c> put</c><01:21:16.170><c> Val</c><01:21:16.500><c> is</c><01:21:17.180><c> less</c><01:21:18.180><c> than</c><01:21:18.540><c> or</c><01:21:19.140><c> it</c><01:21:19.290><c> more</c>
+
+01:21:19.550 --> 01:21:19.560 align:start position:0%
+going to put Val is less than or it more
+ 
+
+01:21:19.560 --> 01:21:23.180 align:start position:0%
+going to put Val is less than or it more
+than<01:21:19.820><c> 20</c><01:21:20.820><c> here</c><01:21:21.180><c> so</c><01:21:21.900><c> now</c><01:21:22.140><c> we're</c><01:21:22.560><c> checking</c><01:21:22.890><c> if</c>
+
+01:21:23.180 --> 01:21:23.190 align:start position:0%
+than 20 here so now we're checking if
+ 
+
+01:21:23.190 --> 01:21:27.260 align:start position:0%
+than 20 here so now we're checking if
+the<01:21:23.520><c> value</c><01:21:23.670><c> is</c><01:21:24.180><c> less</c><01:21:24.660><c> than</c><01:21:24.690><c> 10</c><01:21:25.320><c> or</c><01:21:25.760><c> if</c><01:21:26.760><c> the</c>
+
+01:21:27.260 --> 01:21:27.270 align:start position:0%
+the value is less than 10 or if the
+ 
+
+01:21:27.270 --> 01:21:30.830 align:start position:0%
+the value is less than 10 or if the
+value<01:21:27.720><c> is</c><01:21:27.930><c> more</c><01:21:28.470><c> than</c><01:21:28.680><c> 20</c><01:21:29.130><c> either</c><01:21:29.850><c> way</c><01:21:30.330><c> we're</c>
+
+01:21:30.830 --> 01:21:30.840 align:start position:0%
+value is more than 20 either way we're
+ 
+
+01:21:30.840 --> 01:21:33.530 align:start position:0%
+value is more than 20 either way we're
+going<01:21:31.020><c> to</c><01:21:31.140><c> return</c><01:21:31.560><c> outside</c><01:21:32.310><c> and</c><01:21:32.670><c> if</c><01:21:33.420><c> that's</c>
+
+01:21:33.530 --> 01:21:33.540 align:start position:0%
+going to return outside and if that's
+ 
+
+01:21:33.540 --> 01:21:39.429 align:start position:0%
+going to return outside and if that's
+not<01:21:33.810><c> true</c><01:21:34.170><c> we'll</c><01:21:34.560><c> return</c><01:21:34.770><c> inside</c>
+
+01:21:39.429 --> 01:21:39.439 align:start position:0%
+ 
+ 
+
+01:21:39.439 --> 01:21:42.759 align:start position:0%
+ 
+when<01:21:40.099><c> an</c><01:21:40.189><c> if</c><01:21:40.429><c> steam</c><01:21:40.760><c> is</c><01:21:41.090><c> true</c><01:21:41.510><c> normally</c><01:21:42.469><c> the</c>
+
+01:21:42.759 --> 01:21:42.769 align:start position:0%
+when an if steam is true normally the
+ 
+
+01:21:42.769 --> 01:21:44.469 align:start position:0%
+when an if steam is true normally the
+block<01:21:43.130><c> of</c><01:21:43.340><c> code</c><01:21:43.369><c> right</c><01:21:43.909><c> after</c><01:21:44.269><c> the</c><01:21:44.360><c> if</c>
+
+01:21:44.469 --> 01:21:44.479 align:start position:0%
+block of code right after the if
+ 
+
+01:21:44.479 --> 01:21:47.319 align:start position:0%
+block of code right after the if
+statement<01:21:45.019><c> will</c><01:21:45.229><c> be</c><01:21:45.619><c> evaluated</c><01:21:46.369><c> and</c><01:21:46.579><c> if</c><01:21:47.150><c> it's</c>
+
+01:21:47.319 --> 01:21:47.329 align:start position:0%
+statement will be evaluated and if it's
+ 
+
+01:21:47.329 --> 01:21:50.589 align:start position:0%
+statement will be evaluated and if it's
+not<01:21:47.539><c> true</c><01:21:47.929><c> nothing</c><01:21:48.709><c> happens</c><01:21:49.130><c> but</c><01:21:50.119><c> with</c><01:21:50.389><c> an</c>
+
+01:21:50.589 --> 01:21:50.599 align:start position:0%
+not true nothing happens but with an
+ 
+
+01:21:50.599 --> 01:21:53.080 align:start position:0%
+not true nothing happens but with an
+else<01:21:50.869><c> statement</c><01:21:51.110><c> an</c><01:21:51.860><c> alternate</c><01:21:52.669><c> block</c><01:21:52.880><c> of</c>
+
+01:21:53.080 --> 01:21:53.090 align:start position:0%
+else statement an alternate block of
+ 
+
+01:21:53.090 --> 01:21:55.299 align:start position:0%
+else statement an alternate block of
+code<01:21:53.389><c> can</c><01:21:53.780><c> be</c><01:21:53.809><c> executed</c><01:21:53.900><c> when</c><01:21:54.619><c> it's</c><01:21:54.769><c> not</c><01:21:54.949><c> true</c>
+
+01:21:55.299 --> 01:21:55.309 align:start position:0%
+code can be executed when it's not true
+ 
+
+01:21:55.309 --> 01:21:58.209 align:start position:0%
+code can be executed when it's not true
