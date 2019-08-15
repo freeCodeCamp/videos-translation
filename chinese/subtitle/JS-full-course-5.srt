@@ -1,0 +1,152 @@
+00:15:36.100 --> 00:15:39.150 align:start position:0%
+自增运算的意思是给变量加上 1
+
+00:15:39.160 --> 00:15:43.169 align:start position:0%
+所以这里我们给 myVar 自增 1
+
+00:15:43.179 --> 00:15:47.009 align:start position:0%
+它的初始值是 87
+
+00:15:47.019 --> 00:15:49.559 align:start position:0%
+87 加上 1 是 88
+
+00:15:49.569 --> 00:15:53.400 align:start position:0%
+有一种更快的自增方式
+
+00:15:53.400 --> 00:15:53.410 align:start position:0%
+除了这么做
+
+00:15:53.410 --> 00:15:56.669 align:start position:0%
+我们可以直接输入 myVar++
+
+00:15:56.679 --> 00:16:00.980 align:start position:0%
+这样 myVar 就从 87 自增为 88
+
+00:16:03.240 --> 00:16:05.990 align:start position:0%
+我们学习了使用 ++ 做自增运算
+
+00:16:06.000 --> 00:16:08.210 align:start position:0%
+也可以用 -- 做自减运算
+
+00:16:08.220 --> 00:16:11.300 align:start position:0%
+意思是减去 1
+
+00:16:11.310 --> 00:16:13.490 align:start position:0%
+所以现在 myVar 等于 10
+
+00:16:13.500 --> 00:16:16.490 align:start position:0%
+11 减去 1 就是 10
+
+00:16:16.500 --> 00:16:20.030 align:start position:0%
+同样的，我们也可以使用运算符 --
+
+00:16:20.040 --> 00:16:24.490 align:start position:0%
+所以现在 myVar 仍然等于 10
+
+00:16:27.050 --> 00:16:29.140 align:start position:0%
+我们也可以用 JavaScript 写小数
+
+00:16:29.150 --> 00:16:32.110 align:start position:0%
+有时候又叫浮点数
+
+00:16:34.730 --> 00:16:36.760 align:start position:0%
+你可以看到这个数，5.7
+
+00:16:36.770 --> 00:16:39.220 align:start position:0%
+它可以是任何数字
+
+00:16:39.230 --> 00:16:41.860 align:start position:0%
+我输入一个（变量）叫作 myDecimal
+
+00:16:41.870 --> 00:16:45.760 align:start position:0%
+然后输入 0.009
+
+00:16:51.289 --> 00:16:53.269 align:start position:0%
+任何有小数点的数字就是小数
+
+00:16:53.279 --> 00:16:55.189 align:start position:0%
+小数之间相乘跟整数相乘是一样的
+
+00:16:57.779 --> 00:17:00.739 align:start position:0%
+所以我们这里有 2.0 乘以 0.0
+
+00:17:00.749 --> 00:17:03.679 align:start position:0%
+如果我把它改为 2.5
+
+00:17:05.879 --> 00:17:09.199 align:start position:0%
+product 的值就是 5
+
+00:17:09.209 --> 00:17:13.579 align:start position:0%
+所以我输入 console.log(product) 来检查一下
+
+00:17:15.659 --> 00:17:20.630 align:start position:0%
+然后点击 browser，它就显示 5
+
+00:17:22.890 --> 00:17:25.069 align:start position:0%
+你也可以除以 小数
+
+00:17:25.079 --> 00:17:27.440 align:start position:0%
+这里我把它改为 4.4
+
+00:17:30.030 --> 00:17:35.370 align:start position:0%
+现在商就是 2.2
+
+00:17:38.590 --> 00:17:40.860 align:start position:0%
+余数运算符跟百分号一样
+
+00:17:40.870 --> 00:17:44.759 align:start position:0%
+它会显示两个数字相除后的余数
+
+00:17:44.769 --> 00:17:46.950 align:start position:0%
+比如我们想算出 11 除以 3 的余数
+
+00:17:52.409 --> 00:17:55.680 align:start position:0%
+可以输入 remainder 等于 11
+
+00:17:55.690 --> 00:18:00.060 align:start position:0%
+然后输入百分号，也就是余数运算符
+
+00:18:00.070 --> 00:18:04.980 align:start position:0%
+再输入 3
+
+00:18:04.990 --> 00:18:09.090 align:start position:0%
+11 除以 3，首先得到 9，11 减去 9 等于 2
+
+00:18:09.100 --> 00:18:11.399 align:start position:0%
+所以 11 % 3 的结果是 2
+
+00:18:11.409 --> 00:18:14.549 align:start position:0%
+余数运算符常用于确定一个数是奇数还是偶数
+
+00:18:17.679 --> 00:18:20.850 align:start position:0%
+如果你用一个数除以 2
+
+00:18:20.860 --> 00:18:25.050 align:start position:0%
+余数是 0，那么这个数就是偶数
+
+00:18:27.550 --> 00:18:30.150 align:start position:0%
+通常像这样给一个变量加上一个数
+
+00:18:30.160 --> 00:18:34.260 align:start position:0%
+a 等于 a 加上 12
+
+00:18:34.270 --> 00:18:36.750 align:start position:0%
+a 的值 是 3，加上 12，就是 15
+
+00:18:36.760 --> 00:18:38.520 align:start position:0%
+所以不管 a 是多少，给它加上 12
+
+00:18:38.530 --> 00:18:41.760 align:start position:0%
+不管 b 是多少，我们给它加上 9
+
+00:18:41.770 --> 00:18:43.620 align:start position:0%
+不管 c 是多少，我们给它加上 7
+
+00:18:43.630 --> 00:18:46.830 align:start position:0%
+有一种常用的简便形式可以实现同样的效果
+
+00:18:46.840 --> 00:18:49.740 align:start position:0%
+就是 += 运算符
+
+00:18:49.750 --> 00:18:54.630 align:start position:0%
+所以我们把 a = a + 12
