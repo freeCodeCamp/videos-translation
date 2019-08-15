@@ -1,0 +1,2272 @@
+right<01:59:58.690><c> below</c><01:59:59.200><c> this</c><01:59:59.380><c> comment</c><01:59:59.980><c> here</c><02:00:00.340><c> and</c><02:00:00.720><c> we</c><02:00:01.720><c> are</c>
+
+02:00:01.740 --> 02:00:01.750 align:start position:0%
+right below this comment here and we are
+ 
+
+02:00:01.750 --> 02:00:03.420 align:start position:0%
+right below this comment here and we are
+going<02:00:01.990><c> to</c><02:00:02.050><c> have</c><02:00:02.200><c> just</c><02:00:02.410><c> like</c><02:00:02.530><c> well</c><02:00:02.740><c> above</c><02:00:03.190><c> we're</c>
+
+02:00:03.420 --> 02:00:03.430 align:start position:0%
+going to have just like well above we're
+ 
+
+02:00:03.430 --> 02:00:06.240 align:start position:0%
+going to have just like well above we're
+gonna<02:00:03.520><c> have</c><02:00:03.760><c> an</c><02:00:03.910><c> artist</c><02:00:04.360><c> the</c><02:00:05.230><c> artist</c><02:00:05.260><c> is</c><02:00:05.860><c> going</c>
+
+02:00:06.240 --> 02:00:06.250 align:start position:0%
+gonna have an artist the artist is going
+ 
+
+02:00:06.250 --> 02:00:11.780 align:start position:0%
+gonna have an artist the artist is going
+to<02:00:06.550><c> be</c><02:00:06.820><c> Bo</c><02:00:07.320><c> Carnes</c><02:00:08.320><c> and</c><02:00:08.620><c> then</c><02:00:09.550><c> we</c><02:00:09.790><c> have</c><02:00:10.180><c> a</c><02:00:10.510><c> title</c>
+
+02:00:11.780 --> 02:00:11.790 align:start position:0%
+to be Bo Carnes and then we have a title
+ 
+
+02:00:11.790 --> 02:00:18.240 align:start position:0%
+to be Bo Carnes and then we have a title
+the<02:00:12.790><c> title</c><02:00:13.260><c> will</c><02:00:14.260><c> be</c><02:00:14.290><c> a</c><02:00:14.500><c> serial</c><02:00:15.160><c> man</c><02:00:17.250><c> the</c>
+
+02:00:18.240 --> 02:00:18.250 align:start position:0%
+the title will be a serial man the
+ 
+
+02:00:18.250 --> 02:00:29.340 align:start position:0%
+the title will be a serial man the
+release<02:00:18.880><c> year</c><02:00:22.530><c> will</c><02:00:23.530><c> be</c><02:00:26.520><c> 2003</c><02:00:27.520><c> and</c><02:00:28.350><c> for</c>
+
+02:00:29.340 --> 02:00:29.350 align:start position:0%
+release year will be 2003 and for
+ 
+
+02:00:29.350 --> 02:00:34.290 align:start position:0%
+release year will be 2003 and for
+formats<02:00:32.250><c> this</c><02:00:33.250><c> is</c><02:00:33.460><c> going</c><02:00:33.730><c> to</c><02:00:33.820><c> be</c><02:00:33.940><c> an</c><02:00:34.030><c> array</c>
+
+02:00:34.290 --> 02:00:34.300 align:start position:0%
+formats this is going to be an array
+ 
+
+02:00:34.300 --> 02:00:37.050 align:start position:0%
+formats this is going to be an array
+it's<02:00:35.200><c> just</c><02:00:35.380><c> like</c><02:00:35.530><c> above</c><02:00:35.830><c> so</c><02:00:36.100><c> we</c><02:00:36.220><c> can</c><02:00:36.550><c> have</c><02:00:36.760><c> any</c>
+
+02:00:37.050 --> 02:00:37.060 align:start position:0%
+it's just like above so we can have any
+ 
+
+02:00:37.060 --> 02:00:41.990 align:start position:0%
+it's just like above so we can have any
+format<02:00:37.630><c> I'm</c><02:00:37.870><c> gonna</c><02:00:38.650><c> put</c><02:00:38.860><c> YouTube</c><02:00:39.790><c> video</c><02:00:40.770><c> and</c>
+
+02:00:41.990 --> 02:00:42.000 align:start position:0%
+format I'm gonna put YouTube video and
+ 
+
+02:00:42.000 --> 02:00:47.490 align:start position:0%
+format I'm gonna put YouTube video and
+now<02:00:43.000><c> we've</c><02:00:43.630><c> created</c><02:00:43.930><c> a</c><02:00:44.520><c> second</c><02:00:45.520><c> object</c><02:00:46.120><c> in</c><02:00:46.900><c> our</c>
+
+02:00:47.490 --> 02:00:47.500 align:start position:0%
+now we've created a second object in our
+ 
+
+02:00:47.500 --> 02:00:51.150 align:start position:0%
+now we've created a second object in our
+in<02:00:47.770><c> our</c><02:00:48.010><c> my</c><02:00:48.370><c> music</c><02:00:48.880><c> array</c><02:00:49.330><c> and</c><02:00:49.660><c> each</c><02:00:50.440><c> objects</c>
+
+02:00:51.150 --> 02:00:51.160 align:start position:0%
+in our my music array and each objects
+ 
+
+02:00:51.160 --> 02:00:53.460 align:start position:0%
+in our my music array and each objects
+hold<02:00:51.340><c> data</c><02:00:51.610><c> in</c><02:00:51.940><c> a</c><02:00:52.240><c> property</c><02:00:52.690><c> which</c><02:00:52.960><c> is</c><02:00:53.080><c> the</c><02:00:53.230><c> key</c>
+
+02:00:53.460 --> 02:00:53.470 align:start position:0%
+hold data in a property which is the key
+ 
+
+02:00:53.470 --> 02:00:56.310 align:start position:0%
+hold data in a property which is the key
+value<02:00:53.950><c> format</c><02:00:54.700><c> this</c><02:00:55.180><c> is</c><02:00:55.450><c> very</c><02:00:55.750><c> similar</c><02:00:56.140><c> to</c>
+
+02:00:56.310 --> 02:00:56.320 align:start position:0%
+value format this is very similar to
+ 
+
+02:00:56.320 --> 02:01:02.850 align:start position:0%
+value format this is very similar to
+JSON<02:00:57.100><c> which</c><02:00:57.970><c> we</c><02:00:58.180><c> will</c><02:00:58.330><c> talk</c><02:00:58.540><c> more</c><02:00:58.750><c> about</c><02:00:58.810><c> later</c>
+
+02:01:02.850 --> 02:01:02.860 align:start position:0%
+ 
+ 
+
+02:01:02.860 --> 02:01:05.220 align:start position:0%
+ 
+here<02:01:03.760><c> we</c><02:01:03.909><c> have</c><02:01:04.030><c> an</c><02:01:04.119><c> object</c><02:01:04.330><c> with</c><02:01:04.929><c> other</c>
+
+02:01:05.220 --> 02:01:05.230 align:start position:0%
+here we have an object with other
+ 
+
+02:01:05.230 --> 02:01:08.669 align:start position:0%
+here we have an object with other
+objects<02:01:05.889><c> nested</c><02:01:06.610><c> inside</c><02:01:06.760><c> that</c><02:01:07.270><c> so</c><02:01:08.020><c> in</c><02:01:08.320><c> order</c>
+
+02:01:08.669 --> 02:01:08.679 align:start position:0%
+objects nested inside that so in order
+ 
+
+02:01:08.679 --> 02:01:11.189 align:start position:0%
+objects nested inside that so in order
+to<02:01:08.830><c> access</c><02:01:09.550><c> sub</c><02:01:10.270><c> properties</c><02:01:10.840><c> of</c><02:01:10.960><c> an</c><02:01:11.050><c> object</c>
+
+02:01:11.189 --> 02:01:11.199 align:start position:0%
+to access sub properties of an object
+ 
+
+02:01:11.199 --> 02:01:13.680 align:start position:0%
+to access sub properties of an object
+you<02:01:12.070><c> can</c><02:01:12.100><c> chain</c><02:01:12.639><c> together</c><02:01:12.850><c> the</c><02:01:13.239><c> dot</c><02:01:13.480><c> or</c>
+
+02:01:13.680 --> 02:01:13.690 align:start position:0%
+you can chain together the dot or
+ 
+
+02:01:13.690 --> 02:01:16.140 align:start position:0%
+you can chain together the dot or
+bracket<02:01:14.290><c> notation</c><02:01:14.580><c> so</c><02:01:15.580><c> I'm</c><02:01:15.730><c> trying</c><02:01:15.940><c> to</c><02:01:16.030><c> get</c>
+
+02:01:16.140 --> 02:01:16.150 align:start position:0%
+bracket notation so I'm trying to get
+ 
+
+02:01:16.150 --> 02:01:18.660 align:start position:0%
+bracket notation so I'm trying to get
+the<02:01:16.330><c> glove</c><02:01:16.659><c> box</c><02:01:17.010><c> contents</c><02:01:18.010><c> so</c><02:01:18.369><c> I'm</c><02:01:18.460><c> going</c><02:01:18.610><c> to</c>
+
+02:01:18.660 --> 02:01:18.670 align:start position:0%
+the glove box contents so I'm going to
+ 
+
+02:01:18.670 --> 02:01:21.240 align:start position:0%
+the glove box contents so I'm going to
+take<02:01:18.969><c> away</c><02:01:19.360><c> this</c><02:01:19.600><c> undefined</c><02:01:20.290><c> here</c><02:01:20.679><c> and</c><02:01:20.830><c> I'll</c>
+
+02:01:21.240 --> 02:01:21.250 align:start position:0%
+take away this undefined here and I'll
+ 
+
+02:01:21.250 --> 02:01:27.000 align:start position:0%
+take away this undefined here and I'll
+do<02:01:21.400><c> my</c><02:01:21.730><c> storage</c><02:01:22.469><c> dot</c><02:01:23.790><c> car</c><02:01:24.790><c> dot</c><02:01:25.570><c> inside</c><02:01:26.500><c> and</c>
+
+02:01:27.000 --> 02:01:27.010 align:start position:0%
+do my storage dot car dot inside and
+ 
+
+02:01:27.010 --> 02:01:30.270 align:start position:0%
+do my storage dot car dot inside and
+then<02:01:27.940><c> now</c><02:01:28.230><c> the</c><02:01:29.230><c> next</c><02:01:29.560><c> thing</c><02:01:29.650><c> it's</c><02:01:29.830><c> it</c><02:01:29.949><c> with</c><02:01:30.250><c> a</c>
+
+02:01:30.270 --> 02:01:30.280 align:start position:0%
+then now the next thing it's it with a
+ 
+
+02:01:30.280 --> 02:01:32.459 align:start position:0%
+then now the next thing it's it with a
+car<02:01:30.610><c> inside</c><02:01:31.210><c> the</c><02:01:31.449><c> last</c><02:01:31.659><c> thing</c><02:01:31.780><c> is</c><02:01:31.869><c> glove</c><02:01:32.170><c> box</c>
+
+02:01:32.459 --> 02:01:32.469 align:start position:0%
+car inside the last thing is glove box
+ 
+
+02:01:32.469 --> 02:01:34.800 align:start position:0%
+car inside the last thing is glove box
+because<02:01:32.770><c> there's</c><02:01:33.670><c> a</c><02:01:33.760><c> space</c><02:01:34.090><c> here</c><02:01:34.420><c> we</c><02:01:34.570><c> have</c><02:01:34.690><c> to</c>
+
+02:01:34.800 --> 02:01:34.810 align:start position:0%
+because there's a space here we have to
+ 
+
+02:01:34.810 --> 02:01:37.500 align:start position:0%
+because there's a space here we have to
+use<02:01:34.900><c> bracket</c><02:01:35.440><c> a</c><02:01:35.770><c> shin</c><02:01:36.010><c> so</c><02:01:36.699><c> I'm</c><02:01:37.030><c> gonna</c><02:01:37.300><c> use</c>
+
+02:01:37.500 --> 02:01:37.510 align:start position:0%
+use bracket a shin so I'm gonna use
+ 
+
+02:01:37.510 --> 02:01:40.379 align:start position:0%
+use bracket a shin so I'm gonna use
+bracket<02:01:37.929><c> notation</c><02:01:38.050><c> on</c><02:01:38.590><c> the</c><02:01:38.619><c> end</c><02:01:38.889><c> here</c><02:01:39.280><c> and</c><02:01:39.520><c> say</c>
+
+02:01:40.379 --> 02:01:40.389 align:start position:0%
+bracket notation on the end here and say
+ 
+
+02:01:40.389 --> 02:01:46.379 align:start position:0%
+bracket notation on the end here and say
+glove<02:01:41.190><c> box</c><02:01:42.190><c> and</c><02:01:43.290><c> now</c><02:01:44.290><c> if</c><02:01:44.619><c> we</c><02:01:44.980><c> run</c><02:01:45.429><c> this</c><02:01:45.699><c> C</c><02:01:46.239><c> we</c>
+
+02:01:46.379 --> 02:01:46.389 align:start position:0%
+glove box and now if we run this C we
+ 
+
+02:01:46.389 --> 02:01:48.030 align:start position:0%
+glove box and now if we run this C we
+are<02:01:46.600><c> going</c><02:01:46.780><c> to</c><02:01:46.900><c> console</c><02:01:47.320><c> that</c><02:01:47.409><c> lock</c><02:01:47.619><c> so</c><02:01:47.650><c> let's</c>
+
+02:01:48.030 --> 02:01:48.040 align:start position:0%
+are going to console that lock so let's
+ 
+
+02:01:48.040 --> 02:01:51.300 align:start position:0%
+are going to console that lock so let's
+see<02:01:48.159><c> if</c><02:01:48.219><c> we</c><02:01:48.310><c> get</c><02:01:48.460><c> the</c><02:01:48.580><c> contents</c><02:01:49.179><c> here</c><02:01:49.770><c> yep</c><02:01:50.860><c> Maps</c>
+
+02:01:51.300 --> 02:01:51.310 align:start position:0%
+see if we get the contents here yep Maps
+ 
+
+02:01:51.310 --> 02:01:55.960 align:start position:0%
+see if we get the contents here yep Maps
+it<02:01:51.699><c> worked</c>
+
+02:01:55.960 --> 02:01:55.970 align:start position:0%
+ 
+ 
+
+02:01:55.970 --> 02:01:58.760 align:start position:0%
+ 
+arrey<02:01:56.970><c> bracket</c><02:01:57.510><c> notation</c>
+
+02:01:58.760 --> 02:01:58.770 align:start position:0%
+arrey bracket notation
+ 
+
+02:01:58.770 --> 02:02:01.310 align:start position:0%
+arrey bracket notation
+to<02:01:58.980><c> access</c><02:01:59.160><c> nested</c><02:01:59.940><c> arrays</c><02:02:00.240><c> you</c><02:02:00.840><c> can</c><02:02:01.020><c> see</c><02:02:01.200><c> we</c>
+
+02:02:01.310 --> 02:02:01.320 align:start position:0%
+to access nested arrays you can see we
+ 
+
+02:02:01.320 --> 02:02:03.890 align:start position:0%
+to access nested arrays you can see we
+have<02:02:01.500><c> this</c><02:02:01.620><c> array</c><02:02:01.830><c> here</c><02:02:02.730><c> and</c><02:02:02.970><c> inside</c><02:02:03.720><c> this</c>
+
+02:02:03.890 --> 02:02:03.900 align:start position:0%
+have this array here and inside this
+ 
+
+02:02:03.900 --> 02:02:06.350 align:start position:0%
+have this array here and inside this
+array<02:02:04.260><c> are</c><02:02:04.560><c> two</c><02:02:04.950><c> objects</c><02:02:05.490><c> the</c><02:02:05.610><c> first</c><02:02:05.640><c> elm</c><02:02:06.180><c> and</c>
+
+02:02:06.350 --> 02:02:06.360 align:start position:0%
+array are two objects the first elm and
+ 
+
+02:02:06.360 --> 02:02:08.750 align:start position:0%
+array are two objects the first elm and
+the<02:02:06.510><c> array</c><02:02:06.720><c> is</c><02:02:06.960><c> this</c><02:02:07.170><c> object</c><02:02:07.410><c> the</c><02:02:08.070><c> second</c><02:02:08.580><c> elm</c>
+
+02:02:08.750 --> 02:02:08.760 align:start position:0%
+the array is this object the second elm
+ 
+
+02:02:08.760 --> 02:02:11.750 align:start position:0%
+the array is this object the second elm
+and<02:02:08.880><c> array</c><02:02:09.120><c> is</c><02:02:09.270><c> this</c><02:02:09.660><c> object</c><02:02:09.930><c> and</c><02:02:10.470><c> then</c><02:02:11.130><c> inside</c>
+
+02:02:11.750 --> 02:02:11.760 align:start position:0%
+and array is this object and then inside
+ 
+
+02:02:11.760 --> 02:02:15.800 align:start position:0%
+and array is this object and then inside
+the<02:02:12.000><c> object</c><02:02:12.510><c> we</c><02:02:12.720><c> have</c><02:02:12.750><c> a</c><02:02:13.290><c> key</c><02:02:14.160><c> value</c><02:02:14.730><c> pair</c><02:02:15.270><c> the</c>
+
+02:02:15.800 --> 02:02:15.810 align:start position:0%
+the object we have a key value pair the
+ 
+
+02:02:15.810 --> 02:02:17.360 align:start position:0%
+the object we have a key value pair the
+key<02:02:16.050><c> is</c><02:02:16.170><c> less</c><02:02:16.380><c> and</c><02:02:16.560><c> the</c><02:02:16.590><c> value</c><02:02:17.010><c> is</c><02:02:17.130><c> another</c>
+
+02:02:17.360 --> 02:02:17.370 align:start position:0%
+key is less and the value is another
+ 
+
+02:02:17.370 --> 02:02:20.300 align:start position:0%
+key is less and the value is another
+array<02:02:17.760><c> here</c><02:02:18.120><c> so</c><02:02:18.690><c> we</c><02:02:18.900><c> can</c><02:02:19.110><c> combine</c><02:02:19.380><c> dot</c>
+
+02:02:20.300 --> 02:02:20.310 align:start position:0%
+array here so we can combine dot
+ 
+
+02:02:20.310 --> 02:02:23.780 align:start position:0%
+array here so we can combine dot
+notation<02:02:20.580><c> and</c><02:02:21.180><c> bracket</c><02:02:22.050><c> notation</c><02:02:22.310><c> to</c><02:02:23.310><c> access</c>
+
+02:02:23.780 --> 02:02:23.790 align:start position:0%
+notation and bracket notation to access
+ 
+
+02:02:23.790 --> 02:02:25.970 align:start position:0%
+notation and bracket notation to access
+the<02:02:24.030><c> second</c><02:02:24.540><c> tree</c><02:02:24.870><c> that's</c><02:02:25.560><c> what</c><02:02:25.680><c> we're</c><02:02:25.800><c> trying</c>
+
+02:02:25.970 --> 02:02:25.980 align:start position:0%
+the second tree that's what we're trying
+ 
+
+02:02:25.980 --> 02:02:29.690 align:start position:0%
+the second tree that's what we're trying
+to<02:02:26.100><c> do</c><02:02:26.250><c> here</c><02:02:26.670><c> so</c><02:02:26.870><c> let's</c><02:02:27.870><c> do</c><02:02:28.110><c> that</c><02:02:28.290><c> first</c><02:02:29.100><c> we</c>
+
+02:02:29.690 --> 02:02:29.700 align:start position:0%
+to do here so let's do that first we
+ 
+
+02:02:29.700 --> 02:02:34.040 align:start position:0%
+to do here so let's do that first we
+need<02:02:29.940><c> to</c><02:02:30.150><c> do</c><02:02:30.480><c> my</c><02:02:30.840><c> plants</c><02:02:31.830><c> and</c><02:02:32.330><c> the</c><02:02:33.330><c> trees</c><02:02:33.630><c> are</c>
+
+02:02:34.040 --> 02:02:34.050 align:start position:0%
+need to do my plants and the trees are
+ 
+
+02:02:34.050 --> 02:02:36.950 align:start position:0%
+need to do my plants and the trees are
+the<02:02:34.230><c> second</c><02:02:34.770><c> element</c><02:02:35.370><c> in</c><02:02:35.580><c> the</c><02:02:36.090><c> my</c><02:02:36.270><c> plant</c><02:02:36.630><c> array</c>
+
+02:02:36.950 --> 02:02:36.960 align:start position:0%
+the second element in the my plant array
+ 
+
+02:02:36.960 --> 02:02:40.730 align:start position:0%
+the second element in the my plant array
+which<02:02:37.380><c> is</c><02:02:37.410><c> index</c><02:02:37.980><c> one</c><02:02:38.310><c> now</c><02:02:39.300><c> we</c><02:02:39.930><c> need</c><02:02:40.140><c> to</c><02:02:40.380><c> get</c>
+
+02:02:40.730 --> 02:02:40.740 align:start position:0%
+which is index one now we need to get
+ 
+
+02:02:40.740 --> 02:02:44.090 align:start position:0%
+which is index one now we need to get
+though<02:02:41.250><c> the</c><02:02:41.640><c> list</c><02:02:41.970><c> so</c><02:02:42.930><c> the</c><02:02:43.350><c> list</c><02:02:43.650><c> of</c><02:02:43.830><c> trees</c>
+
+02:02:44.090 --> 02:02:44.100 align:start position:0%
+though the list so the list of trees
+ 
+
+02:02:44.100 --> 02:02:46.700 align:start position:0%
+though the list so the list of trees
+here<02:02:44.370><c> so</c><02:02:44.580><c> I'm</c><02:02:44.670><c> going</c><02:02:44.790><c> to</c><02:02:44.880><c> do</c><02:02:44.940><c> dot</c><02:02:45.270><c> lists</c><02:02:46.170><c> and</c>
+
+02:02:46.700 --> 02:02:46.710 align:start position:0%
+here so I'm going to do dot lists and
+ 
+
+02:02:46.710 --> 02:02:50.030 align:start position:0%
+here so I'm going to do dot lists and
+since<02:02:47.670><c> that</c><02:02:48.030><c> list</c><02:02:48.390><c> is</c><02:02:48.600><c> an</c><02:02:48.750><c> array</c><02:02:49.050><c> I</c><02:02:49.350><c> can</c><02:02:49.860><c> use</c>
+
+02:02:50.030 --> 02:02:50.040 align:start position:0%
+since that list is an array I can use
+ 
+
+02:02:50.040 --> 02:02:53.330 align:start position:0%
+since that list is an array I can use
+the<02:02:50.220><c> bracket</c><02:02:50.730><c> notation</c><02:02:50.760><c> to</c><02:02:51.720><c> get</c><02:02:52.380><c> the</c><02:02:52.710><c> the</c>
+
+02:02:53.330 --> 02:02:53.340 align:start position:0%
+the bracket notation to get the the
+ 
+
+02:02:53.340 --> 02:02:56.300 align:start position:0%
+the bracket notation to get the the
+second<02:02:54.000><c> list</c><02:02:54.300><c> element</c><02:02:54.900><c> which</c><02:02:55.320><c> again</c><02:02:55.680><c> is</c><02:02:55.860><c> array</c>
+
+02:02:56.300 --> 02:02:56.310 align:start position:0%
+second list element which again is array
+ 
+
+02:02:56.310 --> 02:03:00.200 align:start position:0%
+second list element which again is array
+index<02:02:56.820><c> one</c><02:02:57.180><c> so</c><02:02:58.080><c> if</c><02:02:58.350><c> we</c><02:02:59.070><c> run</c><02:02:59.580><c> this</c><02:02:59.640><c> it's</c><02:03:00.120><c> going</c>
+
+02:03:00.200 --> 02:03:00.210 align:start position:0%
+index one so if we run this it's going
+ 
+
+02:03:00.210 --> 02:03:02.510 align:start position:0%
+index one so if we run this it's going
+to<02:03:00.270><c> console</c><02:03:00.690><c> that</c><02:03:00.780><c> log</c><02:03:01.050><c> and</c><02:03:01.440><c> we</c><02:03:01.710><c> see</c><02:03:01.980><c> pine</c>
+
+02:03:02.510 --> 02:03:02.520 align:start position:0%
+to console that log and we see pine
+ 
+
+02:03:02.520 --> 02:03:08.730 align:start position:0%
+to console that log and we see pine
+that's<02:03:03.150><c> the</c><02:03:03.480><c> second</c><02:03:03.960><c> tree</c><02:03:04.200><c> here</c>
+
+02:03:08.730 --> 02:03:08.740 align:start position:0%
+ 
+ 
+
+02:03:08.740 --> 02:03:11.070 align:start position:0%
+ 
+this<02:03:09.580><c> is</c><02:03:09.760><c> a</c><02:03:09.790><c> coding</c><02:03:10.270><c> challenge</c><02:03:10.750><c> we're</c><02:03:10.990><c> gonna</c>
+
+02:03:11.070 --> 02:03:11.080 align:start position:0%
+this is a coding challenge we're gonna
+ 
+
+02:03:11.080 --> 02:03:15.120 align:start position:0%
+this is a coding challenge we're gonna
+do<02:03:11.380><c> we're</c><02:03:12.160><c> giving</c><02:03:12.610><c> given</c><02:03:13.180><c> this</c><02:03:13.450><c> object</c><02:03:14.260><c> here</c>
+
+02:03:15.120 --> 02:03:15.130 align:start position:0%
+do we're giving given this object here
+ 
+
+02:03:15.130 --> 02:03:18.870 align:start position:0%
+do we're giving given this object here
+which<02:03:15.280><c> is</c><02:03:15.820><c> a</c><02:03:15.850><c> record</c><02:03:16.510><c> collection</c><02:03:17.250><c> each</c><02:03:18.250><c> record</c>
+
+02:03:18.870 --> 02:03:18.880 align:start position:0%
+which is a record collection each record
+ 
+
+02:03:18.880 --> 02:03:22.560 align:start position:0%
+which is a record collection each record
+has<02:03:19.330><c> an</c><02:03:19.570><c> ID</c><02:03:19.840><c> and</c><02:03:20.380><c> then</c><02:03:21.160><c> it</c><02:03:21.280><c> also</c><02:03:21.490><c> has</c><02:03:21.880><c> different</c>
+
+02:03:22.560 --> 02:03:22.570 align:start position:0%
+has an ID and then it also has different
+ 
+
+02:03:22.570 --> 02:03:24.930 align:start position:0%
+has an ID and then it also has different
+pieces<02:03:23.440><c> of</c><02:03:23.560><c> information</c><02:03:23.770><c> about</c><02:03:24.280><c> the</c><02:03:24.550><c> record</c>
+
+02:03:24.930 --> 02:03:24.940 align:start position:0%
+pieces of information about the record
+ 
+
+02:03:24.940 --> 02:03:27.120 align:start position:0%
+pieces of information about the record
+they<02:03:25.720><c> don't</c><02:03:25.930><c> all</c><02:03:26.050><c> have</c><02:03:26.080><c> the</c><02:03:26.350><c> same</c><02:03:26.560><c> information</c>
+
+02:03:27.120 --> 02:03:27.130 align:start position:0%
+they don't all have the same information
+ 
+
+02:03:27.130 --> 02:03:30.060 align:start position:0%
+they don't all have the same information
+but<02:03:27.910><c> see</c><02:03:28.120><c> we</c><02:03:28.240><c> have</c><02:03:28.360><c> art</c><02:03:28.660><c> album</c><02:03:28.930><c> artist</c><02:03:29.620><c> tracks</c>
+
+02:03:30.060 --> 02:03:30.070 align:start position:0%
+but see we have art album artist tracks
+ 
+
+02:03:30.070 --> 02:03:33.240 align:start position:0%
+but see we have art album artist tracks
+album<02:03:31.000><c> artist</c><02:03:31.300><c> tracks</c><02:03:31.770><c> this</c><02:03:32.770><c> just</c><02:03:33.070><c> says</c>
+
+02:03:33.240 --> 02:03:33.250 align:start position:0%
+album artist tracks this just says
+ 
+
+02:03:33.250 --> 02:03:35.700 align:start position:0%
+album artist tracks this just says
+artist<02:03:33.730><c> tracks</c><02:03:34.120><c> and</c><02:03:34.390><c> this</c><02:03:34.480><c> just</c><02:03:34.750><c> has</c><02:03:34.990><c> album</c>
+
+02:03:35.700 --> 02:03:35.710 align:start position:0%
+artist tracks and this just has album
+ 
+
+02:03:35.710 --> 02:03:39.270 align:start position:0%
+artist tracks and this just has album
+here<02:03:36.100><c> and</c><02:03:36.330><c> we</c><02:03:37.330><c> are</c><02:03:37.720><c> supposed</c><02:03:38.080><c> to</c><02:03:38.350><c> create</c><02:03:38.770><c> this</c>
+
+02:03:39.270 --> 02:03:39.280 align:start position:0%
+here and we are supposed to create this
+ 
+
+02:03:39.280 --> 02:03:42.480 align:start position:0%
+here and we are supposed to create this
+update<02:03:40.210><c> records</c><02:03:40.870><c> function</c><02:03:41.680><c> where</c><02:03:42.070><c> we</c><02:03:42.280><c> can</c>
+
+02:03:42.480 --> 02:03:42.490 align:start position:0%
+update records function where we can
+ 
+
+02:03:42.490 --> 02:03:45.780 align:start position:0%
+update records function where we can
+pass<02:03:42.760><c> in</c><02:03:43.060><c> the</c><02:03:43.210><c> ID</c><02:03:43.420><c> the</c><02:03:44.380><c> property</c><02:03:45.070><c> and</c><02:03:45.250><c> the</c>
+
+02:03:45.780 --> 02:03:45.790 align:start position:0%
+pass in the ID the property and the
+ 
+
+02:03:45.790 --> 02:03:48.540 align:start position:0%
+pass in the ID the property and the
+value<02:03:46.300><c> and</c><02:03:46.570><c> it's</c><02:03:47.080><c> going</c><02:03:47.380><c> to</c><02:03:47.500><c> update</c><02:03:47.770><c> our</c>
+
+02:03:48.540 --> 02:03:48.550 align:start position:0%
+value and it's going to update our
+ 
+
+02:03:48.550 --> 02:03:50.850 align:start position:0%
+value and it's going to update our
+record<02:03:49.180><c> collection</c><02:03:49.720><c> with</c><02:03:50.080><c> the</c><02:03:50.320><c> property</c><02:03:50.800><c> of</c>
+
+02:03:50.850 --> 02:03:50.860 align:start position:0%
+record collection with the property of
+ 
+
+02:03:50.860 --> 02:03:53.190 align:start position:0%
+record collection with the property of
+the<02:03:50.920><c> value</c><02:03:51.310><c> so</c><02:03:51.910><c> for</c><02:03:52.150><c> instance</c><02:03:52.450><c> if</c><02:03:52.600><c> we</c><02:03:52.840><c> pass</c><02:03:53.050><c> in</c>
+
+02:03:53.190 --> 02:03:53.200 align:start position:0%
+the value so for instance if we pass in
+ 
+
+02:03:53.200 --> 02:03:53.930 align:start position:0%
+the value so for instance if we pass in
+the<02:03:53.230><c> ID</c>
+
+02:03:53.930 --> 02:03:53.940 align:start position:0%
+the ID
+ 
+
+02:03:53.940 --> 02:03:58.110 align:start position:0%
+the ID
+2468<02:03:55.090><c> and</c><02:03:55.390><c> we</c><02:03:55.900><c> put</c><02:03:56.200><c> the</c><02:03:56.530><c> property</c><02:03:57.280><c> artists</c><02:03:57.820><c> and</c>
+
+02:03:58.110 --> 02:03:58.120 align:start position:0%
+2468 and we put the property artists and
+ 
+
+02:03:58.120 --> 02:04:00.870 align:start position:0%
+2468 and we put the property artists and
+if<02:03:58.600><c> we</c><02:03:58.750><c> set</c><02:03:58.990><c> a</c><02:03:59.020><c> different</c><02:03:59.200><c> value</c><02:03:59.410><c> like</c><02:04:00.370><c> Quincy</c>
+
+02:04:00.870 --> 02:04:00.880 align:start position:0%
+if we set a different value like Quincy
+ 
+
+02:04:00.880 --> 02:04:03.500 align:start position:0%
+if we set a different value like Quincy
+or<02:04:01.330><c> something</c><02:04:01.720><c> like</c><02:04:01.810><c> that</c><02:04:01.870><c> then</c><02:04:02.830><c> we</c><02:04:03.130><c> should</c>
+
+02:04:03.500 --> 02:04:03.510 align:start position:0%
+or something like that then we should
+ 
+
+02:04:03.510 --> 02:04:06.660 align:start position:0%
+or something like that then we should
+update<02:04:04.510><c> this</c><02:04:04.780><c> whole</c><02:04:05.050><c> object</c><02:04:05.260><c> so</c><02:04:06.070><c> now</c><02:04:06.400><c> it</c><02:04:06.640><c> says</c>
+
+02:04:06.660 --> 02:04:06.670 align:start position:0%
+update this whole object so now it says
+ 
+
+02:04:06.670 --> 02:04:09.960 align:start position:0%
+update this whole object so now it says
+Quincy<02:04:07.360><c> instead</c><02:04:07.690><c> of</c><02:04:07.780><c> prints</c><02:04:08.290><c> and</c><02:04:08.760><c> we</c><02:04:09.760><c> should</c>
+
+02:04:09.960 --> 02:04:09.970 align:start position:0%
+Quincy instead of prints and we should
+ 
+
+02:04:09.970 --> 02:04:12.720 align:start position:0%
+Quincy instead of prints and we should
+return<02:04:10.480><c> the</c><02:04:10.930><c> full</c><02:04:11.230><c> collection</c><02:04:11.560><c> so</c><02:04:12.460><c> it's</c><02:04:12.610><c> going</c>
+
+02:04:12.720 --> 02:04:12.730 align:start position:0%
+return the full collection so it's going
+ 
+
+02:04:12.730 --> 02:04:14.580 align:start position:0%
+return the full collection so it's going
+to<02:04:12.790><c> update</c><02:04:12.940><c> the</c><02:04:13.210><c> collection</c><02:04:13.630><c> and</c><02:04:13.840><c> then</c><02:04:14.020><c> return</c>
+
+02:04:14.580 --> 02:04:14.590 align:start position:0%
+to update the collection and then return
+ 
+
+02:04:14.590 --> 02:04:17.940 align:start position:0%
+to update the collection and then return
+the<02:04:14.890><c> collection</c><02:04:15.430><c> if</c><02:04:15.970><c> we</c><02:04:16.810><c> have</c><02:04:17.140><c> an</c><02:04:17.410><c> empty</c>
+
+02:04:17.940 --> 02:04:17.950 align:start position:0%
+the collection if we have an empty
+ 
+
+02:04:17.950 --> 02:04:20.070 align:start position:0%
+the collection if we have an empty
+string<02:04:18.310><c> for</c><02:04:18.580><c> the</c><02:04:18.640><c> value</c><02:04:19.090><c> it</c><02:04:19.330><c> should</c><02:04:19.570><c> just</c>
+
+02:04:20.070 --> 02:04:20.080 align:start position:0%
+string for the value it should just
+ 
+
+02:04:20.080 --> 02:04:23.580 align:start position:0%
+string for the value it should just
+completely<02:04:20.590><c> delete</c><02:04:21.220><c> that</c><02:04:21.460><c> property</c><02:04:22.210><c> also</c><02:04:22.780><c> if</c>
+
+02:04:23.580 --> 02:04:23.590 align:start position:0%
+completely delete that property also if
+ 
+
+02:04:23.590 --> 02:04:26.910 align:start position:0%
+completely delete that property also if
+we<02:04:24.430><c> have</c><02:04:24.730><c> the</c><02:04:24.970><c> property</c><02:04:25.420><c> of</c><02:04:25.540><c> tracks</c><02:04:25.990><c> and</c><02:04:26.440><c> then</c>
+
+02:04:26.910 --> 02:04:26.920 align:start position:0%
+we have the property of tracks and then
+ 
+
+02:04:26.920 --> 02:04:30.330 align:start position:0%
+we have the property of tracks and then
+we<02:04:27.100><c> have</c><02:04:27.220><c> a</c><02:04:27.250><c> value</c><02:04:27.580><c> instead</c><02:04:28.360><c> of</c><02:04:28.600><c> updating</c><02:04:29.340><c> the</c>
+
+02:04:30.330 --> 02:04:30.340 align:start position:0%
+we have a value instead of updating the
+ 
+
+02:04:30.340 --> 02:04:33.960 align:start position:0%
+we have a value instead of updating the
+whole<02:04:30.700><c> tracks</c><02:04:31.330><c> here</c><02:04:32.260><c> with</c><02:04:32.530><c> what</c><02:04:32.800><c> we</c><02:04:32.830><c> put</c><02:04:33.310><c> in</c>
+
+02:04:33.960 --> 02:04:33.970 align:start position:0%
+whole tracks here with what we put in
+ 
+
+02:04:33.970 --> 02:04:36.870 align:start position:0%
+whole tracks here with what we put in
+it's<02:04:34.480><c> just</c><02:04:34.840><c> going</c><02:04:35.050><c> to</c><02:04:35.230><c> add</c><02:04:35.530><c> the</c><02:04:36.100><c> track</c><02:04:36.460><c> to</c><02:04:36.850><c> the</c>
+
+02:04:36.870 --> 02:04:36.880 align:start position:0%
+it's just going to add the track to the
+ 
+
+02:04:36.880 --> 02:04:40.290 align:start position:0%
+it's just going to add the track to the
+end<02:04:37.180><c> of</c><02:04:37.420><c> this</c><02:04:37.600><c> array</c><02:04:38.490><c> so</c><02:04:39.490><c> if</c><02:04:39.880><c> you</c><02:04:40.060><c> look</c><02:04:40.270><c> right</c>
+
+02:04:40.290 --> 02:04:40.300 align:start position:0%
+end of this array so if you look right
+ 
+
+02:04:40.300 --> 02:04:42.870 align:start position:0%
+end of this array so if you look right
+here<02:04:40.480><c> it</c><02:04:40.870><c> says</c><02:04:41.440><c> the</c><02:04:41.830><c> comment</c><02:04:42.250><c> says</c><02:04:42.400><c> keep</c><02:04:42.730><c> a</c>
+
+02:04:42.870 --> 02:04:42.880 align:start position:0%
+here it says the comment says keep a
+ 
+
+02:04:42.880 --> 02:04:46.320 align:start position:0%
+here it says the comment says keep a
+copy<02:04:43.210><c> of</c><02:04:43.510><c> the</c><02:04:43.690><c> collection</c><02:04:44.320><c> for</c><02:04:44.650><c> tests</c><02:04:45.460><c> this</c>
+
+02:04:46.320 --> 02:04:46.330 align:start position:0%
+copy of the collection for tests this
+ 
+
+02:04:46.330 --> 02:04:49.230 align:start position:0%
+copy of the collection for tests this
+JSON<02:04:46.990><c> dot</c><02:04:47.320><c> parse</c><02:04:47.650><c> and</c><02:04:48.010><c> json</c><02:04:48.550><c> dot</c><02:04:48.820><c> stringify</c>
+
+02:04:49.230 --> 02:04:49.240 align:start position:0%
+JSON dot parse and json dot stringify
+ 
+
+02:04:49.240 --> 02:04:53.010 align:start position:0%
+JSON dot parse and json dot stringify
+and<02:04:49.840><c> then</c><02:04:50.320><c> collection</c><02:04:51.100><c> this</c><02:04:51.790><c> is</c><02:04:51.850><c> just</c><02:04:52.420><c> a</c><02:04:52.630><c> fancy</c>
+
+02:04:53.010 --> 02:04:53.020 align:start position:0%
+and then collection this is just a fancy
+ 
+
+02:04:53.020 --> 02:04:56.010 align:start position:0%
+and then collection this is just a fancy
+way<02:04:53.350><c> in</c><02:04:53.470><c> JavaScript</c><02:04:54.160><c> to</c><02:04:54.250><c> make</c><02:04:54.400><c> a</c><02:04:54.670><c> copy</c><02:04:55.300><c> of</c><02:04:55.540><c> the</c>
+
+02:04:56.010 --> 02:04:56.020 align:start position:0%
+way in JavaScript to make a copy of the
+ 
+
+02:04:56.020 --> 02:04:59.520 align:start position:0%
+way in JavaScript to make a copy of the
+object<02:04:56.910><c> remember</c><02:04:57.910><c> in</c><02:04:58.120><c> our</c><02:04:58.540><c> function</c><02:04:59.230><c> we</c><02:04:59.500><c> are</c>
+
+02:04:59.520 --> 02:04:59.530 align:start position:0%
+object remember in our function we are
+ 
+
+02:04:59.530 --> 02:05:01.910 align:start position:0%
+object remember in our function we are
+going<02:04:59.710><c> to</c><02:05:00.040><c> be</c><02:05:00.160><c> changing</c><02:05:00.940><c> the</c><02:05:00.970><c> collection</c>
+
+02:05:01.910 --> 02:05:01.920 align:start position:0%
+going to be changing the collection
+ 
+
+02:05:01.920 --> 02:05:05.220 align:start position:0%
+going to be changing the collection
+object<02:05:02.920><c> but</c><02:05:03.550><c> we</c><02:05:03.580><c> want</c><02:05:04.030><c> to</c><02:05:04.150><c> have</c><02:05:04.300><c> a</c><02:05:04.360><c> copy</c><02:05:04.810><c> of</c><02:05:04.990><c> the</c>
+
+02:05:05.220 --> 02:05:05.230 align:start position:0%
+object but we want to have a copy of the
+ 
+
+02:05:05.230 --> 02:05:07.770 align:start position:0%
+object but we want to have a copy of the
+original<02:05:05.860><c> object</c><02:05:06.070><c> before</c><02:05:06.580><c> anything</c><02:05:07.450><c> was</c>
+
+02:05:07.770 --> 02:05:07.780 align:start position:0%
+original object before anything was
+ 
+
+02:05:07.780 --> 02:05:11.010 align:start position:0%
+original object before anything was
+changed<02:05:08.740><c> so</c><02:05:08.920><c> that's</c><02:05:09.340><c> what</c><02:05:09.520><c> that's</c><02:05:09.730><c> for</c><02:05:10.150><c> so</c>
+
+02:05:11.010 --> 02:05:11.020 align:start position:0%
+changed so that's what that's for so
+ 
+
+02:05:11.020 --> 02:05:13.860 align:start position:0%
+changed so that's what that's for so
+let's<02:05:11.440><c> go</c><02:05:11.590><c> ahead</c><02:05:11.710><c> and</c><02:05:11.920><c> do</c><02:05:12.070><c> that</c><02:05:12.250><c> so</c><02:05:12.910><c> we're</c><02:05:13.690><c> just</c>
+
+02:05:13.860 --> 02:05:13.870 align:start position:0%
+let's go ahead and do that so we're just
+ 
+
+02:05:13.870 --> 02:05:16.050 align:start position:0%
+let's go ahead and do that so we're just
+updating<02:05:14.050><c> this</c><02:05:14.530><c> function</c><02:05:14.980><c> here</c><02:05:15.280><c> this</c><02:05:15.580><c> update</c>
+
+02:05:16.050 --> 02:05:16.060 align:start position:0%
+updating this function here this update
+ 
+
+02:05:16.060 --> 02:05:19.050 align:start position:0%
+updating this function here this update
+records<02:05:16.510><c> function</c><02:05:16.960><c> okay</c><02:05:17.530><c> so</c><02:05:17.590><c> let's</c><02:05:18.220><c> get</c><02:05:18.670><c> to</c>
+
+02:05:19.050 --> 02:05:19.060 align:start position:0%
+records function okay so let's get to
+ 
+
+02:05:19.060 --> 02:05:22.709 align:start position:0%
+records function okay so let's get to
+this<02:05:19.330><c> so</c><02:05:19.990><c> we'll</c><02:05:20.140><c> do</c><02:05:20.260><c> if</c><02:05:21.060><c> value</c>
+
+02:05:22.709 --> 02:05:22.719 align:start position:0%
+this so we'll do if value
+ 
+
+02:05:22.719 --> 02:05:26.489 align:start position:0%
+this so we'll do if value
+equals<02:05:23.679><c> equals</c><02:05:24.130><c> equals</c><02:05:24.659><c> blank</c><02:05:25.659><c> because</c><02:05:26.229><c> the</c>
+
+02:05:26.489 --> 02:05:26.499 align:start position:0%
+equals equals equals blank because the
+ 
+
+02:05:26.499 --> 02:05:28.409 align:start position:0%
+equals equals equals blank because the
+first<02:05:26.709><c> condition</c><02:05:27.189><c> we</c><02:05:27.340><c> are</c><02:05:27.369><c> going</c><02:05:27.699><c> to</c><02:05:27.820><c> test</c><02:05:28.090><c> for</c>
+
+02:05:28.409 --> 02:05:28.419 align:start position:0%
+first condition we are going to test for
+ 
+
+02:05:28.419 --> 02:05:31.350 align:start position:0%
+first condition we are going to test for
+is<02:05:28.630><c> if</c><02:05:29.169><c> we</c><02:05:29.320><c> need</c><02:05:29.499><c> to</c><02:05:29.650><c> delete</c><02:05:30.280><c> the</c><02:05:30.789><c> property</c>
+
+02:05:31.350 --> 02:05:31.360 align:start position:0%
+is if we need to delete the property
+ 
+
+02:05:31.360 --> 02:05:33.390 align:start position:0%
+is if we need to delete the property
+remember<02:05:31.929><c> if</c><02:05:32.079><c> the</c><02:05:32.229><c> value</c><02:05:32.559><c> is</c><02:05:32.650><c> at</c><02:05:32.800><c> the</c><02:05:32.919><c> blank</c><02:05:33.189><c> we</c>
+
+02:05:33.390 --> 02:05:33.400 align:start position:0%
+remember if the value is at the blank we
+ 
+
+02:05:33.400 --> 02:05:36.270 align:start position:0%
+remember if the value is at the blank we
+delete<02:05:33.820><c> that</c><02:05:34.030><c> property</c><02:05:34.539><c> so</c><02:05:35.169><c> if</c><02:05:35.439><c> the</c><02:05:35.829><c> value</c><02:05:36.130><c> is</c>
+
+02:05:36.270 --> 02:05:36.280 align:start position:0%
+delete that property so if the value is
+ 
+
+02:05:36.280 --> 02:05:40.469 align:start position:0%
+delete that property so if the value is
+blank<02:05:36.699><c> we</c><02:05:37.510><c> are</c><02:05:37.659><c> going</c><02:05:37.989><c> to</c><02:05:38.199><c> delete</c><02:05:39.479><c> election</c>
+
+02:05:40.469 --> 02:05:40.479 align:start position:0%
+blank we are going to delete election
+ 
+
+02:05:40.479 --> 02:05:44.429 align:start position:0%
+blank we are going to delete election
+and<02:05:40.719><c> then</c><02:05:41.619><c> we</c><02:05:41.769><c> have</c><02:05:41.889><c> to</c><02:05:42.010><c> use</c><02:05:42.099><c> bracket</c><02:05:42.550><c> n</c><02:05:43.119><c> ID</c><02:05:43.630><c> and</c>
+
+02:05:44.429 --> 02:05:44.439 align:start position:0%
+and then we have to use bracket n ID and
+ 
+
+02:05:44.439 --> 02:05:50.129 align:start position:0%
+and then we have to use bracket n ID and
+then<02:05:45.719><c> try</c><02:05:46.719><c> the</c><02:05:47.159><c> collection</c><02:05:48.159><c> ID</c><02:05:48.489><c> crop</c><02:05:49.269><c> that's</c>
+
+02:05:50.129 --> 02:05:50.139 align:start position:0%
+then try the collection ID crop that's
+ 
+
+02:05:50.139 --> 02:05:52.620 align:start position:0%
+then try the collection ID crop that's
+the<02:05:50.469><c> collection</c><02:05:50.919><c> here</c><02:05:51.189><c> if</c><02:05:51.340><c> we</c><02:05:51.699><c> pass</c><02:05:52.269><c> in</c><02:05:52.449><c> the</c><02:05:52.510><c> ID</c>
+
+02:05:52.620 --> 02:05:52.630 align:start position:0%
+the collection here if we pass in the ID
+ 
+
+02:05:52.630 --> 02:05:55.350 align:start position:0%
+the collection here if we pass in the ID
+1248<02:05:53.559><c> it</c><02:05:53.709><c> will</c><02:05:53.800><c> go</c><02:05:53.919><c> to</c><02:05:53.979><c> there</c><02:05:54.219><c> the</c><02:05:54.669><c> property</c><02:05:55.269><c> if</c>
+
+02:05:55.350 --> 02:05:55.360 align:start position:0%
+1248 it will go to there the property if
+ 
+
+02:05:55.360 --> 02:05:57.209 align:start position:0%
+1248 it will go to there the property if
+we<02:05:55.479><c> passed</c><02:05:55.749><c> an</c><02:05:55.959><c> album</c><02:05:56.439><c> for</c><02:05:56.619><c> the</c><02:05:56.679><c> property</c><02:05:57.130><c> will</c>
+
+02:05:57.209 --> 02:05:57.219 align:start position:0%
+we passed an album for the property will
+ 
+
+02:05:57.219 --> 02:05:58.799 align:start position:0%
+we passed an album for the property will
+go<02:05:57.340><c> to</c><02:05:57.400><c> here</c><02:05:57.699><c> and</c><02:05:57.880><c> then</c><02:05:58.329><c> we'll</c><02:05:58.479><c> just</c><02:05:58.510><c> delete</c>
+
+02:05:58.799 --> 02:05:58.809 align:start position:0%
+go to here and then we'll just delete
+ 
+
+02:05:58.809 --> 02:06:01.529 align:start position:0%
+go to here and then we'll just delete
+that<02:05:59.019><c> whole</c><02:05:59.439><c> thing</c><02:05:59.769><c> if</c><02:06:00.219><c> our</c><02:06:00.909><c> values</c><02:06:01.329><c> in</c><02:06:01.479><c> the</c>
+
+02:06:01.529 --> 02:06:01.539 align:start position:0%
+that whole thing if our values in the
+ 
+
+02:06:01.539 --> 02:06:04.379 align:start position:0%
+that whole thing if our values in the
+empty<02:06:01.749><c> string</c><02:06:02.139><c> okay</c><02:06:03.099><c> the</c><02:06:03.249><c> next</c><02:06:03.459><c> condition</c><02:06:04.209><c> we</c>
+
+02:06:04.379 --> 02:06:04.389 align:start position:0%
+empty string okay the next condition we
+ 
+
+02:06:04.389 --> 02:06:07.919 align:start position:0%
+empty string okay the next condition we
+have<02:06:04.570><c> to</c><02:06:04.599><c> look</c><02:06:04.959><c> for</c><02:06:05.289><c> is</c><02:06:05.559><c> if</c><02:06:06.429><c> the</c><02:06:07.329><c> property</c><02:06:07.900><c> is</c>
+
+02:06:07.919 --> 02:06:07.929 align:start position:0%
+have to look for is if the property is
+ 
+
+02:06:07.929 --> 02:06:11.429 align:start position:0%
+have to look for is if the property is
+tracks<02:06:08.590><c> because</c><02:06:09.429><c> for</c><02:06:10.090><c> most</c><02:06:10.360><c> properties</c><02:06:10.719><c> we're</c>
+
+02:06:11.429 --> 02:06:11.439 align:start position:0%
+tracks because for most properties we're
+ 
+
+02:06:11.439 --> 02:06:13.409 align:start position:0%
+tracks because for most properties we're
+just<02:06:11.650><c> going</c><02:06:11.800><c> to</c><02:06:11.860><c> override</c><02:06:12.489><c> that</c><02:06:12.849><c> property</c>
+
+02:06:13.409 --> 02:06:13.419 align:start position:0%
+just going to override that property
+ 
+
+02:06:13.419 --> 02:06:14.839 align:start position:0%
+just going to override that property
+with<02:06:13.570><c> the</c><02:06:13.689><c> value</c><02:06:14.050><c> passed</c><02:06:14.289><c> into</c><02:06:14.559><c> the</c><02:06:14.739><c> function</c>
+
+02:06:14.839 --> 02:06:14.849 align:start position:0%
+with the value passed into the function
+ 
+
+02:06:14.849 --> 02:06:18.179 align:start position:0%
+with the value passed into the function
+but<02:06:15.849><c> if</c><02:06:15.999><c> the</c><02:06:16.419><c> property</c><02:06:17.110><c> is</c><02:06:17.139><c> tracks</c><02:06:17.650><c> we</c><02:06:18.099><c> are</c>
+
+02:06:18.179 --> 02:06:18.189 align:start position:0%
+but if the property is tracks we are
+ 
+
+02:06:18.189 --> 02:06:20.159 align:start position:0%
+but if the property is tracks we are
+going<02:06:18.400><c> to</c><02:06:18.489><c> push</c><02:06:18.909><c> on</c><02:06:19.150><c> to</c><02:06:19.419><c> the</c><02:06:19.510><c> end</c><02:06:19.659><c> of</c><02:06:19.809><c> the</c><02:06:19.900><c> array</c>
+
+02:06:20.159 --> 02:06:20.169 align:start position:0%
+going to push on to the end of the array
+ 
+
+02:06:20.169 --> 02:06:25.699 align:start position:0%
+going to push on to the end of the array
+so<02:06:20.469><c> let's</c><02:06:21.429><c> do</c><02:06:21.550><c> an</c><02:06:21.639><c> else</c><02:06:21.849><c> if</c><02:06:22.059><c> else</c><02:06:22.599><c> if</c><02:06:23.939><c> prop</c>
+
+02:06:25.699 --> 02:06:25.709 align:start position:0%
+so let's do an else if else if prop
+ 
+
+02:06:25.709 --> 02:06:32.489 align:start position:0%
+so let's do an else if else if prop
+equals<02:06:26.709><c> equals</c><02:06:27.070><c> equals</c><02:06:28.169><c> tracks</c><02:06:30.780><c> then</c><02:06:31.780><c> we</c><02:06:32.349><c> just</c>
+
+02:06:32.489 --> 02:06:32.499 align:start position:0%
+equals equals equals tracks then we just
+ 
+
+02:06:32.499 --> 02:06:33.989 align:start position:0%
+equals equals equals tracks then we just
+have<02:06:32.590><c> to</c><02:06:32.709><c> push</c><02:06:32.979><c> on</c><02:06:33.159><c> to</c><02:06:33.340><c> the</c><02:06:33.429><c> end</c><02:06:33.550><c> of</c><02:06:33.669><c> the</c><02:06:33.789><c> array</c>
+
+02:06:33.989 --> 02:06:33.999 align:start position:0%
+have to push on to the end of the array
+ 
+
+02:06:33.999 --> 02:06:38.399 align:start position:0%
+have to push on to the end of the array
+so<02:06:35.849><c> there's</c><02:06:36.849><c> also</c><02:06:37.179><c> another</c><02:06:37.479><c> condition</c><02:06:38.050><c> here</c>
+
+02:06:38.399 --> 02:06:38.409 align:start position:0%
+so there's also another condition here
+ 
+
+02:06:38.409 --> 02:06:43.290 align:start position:0%
+so there's also another condition here
+which<02:06:38.530><c> is</c><02:06:38.979><c> if</c><02:06:39.419><c> the</c><02:06:40.419><c> tracks</c><02:06:41.110><c> property</c><02:06:42.070><c> is</c><02:06:42.300><c> empty</c>
+
+02:06:43.290 --> 02:06:43.300 align:start position:0%
+which is if the tracks property is empty
+ 
+
+02:06:43.300 --> 02:06:46.620 align:start position:0%
+which is if the tracks property is empty
+if<02:06:43.769><c> the</c><02:06:44.769><c> tracks</c><02:06:45.130><c> property</c><02:06:45.789><c> is</c><02:06:45.880><c> empty</c><02:06:46.300><c> we</c><02:06:46.449><c> need</c>
+
+02:06:46.620 --> 02:06:46.630 align:start position:0%
+if the tracks property is empty we need
+ 
+
+02:06:46.630 --> 02:06:48.779 align:start position:0%
+if the tracks property is empty we need
+to<02:06:46.780><c> create</c><02:06:47.110><c> it</c><02:06:47.349><c> here's</c><02:06:47.860><c> a</c><02:06:47.919><c> fancy</c><02:06:48.249><c> way</c><02:06:48.519><c> to</c><02:06:48.579><c> do</c>
+
+02:06:48.779 --> 02:06:48.789 align:start position:0%
+to create it here's a fancy way to do
+ 
+
+02:06:48.789 --> 02:06:56.429 align:start position:0%
+to create it here's a fancy way to do
+that<02:06:49.030><c> collection</c><02:06:51.719><c> ID</c><02:06:54.030><c> props</c><02:06:55.030><c> so</c><02:06:56.019><c> if</c><02:06:56.139><c> prop</c>
+
+02:06:56.429 --> 02:06:56.439 align:start position:0%
+that collection ID props so if prop
+ 
+
+02:06:56.439 --> 02:06:59.429 align:start position:0%
+that collection ID props so if prop
+equals<02:06:56.860><c> tracks</c><02:06:57.340><c> we</c><02:06:58.239><c> are</c><02:06:58.329><c> going</c><02:06:58.599><c> to</c><02:06:58.719><c> set</c><02:06:59.139><c> the</c>
+
+02:06:59.429 --> 02:06:59.439 align:start position:0%
+equals tracks we are going to set the
+ 
+
+02:06:59.439 --> 02:07:01.669 align:start position:0%
+equals tracks we are going to set the
+tracks<02:06:59.829><c> because</c><02:07:00.309><c> we're</c><02:07:00.459><c> prop</c><02:07:00.880><c> is</c><02:07:01.119><c> going</c><02:07:01.419><c> to</c>
+
+02:07:01.669 --> 02:07:01.679 align:start position:0%
+tracks because we're prop is going to
+ 
+
+02:07:01.679 --> 02:07:03.899 align:start position:0%
+tracks because we're prop is going to
+equal<02:07:02.679><c> track</c><02:07:03.189><c> we're</c><02:07:03.400><c> going</c><02:07:03.519><c> to</c><02:07:03.579><c> set</c><02:07:03.729><c> the</c>
+
+02:07:03.899 --> 02:07:03.909 align:start position:0%
+equal track we're going to set the
+ 
+
+02:07:03.909 --> 02:07:06.929 align:start position:0%
+equal track we're going to set the
+tracks<02:07:04.360><c> to</c><02:07:04.869><c> equal</c><02:07:05.650><c> it's</c><02:07:06.459><c> going</c><02:07:06.699><c> to</c><02:07:06.760><c> either</c>
+
+02:07:06.929 --> 02:07:06.939 align:start position:0%
+tracks to equal it's going to either
+ 
+
+02:07:06.939 --> 02:07:10.770 align:start position:0%
+tracks to equal it's going to either
+equal<02:07:07.419><c> itself</c><02:07:07.989><c> if</c><02:07:08.349><c> it</c><02:07:09.010><c> exists</c><02:07:09.699><c> or</c><02:07:09.969><c> if</c><02:07:10.659><c> it</c>
+
+02:07:10.770 --> 02:07:10.780 align:start position:0%
+equal itself if it exists or if it
+ 
+
+02:07:10.780 --> 02:07:12.600 align:start position:0%
+equal itself if it exists or if it
+doesn't<02:07:11.139><c> exist</c><02:07:11.229><c> we're</c><02:07:11.739><c> going</c><02:07:11.979><c> to</c><02:07:12.099><c> create</c><02:07:12.429><c> it</c>
+
+02:07:12.600 --> 02:07:12.610 align:start position:0%
+doesn't exist we're going to create it
+ 
+
+02:07:12.610 --> 02:07:19.620 align:start position:0%
+doesn't exist we're going to create it
+I'll<02:07:12.760><c> show</c><02:07:13.059><c> you</c><02:07:13.119><c> how</c><02:07:13.769><c> collection</c><02:07:16.019><c> ID</c><02:07:17.909><c> huh</c><02:07:18.909><c> it's</c>
+
+02:07:19.620 --> 02:07:19.630 align:start position:0%
+I'll show you how collection ID huh it's
+ 
+
+02:07:19.630 --> 02:07:23.370 align:start position:0%
+I'll show you how collection ID huh it's
+gonna<02:07:19.719><c> equal</c><02:07:20.380><c> itself</c><02:07:20.800><c> or</c><02:07:21.989><c> that's</c><02:07:22.989><c> the</c><02:07:23.199><c> or</c>
+
+02:07:23.370 --> 02:07:23.380 align:start position:0%
+gonna equal itself or that's the or
+ 
+
+02:07:23.380 --> 02:07:26.459 align:start position:0%
+gonna equal itself or that's the or
+operator<02:07:23.979><c> it's</c><02:07:24.459><c> going</c><02:07:24.760><c> to</c><02:07:24.849><c> equal</c><02:07:25.030><c> an</c><02:07:25.510><c> empty</c>
+
+02:07:26.459 --> 02:07:26.469 align:start position:0%
+operator it's going to equal an empty
+ 
+
+02:07:26.469 --> 02:07:30.479 align:start position:0%
+operator it's going to equal an empty
+array<02:07:26.559><c> so</c><02:07:27.489><c> if</c><02:07:28.269><c> this</c><02:07:28.929><c> already</c><02:07:29.439><c> exists</c><02:07:30.070><c> we're</c>
+
+02:07:30.479 --> 02:07:30.489 align:start position:0%
+array so if this already exists we're
+ 
+
+02:07:30.489 --> 02:07:34.259 align:start position:0%
+array so if this already exists we're
+gonna<02:07:30.610><c> set</c><02:07:30.909><c> to</c><02:07:31.059><c> equal</c><02:07:31.239><c> itself</c><02:07:32.459><c> but</c><02:07:33.459><c> if</c><02:07:33.669><c> itself</c>
+
+02:07:34.259 --> 02:07:34.269 align:start position:0%
+gonna set to equal itself but if itself
+ 
+
+02:07:34.269 --> 02:07:35.890 align:start position:0%
+gonna set to equal itself but if itself
+doesn't<02:07:34.809><c> exist</c>
+
+02:07:35.890 --> 02:07:35.900 align:start position:0%
+doesn't exist
+ 
+
+02:07:35.900 --> 02:07:38.080 align:start position:0%
+doesn't exist
+we'll<02:07:35.989><c> just</c><02:07:36.230><c> set</c><02:07:36.620><c> it</c><02:07:36.739><c> to</c><02:07:36.770><c> equal</c><02:07:36.920><c> and</c><02:07:37.550><c> empty</c>
+
+02:07:38.080 --> 02:07:38.090 align:start position:0%
+we'll just set it to equal and empty
+ 
+
+02:07:38.090 --> 02:07:40.750 align:start position:0%
+we'll just set it to equal and empty
+array<02:07:38.390><c> so</c><02:07:39.140><c> that's</c><02:07:39.350><c> just</c><02:07:39.560><c> a</c><02:07:39.800><c> way</c><02:07:39.890><c> to</c><02:07:40.159><c> create</c>
+
+02:07:40.750 --> 02:07:40.760 align:start position:0%
+array so that's just a way to create
+ 
+
+02:07:40.760 --> 02:07:42.850 align:start position:0%
+array so that's just a way to create
+that<02:07:41.090><c> property</c><02:07:42.020><c> if</c><02:07:42.230><c> it</c><02:07:42.440><c> doesn't</c><02:07:42.739><c> already</c>
+
+02:07:42.850 --> 02:07:42.860 align:start position:0%
+that property if it doesn't already
+ 
+
+02:07:42.860 --> 02:07:45.850 align:start position:0%
+that property if it doesn't already
+exist<02:07:43.010><c> so</c><02:07:43.969><c> now</c><02:07:44.150><c> that</c><02:07:44.210><c> we</c><02:07:44.480><c> know</c><02:07:44.510><c> it</c><02:07:44.900><c> exists</c><02:07:45.469><c> we</c>
+
+02:07:45.850 --> 02:07:45.860 align:start position:0%
+exist so now that we know it exists we
+ 
+
+02:07:45.860 --> 02:07:48.070 align:start position:0%
+exist so now that we know it exists we
+can<02:07:46.100><c> just</c><02:07:46.400><c> push</c><02:07:47.090><c> the</c><02:07:47.300><c> value</c><02:07:47.510><c> to</c><02:07:47.750><c> the</c><02:07:47.840><c> end</c><02:07:47.989><c> of</c>
+
+02:07:48.070 --> 02:07:48.080 align:start position:0%
+can just push the value to the end of
+ 
+
+02:07:48.080 --> 02:07:48.669 align:start position:0%
+can just push the value to the end of
+the<02:07:48.140><c> array</c>
+
+02:07:48.669 --> 02:07:48.679 align:start position:0%
+the array
+ 
+
+02:07:48.679 --> 02:07:56.860 align:start position:0%
+the array
+collection<02:07:50.620><c> ID</c><02:07:53.110><c> prop</c><02:07:54.110><c> and</c><02:07:55.300><c> we'll</c><02:07:56.300><c> just</c><02:07:56.480><c> do</c><02:07:56.690><c> the</c>
+
+02:07:56.860 --> 02:07:56.870 align:start position:0%
+collection ID prop and we'll just do the
+ 
+
+02:07:56.870 --> 02:08:01.360 align:start position:0%
+collection ID prop and we'll just do the
+dot<02:07:57.170><c> push</c><02:07:57.679><c> and</c><02:07:58.929><c> then</c><02:07:59.929><c> put</c><02:08:00.500><c> in</c><02:08:00.650><c> the</c><02:08:00.920><c> parentheses</c>
+
+02:08:01.360 --> 02:08:01.370 align:start position:0%
+dot push and then put in the parentheses
+ 
+
+02:08:01.370 --> 02:08:04.540 align:start position:0%
+dot push and then put in the parentheses
+the<02:08:01.610><c> value</c><02:08:02.060><c> so</c><02:08:02.960><c> we're</c><02:08:03.530><c> able</c><02:08:03.650><c> to</c><02:08:03.920><c> push</c><02:08:04.340><c> the</c>
+
+02:08:04.540 --> 02:08:04.550 align:start position:0%
+the value so we're able to push the
+ 
+
+02:08:04.550 --> 02:08:06.640 align:start position:0%
+the value so we're able to push the
+value<02:08:04.969><c> that</c><02:08:05.120><c> was</c><02:08:05.270><c> passed</c><02:08:05.300><c> into</c><02:08:05.989><c> this</c><02:08:06.110><c> function</c>
+
+02:08:06.640 --> 02:08:06.650 align:start position:0%
+value that was passed into this function
+ 
+
+02:08:06.650 --> 02:08:09.729 align:start position:0%
+value that was passed into this function
+onto<02:08:06.860><c> the</c><02:08:07.550><c> end</c><02:08:07.790><c> of</c><02:08:07.940><c> the</c><02:08:08.000><c> array</c><02:08:08.560><c> okay</c><02:08:09.560><c> there's</c>
+
+02:08:09.729 --> 02:08:09.739 align:start position:0%
+onto the end of the array okay there's
+ 
+
+02:08:09.739 --> 02:08:13.330 align:start position:0%
+onto the end of the array okay there's
+only<02:08:09.800><c> one</c><02:08:10.159><c> last</c><02:08:10.429><c> condition</c><02:08:10.730><c> which</c><02:08:11.719><c> is</c><02:08:12.340><c> the</c>
+
+02:08:13.330 --> 02:08:13.340 align:start position:0%
+only one last condition which is the
+ 
+
+02:08:13.340 --> 02:08:16.979 align:start position:0%
+only one last condition which is the
+just<02:08:13.610><c> kind</c><02:08:14.179><c> of</c><02:08:14.239><c> the</c><02:08:14.300><c> default</c><02:08:14.480><c> condition</c><02:08:14.900><c> else</c>
+
+02:08:16.979 --> 02:08:16.989 align:start position:0%
+just kind of the default condition else
+ 
+
+02:08:16.989 --> 02:08:20.770 align:start position:0%
+just kind of the default condition else
+so<02:08:17.989><c> if</c><02:08:18.500><c> the</c><02:08:18.739><c> values</c><02:08:19.100><c> in</c><02:08:19.280><c> blank</c><02:08:19.610><c> and</c><02:08:19.880><c> the</c>
+
+02:08:20.770 --> 02:08:20.780 align:start position:0%
+so if the values in blank and the
+ 
+
+02:08:20.780 --> 02:08:24.550 align:start position:0%
+so if the values in blank and the
+property<02:08:21.350><c> isn't</c><02:08:21.530><c> tracks</c><02:08:22.270><c> then</c><02:08:23.270><c> we</c><02:08:23.929><c> just</c><02:08:24.199><c> push</c>
+
+02:08:24.550 --> 02:08:24.560 align:start position:0%
+property isn't tracks then we just push
+ 
+
+02:08:24.560 --> 02:08:28.300 align:start position:0%
+property isn't tracks then we just push
+the<02:08:24.770><c> value</c><02:08:24.980><c> onto</c><02:08:25.340><c> the</c><02:08:25.550><c> property</c><02:08:26.140><c> then</c><02:08:27.140><c> we</c><02:08:27.469><c> just</c>
+
+02:08:28.300 --> 02:08:28.310 align:start position:0%
+the value onto the property then we just
+ 
+
+02:08:28.310 --> 02:08:31.630 align:start position:0%
+the value onto the property then we just
+set<02:08:28.820><c> the</c><02:08:29.000><c> property</c><02:08:29.540><c> to</c><02:08:29.929><c> equal</c><02:08:30.380><c> the</c><02:08:30.620><c> value</c><02:08:30.770><c> just</c>
+
+02:08:31.630 --> 02:08:31.640 align:start position:0%
+set the property to equal the value just
+ 
+
+02:08:31.640 --> 02:08:39.399 align:start position:0%
+set the property to equal the value just
+like<02:08:31.730><c> this</c><02:08:32.030><c> collection</c><02:08:33.610><c> ID</c><02:08:36.250><c> prop</c><02:08:38.409><c> equals</c>
+
+02:08:39.399 --> 02:08:39.409 align:start position:0%
+like this collection ID prop equals
+ 
+
+02:08:39.409 --> 02:08:45.580 align:start position:0%
+like this collection ID prop equals
+value<02:08:41.620><c> okay</c><02:08:42.650><c> let's</c><02:08:43.460><c> test</c><02:08:44.239><c> this</c><02:08:44.510><c> out</c><02:08:44.750><c> so</c><02:08:45.440><c> we</c>
+
+02:08:45.580 --> 02:08:45.590 align:start position:0%
+value okay let's test this out so we
+ 
+
+02:08:45.590 --> 02:08:47.620 align:start position:0%
+value okay let's test this out so we
+already<02:08:45.860><c> have</c><02:08:45.980><c> this</c><02:08:46.100><c> example</c><02:08:46.489><c> down</c><02:08:46.820><c> here</c><02:08:46.880><c> but</c>
+
+02:08:47.620 --> 02:08:47.630 align:start position:0%
+already have this example down here but
+ 
+
+02:08:47.630 --> 02:08:49.630 align:start position:0%
+already have this example down here but
+to<02:08:47.780><c> see</c><02:08:48.020><c> if</c><02:08:48.170><c> it</c><02:08:48.320><c> actually</c><02:08:48.350><c> worked</c><02:08:49.100><c> we're</c><02:08:49.400><c> going</c>
+
+02:08:49.630 --> 02:08:49.640 align:start position:0%
+to see if it actually worked we're going
+ 
+
+02:08:49.640 --> 02:08:53.500 align:start position:0%
+to see if it actually worked we're going
+to<02:08:49.730><c> do</c><02:08:49.850><c> a</c><02:08:50.020><c> consult</c><02:08:51.020><c> log</c><02:08:51.860><c> so</c><02:08:52.670><c> we</c><02:08:52.699><c> can</c><02:08:52.940><c> see</c><02:08:53.210><c> the</c>
+
+02:08:53.500 --> 02:08:53.510 align:start position:0%
+to do a consult log so we can see the
+ 
+
+02:08:53.510 --> 02:08:58.390 align:start position:0%
+to do a consult log so we can see the
+output<02:08:53.780><c> there</c><02:08:54.320><c> and</c><02:08:54.530><c> if</c><02:08:55.280><c> I</c><02:08:55.429><c> run</c><02:08:55.820><c> that</c><02:08:57.280><c> I'll</c><02:08:58.280><c> let</c>
+
+02:08:58.390 --> 02:08:58.400 align:start position:0%
+output there and if I run that I'll let
+ 
+
+02:08:58.400 --> 02:08:59.950 align:start position:0%
+output there and if I run that I'll let
+me<02:08:58.550><c> open</c><02:08:58.760><c> up</c><02:08:58.940><c> the</c><02:08:59.060><c> console</c><02:08:59.449><c> so</c><02:08:59.540><c> I</c><02:08:59.570><c> can</c><02:08:59.750><c> really</c>
+
+02:08:59.950 --> 02:08:59.960 align:start position:0%
+me open up the console so I can really
+ 
+
+02:08:59.960 --> 02:09:03.100 align:start position:0%
+me open up the console so I can really
+see<02:09:00.199><c> it</c><02:09:00.290><c> so</c><02:09:00.500><c> let's</c><02:09:01.159><c> see</c><02:09:01.850><c> what</c><02:09:01.969><c> we</c><02:09:02.090><c> changed</c><02:09:02.600><c> go</c>
+
+02:09:03.100 --> 02:09:03.110 align:start position:0%
+see it so let's see what we changed go
+ 
+
+02:09:03.110 --> 02:09:06.939 align:start position:0%
+see it so let's see what we changed go
+to<02:09:03.170><c> 5</c><02:09:03.409><c> 4</c><02:09:03.620><c> 3</c><02:09:03.770><c> 9</c><02:09:04.010><c> and</c><02:09:04.540><c> we</c><02:09:05.540><c> set</c><02:09:05.840><c> the</c><02:09:06.050><c> artist</c><02:09:06.590><c> which</c>
+
+02:09:06.939 --> 02:09:06.949 align:start position:0%
+to 5 4 3 9 and we set the artist which
+ 
+
+02:09:06.949 --> 02:09:09.010 align:start position:0%
+to 5 4 3 9 and we set the artist which
+didn't<02:09:07.340><c> previously</c><02:09:07.670><c> exist</c><02:09:07.909><c> to</c><02:09:08.540><c> ABBA</c>
+
+02:09:09.010 --> 02:09:09.020 align:start position:0%
+didn't previously exist to ABBA
+ 
+
+02:09:09.020 --> 02:09:12.459 align:start position:0%
+didn't previously exist to ABBA
+so<02:09:09.590><c> let's</c><02:09:10.010><c> look</c><02:09:10.400><c> down</c><02:09:10.550><c> here</c><02:09:10.880><c> in</c><02:09:11.030><c> the</c><02:09:11.630><c> console</c><02:09:12.170><c> 5</c>
+
+02:09:12.459 --> 02:09:12.469 align:start position:0%
+so let's look down here in the console 5
+ 
+
+02:09:12.469 --> 02:09:15.300 align:start position:0%
+so let's look down here in the console 5
+4<02:09:12.770><c> 3</c><02:09:12.800><c> 9</c><02:09:13.159><c> and</c><02:09:13.550><c> the</c><02:09:14.120><c> artist</c><02:09:14.480><c> is</c><02:09:14.600><c> ABBA</c>
+
+02:09:15.300 --> 02:09:15.310 align:start position:0%
+4 3 9 and the artist is ABBA
+ 
+
+02:09:15.310 --> 02:09:18.370 align:start position:0%
+4 3 9 and the artist is ABBA
+let's<02:09:16.310><c> see</c><02:09:16.489><c> what</c><02:09:16.640><c> happens</c><02:09:17.090><c> when</c><02:09:17.390><c> we</c><02:09:17.659><c> add</c><02:09:17.929><c> a</c>
+
+02:09:18.370 --> 02:09:18.380 align:start position:0%
+let's see what happens when we add a
+ 
+
+02:09:18.380 --> 02:09:21.490 align:start position:0%
+let's see what happens when we add a
+track<02:09:19.040><c> so</c><02:09:19.790><c> we'll</c><02:09:19.969><c> do</c><02:09:20.120><c> one</c><02:09:20.150><c> more</c><02:09:20.390><c> example</c><02:09:20.600><c> here</c>
+
+02:09:21.490 --> 02:09:21.500 align:start position:0%
+track so we'll do one more example here
+ 
+
+02:09:21.500 --> 02:09:25.870 align:start position:0%
+track so we'll do one more example here
+I'll<02:09:22.190><c> just</c><02:09:22.429><c> put</c><02:09:22.730><c> right</c><02:09:22.909><c> above</c><02:09:23.179><c> here</c><02:09:24.130><c> 8</c><02:09:25.130><c> records</c>
+
+02:09:25.870 --> 02:09:25.880 align:start position:0%
+I'll just put right above here 8 records
+ 
+
+02:09:25.880 --> 02:09:30.040 align:start position:0%
+I'll just put right above here 8 records
+and<02:09:26.420><c> I'm</c><02:09:27.020><c> going</c><02:09:27.290><c> to</c><02:09:27.350><c> pass</c><02:09:27.800><c> in</c><02:09:28.130><c> something</c><02:09:29.050><c> I'll</c>
+
+02:09:30.040 --> 02:09:30.050 align:start position:0%
+and I'm going to pass in something I'll
+ 
+
+02:09:30.050 --> 02:09:37.950 align:start position:0%
+and I'm going to pass in something I'll
+pass<02:09:30.500><c> in</c><02:09:31.570><c> let's</c><02:09:32.570><c> see</c><02:09:32.810><c> the</c><02:09:33.230><c> ID</c><02:09:33.500><c> 2</c><02:09:34.370><c> 4</c><02:09:34.670><c> 6</c><02:09:34.850><c> 8</c><02:09:35.469><c> and</c>
+
+02:09:37.950 --> 02:09:37.960 align:start position:0%
+pass in let's see the ID 2 4 6 8 and
+ 
+
+02:09:37.960 --> 02:09:42.340 align:start position:0%
+pass in let's see the ID 2 4 6 8 and
+we'll<02:09:38.960><c> pass</c><02:09:39.290><c> in</c><02:09:39.679><c> the</c><02:09:40.610><c> key</c><02:09:41.120><c> which</c><02:09:41.900><c> is</c><02:09:42.050><c> going</c><02:09:42.290><c> to</c>
+
+02:09:42.340 --> 02:09:42.350 align:start position:0%
+we'll pass in the key which is going to
+ 
+
+02:09:42.350 --> 02:09:47.740 align:start position:0%
+we'll pass in the key which is going to
+be<02:09:42.469><c> tracks</c><02:09:43.370><c> and</c><02:09:44.260><c> then</c><02:09:45.280><c> for</c><02:09:46.280><c> the</c><02:09:46.969><c> value</c>
+
+02:09:47.740 --> 02:09:47.750 align:start position:0%
+be tracks and then for the value
+ 
+
+02:09:47.750 --> 02:09:49.629 align:start position:0%
+be tracks and then for the value
+we'll<02:09:48.199><c> put</c><02:09:48.469><c> test</c>
+
+02:09:49.629 --> 02:09:49.639 align:start position:0%
+we'll put test
+ 
+
+02:09:49.639 --> 02:09:53.770 align:start position:0%
+we'll put test
+so<02:09:50.619><c> let's</c><02:09:51.619><c> see</c><02:09:51.860><c> what</c><02:09:52.040><c> happens</c><02:09:52.489><c> here</c><02:09:52.790><c> if</c><02:09:53.090><c> we</c><02:09:53.510><c> run</c>
+
+02:09:53.770 --> 02:09:53.780 align:start position:0%
+so let's see what happens here if we run
+ 
+
+02:09:53.780 --> 02:09:55.660 align:start position:0%
+so let's see what happens here if we run
+that<02:09:53.989><c> it's</c><02:09:54.440><c> gonna</c><02:09:54.619><c> update</c><02:09:54.800><c> the</c><02:09:54.980><c> record</c><02:09:55.369><c> here</c>
+
+02:09:55.660 --> 02:09:55.670 align:start position:0%
+that it's gonna update the record here
+ 
+
+02:09:55.670 --> 02:09:57.399 align:start position:0%
+that it's gonna update the record here
+and<02:09:55.820><c> that's</c><02:09:56.270><c> gonna</c><02:09:56.389><c> update</c><02:09:56.570><c> the</c><02:09:56.690><c> record</c><02:09:57.020><c> again</c>
+
+02:09:57.399 --> 02:09:57.409 align:start position:0%
+and that's gonna update the record again
+ 
+
+02:09:57.409 --> 02:09:59.379 align:start position:0%
+and that's gonna update the record again
+but<02:09:58.040><c> we</c><02:09:58.190><c> don't</c><02:09:58.340><c> care</c><02:09:58.550><c> about</c><02:09:58.580><c> that</c><02:09:58.880><c> one</c><02:09:59.119><c> we</c><02:09:59.239><c> may</c>
+
+02:09:59.379 --> 02:09:59.389 align:start position:0%
+but we don't care about that one we may
+ 
+
+02:09:59.389 --> 02:10:00.669 align:start position:0%
+but we don't care about that one we may
+like<02:09:59.570><c> hear</c><02:09:59.780><c> that</c><02:09:59.869><c> it's</c><02:09:59.960><c> gonna</c><02:10:00.050><c> console</c><02:10:00.560><c> that</c>
+
+02:10:00.669 --> 02:10:00.679 align:start position:0%
+like hear that it's gonna console that
+ 
+
+02:10:00.679 --> 02:10:04.270 align:start position:0%
+like hear that it's gonna console that
+log<02:10:00.980><c> what</c><02:10:01.369><c> the</c><02:10:01.699><c> final</c><02:10:02.179><c> value</c><02:10:02.510><c> is</c><02:10:02.540><c> so</c><02:10:03.380><c> if</c><02:10:03.710><c> we</c>
+
+02:10:04.270 --> 02:10:04.280 align:start position:0%
+log what the final value is so if we
+ 
+
+02:10:04.280 --> 02:10:07.600 align:start position:0%
+log what the final value is so if we
+look<02:10:04.550><c> at</c><02:10:04.730><c> 2</c><02:10:05.000><c> 4</c><02:10:05.239><c> 6</c><02:10:05.449><c> 8</c><02:10:05.690><c> here</c><02:10:06.080><c> 2</c><02:10:06.590><c> 4</c><02:10:06.619><c> 6</c><02:10:06.949><c> 8</c><02:10:07.190><c> let's</c><02:10:07.369><c> see</c>
+
+02:10:07.600 --> 02:10:07.610 align:start position:0%
+look at 2 4 6 8 here 2 4 6 8 let's see
+ 
+
+02:10:07.610 --> 02:10:10.060 align:start position:0%
+look at 2 4 6 8 here 2 4 6 8 let's see
+the<02:10:07.730><c> tracks</c><02:10:07.969><c> we</c><02:10:08.210><c> at</c><02:10:08.360><c> 1999</c><02:10:09.050><c> little</c><02:10:09.889><c> red</c>
+
+02:10:10.060 --> 02:10:10.070 align:start position:0%
+the tracks we at 1999 little red
+ 
+
+02:10:10.070 --> 02:10:18.920 align:start position:0%
+the tracks we at 1999 little red
+Corvette<02:10:10.610><c> and</c><02:10:11.060><c> test</c><02:10:11.719><c> so</c><02:10:12.619><c> it's</c><02:10:13.100><c> working</c><02:10:13.429><c> great</c>
+
+02:10:18.920 --> 02:10:18.930 align:start position:0%
+ 
+ 
+
+02:10:18.930 --> 02:10:21.930 align:start position:0%
+ 
+loop's<02:10:19.930><c> allow</c><02:10:20.500><c> you</c><02:10:20.560><c> to</c><02:10:20.980><c> run</c><02:10:21.220><c> the</c><02:10:21.430><c> same</c><02:10:21.640><c> code</c>
+
+02:10:21.930 --> 02:10:21.940 align:start position:0%
+loop's allow you to run the same code
+ 
+
+02:10:21.940 --> 02:10:24.150 align:start position:0%
+loop's allow you to run the same code
+multiple<02:10:22.510><c> times</c><02:10:22.810><c> I'm</c><02:10:23.350><c> going</c><02:10:23.800><c> to</c><02:10:23.860><c> talk</c><02:10:23.980><c> to</c><02:10:24.100><c> you</c>
+
+02:10:24.150 --> 02:10:24.160 align:start position:0%
+multiple times I'm going to talk to you
+ 
+
+02:10:24.160 --> 02:10:26.730 align:start position:0%
+multiple times I'm going to talk to you
+about<02:10:24.250><c> a</c><02:10:24.340><c> while</c><02:10:24.670><c> loop</c><02:10:25.120><c> that</c><02:10:25.630><c> runs</c><02:10:25.660><c> while</c><02:10:26.380><c> a</c>
+
+02:10:26.730 --> 02:10:26.740 align:start position:0%
+about a while loop that runs while a
+ 
+
+02:10:26.740 --> 02:10:29.010 align:start position:0%
+about a while loop that runs while a
+specified<02:10:27.340><c> condition</c><02:10:27.550><c> is</c><02:10:27.880><c> true</c><02:10:28.210><c> and</c><02:10:28.420><c> stops</c>
+
+02:10:29.010 --> 02:10:29.020 align:start position:0%
+specified condition is true and stops
+ 
+
+02:10:29.020 --> 02:10:31.980 align:start position:0%
+specified condition is true and stops
+once<02:10:29.380><c> it's</c><02:10:29.560><c> no</c><02:10:29.740><c> longer</c><02:10:29.770><c> true</c><02:10:30.100><c> so</c><02:10:31.030><c> we</c><02:10:31.660><c> are</c><02:10:31.780><c> going</c>
+
+02:10:31.980 --> 02:10:31.990 align:start position:0%
+once it's no longer true so we are going
+ 
+
+02:10:31.990 --> 02:10:34.650 align:start position:0%
+once it's no longer true so we are going
+to<02:10:32.110><c> push</c><02:10:32.590><c> the</c><02:10:32.800><c> digit</c><02:10:33.100><c> 0</c><02:10:33.370><c> through</c><02:10:33.640><c> 4</c><02:10:33.910><c> on</c><02:10:34.180><c> to</c><02:10:34.480><c> this</c>
+
+02:10:34.650 --> 02:10:34.660 align:start position:0%
+to push the digit 0 through 4 on to this
+ 
+
+02:10:34.660 --> 02:10:36.390 align:start position:0%
+to push the digit 0 through 4 on to this
+array<02:10:35.080><c> here's</c><02:10:35.950><c> how</c><02:10:36.100><c> it's</c><02:10:36.190><c> going</c><02:10:36.280><c> to</c><02:10:36.340><c> work</c>
+
+02:10:36.390 --> 02:10:36.400 align:start position:0%
+array here's how it's going to work
+ 
+
+02:10:36.400 --> 02:10:41.610 align:start position:0%
+array here's how it's going to work
+while<02:10:37.410><c> it's</c><02:10:38.410><c> a</c><02:10:38.620><c> while</c><02:10:38.830><c> loop</c><02:10:39.100><c> while</c><02:10:39.760><c> I</c><02:10:40.180><c> is</c><02:10:41.110><c> less</c>
+
+02:10:41.610 --> 02:10:41.620 align:start position:0%
+while it's a while loop while I is less
+ 
+
+02:10:41.620 --> 02:10:44.910 align:start position:0%
+while it's a while loop while I is less
+than<02:10:42.280><c> 5</c><02:10:43.060><c> and</c><02:10:43.540><c> we're</c><02:10:44.080><c> gonna</c><02:10:44.170><c> do</c><02:10:44.440><c> something</c>
+
+02:10:44.910 --> 02:10:44.920 align:start position:0%
+than 5 and we're gonna do something
+ 
+
+02:10:44.920 --> 02:10:48.030 align:start position:0%
+than 5 and we're gonna do something
+while<02:10:45.460><c> that's</c><02:10:45.790><c> true</c><02:10:46.260><c> first</c><02:10:47.260><c> with</c><02:10:47.470><c> a</c><02:10:47.500><c> set</c><02:10:47.890><c> where</c>
+
+02:10:48.030 --> 02:10:48.040 align:start position:0%
+while that's true first with a set where
+ 
+
+02:10:48.040 --> 02:10:53.430 align:start position:0%
+while that's true first with a set where
+I<02:10:48.070><c> I</c><02:10:48.400><c> starts</c><02:10:49.090><c> off</c><02:10:49.270><c> at</c><02:10:49.480><c> at</c><02:10:49.750><c> so</c><02:10:50.380><c> var</c><02:10:50.920><c> I</c><02:10:51.510><c> equals</c><02:10:52.510><c> 0</c>
+
+02:10:53.430 --> 02:10:53.440 align:start position:0%
+I I starts off at at so var I equals 0
+ 
+
+02:10:53.440 --> 02:10:58.310 align:start position:0%
+I I starts off at at so var I equals 0
+so<02:10:54.130><c> while</c><02:10:54.460><c> I</c><02:10:54.790><c> is</c><02:10:54.910><c> less</c><02:10:55.240><c> m</c><02:10:55.810><c> 5</c><02:10:56.200><c> will</c><02:10:56.920><c> do</c><02:10:57.100><c> my</c><02:10:57.430><c> array</c>
+
+02:10:58.310 --> 02:10:58.320 align:start position:0%
+so while I is less m 5 will do my array
+ 
+
+02:10:58.320 --> 02:11:02.780 align:start position:0%
+so while I is less m 5 will do my array
+push<02:10:59.520><c> hi</c><02:11:00.570><c> just</c><02:11:01.570><c> push</c><02:11:01.810><c> it</c><02:11:01.840><c> onto</c><02:11:02.050><c> the</c><02:11:02.170><c> array</c><02:11:02.440><c> and</c>
+
+02:11:02.780 --> 02:11:02.790 align:start position:0%
+push hi just push it onto the array and
+ 
+
+02:11:02.790 --> 02:11:06.000 align:start position:0%
+push hi just push it onto the array and
+to<02:11:03.790><c> make</c><02:11:04.000><c> sure</c><02:11:04.030><c> this</c><02:11:04.480><c> loop</c><02:11:04.870><c> eventually</c><02:11:05.440><c> ends</c>
+
+02:11:06.000 --> 02:11:06.010 align:start position:0%
+to make sure this loop eventually ends
+ 
+
+02:11:06.010 --> 02:11:08.490 align:start position:0%
+to make sure this loop eventually ends
+I'll<02:11:06.370><c> have</c><02:11:06.520><c> to</c><02:11:06.610><c> do</c><02:11:06.700><c> I</c><02:11:06.940><c> plus</c><02:11:07.840><c> plus</c><02:11:08.200><c> which</c>
+
+02:11:08.490 --> 02:11:08.500 align:start position:0%
+I'll have to do I plus plus which
+ 
+
+02:11:08.500 --> 02:11:13.170 align:start position:0%
+I'll have to do I plus plus which
+increments<02:11:08.950><c> I</c><02:11:09.540><c> so</c><02:11:10.800><c> then</c><02:11:11.800><c> I</c><02:11:12.100><c> will</c><02:11:12.640><c> test</c><02:11:13.030><c> this</c>
+
+02:11:13.170 --> 02:11:13.180 align:start position:0%
+increments I so then I will test this
+ 
+
+02:11:13.180 --> 02:11:16.410 align:start position:0%
+increments I so then I will test this
+out<02:11:13.390><c> by</c><02:11:13.750><c> doing</c><02:11:13.960><c> console</c><02:11:14.710><c> dot</c><02:11:14.950><c> log</c><02:11:15.010><c> and</c><02:11:15.940><c> I'm</c>
+
+02:11:16.410 --> 02:11:16.420 align:start position:0%
+out by doing console dot log and I'm
+ 
+
+02:11:16.420 --> 02:11:19.050 align:start position:0%
+out by doing console dot log and I'm
+gonna<02:11:16.510><c> console</c><02:11:16.840><c> that</c><02:11:16.930><c> log</c><02:11:17.170><c> to</c><02:11:17.410><c> my</c><02:11:17.650><c> array</c><02:11:18.160><c> so</c>
+
+02:11:19.050 --> 02:11:19.060 align:start position:0%
+gonna console that log to my array so
+ 
+
+02:11:19.060 --> 02:11:21.570 align:start position:0%
+gonna console that log to my array so
+let's<02:11:19.210><c> see</c><02:11:19.390><c> if</c><02:11:19.450><c> this</c><02:11:19.630><c> works</c><02:11:19.960><c> I'll</c><02:11:20.350><c> run</c><02:11:21.340><c> this</c>
+
+02:11:21.570 --> 02:11:21.580 align:start position:0%
+let's see if this works I'll run this
+ 
+
+02:11:21.580 --> 02:11:24.990 align:start position:0%
+let's see if this works I'll run this
+and<02:11:21.850><c> check</c><02:11:22.420><c> the</c><02:11:22.570><c> console</c><02:11:22.990><c> 0</c><02:11:23.410><c> 1</c><02:11:23.680><c> 2</c><02:11:23.860><c> 3</c><02:11:23.890><c> 4</c><02:11:24.490><c> the</c>
+
+02:11:24.990 --> 02:11:25.000 align:start position:0%
+and check the console 0 1 2 3 4 the
+ 
+
+02:11:25.000 --> 02:11:27.870 align:start position:0%
+and check the console 0 1 2 3 4 the
+while<02:11:25.240><c> loop</c><02:11:25.480><c> worked</c><02:11:26.400><c> every</c><02:11:27.400><c> time</c><02:11:27.430><c> we</c><02:11:27.760><c> went</c>
+
+02:11:27.870 --> 02:11:27.880 align:start position:0%
+while loop worked every time we went
+ 
+
+02:11:27.880 --> 02:11:30.210 align:start position:0%
+while loop worked every time we went
+through<02:11:27.970><c> this</c><02:11:28.150><c> five</c><02:11:28.900><c> different</c><02:11:29.350><c> times</c><02:11:29.860><c> and</c>
+
+02:11:30.210 --> 02:11:30.220 align:start position:0%
+through this five different times and
+ 
+
+02:11:30.220 --> 02:11:38.250 align:start position:0%
+through this five different times and
+pushed<02:11:30.700><c> 0</c><02:11:31.000><c> 1</c><02:11:31.270><c> 2</c><02:11:31.450><c> 3</c><02:11:31.480><c> &amp;</c><02:11:32.050><c> 4</c><02:11:32.310><c> onto</c><02:11:33.310><c> the</c><02:11:33.400><c> loop</c>
+
+02:11:38.250 --> 02:11:38.260 align:start position:0%
+ 
+ 
+
+02:11:38.260 --> 02:11:40.950 align:start position:0%
+ 
+a<02:11:38.579><c> for-loop</c><02:11:39.579><c> is</c><02:11:39.789><c> the</c><02:11:39.969><c> most</c><02:11:40.179><c> common</c><02:11:40.659><c> type</c><02:11:40.929><c> of</c>
+
+02:11:40.950 --> 02:11:40.960 align:start position:0%
+a for-loop is the most common type of
+ 
+
+02:11:40.960 --> 02:11:44.069 align:start position:0%
+a for-loop is the most common type of
+loop<02:11:41.440><c> in</c><02:11:41.679><c> JavaScript</c><02:11:42.489><c> so</c><02:11:43.000><c> here</c><02:11:43.389><c> is</c><02:11:43.570><c> an</c><02:11:43.690><c> example</c>
+
+02:11:44.069 --> 02:11:44.079 align:start position:0%
+loop in JavaScript so here is an example
+ 
+
+02:11:44.079 --> 02:11:46.319 align:start position:0%
+loop in JavaScript so here is an example
+of<02:11:44.380><c> a</c><02:11:44.530><c> for</c><02:11:44.769><c> loop</c><02:11:44.829><c> you</c><02:11:45.550><c> start</c><02:11:45.820><c> with</c><02:11:45.940><c> the</c><02:11:46.059><c> keyword</c>
+
+02:11:46.319 --> 02:11:46.329 align:start position:0%
+of a for loop you start with the keyword
+ 
+
+02:11:46.329 --> 02:11:48.270 align:start position:0%
+of a for loop you start with the keyword
+for<02:11:46.840><c> and</c><02:11:47.139><c> then</c><02:11:47.619><c> we</c><02:11:47.739><c> have</c><02:11:47.829><c> these</c><02:11:47.980><c> parentheses</c>
+
+02:11:48.270 --> 02:11:48.280 align:start position:0%
+for and then we have these parentheses
+ 
+
+02:11:48.280 --> 02:11:50.819 align:start position:0%
+for and then we have these parentheses
+with<02:11:49.210><c> three</c><02:11:49.599><c> different</c><02:11:50.139><c> items</c><02:11:50.320><c> and</c><02:11:50.710><c> they're</c>
+
+02:11:50.819 --> 02:11:50.829 align:start position:0%
+with three different items and they're
+ 
+
+02:11:50.829 --> 02:11:53.729 align:start position:0%
+with three different items and they're
+separated<02:11:51.159><c> by</c><02:11:51.539><c> semicolons</c><02:11:52.539><c> the</c><02:11:53.139><c> first</c><02:11:53.469><c> thing</c>
+
+02:11:53.729 --> 02:11:53.739 align:start position:0%
+separated by semicolons the first thing
+ 
+
+02:11:53.739 --> 02:11:56.520 align:start position:0%
+separated by semicolons the first thing
+is<02:11:53.949><c> the</c><02:11:54.280><c> initialization</c><02:11:55.079><c> then</c><02:11:56.079><c> we</c><02:11:56.260><c> have</c><02:11:56.380><c> the</c>
+
+02:11:56.520 --> 02:11:56.530 align:start position:0%
+is the initialization then we have the
+ 
+
+02:11:56.530 --> 02:11:59.310 align:start position:0%
+is the initialization then we have the
+condition<02:11:57.099><c> then</c><02:11:57.909><c> we</c><02:11:58.150><c> have</c><02:11:58.449><c> the</c><02:11:58.809><c> final</c>
+
+02:11:59.310 --> 02:11:59.320 align:start position:0%
+condition then we have the final
+ 
+
+02:11:59.320 --> 02:12:02.759 align:start position:0%
+condition then we have the final
+expression<02:12:00.099><c> so</c><02:12:00.789><c> the</c><02:12:01.119><c> initialization</c><02:12:01.769><c> happens</c>
+
+02:12:02.759 --> 02:12:02.769 align:start position:0%
+expression so the initialization happens
+ 
+
+02:12:02.769 --> 02:12:05.089 align:start position:0%
+expression so the initialization happens
+before<02:12:03.250><c> any</c><02:12:03.519><c> of</c><02:12:03.699><c> the</c><02:12:03.820><c> code</c><02:12:04.119><c> inside</c><02:12:04.480><c> the</c><02:12:04.539><c> loop</c>
+
+02:12:05.089 --> 02:12:05.099 align:start position:0%
+before any of the code inside the loop
+ 
+
+02:12:05.099 --> 02:12:09.810 align:start position:0%
+before any of the code inside the loop
+runs<02:12:06.099><c> so</c><02:12:06.820><c> we</c><02:12:07.480><c> will</c><02:12:07.659><c> start</c><02:12:08.079><c> by</c><02:12:08.469><c> initializing</c><02:12:08.980><c> I</c>
+
+02:12:09.810 --> 02:12:09.820 align:start position:0%
+runs so we will start by initializing I
+ 
+
+02:12:09.820 --> 02:12:13.830 align:start position:0%
+runs so we will start by initializing I
+to<02:12:10.139><c> equal</c><02:12:11.139><c> 0</c><02:12:11.530><c> so</c><02:12:11.829><c> this</c><02:12:12.579><c> is</c><02:12:12.789><c> what</c><02:12:13.090><c> most</c><02:12:13.420><c> for</c>
+
+02:12:13.830 --> 02:12:13.840 align:start position:0%
+to equal 0 so this is what most for
+ 
+
+02:12:13.840 --> 02:12:16.229 align:start position:0%
+to equal 0 so this is what most for
+loops<02:12:14.110><c> start</c><02:12:14.769><c> with</c><02:12:15.010><c> is</c><02:12:15.219><c> you</c><02:12:15.639><c> have</c><02:12:15.730><c> a</c><02:12:15.760><c> variable</c>
+
+02:12:16.229 --> 02:12:16.239 align:start position:0%
+loops start with is you have a variable
+ 
+
+02:12:16.239 --> 02:12:17.640 align:start position:0%
+loops start with is you have a variable
+that<02:12:16.360><c> you're</c><02:12:16.539><c> going</c><02:12:16.659><c> to</c><02:12:16.719><c> initialize</c><02:12:17.110><c> for</c><02:12:17.500><c> the</c>
+
+02:12:17.640 --> 02:12:17.650 align:start position:0%
+that you're going to initialize for the
+ 
+
+02:12:17.650 --> 02:12:20.609 align:start position:0%
+that you're going to initialize for the
+for<02:12:17.889><c> loop</c><02:12:18.130><c> then</c><02:12:18.880><c> the</c><02:12:19.210><c> next</c><02:12:19.809><c> thing</c><02:12:20.019><c> is</c><02:12:20.260><c> the</c>
+
+02:12:20.609 --> 02:12:20.619 align:start position:0%
+for loop then the next thing is the
+ 
+
+02:12:20.619 --> 02:12:24.299 align:start position:0%
+for loop then the next thing is the
+condition<02:12:21.280><c> so</c><02:12:22.000><c> once</c><02:12:22.869><c> this</c><02:12:23.139><c> evaluates</c><02:12:24.039><c> to</c>
+
+02:12:24.299 --> 02:12:24.309 align:start position:0%
+condition so once this evaluates to
+ 
+
+02:12:24.309 --> 02:12:27.629 align:start position:0%
+condition so once this evaluates to
+false<02:12:24.340><c> we</c><02:12:25.269><c> break</c><02:12:25.659><c> out</c><02:12:25.900><c> of</c><02:12:25.929><c> the</c><02:12:26.139><c> loop</c><02:12:26.170><c> so</c><02:12:27.010><c> while</c>
+
+02:12:27.629 --> 02:12:27.639 align:start position:0%
+false we break out of the loop so while
+ 
+
+02:12:27.639 --> 02:12:31.229 align:start position:0%
+false we break out of the loop so while
+I<02:12:27.969><c> is</c><02:12:28.090><c> less</c><02:12:28.809><c> than</c><02:12:28.869><c> 5</c><02:12:29.500><c> we'll</c><02:12:30.190><c> continue</c><02:12:30.460><c> to</c><02:12:30.940><c> run</c>
+
+02:12:31.229 --> 02:12:31.239 align:start position:0%
+I is less than 5 we'll continue to run
+ 
+
+02:12:31.239 --> 02:12:33.290 align:start position:0%
+I is less than 5 we'll continue to run
+through<02:12:31.659><c> the</c><02:12:31.809><c> loop</c><02:12:32.050><c> over</c><02:12:32.590><c> and</c><02:12:32.739><c> over</c><02:12:33.039><c> until</c>
+
+02:12:33.290 --> 02:12:33.300 align:start position:0%
+through the loop over and over until
+ 
+
+02:12:33.300 --> 02:12:35.729 align:start position:0%
+through the loop over and over until
+this<02:12:34.300><c> is</c><02:12:34.449><c> false</c><02:12:34.780><c> and</c><02:12:35.079><c> we</c><02:12:35.139><c> break</c><02:12:35.380><c> out</c><02:12:35.530><c> of</c><02:12:35.559><c> the</c>
+
+02:12:35.729 --> 02:12:35.739 align:start position:0%
+this is false and we break out of the
+ 
+
+02:12:35.739 --> 02:12:38.370 align:start position:0%
+this is false and we break out of the
+loop<02:12:35.769><c> the</c><02:12:36.579><c> final</c><02:12:37.000><c> thing</c><02:12:37.269><c> is</c><02:12:37.449><c> what</c><02:12:37.989><c> we</c><02:12:38.110><c> do</c><02:12:38.260><c> at</c>
+
+02:12:38.370 --> 02:12:38.380 align:start position:0%
+loop the final thing is what we do at
+ 
+
+02:12:38.380 --> 02:12:41.100 align:start position:0%
+loop the final thing is what we do at
+the<02:12:38.530><c> end</c><02:12:38.559><c> of</c><02:12:38.949><c> each</c><02:12:39.190><c> iteration</c><02:12:39.579><c> at</c><02:12:40.449><c> the</c><02:12:40.869><c> end</c><02:12:41.019><c> of</c>
+
+02:12:41.100 --> 02:12:41.110 align:start position:0%
+the end of each iteration at the end of
+ 
+
+02:12:41.110 --> 02:12:44.040 align:start position:0%
+the end of each iteration at the end of
+each<02:12:41.199><c> iteration</c><02:12:41.380><c> we</c><02:12:42.280><c> will</c><02:12:42.309><c> increment</c><02:12:42.909><c> I</c><02:12:43.239><c> by</c><02:12:43.300><c> 1</c>
+
+02:12:44.040 --> 02:12:44.050 align:start position:0%
+each iteration we will increment I by 1
+ 
+
+02:12:44.050 --> 02:12:46.560 align:start position:0%
+each iteration we will increment I by 1
+in<02:12:44.320><c> this</c><02:12:44.619><c> example</c><02:12:45.010><c> we</c><02:12:45.400><c> are</c><02:12:45.519><c> filling</c><02:12:45.969><c> our</c><02:12:46.150><c> array</c>
+
+02:12:46.560 --> 02:12:46.570 align:start position:0%
+in this example we are filling our array
+ 
+
+02:12:46.570 --> 02:12:49.589 align:start position:0%
+in this example we are filling our array
+with<02:12:47.019><c> the</c><02:12:47.050><c> numbers</c><02:12:47.530><c> 0</c><02:12:47.980><c> through</c><02:12:48.099><c> 4</c><02:12:48.760><c> I'm</c><02:12:49.119><c> going</c>
+
+02:12:49.589 --> 02:12:49.599 align:start position:0%
+with the numbers 0 through 4 I'm going
+ 
+
+02:12:49.599 --> 02:12:51.479 align:start position:0%
+with the numbers 0 through 4 I'm going
+to<02:12:49.659><c> do</c><02:12:49.750><c> another</c><02:12:50.019><c> example</c><02:12:50.199><c> where</c><02:12:50.920><c> we</c><02:12:51.039><c> fill</c><02:12:51.309><c> an</c>
+
+02:12:51.479 --> 02:12:51.489 align:start position:0%
+to do another example where we fill an
+ 
+
+02:12:51.489 --> 02:12:54.149 align:start position:0%
+to do another example where we fill an
+array<02:12:51.730><c> with</c><02:12:52.030><c> the</c><02:12:52.150><c> numbers</c><02:12:52.539><c> 1</c><02:12:52.929><c> through</c><02:12:53.199><c> 5</c><02:12:53.440><c> so</c>
+
+02:12:54.149 --> 02:12:54.159 align:start position:0%
+array with the numbers 1 through 5 so
+ 
+
+02:12:54.159 --> 02:12:56.430 align:start position:0%
+array with the numbers 1 through 5 so
+we'll<02:12:54.610><c> start</c><02:12:54.849><c> with</c><02:12:54.909><c> for</c><02:12:55.300><c> now</c><02:12:56.050><c> we're</c><02:12:56.349><c> gonna</c>
+
+02:12:56.430 --> 02:12:56.440 align:start position:0%
+we'll start with for now we're gonna
+ 
+
+02:12:56.440 --> 02:13:00.870 align:start position:0%
+we'll start with for now we're gonna
+initialize<02:12:57.340><c> I</c><02:12:57.820><c> to</c><02:12:58.679><c> equal</c><02:12:59.679><c> 1</c><02:13:00.099><c> we're</c><02:13:00.550><c> starting</c>
+
+02:13:00.870 --> 02:13:00.880 align:start position:0%
+initialize I to equal 1 we're starting
+ 
+
+02:13:00.880 --> 02:13:02.910 align:start position:0%
+initialize I to equal 1 we're starting
+with<02:13:00.969><c> 1</c><02:13:01.239><c> instead</c><02:13:01.539><c> of</c><02:13:01.599><c> 0</c><02:13:01.840><c> this</c><02:13:02.050><c> time</c><02:13:02.289><c> and</c><02:13:02.619><c> we're</c>
+
+02:13:02.910 --> 02:13:02.920 align:start position:0%
+with 1 instead of 0 this time and we're
+ 
+
+02:13:02.920 --> 02:13:06.390 align:start position:0%
+with 1 instead of 0 this time and we're
+gonna<02:13:03.039><c> do</c><02:13:03.159><c> I</c><02:13:03.429><c> is</c><02:13:03.789><c> less</c><02:13:04.420><c> than</c><02:13:04.750><c> 6</c><02:13:05.440><c> so</c><02:13:05.739><c> while</c><02:13:06.070><c> I</c><02:13:06.099><c> is</c>
+
+02:13:06.390 --> 02:13:06.400 align:start position:0%
+gonna do I is less than 6 so while I is
+ 
+
+02:13:06.400 --> 02:13:10.080 align:start position:0%
+gonna do I is less than 6 so while I is
+less<02:13:06.579><c> than</c><02:13:06.820><c> 6</c><02:13:07.300><c> or</c><02:13:07.449><c> until</c><02:13:07.900><c> I</c><02:13:08.139><c> is</c><02:13:08.530><c> more</c><02:13:08.980><c> than</c><02:13:09.190><c> 6</c><02:13:09.519><c> we</c>
+
+02:13:10.080 --> 02:13:10.090 align:start position:0%
+less than 6 or until I is more than 6 we
+ 
+
+02:13:10.090 --> 02:13:12.149 align:start position:0%
+less than 6 or until I is more than 6 we
+are<02:13:10.119><c> going</c><02:13:10.659><c> to</c><02:13:10.960><c> run</c><02:13:11.440><c> all</c><02:13:11.590><c> the</c><02:13:11.739><c> code</c><02:13:11.949><c> in</c><02:13:12.070><c> this</c>
+
+02:13:12.149 --> 02:13:12.159 align:start position:0%
+are going to run all the code in this
+ 
+
+02:13:12.159 --> 02:13:15.540 align:start position:0%
+are going to run all the code in this
+loop<02:13:12.489><c> and</c><02:13:12.789><c> at</c><02:13:13.449><c> the</c><02:13:13.570><c> end</c><02:13:13.780><c> of</c><02:13:13.989><c> each</c><02:13:14.260><c> iteration</c><02:13:14.550><c> we</c>
+
+02:13:15.540 --> 02:13:15.550 align:start position:0%
+loop and at the end of each iteration we
+ 
+
+02:13:15.550 --> 02:13:19.799 align:start position:0%
+loop and at the end of each iteration we
+are<02:13:15.670><c> going</c><02:13:15.940><c> to</c><02:13:16.030><c> increment</c><02:13:16.389><c> I</c><02:13:17.099><c> now</c><02:13:18.099><c> I</c><02:13:18.449><c> can</c><02:13:19.449><c> just</c>
+
+02:13:19.799 --> 02:13:19.809 align:start position:0%
+are going to increment I now I can just
+ 
+
+02:13:19.809 --> 02:13:23.870 align:start position:0%
+are going to increment I now I can just
+do<02:13:19.989><c> what</c><02:13:20.170><c> we</c><02:13:20.590><c> have</c><02:13:20.739><c> before</c><02:13:21.099><c> my</c><02:13:21.550><c> array</c><02:13:22.239><c> dot</c><02:13:22.690><c> push</c>
+
+02:13:23.870 --> 02:13:23.880 align:start position:0%
+do what we have before my array dot push
+ 
+
+02:13:23.880 --> 02:13:27.959 align:start position:0%
+do what we have before my array dot push
+hi<02:13:25.050><c> so</c><02:13:26.050><c> the</c><02:13:26.230><c> final</c><02:13:26.530><c> thing</c><02:13:26.710><c> we</c><02:13:26.860><c> will</c><02:13:27.250><c> do</c><02:13:27.460><c> is</c><02:13:27.639><c> test</c>
+
+02:13:27.959 --> 02:13:27.969 align:start position:0%
+hi so the final thing we will do is test
+ 
+
+02:13:27.969 --> 02:13:30.620 align:start position:0%
+hi so the final thing we will do is test
+this<02:13:28.210><c> I</c><02:13:28.449><c> will</c><02:13:28.630><c> do</c><02:13:28.750><c> console</c><02:13:29.409><c> dot</c><02:13:29.710><c> log</c><02:13:29.769><c> and</c><02:13:30.579><c> put</c>
+
+02:13:30.620 --> 02:13:30.630 align:start position:0%
+this I will do console dot log and put
+ 
+
+02:13:30.630 --> 02:13:34.740 align:start position:0%
+this I will do console dot log and put
+my<02:13:31.630><c> array</c><02:13:32.349><c> inside</c><02:13:32.829><c> here</c><02:13:33.309><c> and</c><02:13:33.460><c> I'll</c><02:13:34.179><c> just</c><02:13:34.360><c> load</c>
+
+02:13:34.740 --> 02:13:34.750 align:start position:0%
+my array inside here and I'll just load
+ 
+
+02:13:34.750 --> 02:13:37.140 align:start position:0%
+my array inside here and I'll just load
+this<02:13:35.050><c> and</c><02:13:35.289><c> see</c><02:13:35.619><c> what</c><02:13:35.739><c> we</c><02:13:35.889><c> see</c><02:13:36.130><c> in</c><02:13:36.340><c> the</c><02:13:36.639><c> console</c>
+
+02:13:37.140 --> 02:13:37.150 align:start position:0%
+this and see what we see in the console
+ 
+
+02:13:37.150 --> 02:13:42.450 align:start position:0%
+this and see what we see in the console
+1<02:13:37.960><c> 2</c><02:13:38.260><c> 3</c><02:13:38.590><c> 4</c><02:13:38.980><c> 5</c><02:13:39.280><c> it</c><02:13:40.030><c> worked</c><02:13:40.329><c> we</c><02:13:40.869><c> iterated</c><02:13:41.530><c> 5</c>
+
+02:13:42.450 --> 02:13:42.460 align:start position:0%
+1 2 3 4 5 it worked we iterated 5
+ 
+
+02:13:42.460 --> 02:13:45.270 align:start position:0%
+1 2 3 4 5 it worked we iterated 5
+different<02:13:42.699><c> times</c><02:13:43.090><c> and</c><02:13:43.510><c> each</c><02:13:44.019><c> time</c><02:13:44.050><c> we</c><02:13:44.860><c> pushed</c>
+
+02:13:45.270 --> 02:13:45.280 align:start position:0%
+different times and each time we pushed
+ 
+
+02:13:45.280 --> 02:13:48.209 align:start position:0%
+different times and each time we pushed
+a<02:13:45.579><c> new</c><02:13:46.000><c> digit</c><02:13:46.539><c> on</c><02:13:46.690><c> to</c><02:13:46.989><c> the</c><02:13:47.110><c> array</c><02:13:47.349><c> and</c><02:13:47.650><c> at</c><02:13:48.099><c> the</c>
+
+02:13:48.209 --> 02:13:48.219 align:start position:0%
+a new digit on to the array and at the
+ 
+
+02:13:48.219 --> 02:13:50.819 align:start position:0%
+a new digit on to the array and at the
+end<02:13:48.429><c> of</c><02:13:48.550><c> each</c><02:13:48.639><c> iteration</c><02:13:48.909><c> we</c><02:13:49.650><c> incremented</c><02:13:50.650><c> I</c>
+
+02:13:50.819 --> 02:13:50.829 align:start position:0%
+end of each iteration we incremented I
+ 
+
+02:13:50.829 --> 02:13:51.990 align:start position:0%
+end of each iteration we incremented I
+so
+
+02:13:51.990 --> 02:13:52.000 align:start position:0%
+so
+ 
+
+02:13:52.000 --> 02:13:58.450 align:start position:0%
+so
+it<02:13:52.090><c> pushed</c><02:13:52.480><c> a</c><02:13:52.690><c> larger</c><02:13:53.590><c> number</c><02:13:54.280><c> onto</c><02:13:54.490><c> the</c><02:13:54.790><c> array</c>
+
+02:13:58.450 --> 02:13:58.460 align:start position:0%
+ 
+ 
+
+02:13:58.460 --> 02:14:01.390 align:start position:0%
+ 
+loop's<02:13:59.420><c> don't</c><02:13:59.840><c> just</c><02:14:00.050><c> have</c><02:14:00.230><c> to</c><02:14:00.260><c> increment</c><02:14:00.590><c> one</c>
+
+02:14:01.390 --> 02:14:01.400 align:start position:0%
+loop's don't just have to increment one
+ 
+
+02:14:01.400 --> 02:14:02.260 align:start position:0%
+loop's don't just have to increment one
+at<02:14:01.520><c> a</c><02:14:01.580><c> time</c>
+
+02:14:02.260 --> 02:14:02.270 align:start position:0%
+at a time
+ 
+
+02:14:02.270 --> 02:14:05.170 align:start position:0%
+at a time
+look<02:14:02.840><c> at</c><02:14:02.960><c> this</c><02:14:03.110><c> for</c><02:14:03.440><c> loop</c><02:14:03.680><c> here</c><02:14:04.040><c> we</c><02:14:04.700><c> have</c><02:14:04.969><c> our</c>
+
+02:14:05.170 --> 02:14:05.180 align:start position:0%
+look at this for loop here we have our
+ 
+
+02:14:05.180 --> 02:14:07.510 align:start position:0%
+look at this for loop here we have our
+initialization<02:14:05.630><c> where</c><02:14:06.290><c> we</c><02:14:06.620><c> initialize</c><02:14:07.250><c> I</c><02:14:07.489><c> to</c>
+
+02:14:07.510 --> 02:14:07.520 align:start position:0%
+initialization where we initialize I to
+ 
+
+02:14:07.520 --> 02:14:11.200 align:start position:0%
+initialization where we initialize I to
+0<02:14:07.910><c> and</c><02:14:08.510><c> then</c><02:14:09.290><c> we</c><02:14:09.590><c> are</c><02:14:09.710><c> going</c><02:14:09.950><c> to</c><02:14:10.310><c> run</c><02:14:10.820><c> the</c><02:14:11.000><c> loop</c>
+
+02:14:11.200 --> 02:14:11.210 align:start position:0%
+0 and then we are going to run the loop
+ 
+
+02:14:11.210 --> 02:14:15.010 align:start position:0%
+0 and then we are going to run the loop
+until<02:14:11.780><c> I</c><02:14:12.080><c> is</c><02:14:12.140><c> less</c><02:14:12.920><c> than</c><02:14:12.980><c> 10</c><02:14:13.280><c> and</c><02:14:14.020><c> finally</c>
+
+02:14:15.010 --> 02:14:15.020 align:start position:0%
+until I is less than 10 and finally
+ 
+
+02:14:15.020 --> 02:14:16.540 align:start position:0%
+until I is less than 10 and finally
+there<02:14:15.380><c> are</c><02:14:15.410><c> increment</c><02:14:16.130><c> instead</c><02:14:16.430><c> of</c>
+
+02:14:16.540 --> 02:14:16.550 align:start position:0%
+there are increment instead of
+ 
+
+02:14:16.550 --> 02:14:19.240 align:start position:0%
+there are increment instead of
+incrementing<02:14:17.210><c> I</c><02:14:17.390><c> by</c><02:14:17.600><c> 1</c><02:14:17.960><c> we're</c><02:14:18.380><c> incrementing</c><02:14:18.800><c> I</c>
+
+02:14:19.240 --> 02:14:19.250 align:start position:0%
+incrementing I by 1 we're incrementing I
+ 
+
+02:14:19.250 --> 02:14:23.170 align:start position:0%
+incrementing I by 1 we're incrementing I
+by<02:14:19.850><c> 2</c><02:14:20.230><c> so</c><02:14:21.230><c> now</c><02:14:21.770><c> this</c><02:14:22.160><c> is</c><02:14:22.219><c> going</c><02:14:22.550><c> to</c><02:14:22.640><c> push</c><02:14:23.000><c> all</c>
+
+02:14:23.170 --> 02:14:23.180 align:start position:0%
+by 2 so now this is going to push all
+ 
+
+02:14:23.180 --> 02:14:25.720 align:start position:0%
+by 2 so now this is going to push all
+the<02:14:23.480><c> even</c><02:14:23.960><c> numbers</c><02:14:23.989><c> onto</c><02:14:24.560><c> the</c><02:14:24.830><c> array</c><02:14:25.070><c> we</c><02:14:25.700><c> have</c>
+
+02:14:25.720 --> 02:14:25.730 align:start position:0%
+the even numbers onto the array we have
+ 
+
+02:14:25.730 --> 02:14:27.640 align:start position:0%
+the even numbers onto the array we have
+console<02:14:26.210><c> dot</c><02:14:26.300><c> log</c><02:14:26.360><c> so</c><02:14:26.810><c> let's</c><02:14:26.960><c> log</c><02:14:27.230><c> it</c><02:14:27.410><c> out</c><02:14:27.530><c> and</c>
+
+02:14:27.640 --> 02:14:27.650 align:start position:0%
+console dot log so let's log it out and
+ 
+
+02:14:27.650 --> 02:14:30.850 align:start position:0%
+console dot log so let's log it out and
+see<02:14:27.800><c> what</c><02:14:27.890><c> it</c><02:14:27.980><c> looks</c><02:14:28.160><c> like</c><02:14:28.300><c> 0</c><02:14:29.300><c> 2</c><02:14:29.420><c> 4</c><02:14:30.020><c> 6</c><02:14:30.260><c> 8</c><02:14:30.469><c> I'm</c>
+
+02:14:30.850 --> 02:14:30.860 align:start position:0%
+see what it looks like 0 2 4 6 8 I'm
+ 
+
+02:14:30.860 --> 02:14:33.160 align:start position:0%
+see what it looks like 0 2 4 6 8 I'm
+going<02:14:31.640><c> to</c><02:14:32.000><c> write</c><02:14:32.150><c> another</c><02:14:32.270><c> loop</c><02:14:32.719><c> right</c><02:14:32.930><c> now</c>
+
+02:14:33.160 --> 02:14:33.170 align:start position:0%
+going to write another loop right now
+ 
+
+02:14:33.170 --> 02:14:36.340 align:start position:0%
+going to write another loop right now
+that<02:14:33.680><c> creates</c><02:14:34.550><c> an</c><02:14:34.730><c> array</c><02:14:34.850><c> of</c><02:14:35.150><c> odd</c><02:14:35.360><c> numbers</c><02:14:35.719><c> so</c>
+
+02:14:36.340 --> 02:14:36.350 align:start position:0%
+that creates an array of odd numbers so
+ 
+
+02:14:36.350 --> 02:14:43.060 align:start position:0%
+that creates an array of odd numbers so
+let's<02:14:37.010><c> do</c><02:14:37.219><c> that</c><02:14:37.370><c> for</c><02:14:39.100><c> VAR</c><02:14:40.100><c> i</c><02:14:40.870><c> equals</c><02:14:41.870><c> 1</c><02:14:42.739><c> we'll</c>
+
+02:14:43.060 --> 02:14:43.070 align:start position:0%
+let's do that for VAR i equals 1 we'll
+ 
+
+02:14:43.070 --> 02:14:48.790 align:start position:0%
+let's do that for VAR i equals 1 we'll
+start<02:14:43.280><c> at</c><02:14:43.400><c> 1</c><02:14:43.780><c> while</c><02:14:44.780><c> I</c><02:14:45.050><c> is</c><02:14:45.710><c> less</c><02:14:46.130><c> than</c><02:14:46.840><c> 10</c>
+
+02:14:48.790 --> 02:14:48.800 align:start position:0%
+start at 1 while I is less than 10
+ 
+
+02:14:48.800 --> 02:14:54.270 align:start position:0%
+start at 1 while I is less than 10
+I<02:14:48.830><c> can</c><02:14:49.130><c> use</c><02:14:49.250><c> 10</c><02:14:49.520><c> again</c><02:14:49.820><c> I'm</c><02:14:50.450><c> gonna</c><02:14:50.840><c> do</c><02:14:51.050><c> I</c><02:14:52.450><c> plus</c>
+
+02:14:54.270 --> 02:14:54.280 align:start position:0%
+I can use 10 again I'm gonna do I plus
+ 
+
+02:14:54.280 --> 02:14:59.080 align:start position:0%
+I can use 10 again I'm gonna do I plus
+equal<02:14:56.260><c> to</c><02:14:57.260><c> so</c><02:14:58.040><c> we're</c><02:14:58.160><c> still</c><02:14:58.400><c> going</c><02:14:58.520><c> to</c><02:14:58.580><c> skip</c>
+
+02:14:59.080 --> 02:14:59.090 align:start position:0%
+equal to so we're still going to skip
+ 
+
+02:14:59.090 --> 02:15:00.970 align:start position:0%
+equal to so we're still going to skip
+count<02:14:59.270><c> by</c><02:14:59.390><c> twos</c><02:14:59.780><c> but</c><02:15:00.080><c> since</c><02:15:00.320><c> we're</c><02:15:00.469><c> starting</c>
+
+02:15:00.970 --> 02:15:00.980 align:start position:0%
+count by twos but since we're starting
+ 
+
+02:15:00.980 --> 02:15:03.400 align:start position:0%
+count by twos but since we're starting
+at<02:15:01.250><c> 1</c><02:15:01.640><c> instead</c><02:15:01.910><c> of</c><02:15:01.969><c> 0</c><02:15:02.060><c> this</c><02:15:03.020><c> should</c><02:15:03.200><c> give</c><02:15:03.380><c> us</c>
+
+02:15:03.400 --> 02:15:03.410 align:start position:0%
+at 1 instead of 0 this should give us
+ 
+
+02:15:03.410 --> 02:15:06.550 align:start position:0%
+at 1 instead of 0 this should give us
+the<02:15:03.530><c> odd</c><02:15:03.950><c> numbers</c><02:15:04.580><c> so</c><02:15:05.270><c> let's</c><02:15:05.570><c> see</c><02:15:06.350><c> what's</c>
+
+02:15:06.550 --> 02:15:06.560 align:start position:0%
+the odd numbers so let's see what's
+ 
+
+02:15:06.560 --> 02:15:09.760 align:start position:0%
+the odd numbers so let's see what's
+gonna<02:15:06.650><c> be</c><02:15:06.800><c> inside</c><02:15:07.280><c> our</c><02:15:07.460><c> loop</c><02:15:07.670><c> my</c><02:15:08.510><c> array</c><02:15:09.290><c> dot</c>
+
+02:15:09.760 --> 02:15:09.770 align:start position:0%
+gonna be inside our loop my array dot
+ 
+
+02:15:09.770 --> 02:15:15.040 align:start position:0%
+gonna be inside our loop my array dot
+plush<02:15:10.989><c> and</c><02:15:11.989><c> I'll</c><02:15:12.140><c> just</c><02:15:12.290><c> put</c><02:15:12.500><c> I</c><02:15:12.710><c> there</c><02:15:13.810><c> so</c><02:15:14.810><c> let's</c>
+
+02:15:15.040 --> 02:15:15.050 align:start position:0%
+plush and I'll just put I there so let's
+ 
+
+02:15:15.050 --> 02:15:16.450 align:start position:0%
+plush and I'll just put I there so let's
+log<02:15:15.320><c> this</c><02:15:15.530><c> out</c><02:15:15.710><c> and</c><02:15:15.890><c> see</c><02:15:16.040><c> if</c><02:15:16.130><c> we</c><02:15:16.190><c> did</c><02:15:16.340><c> it</c><02:15:16.430><c> right</c>
+
+02:15:16.450 --> 02:15:16.460 align:start position:0%
+log this out and see if we did it right
+ 
+
+02:15:16.460 --> 02:15:21.880 align:start position:0%
+log this out and see if we did it right
+console<02:15:17.239><c> dot</c><02:15:17.510><c> log</c><02:15:18.160><c> my</c><02:15:19.160><c> array</c><02:15:20.060><c> and</c><02:15:20.900><c> I'll</c><02:15:21.560><c> run</c>
+
+02:15:21.880 --> 02:15:21.890 align:start position:0%
+console dot log my array and I'll run
+ 
+
+02:15:21.890 --> 02:15:30.470 align:start position:0%
+console dot log my array and I'll run
+that<02:15:22.930><c> 1</c><02:15:23.930><c> 3</c><02:15:24.350><c> 5</c><02:15:24.680><c> 7</c><02:15:25.100><c> 9</c><02:15:25.420><c> it</c><02:15:26.420><c> worked</c>
+
+02:15:30.470 --> 02:15:30.480 align:start position:0%
+ 
+ 
+
+02:15:30.480 --> 02:15:33.350 align:start position:0%
+ 
+a<02:15:30.980><c> for-loop</c><02:15:31.980><c> can</c><02:15:32.190><c> also</c><02:15:32.370><c> be</c><02:15:32.670><c> used</c><02:15:32.940><c> to</c><02:15:33.030><c> count</c>
+
+02:15:33.350 --> 02:15:33.360 align:start position:0%
+a for-loop can also be used to count
+ 
+
+02:15:33.360 --> 02:15:35.780 align:start position:0%
+a for-loop can also be used to count
+backwards<02:15:33.720><c> so</c><02:15:34.590><c> if</c><02:15:34.680><c> we</c><02:15:34.800><c> see</c><02:15:35.040><c> this</c><02:15:35.250><c> for</c><02:15:35.610><c> loop</c>
+
+02:15:35.780 --> 02:15:35.790 align:start position:0%
+backwards so if we see this for loop
+ 
+
+02:15:35.790 --> 02:15:39.140 align:start position:0%
+backwards so if we see this for loop
+here<02:15:36.180><c> we're</c><02:15:36.690><c> initializing</c><02:15:37.080><c> I</c><02:15:37.650><c> to</c><02:15:37.790><c> 10</c><02:15:38.790><c> we're</c>
+
+02:15:39.140 --> 02:15:39.150 align:start position:0%
+here we're initializing I to 10 we're
+ 
+
+02:15:39.150 --> 02:15:42.110 align:start position:0%
+here we're initializing I to 10 we're
+starting<02:15:39.600><c> at</c><02:15:39.720><c> 10</c><02:15:40.080><c> and</c><02:15:40.380><c> we're</c><02:15:40.830><c> going</c><02:15:41.130><c> back</c><02:15:41.160><c> to</c><02:15:41.790><c> 0</c>
+
+02:15:42.110 --> 02:15:42.120 align:start position:0%
+starting at 10 and we're going back to 0
+ 
+
+02:15:42.120 --> 02:15:44.270 align:start position:0%
+starting at 10 and we're going back to 0
