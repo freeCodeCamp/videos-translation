@@ -1,8 +1,217 @@
+00:30:19.810 --> 00:30:22.620 align:start position:0%
+你可以用 += 把变量转换成字符串
+
+00:30:22.630 --> 00:30:24.510 align:start position:0%
+你可以看到这个变量 anAdjective，它的赋值是 awesome
+
+00:30:27.160 --> 00:30:30.270 align:start position:0%
+然后我们有另一个变量 ourStr，赋值 freeCodeCamp is
+
+00:30:33.130 --> 00:30:36.720 align:start position:0%
+用 += 将两个变量连接起来
+
+00:30:36.730 --> 00:30:41.130 align:start position:0%
+现在 ourStr 变量的值就是 freeCodeCamp is awesome
+
+00:30:44.470 --> 00:30:49.640 align:start position:0%
+另一个例子
+
+00:30:49.650 --> 00:30:54.000 align:start position:0%
+我们定义变量 someAdjective 的值为 worthwhile
+
+00:30:54.010 --> 00:30:58.890 align:start position:0%
+然后我们使用 +=
+
+00:30:58.900 --> 00:31:02.700 align:start position:0%
+输入 myStr += someAdjective
+
+00:31:07.450 --> 00:31:13.930 align:start position:0%
+myStr 的值就成为了 Learning to code is worthwhile
+
+00:31:16.130 --> 00:31:19.450 align:start position:0%
+有时候你想要计算一个字符串的长度
+
+00:31:19.460 --> 00:31:21.160 align:start position:0%
+用 JavaScript 代码很容易实现
+
+00:31:21.170 --> 00:31:24.520 align:start position:0%
+变量 firstName 赋值为 Ada
+
+00:31:24.530 --> 00:31:27.490 align:start position:0%
+我们使用 .length 属性确定长度
+
+00:31:27.500 --> 00:31:29.620 align:start position:0%
+所以就是 firstName.length
+
+00:31:29.630 --> 00:31:32.320 align:start position:0%
+记住 firstName 的值是 Ada
+
+00:31:32.330 --> 00:31:34.420 align:start position:0%
+然后 .length 就会返回一个整数
+
+00:31:34.430 --> 00:31:36.610 align:start position:0%
+也就是字符串中字母的数量
+
+00:31:36.620 --> 00:31:39.250 align:start position:0%
+结果就是 3
+
+00:31:39.260 --> 00:31:40.150 align:start position:0%
+我们再试一次
+
+00:31:40.160 --> 00:31:42.940 align:start position:0%
+另一个例子
+
+00:31:42.950 --> 00:31:46.510 align:start position:0%
+lastNameLength 等于 lastName
+
+00:31:46.520 --> 00:31:48.700 align:start position:0%
+我们需要输入 .length
+
+00:31:48.710 --> 00:31:51.520 align:start position:0%
+使用 console.log
+
+00:31:51.530 --> 00:31:55.120 align:start position:0%
+输入 lastNameLength
+
+00:31:55.130 --> 00:31:57.610 align:start position:0%
+点击运行
+
+00:31:57.620 --> 00:32:04.030 align:start position:0%
+结果是 8
+
+00:32:04.040 --> 00:32:06.770 align:start position:0%
+因为这个字符串 lovelace 有 8 个字母
+ 
+00:32:06.780 --> 00:32:09.170 align:start position:0%
+bracket notation is a way to get a
+
+
+character<00:32:07.440><c> at</c><00:32:07.620><c> a</c><00:32:07.650><c> specific</c><00:32:07.980><c> index</c><00:32:08.730><c> within</c><00:32:09.000><c> a</c>
+
+00:32:09.170 --> 00:32:09.180 align:start position:0%
+character at a specific index within a
+ 
+
+00:32:09.180 --> 00:32:11.090 align:start position:0%
+character at a specific index within a
+string<00:32:09.540><c> so</c><00:32:10.320><c> you</c><00:32:10.350><c> can</c><00:32:10.530><c> see</c><00:32:10.650><c> right</c><00:32:10.770><c> here</c><00:32:10.830><c> we</c><00:32:11.070><c> have</c>
+
+00:32:11.090 --> 00:32:11.100 align:start position:0%
+string so you can see right here we have
+ 
+
+00:32:11.100 --> 00:32:13.460 align:start position:0%
+string so you can see right here we have
+the<00:32:11.280><c> first</c><00:32:11.490><c> name</c><00:32:11.820><c> adda</c><00:32:12.120><c> and</c><00:32:12.510><c> right</c><00:32:13.110><c> here</c><00:32:13.320><c> we</c>
+
+00:32:13.460 --> 00:32:13.470 align:start position:0%
+the first name adda and right here we
+ 
+
+00:32:13.470 --> 00:32:15.650 align:start position:0%
+the first name adda and right here we
+have<00:32:13.620><c> first</c><00:32:14.010><c> name</c><00:32:14.400><c> and</c><00:32:14.760><c> then</c><00:32:15.180><c> here's</c><00:32:15.480><c> the</c>
+
+00:32:15.650 --> 00:32:15.660 align:start position:0%
+have first name and then here's the
+ 
+
+00:32:15.660 --> 00:32:17.810 align:start position:0%
+have first name and then here's the
+bracken<00:32:16.200><c> notation</c><00:32:16.800><c> you</c><00:32:17.280><c> can</c><00:32:17.460><c> see</c><00:32:17.610><c> there's</c>
+
+00:32:17.810 --> 00:32:17.820 align:start position:0%
+bracken notation you can see there's
+ 
+
+00:32:17.820 --> 00:32:21.200 align:start position:0%
+bracken notation you can see there's
+brackets<00:32:18.330><c> with</c><00:32:18.510><c> a</c><00:32:18.540><c> number</c><00:32:19.020><c> inside</c><00:32:19.430><c> so</c><00:32:20.430><c> most</c>
+
+00:32:21.200 --> 00:32:21.210 align:start position:0%
+brackets with a number inside so most
+ 
+
+00:32:21.210 --> 00:32:23.120 align:start position:0%
+brackets with a number inside so most
+modern<00:32:21.630><c> programming</c><00:32:21.930><c> languages</c><00:32:22.920><c> like</c>
+
+00:32:23.120 --> 00:32:23.130 align:start position:0%
+modern programming languages like
+ 
+
+00:32:23.130 --> 00:32:26.300 align:start position:0%
+modern programming languages like
+JavaScript<00:32:24.060><c> don't</c><00:32:24.810><c> start</c><00:32:25.290><c> counting</c><00:32:25.620><c> at</c><00:32:26.010><c> one</c>
+
+00:32:26.300 --> 00:32:26.310 align:start position:0%
+JavaScript don't start counting at one
+ 
+
+00:32:26.310 --> 00:32:29.630 align:start position:0%
+JavaScript don't start counting at one
+like<00:32:26.760><c> humans</c><00:32:27.240><c> do</c><00:32:27.450><c> they</c><00:32:28.110><c> start</c><00:32:28.500><c> at</c><00:32:28.590><c> zero</c><00:32:28.980><c> which</c>
+
+00:32:29.630 --> 00:32:29.640 align:start position:0%
+like humans do they start at zero which
+ 
+
+00:32:29.640 --> 00:32:32.690 align:start position:0%
+like humans do they start at zero which
+is<00:32:29.820><c> called</c><00:32:30.090><c> zero-based</c><00:32:30.960><c> indexing</c><00:32:31.400><c> so</c><00:32:32.400><c> with</c>
+
+00:32:32.690 --> 00:32:32.700 align:start position:0%
+is called zero-based indexing so with
+ 
+
+00:32:32.700 --> 00:32:35.570 align:start position:0%
+is called zero-based indexing so with
+the<00:32:32.880><c> number</c><00:32:33.270><c> zero</c><00:32:33.810><c> that</c><00:32:34.470><c> refers</c><00:32:34.920><c> to</c><00:32:34.950><c> the</c><00:32:35.400><c> in</c>
+
+00:32:35.570 --> 00:32:35.580 align:start position:0%
+the number zero that refers to the in
+ 
+
+00:32:35.580 --> 00:32:38.300 align:start position:0%
+the number zero that refers to the in
+the<00:32:35.940><c> first</c><00:32:36.270><c> index</c><00:32:36.870><c> of</c><00:32:37.110><c> this</c><00:32:37.590><c> string</c><00:32:38.010><c> which</c>
+
+00:32:38.300 --> 00:32:38.310 align:start position:0%
+the first index of this string which
+ 
+
+00:32:38.310 --> 00:32:41.570 align:start position:0%
+the first index of this string which
+would<00:32:38.490><c> be</c><00:32:38.580><c> the</c><00:32:38.730><c> a</c><00:32:38.760><c> so</c><00:32:39.660><c> the</c><00:32:39.930><c> a</c><00:32:40.110><c> would</c><00:32:40.380><c> be</c><00:32:40.530><c> zero</c><00:32:40.890><c> D</c>
+
+00:32:41.570 --> 00:32:41.580 align:start position:0%
+would be the a so the a would be zero D
+ 
+
+00:32:41.580 --> 00:32:45.710 align:start position:0%
+would be the a so the a would be zero D
+is<00:32:41.760><c> one</c><00:32:42.120><c> and</c><00:32:42.510><c> then</c><00:32:42.960><c> a</c><00:32:43.110><c> is</c><00:32:43.530><c> two</c><00:32:44.040><c> so</c><00:32:44.790><c> this</c><00:32:45.360><c> first</c>
+
+00:32:45.710 --> 00:32:45.720 align:start position:0%
+is one and then a is two so this first
+ 
+
+00:32:45.720 --> 00:32:48.590 align:start position:0%
+is one and then a is two so this first
+letter<00:32:46.110><c> of</c><00:32:46.200><c> first</c><00:32:46.590><c> name</c><00:32:46.950><c> if</c><00:32:47.310><c> we</c><00:32:47.790><c> do</c><00:32:47.940><c> first</c><00:32:48.300><c> name</c>
+
+00:32:48.590 --> 00:32:48.600 align:start position:0%
+letter of first name if we do first name
+ 
+
+00:32:48.600 --> 00:32:50.840 align:start position:0%
+letter of first name if we do first name
+
 with<00:32:48.960><c> the</c><00:32:49.290><c> bracket</c><00:32:49.770><c> notation</c><00:32:49.890><c> with</c><00:32:50.400><c> a</c><00:32:50.430><c> zero</c>
 
 00:32:50.840 --> 00:32:50.850 align:start position:0%
 with the bracket notation with a zero
- 
+
 
 00:32:50.850 --> 00:32:54.530 align:start position:0%
 with the bracket notation with a zero
