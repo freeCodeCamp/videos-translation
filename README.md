@@ -27,9 +27,9 @@ Each language translation is available in their own directories at the root of t
 | [JS-full-course-3.srt](https://github.com/freeCodeCamp/videos-translation/blob/master/chinese/subtitle/JS-full-course-3.vtt) | [Miya](https://github.com/miyaliu666) | finished |
 | [JS-full-course-4.srt](https://github.com/freeCodeCamp/videos-translation/blob/master/chinese/subtitle/JS-full-course-4.vtt) | [Miya](https://github.com/miyaliu666) | finished |
 | [JS-full-course-5.srt](https://github.com/freeCodeCamp/videos-translation/blob/master/chinese/subtitle/JS-full-course-5.srt) | [Miya](https://github.com/miyaliu666) | finished |
-| [JS-full-course-6.srt](https://github.com/freeCodeCamp/videos-translation/blob/master/chinese/subtitle/JS-full-course-6.srt) | [Miya](https://github.com/miyaliu666) | ongoing |
-| [JS-full-course-7.srt](https://github.com/freeCodeCamp/videos-translation/blob/master/chinese/subtitle/JS-full-course-7.srt) | | yet to start |
-| [JS-full-course-8.srt](https://github.com/freeCodeCamp/videos-translation/blob/master/chinese/subtitle/JS-full-course-8.srt) | | yet to start |
+| [JS-full-course-6.srt](https://github.com/freeCodeCamp/videos-translation/blob/master/chinese/subtitle/JS-full-course-6.srt) | [Miya](https://github.com/miyaliu666) | finished |
+| [JS-full-course-7.srt](https://github.com/freeCodeCamp/videos-translation/blob/master/chinese/subtitle/JS-full-course-7.srt) | | finished |
+| [JS-full-course-8.srt](https://github.com/freeCodeCamp/videos-translation/blob/master/chinese/subtitle/JS-full-course-8.srt) | | ongoing |
 | [JS-full-course-9.srt](https://github.com/freeCodeCamp/videos-translation/blob/master/chinese/subtitle/JS-full-course-9.srt) | | yet to start |
 | [JS-full-course-10.srt](https://github.com/freeCodeCamp/videos-translation/blob/master/chinese/subtitle/JS-full-course-10.srt) | | yet to start |
 | [JS-full-course-11.srt](https://github.com/freeCodeCamp/videos-translation/blob/master/chinese/subtitle/JS-full-course-11.srt) | | yet to start |
