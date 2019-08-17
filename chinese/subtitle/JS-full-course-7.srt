@@ -83,1522 +83,467 @@ lastNameLength 等于 lastName
 因为这个字符串 lovelace 有 8 个字母
  
 00:32:06.780 --> 00:32:09.170 align:start position:0%
-bracket notation is a way to get a
-
-
-character<00:32:07.440><c> at</c><00:32:07.620><c> a</c><00:32:07.650><c> specific</c><00:32:07.980><c> index</c><00:32:08.730><c> within</c><00:32:09.000><c> a</c>
-
-00:32:09.170 --> 00:32:09.180 align:start position:0%
-character at a specific index within a
- 
-
-00:32:09.180 --> 00:32:11.090 align:start position:0%
-character at a specific index within a
-string<00:32:09.540><c> so</c><00:32:10.320><c> you</c><00:32:10.350><c> can</c><00:32:10.530><c> see</c><00:32:10.650><c> right</c><00:32:10.770><c> here</c><00:32:10.830><c> we</c><00:32:11.070><c> have</c>
-
-00:32:11.090 --> 00:32:11.100 align:start position:0%
-string so you can see right here we have
- 
+可以使用括号来索引一个字符串中的字母
 
 00:32:11.100 --> 00:32:13.460 align:start position:0%
-string so you can see right here we have
-the<00:32:11.280><c> first</c><00:32:11.490><c> name</c><00:32:11.820><c> adda</c><00:32:12.120><c> and</c><00:32:12.510><c> right</c><00:32:13.110><c> here</c><00:32:13.320><c> we</c>
-
-00:32:13.460 --> 00:32:13.470 align:start position:0%
-the first name adda and right here we
- 
+这里变量 firstName 的值是 Ada
 
 00:32:13.470 --> 00:32:15.650 align:start position:0%
-the first name adda and right here we
-have<00:32:13.620><c> first</c><00:32:14.010><c> name</c><00:32:14.400><c> and</c><00:32:14.760><c> then</c><00:32:15.180><c> here's</c><00:32:15.480><c> the</c>
-
-00:32:15.650 --> 00:32:15.660 align:start position:0%
-have first name and then here's the
- 
-
-00:32:15.660 --> 00:32:17.810 align:start position:0%
-have first name and then here's the
-bracken<00:32:16.200><c> notation</c><00:32:16.800><c> you</c><00:32:17.280><c> can</c><00:32:17.460><c> see</c><00:32:17.610><c> there's</c>
-
-00:32:17.810 --> 00:32:17.820 align:start position:0%
-bracken notation you can see there's
- 
-
-00:32:17.820 --> 00:32:21.200 align:start position:0%
-bracken notation you can see there's
-brackets<00:32:18.330><c> with</c><00:32:18.510><c> a</c><00:32:18.540><c> number</c><00:32:19.020><c> inside</c><00:32:19.430><c> so</c><00:32:20.430><c> most</c>
-
-00:32:21.200 --> 00:32:21.210 align:start position:0%
-brackets with a number inside so most
- 
+这里 firstName 后面有个括号
 
 00:32:21.210 --> 00:32:23.120 align:start position:0%
-brackets with a number inside so most
-modern<00:32:21.630><c> programming</c><00:32:21.930><c> languages</c><00:32:22.920><c> like</c>
-
-00:32:23.120 --> 00:32:23.130 align:start position:0%
-modern programming languages like
- 
+里面有一个数字
 
 00:32:23.130 --> 00:32:26.300 align:start position:0%
-modern programming languages like
-JavaScript<00:32:24.060><c> don't</c><00:32:24.810><c> start</c><00:32:25.290><c> counting</c><00:32:25.620><c> at</c><00:32:26.010><c> one</c>
-
-00:32:26.300 --> 00:32:26.310 align:start position:0%
-JavaScript don't start counting at one
- 
+大部分现代编程语言比如 JavaScript
 
 00:32:26.310 --> 00:32:29.630 align:start position:0%
-JavaScript don't start counting at one
-like<00:32:26.760><c> humans</c><00:32:27.240><c> do</c><00:32:27.450><c> they</c><00:32:28.110><c> start</c><00:32:28.500><c> at</c><00:32:28.590><c> zero</c><00:32:28.980><c> which</c>
-
-00:32:29.630 --> 00:32:29.640 align:start position:0%
-like humans do they start at zero which
- 
+不是和我们平时一样从 1 开始计数
 
 00:32:29.640 --> 00:32:32.690 align:start position:0%
-like humans do they start at zero which
-is<00:32:29.820><c> called</c><00:32:30.090><c> zero-based</c><00:32:30.960><c> indexing</c><00:32:31.400><c> so</c><00:32:32.400><c> with</c>
-
-00:32:32.690 --> 00:32:32.700 align:start position:0%
-is called zero-based indexing so with
- 
+而是从 0 开始
 
 00:32:32.700 --> 00:32:35.570 align:start position:0%
-is called zero-based indexing so with
-the<00:32:32.880><c> number</c><00:32:33.270><c> zero</c><00:32:33.810><c> that</c><00:32:34.470><c> refers</c><00:32:34.920><c> to</c><00:32:34.950><c> the</c><00:32:35.400><c> in</c>
-
-00:32:35.570 --> 00:32:35.580 align:start position:0%
-the number zero that refers to the in
- 
+这叫作从 0 开始的索引
 
 00:32:35.580 --> 00:32:38.300 align:start position:0%
-the number zero that refers to the in
-the<00:32:35.940><c> first</c><00:32:36.270><c> index</c><00:32:36.870><c> of</c><00:32:37.110><c> this</c><00:32:37.590><c> string</c><00:32:38.010><c> which</c>
-
-00:32:38.300 --> 00:32:38.310 align:start position:0%
-the first index of this string which
- 
-
-00:32:38.310 --> 00:32:41.570 align:start position:0%
-the first index of this string which
-would<00:32:38.490><c> be</c><00:32:38.580><c> the</c><00:32:38.730><c> a</c><00:32:38.760><c> so</c><00:32:39.660><c> the</c><00:32:39.930><c> a</c><00:32:40.110><c> would</c><00:32:40.380><c> be</c><00:32:40.530><c> zero</c><00:32:40.890><c> D</c>
-
-00:32:41.570 --> 00:32:41.580 align:start position:0%
-would be the a so the a would be zero D
- 
+所以数字 0 指的是字符串的第一位
 
 00:32:41.580 --> 00:32:45.710 align:start position:0%
-would be the a so the a would be zero D
-is<00:32:41.760><c> one</c><00:32:42.120><c> and</c><00:32:42.510><c> then</c><00:32:42.960><c> a</c><00:32:43.110><c> is</c><00:32:43.530><c> two</c><00:32:44.040><c> so</c><00:32:44.790><c> this</c><00:32:45.360><c> first</c>
-
-00:32:45.710 --> 00:32:45.720 align:start position:0%
-is one and then a is two so this first
- 
+也就是 A
 
 00:32:45.720 --> 00:32:48.590 align:start position:0%
-is one and then a is two so this first
-letter<00:32:46.110><c> of</c><00:32:46.200><c> first</c><00:32:46.590><c> name</c><00:32:46.950><c> if</c><00:32:47.310><c> we</c><00:32:47.790><c> do</c><00:32:47.940><c> first</c><00:32:48.300><c> name</c>
-
-00:32:48.590 --> 00:32:48.600 align:start position:0%
-letter of first name if we do first name
- 
+d 对应数字 1，a 对应数字 2
 
 00:32:48.600 --> 00:32:50.840 align:start position:0%
-letter of first name if we do first name
-
-with<00:32:48.960><c> the</c><00:32:49.290><c> bracket</c><00:32:49.770><c> notation</c><00:32:49.890><c> with</c><00:32:50.400><c> a</c><00:32:50.430><c> zero</c>
-
-00:32:50.840 --> 00:32:50.850 align:start position:0%
-with the bracket notation with a zero
-
+所以 firstName 的第一个字母
 
 00:32:50.850 --> 00:32:54.530 align:start position:0%
-with the bracket notation with a zero
-that's<00:32:51.540><c> gonna</c><00:32:51.750><c> equal</c><00:32:52.020><c> a</c><00:32:52.820><c> so</c><00:32:53.820><c> let</c><00:32:54.180><c> me</c><00:32:54.270><c> show</c><00:32:54.480><c> you</c>
-
-00:32:54.530 --> 00:32:54.540 align:start position:0%
-that's gonna equal a so let me show you
- 
+如果我们输入 firstName[0]
 
 00:32:54.540 --> 00:32:57.410 align:start position:0%
-that's gonna equal a so let me show you
-another<00:32:54.750><c> example</c><00:32:55.220><c> let's</c><00:32:56.220><c> say</c><00:32:56.430><c> we</c><00:32:56.580><c> want</c><00:32:56.850><c> to</c><00:32:56.910><c> get</c>
-
-00:32:57.410 --> 00:32:57.420 align:start position:0%
-another example let's say we want to get
- 
+结果就是 A
 
 00:32:57.420 --> 00:33:01.490 align:start position:0%
-another example let's say we want to get
-the<00:32:58.230><c> first</c><00:32:59.100><c> letter</c><00:32:59.460><c> of</c><00:32:59.700><c> the</c><00:32:59.790><c> last</c><00:33:00.630><c> name</c><00:33:00.960><c> again</c>
-
-00:33:01.490 --> 00:33:01.500 align:start position:0%
-the first letter of the last name again
- 
+我们再举一个例子
 
 00:33:01.500 --> 00:33:03.260 align:start position:0%
-the first letter of the last name again
-I'm<00:33:02.010><c> just</c><00:33:02.220><c> gonna</c><00:33:02.310><c> do</c><00:33:02.640><c> the</c><00:33:02.790><c> bracket</c><00:33:03.180><c> notation</c>
-
-00:33:03.260 --> 00:33:03.270 align:start position:0%
-I'm just gonna do the bracket notation
- 
+我们想要索引变量 lastName 的第一个字母
 
 00:33:03.270 --> 00:33:06.830 align:start position:0%
-I'm just gonna do the bracket notation
-and<00:33:03.900><c> put</c><00:33:04.200><c> a</c><00:33:04.470><c> zero</c><00:33:05.040><c> here</c><00:33:05.130><c> if</c><00:33:05.730><c> I</c><00:33:06.300><c> wanted</c><00:33:06.630><c> the</c>
-
-00:33:06.830 --> 00:33:06.840 align:start position:0%
-and put a zero here if I wanted the
- 
+那么我们在括号中输入数字 0
 
 00:33:06.840 --> 00:33:10.340 align:start position:0%
-and put a zero here if I wanted the
-second<00:33:07.500><c> letter</c><00:33:07.770><c> the</c><00:33:08.310><c> oh</c><00:33:08.610><c> I</c><00:33:08.940><c> will</c><00:33:09.330><c> put</c><00:33:09.540><c> a</c><00:33:09.570><c> 1</c><00:33:09.630><c> here</c>
-
-00:33:10.340 --> 00:33:10.350 align:start position:0%
-second letter the oh I will put a 1 here
- 
+如果我想要索引第二个字母
 
 00:33:10.350 --> 00:33:13.910 align:start position:0%
-second letter the oh I will put a 1 here
-so<00:33:10.530><c> if</c><00:33:11.310><c> I</c><00:33:11.430><c> console</c><00:33:12.150><c> that</c><00:33:12.270><c> log</c><00:33:12.570><c> we</c><00:33:12.900><c> can</c><00:33:13.080><c> see</c><00:33:13.350><c> what</c>
-
-00:33:13.910 --> 00:33:13.920 align:start position:0%
-so if I console that log we can see what
- 
+我就在括号中输入 1
 
 00:33:13.920 --> 00:33:16.570 align:start position:0%
-so if I console that log we can see what
-it<00:33:14.040><c> came</c><00:33:14.370><c> up</c><00:33:14.550><c> with</c><00:33:14.760><c> so</c><00:33:14.940><c> console</c><00:33:15.390><c> that</c><00:33:15.540><c> log</c>
-
-00:33:16.570 --> 00:33:16.580 align:start position:0%
-it came up with so console that log
- 
-
-00:33:16.580 --> 00:33:20.960 align:start position:0%
-it came up with so console that log
-first<00:33:17.580><c> letter</c><00:33:18.360><c> of</c><00:33:18.660><c> last</c><00:33:18.990><c> name</c><00:33:19.410><c> and</c><00:33:19.920><c> if</c><00:33:20.550><c> we</c><00:33:20.670><c> look</c>
-
-00:33:20.960 --> 00:33:20.970 align:start position:0%
-first letter of last name and if we look
- 
+如果我输入 console.log
 
 00:33:20.970 --> 00:33:23.660 align:start position:0%
-first letter of last name and if we look
-in<00:33:21.210><c> the</c><00:33:21.360><c> console</c><00:33:21.930><c> l</c><00:33:22.500><c> because</c><00:33:23.220><c> the</c><00:33:23.400><c> first</c>
-
-00:33:23.660 --> 00:33:23.670 align:start position:0%
-in the console l because the first
- 
+（如屏幕显示）
 
 00:33:23.670 --> 00:33:29.789 align:start position:0%
-in the console l because the first
-letter<00:33:23.910><c> of</c><00:33:23.970><c> the</c><00:33:24.090><c> last</c><00:33:24.240><c> name</c><00:33:24.540><c> is</c><00:33:25.020><c> L</c>
-
-00:33:29.789 --> 00:33:29.799 align:start position:0%
- 
- 
+控制台会显示 L
 
 00:33:29.799 --> 00:33:32.710 align:start position:0%
- 
-strings<00:33:30.799><c> are</c><00:33:31.100><c> immutable</c><00:33:31.570><c> meaning</c><00:33:32.570><c> they</c>
-
-00:33:32.710 --> 00:33:32.720 align:start position:0%
-strings are immutable meaning they
- 
+因为第一个字母是 L
 
 00:33:32.720 --> 00:33:36.609 align:start position:0%
-strings are immutable meaning they
-cannot<00:33:33.200><c> be</c><00:33:33.409><c> altered</c><00:33:33.980><c> once</c><00:33:34.610><c> created</c><00:33:35.320><c> this</c><00:33:36.320><c> does</c>
-
-00:33:36.609 --> 00:33:36.619 align:start position:0%
-cannot be altered once created this does
- 
+字符串是不可变的
 
 00:33:36.619 --> 00:33:38.440 align:start position:0%
-cannot be altered once created this does
-not<00:33:36.799><c> mean</c><00:33:37.159><c> that</c><00:33:37.190><c> they</c><00:33:37.879><c> cannot</c><00:33:38.210><c> be</c><00:33:38.419><c> changed</c>
-
-00:33:38.440 --> 00:33:38.450 align:start position:0%
-not mean that they cannot be changed
- 
+意思是一个字符串在创建之后就不能改变
 
 00:33:38.450 --> 00:33:41.529 align:start position:0%
-not mean that they cannot be changed
-just<00:33:39.440><c> that</c><00:33:39.919><c> the</c><00:33:40.039><c> individual</c><00:33:40.700><c> characters</c><00:33:41.299><c> of</c><00:33:41.450><c> a</c>
-
-00:33:41.529 --> 00:33:41.539 align:start position:0%
-just that the individual characters of a
- 
+但这并不是说不能改变一个字符串整体
 
 00:33:41.539 --> 00:33:44.289 align:start position:0%
-just that the individual characters of a
-string<00:33:41.570><c> literal</c><00:33:42.230><c> cannot</c><00:33:42.830><c> be</c><00:33:42.980><c> changed</c><00:33:43.279><c> so</c><00:33:44.090><c> look</c>
-
-00:33:44.289 --> 00:33:44.299 align:start position:0%
-string literal cannot be changed so look
- 
+只是不能改变字符串的单个字母
 
 00:33:44.299 --> 00:33:46.659 align:start position:0%
 string literal cannot be changed so look
-at<00:33:44.419><c> this</c><00:33:44.570><c> example</c><00:33:44.960><c> my</c><00:33:45.649><c> string</c><00:33:46.070><c> and</c><00:33:46.279><c> then</c><00:33:46.399><c> we're</c>
-
-00:33:46.659 --> 00:33:46.669 align:start position:0%
-at this example my string and then we're
- 
+所以我们看这个例子
 
 00:33:46.669 --> 00:33:48.999 align:start position:0%
-at this example my string and then we're
-going<00:33:46.879><c> to</c><00:33:47.149><c> use</c><00:33:47.360><c> bracket</c><00:33:47.960><c> notation</c><00:33:48.110><c> to</c><00:33:48.739><c> choose</c>
-
-00:33:48.999 --> 00:33:49.009 align:start position:0%
-going to use bracket notation to choose
- 
-
-00:33:49.009 --> 00:33:51.519 align:start position:0%
-going to use bracket notation to choose
-the<00:33:49.220><c> first</c><00:33:49.519><c> letter</c><00:33:49.820><c> so</c><00:33:50.600><c> it</c><00:33:50.869><c> currently</c><00:33:51.320><c> says</c>
-
-00:33:51.519 --> 00:33:51.529 align:start position:0%
-the first letter so it currently says
- 
+我们用括号法选取 myStr 中的第一个字母
 
 00:33:51.529 --> 00:33:53.889 align:start position:0%
-the first letter so it currently says
-jello<00:33:52.129><c> world</c><00:33:52.399><c> we</c><00:33:52.999><c> want</c><00:33:53.239><c> the</c><00:33:53.360><c> first</c><00:33:53.600><c> letter</c><00:33:53.809><c> to</c>
-
-00:33:53.889 --> 00:33:53.899 align:start position:0%
-jello world we want the first letter to
- 
+现在这个变量的值是 Jello World
 
 00:33:53.899 --> 00:33:57.159 align:start position:0%
-jello world we want the first letter to
-change<00:33:54.320><c> to</c><00:33:54.559><c> an</c><00:33:54.679><c> H</c><00:33:54.919><c> to</c><00:33:55.489><c> say</c><00:33:55.669><c> hello</c><00:33:56.029><c> world</c><00:33:56.360><c> but</c><00:33:57.080><c> if</c>
-
-00:33:57.159 --> 00:33:57.169 align:start position:0%
-change to an H to say hello world but if
- 
+我们想把第一个字母改为 H
 
 00:33:57.169 --> 00:33:59.169 align:start position:0%
-change to an H to say hello world but if
-I<00:33:57.259><c> run</c><00:33:57.529><c> that</c><00:33:57.590><c> there's</c><00:33:58.070><c> going</c><00:33:58.340><c> to</c><00:33:58.429><c> be</c><00:33:58.549><c> an</c><00:33:58.730><c> error</c>
-
-00:33:59.169 --> 00:33:59.179 align:start position:0%
-I run that there's going to be an error
- 
+也就是 Hello World
 
 00:33:59.179 --> 00:34:02.039 align:start position:0%
-I run that there's going to be an error
-because<00:34:00.110><c> of</c><00:34:00.289><c> the</c><00:34:00.440><c> immutability</c><00:34:01.070><c> of</c><00:34:01.369><c> strings</c>
-
-00:34:02.039 --> 00:34:02.049 align:start position:0%
-because of the immutability of strings
- 
-
-00:34:02.049 --> 00:34:04.659 align:start position:0%
-because of the immutability of strings
-now<00:34:03.049><c> we</c><00:34:03.109><c> can</c><00:34:03.409><c> still</c><00:34:03.649><c> change</c><00:34:04.039><c> this</c><00:34:04.429><c> to</c><00:34:04.639><c> hello</c>
-
-00:34:04.659 --> 00:34:04.669 align:start position:0%
-now we can still change this to hello
- 
+但是如果我运行的话，因为字符串的不可变性，它会显示错误
 
 00:34:04.669 --> 00:34:06.789 align:start position:0%
-now we can still change this to hello
-world<00:34:04.940><c> but</c><00:34:05.749><c> we</c><00:34:05.809><c> can't</c><00:34:06.109><c> just</c><00:34:06.320><c> change</c><00:34:06.590><c> an</c>
-
-00:34:06.789 --> 00:34:06.799 align:start position:0%
-world but we can't just change an
- 
+我们还是可以把它改为 Hello World
 
 00:34:06.799 --> 00:34:09.399 align:start position:0%
-world but we can't just change an
-individual<00:34:07.549><c> letter</c><00:34:07.970><c> like</c><00:34:08.210><c> that</c><00:34:08.240><c> so</c><00:34:09.139><c> we're</c>
-
-00:34:09.399 --> 00:34:09.409 align:start position:0%
-individual letter like that so we're
- 
+只是我们不能像那样只改第一个字母
 
 00:34:09.409 --> 00:34:12.309 align:start position:0%
-individual letter like that so we're
-gonna<00:34:09.559><c> have</c><00:34:09.859><c> to</c><00:34:10.010><c> do</c><00:34:10.159><c> my</c><00:34:10.520><c> string</c><00:34:11.020><c> equals</c><00:34:12.020><c> and</c>
-
-00:34:12.309 --> 00:34:12.319 align:start position:0%
-gonna have to do my string equals and
- 
-
-00:34:12.319 --> 00:34:13.809 align:start position:0%
-gonna have to do my string equals and
-I'm<00:34:12.649><c> just</c><00:34:12.799><c> gonna</c><00:34:12.980><c> have</c><00:34:13.099><c> to</c><00:34:13.159><c> type</c><00:34:13.369><c> in</c><00:34:13.549><c> the</c><00:34:13.579><c> whole</c>
-
-00:34:13.809 --> 00:34:13.819 align:start position:0%
-I'm just gonna have to type in the whole
- 
+所以我们得输入 myStr =
 
 00:34:13.819 --> 00:34:19.240 align:start position:0%
-I'm just gonna have to type in the whole
-thing<00:34:14.149><c> which</c><00:34:14.990><c> is</c><00:34:15.200><c> hello</c><00:34:15.950><c> world</c><00:34:16.609><c> and</c><00:34:17.169><c> now</c><00:34:18.169><c> it</c><00:34:18.919><c> we</c>
-
-00:34:19.240 --> 00:34:19.250 align:start position:0%
-thing which is hello world and now it we
- 
-
-00:34:19.250 --> 00:34:25.680 align:start position:0%
-thing which is hello world and now it we
-will<00:34:20.210><c> change</c><00:34:20.629><c> to</c><00:34:20.929><c> the</c><00:34:21.020><c> word</c><00:34:21.169><c> hello</c><00:34:21.470><c> world</c>
-
-00:34:25.680 --> 00:34:25.690 align:start position:0%
- 
- 
+输入整个字符串 Hello World
 
 00:34:25.690 --> 00:34:29.020 align:start position:0%
- 
-you<00:34:26.690><c> can</c><00:34:26.870><c> use</c><00:34:27.020><c> bracket</c><00:34:27.560><c> notation</c><00:34:27.679><c> to</c><00:34:28.490><c> get</c><00:34:28.790><c> any</c>
-
-00:34:29.020 --> 00:34:29.030 align:start position:0%
-you can use bracket notation to get any
- 
+这样我们就把这个字符串改为了 Hello World
 
 00:34:29.030 --> 00:34:31.540 align:start position:0%
-you can use bracket notation to get any
-character<00:34:29.630><c> position</c><00:34:29.990><c> in</c><00:34:30.320><c> a</c><00:34:30.440><c> string</c><00:34:30.800><c> so</c>
-
-00:34:31.540 --> 00:34:31.550 align:start position:0%
-character position in a string so
- 
-
-00:34:31.550 --> 00:34:33.909 align:start position:0%
-character position in a string so
-earlier<00:34:32.060><c> we</c><00:34:32.300><c> did</c><00:34:32.540><c> the</c><00:34:32.690><c> first</c><00:34:32.990><c> position</c><00:34:33.679><c> but</c>
-
-00:34:33.909 --> 00:34:33.919 align:start position:0%
-earlier we did the first position but
- 
+你可以使用括号找出一个字符串中的任何字母的位置
 
 00:34:33.919 --> 00:34:35.800 align:start position:0%
-earlier we did the first position but
-here's<00:34:34.520><c> how</c><00:34:34.700><c> you</c><00:34:34.760><c> would</c><00:34:34.940><c> get</c><00:34:35.120><c> the</c><00:34:35.300><c> second</c>
+所以我们刚才找出了第一个字母
 
-00:34:35.800 --> 00:34:35.810 align:start position:0%
-here's how you would get the second
- 
-
-00:34:35.810 --> 00:34:36.490 align:start position:0%
-here's how you would get the second
 position
-
-00:34:36.490 --> 00:34:36.500 align:start position:0%
-position
- 
-
-00:34:36.500 --> 00:34:39.130 align:start position:0%
-position
-remember<00:34:36.980><c> the</c><00:34:37.130><c> zero</c><00:34:37.429><c> index</c><00:34:37.730><c> so</c><00:34:38.330><c> one</c><00:34:38.780><c> is</c><00:34:38.990><c> the</c>
-
-00:34:39.130 --> 00:34:39.140 align:start position:0%
-remember the zero index so one is the
- 
+现在我们找出第二个字母
 
 00:34:39.140 --> 00:34:40.990 align:start position:0%
-remember the zero index so one is the
-second<00:34:39.530><c> position</c><00:34:40.010><c> zero</c><00:34:40.370><c> is</c><00:34:40.580><c> the</c><00:34:40.700><c> first</c>
-
-00:34:40.990 --> 00:34:41.000 align:start position:0%
-second position zero is the first
- 
+记住从零开始的索引方法
 
 00:34:41.000 --> 00:34:43.690 align:start position:0%
-second position zero is the first
-position<00:34:41.240><c> we</c><00:34:42.169><c> can</c><00:34:42.380><c> also</c><00:34:42.620><c> get</c><00:34:42.980><c> the</c><00:34:43.220><c> third</c>
-
-00:34:43.690 --> 00:34:43.700 align:start position:0%
-position we can also get the third
- 
+1 表示第二位
 
 00:34:43.700 --> 00:34:45.790 align:start position:0%
 position we can also get the third
-letter<00:34:44.060><c> of</c><00:34:44.240><c> the</c><00:34:44.360><c> last</c><00:34:44.570><c> name</c><00:34:44.929><c> using</c><00:34:45.649><c> the</c>
-
-00:34:45.790 --> 00:34:45.800 align:start position:0%
-letter of the last name using the
- 
+0 表示第一位
 
 00:34:45.800 --> 00:34:47.680 align:start position:0%
-letter of the last name using the
-brackets<00:34:46.399><c> we'll</c><00:34:46.700><c> just</c><00:34:46.880><c> put</c><00:34:47.060><c> two</c><00:34:47.390><c> in</c><00:34:47.570><c> the</c>
-
-00:34:47.680 --> 00:34:47.690 align:start position:0%
-brackets we'll just put two in the
- 
+我们也可以找出变量 lastName 的第三个字母
 
 00:34:47.690 --> 00:34:49.930 align:start position:0%
-brackets we'll just put two in the
-brackets<00:34:48.140><c> to</c><00:34:48.590><c> get</c><00:34:48.770><c> the</c><00:34:49.010><c> third</c><00:34:49.340><c> letter</c><00:34:49.610><c> of</c><00:34:49.700><c> the</c>
-
-00:34:49.930 --> 00:34:49.940 align:start position:0%
-brackets to get the third letter of the
- 
+我们在括号中输入 2
 
 00:34:49.940 --> 00:34:54.050 align:start position:0%
-brackets to get the third letter of the
-last<00:34:50.120><c> name</c>
-
-00:34:54.050 --> 00:34:54.060 align:start position:0%
- 
- 
-
-00:34:54.060 --> 00:34:56.600 align:start position:0%
- 
-you<00:34:54.840><c> can</c><00:34:55.020><c> also</c><00:34:55.200><c> use</c><00:34:55.440><c> bracket</c><00:34:55.890><c> notation</c><00:34:56.010><c> to</c>
-
-00:34:56.600 --> 00:34:56.610 align:start position:0%
-you can also use bracket notation to
- 
+来找出第三个字母
 
 00:34:56.610 --> 00:34:59.360 align:start position:0%
-you can also use bracket notation to
-find<00:34:56.880><c> the</c><00:34:57.090><c> last</c><00:34:57.420><c> letter</c><00:34:57.840><c> in</c><00:34:57.990><c> a</c><00:34:58.080><c> string</c><00:34:58.410><c> even</c><00:34:59.040><c> if</c>
-
-00:34:59.360 --> 00:34:59.370 align:start position:0%
-find the last letter in a string even if
- 
-
-00:34:59.370 --> 00:35:01.160 align:start position:0%
-find the last letter in a string even if
-you<00:34:59.490><c> don't</c><00:34:59.700><c> know</c><00:34:59.880><c> how</c><00:35:00.120><c> many</c><00:35:00.180><c> letters</c><00:35:00.840><c> are</c><00:35:01.110><c> on</c>
-
-00:35:01.160 --> 00:35:01.170 align:start position:0%
-you don't know how many letters are on
- 
+你也可以用括号法找出一个字符串中的最后一个字母
 
 00:35:01.170 --> 00:35:04.160 align:start position:0%
-you don't know how many letters are on
-the<00:35:01.350><c> string</c><00:35:01.710><c> you</c><00:35:02.010><c> do</c><00:35:02.700><c> it</c><00:35:02.880><c> based</c><00:35:03.240><c> on</c><00:35:03.510><c> the</c><00:35:03.570><c> length</c>
-
-00:35:04.160 --> 00:35:04.170 align:start position:0%
-the string you do it based on the length
- 
+即使你不知道这个字符串中有多少字母
 
 00:35:04.170 --> 00:35:06.530 align:start position:0%
-the string you do it based on the length
-so<00:35:04.860><c> if</c><00:35:04.980><c> you</c><00:35:05.070><c> look</c><00:35:05.310><c> right</c><00:35:05.460><c> here</c><00:35:05.520><c> in</c><00:35:06.000><c> the</c>
-
-00:35:06.530 --> 00:35:06.540 align:start position:0%
-so if you look right here in the
- 
+你可以根据它的长度来确定
 
 00:35:06.540 --> 00:35:09.170 align:start position:0%
-so if you look right here in the
-brackets<00:35:07.170><c> we</c><00:35:07.380><c> have</c><00:35:07.410><c> a</c><00:35:08.040><c> expression</c><00:35:08.850><c> to</c><00:35:09.150><c> be</c>
-
-00:35:09.170 --> 00:35:09.180 align:start position:0%
-brackets we have a expression to be
- 
-
-00:35:09.180 --> 00:35:12.680 align:start position:0%
-brackets we have a expression to be
-evaluated<00:35:09.740><c> first</c><00:35:10.740><c> name</c><00:35:11.040><c> dot</c><00:35:11.280><c> length</c><00:35:11.690><c> minus</c>
-
-00:35:12.680 --> 00:35:12.690 align:start position:0%
-evaluated first name dot length minus
- 
+所以你看这个括号中我们输入一行表达
 
 00:35:12.690 --> 00:35:17.590 align:start position:0%
-evaluated first name dot length minus
-one<00:35:13.110><c> so</c><00:35:13.830><c> the</c><00:35:14.040><c> length</c><00:35:14.340><c> is</c><00:35:14.550><c> 3</c><00:35:14.840><c> 3</c><00:35:15.840><c> minus</c><00:35:16.560><c> 1</c><00:35:16.920><c> is</c><00:35:17.220><c> 2</c>
-
-00:35:17.590 --> 00:35:17.600 align:start position:0%
-one so the length is 3 3 minus 1 is 2
- 
+firstName.length - 1
 
 00:35:17.600 --> 00:35:20.330 align:start position:0%
-one so the length is 3 3 minus 1 is 2
-the<00:35:18.600><c> reason</c><00:35:18.930><c> why</c><00:35:19.020><c> we're</c><00:35:19.170><c> doing</c><00:35:19.200><c> a</c><00:35:19.440><c> minus</c><00:35:19.740><c> 1</c><00:35:20.070><c> is</c>
-
-00:35:20.330 --> 00:35:20.340 align:start position:0%
-the reason why we're doing a minus 1 is
- 
+长度是 3，3 减去 1 就是 2
 
 00:35:20.340 --> 00:35:22.760 align:start position:0%
-the reason why we're doing a minus 1 is
-because<00:35:20.610><c> remember</c><00:35:20.910><c> we</c><00:35:21.390><c> count</c><00:35:21.750><c> starting</c><00:35:22.230><c> at</c><00:35:22.380><c> 0</c>
-
-00:35:22.760 --> 00:35:22.770 align:start position:0%
-because remember we count starting at 0
- 
-
-00:35:22.770 --> 00:35:25.820 align:start position:0%
-because remember we count starting at 0
-so<00:35:23.460><c> the</c><00:35:23.760><c> length</c><00:35:24.060><c> minus</c><00:35:24.300><c> 1</c><00:35:24.780><c> is</c><00:35:24.990><c> going</c><00:35:25.140><c> to</c><00:35:25.290><c> be</c><00:35:25.440><c> the</c>
-
-00:35:25.820 --> 00:35:25.830 align:start position:0%
-so the length minus 1 is going to be the
- 
+我们之所以减去 1 是因为我们从 0 开始计数
 
 00:35:25.830 --> 00:35:28.970 align:start position:0%
-so the length minus 1 is going to be the
-last<00:35:26.160><c> index</c><00:35:26.820><c> of</c><00:35:27.060><c> the</c><00:35:27.510><c> name</c><00:35:27.780><c> so</c><00:35:28.470><c> we</c><00:35:28.500><c> can</c><00:35:28.620><c> do</c><00:35:28.830><c> that</c>
-
-00:35:28.970 --> 00:35:28.980 align:start position:0%
-last index of the name so we can do that
- 
+所以长度减去 1 就是这个变量的最后一位
 
 00:35:28.980 --> 00:35:31.550 align:start position:0%
-last index of the name so we can do that
-same<00:35:29.250><c> thing</c><00:35:29.640><c> here</c><00:35:30.150><c> to</c><00:35:30.720><c> get</c><00:35:30.900><c> the</c><00:35:31.020><c> last</c><00:35:31.230><c> letter</c>
-
-00:35:31.550 --> 00:35:31.560 align:start position:0%
-same thing here to get the last letter
- 
-
-00:35:31.560 --> 00:35:36.610 align:start position:0%
-same thing here to get the last letter
-of<00:35:31.680><c> the</c><00:35:31.860><c> last</c><00:35:32.250><c> name</c><00:35:32.640><c> I</c><00:35:32.940><c> can</c><00:35:33.540><c> just</c><00:35:33.750><c> do</c><00:35:34.020><c> last</c><00:35:34.830><c> name</c>
-
-00:35:36.610 --> 00:35:36.620 align:start position:0%
-of the last name I can just do last name
- 
+这里我们也可以采取同样的操作
 
 00:35:36.620 --> 00:35:43.730 align:start position:0%
-of the last name I can just do last name
-dot<00:35:37.620><c> length</c><00:35:39.530><c> minus</c><00:35:40.530><c> 1</c><00:35:41.370><c> and</c><00:35:42.260><c> that's</c><00:35:43.260><c> going</c><00:35:43.620><c> to</c>
-
-00:35:43.730 --> 00:35:43.740 align:start position:0%
-dot length minus 1 and that's going to
- 
+来找出变量 lastName 的最后一个字母
 
 00:35:43.740 --> 00:35:45.770 align:start position:0%
-dot length minus 1 and that's going to
-get<00:35:43.890><c> the</c><00:35:44.100><c> last</c><00:35:44.400><c> letter</c><00:35:45.000><c> of</c><00:35:45.120><c> the</c><00:35:45.210><c> last</c><00:35:45.450><c> name</c>
-
-00:35:45.770 --> 00:35:45.780 align:start position:0%
-get the last letter of the last name
- 
+我输入 lastName.length - 1
 
 00:35:45.780 --> 00:35:51.070 align:start position:0%
-get the last letter of the last name
-which<00:35:46.020><c> is</c><00:35:46.200><c> the</c><00:35:46.380><c> e</c><00:35:46.410><c> right</c><00:35:46.830><c> here</c>
-
-00:35:51.070 --> 00:35:51.080 align:start position:0%
- 
- 
+就找到了变量 lastName 的最后一个字母
 
 00:35:51.080 --> 00:35:53.800 align:start position:0%
- 
-we<00:35:51.830><c> saw</c><00:35:52.040><c> how</c><00:35:52.250><c> to</c><00:35:52.280><c> use</c><00:35:52.430><c> bracket</c><00:35:53.030><c> notation</c><00:35:53.150><c> to</c>
-
-00:35:53.800 --> 00:35:53.810 align:start position:0%
-we saw how to use bracket notation to
- 
+也就是 e
 
 00:35:53.810 --> 00:35:56.050 align:start position:0%
-we saw how to use bracket notation to
-get<00:35:53.990><c> the</c><00:35:54.200><c> last</c><00:35:54.470><c> letter</c><00:35:54.830><c> of</c><00:35:54.920><c> a</c><00:35:55.010><c> string</c><00:35:55.370><c> you</c><00:35:56.030><c> can</c>
-
-00:35:56.050 --> 00:35:56.060 align:start position:0%
-get the last letter of a string you can
- 
+我们已经看到了如何使用括号法
 
 00:35:56.060 --> 00:35:58.420 align:start position:0%
-get the last letter of a string you can
-also<00:35:56.330><c> do</c><00:35:56.780><c> the</c><00:35:57.230><c> third</c><00:35:57.530><c> to</c><00:35:57.710><c> last</c><00:35:57.740><c> letter</c><00:35:58.190><c> or</c>
-
-00:35:58.420 --> 00:35:58.430 align:start position:0%
-also do the third to last letter or
- 
+来找出一个字符串的最后一个字母
 
 00:35:58.430 --> 00:35:59.950 align:start position:0%
-also do the third to last letter or
-fourth<00:35:58.940><c> to</c><00:35:59.150><c> last</c><00:35:59.360><c> letter</c>
-
-00:35:59.950 --> 00:35:59.960 align:start position:0%
-fourth to last letter
- 
-
-00:35:59.960 --> 00:36:02.530 align:start position:0%
-fourth to last letter
-so<00:36:00.380><c> you</c><00:36:00.440><c> just</c><00:36:00.890><c> subtract</c><00:36:01.580><c> however</c><00:36:02.150><c> much</c><00:36:02.390><c> you</c>
-
-00:36:02.530 --> 00:36:02.540 align:start position:0%
-so you just subtract however much you
- 
+你也可以找出倒数第三个或倒数第四个字母
 
 00:36:02.540 --> 00:36:05.080 align:start position:0%
 so you just subtract however much you
-want<00:36:02.840><c> from</c><00:36:03.230><c> the</c><00:36:03.530><c> for</c><00:36:03.980><c> the</c><00:36:04.190><c> the</c><00:36:04.550><c> length</c><00:36:04.790><c> of</c><00:36:05.000><c> the</c>
-
-00:36:05.080 --> 00:36:05.090 align:start position:0%
-want from the for the the length of the
- 
+你想找出倒数第几个
 
 00:36:05.090 --> 00:36:07.420 align:start position:0%
-want from the for the the length of the
-string<00:36:05.420><c> so</c><00:36:06.140><c> we</c><00:36:06.800><c> have</c><00:36:06.920><c> the</c><00:36:07.040><c> bracket</c><00:36:07.400><c> notation</c>
-
-00:36:07.420 --> 00:36:07.430 align:start position:0%
-string so we have the bracket notation
- 
+就直接从字符长度中减去多少
 
 00:36:07.430 --> 00:36:09.880 align:start position:0%
-string so we have the bracket notation
-first<00:36:08.210><c> name</c><00:36:08.390><c> that</c><00:36:08.420><c> length</c><00:36:08.870><c> minus</c><00:36:09.470><c> three</c>
-
-00:36:09.880 --> 00:36:09.890 align:start position:0%
-first name that length minus three
- 
+所以我们在括号中输入
 
 00:36:09.890 --> 00:36:12.070 align:start position:0%
-first name that length minus three
-that's<00:36:10.460><c> going</c><00:36:10.790><c> to</c><00:36:10.850><c> get</c><00:36:11.060><c> the</c><00:36:11.270><c> third</c><00:36:11.630><c> to</c><00:36:11.870><c> last</c>
-
-00:36:12.070 --> 00:36:12.080 align:start position:0%
-that's going to get the third to last
- 
+firstName.length - 3
 
 00:36:12.080 --> 00:36:14.830 align:start position:0%
-that's going to get the third to last
-letter<00:36:12.410><c> so</c><00:36:13.070><c> we</c><00:36:13.340><c> want</c><00:36:13.610><c> the</c><00:36:13.840><c> second-to-last</c>
-
-00:36:14.830 --> 00:36:14.840 align:start position:0%
-letter so we want the second-to-last
- 
+就找出了倒数第三个字母
 
 00:36:14.840 --> 00:36:17.800 align:start position:0%
-letter so we want the second-to-last
-letter<00:36:15.410><c> into</c><00:36:15.950><c> this</c><00:36:16.070><c> variable</c><00:36:16.460><c> here</c><00:36:16.970><c> we</c><00:36:17.570><c> do</c>
-
-00:36:17.800 --> 00:36:17.810 align:start position:0%
-letter into this variable here we do
- 
+我们想找出这个变量的倒数第二个字母
 
 00:36:17.810 --> 00:36:20.410 align:start position:0%
-letter into this variable here we do
-something<00:36:18.110><c> similar</c><00:36:18.410><c> we</c><00:36:19.070><c> just</c><00:36:19.370><c> do</c><00:36:19.550><c> last</c><00:36:19.940><c> name</c>
-
-00:36:20.410 --> 00:36:20.420 align:start position:0%
-something similar we just do last name
- 
+也是类似的操作方式
 
 00:36:20.420 --> 00:36:23.770 align:start position:0%
-something similar we just do last name
-dot<00:36:20.870><c> length</c><00:36:21.290><c> and</c><00:36:21.680><c> then</c><00:36:22.640><c> we're</c><00:36:22.880><c> gonna</c><00:36:23.060><c> subtract</c>
-
-00:36:23.770 --> 00:36:23.780 align:start position:0%
-dot length and then we're gonna subtract
- 
+我们输入 lastName.length
 
 00:36:23.780 --> 00:36:27.100 align:start position:0%
-dot length and then we're gonna subtract
-two<00:36:24.260><c> to</c><00:36:24.530><c> get</c><00:36:24.650><c> the</c><00:36:24.800><c> second</c><00:36:25.370><c> to</c><00:36:25.610><c> last</c><00:36:26.110><c> character</c>
-
-00:36:27.100 --> 00:36:27.110 align:start position:0%
-two to get the second to last character
- 
+然后减去 2
 
 00:36:27.110 --> 00:36:31.260 align:start position:0%
-two to get the second to last character
-of<00:36:27.140><c> the</c><00:36:27.230><c> string</c>
-
-00:36:31.260 --> 00:36:31.270 align:start position:0%
- 
- 
-
-00:36:31.270 --> 00:36:33.780 align:start position:0%
- 
-we<00:36:32.140><c> are</c><00:36:32.260><c> going</c><00:36:32.530><c> to</c><00:36:32.650><c> use</c><00:36:32.950><c> our</c><00:36:33.160><c> knowledge</c><00:36:33.400><c> of</c>
-
-00:36:33.780 --> 00:36:33.790 align:start position:0%
-we are going to use our knowledge of
- 
+就找出了这个字符串的倒数第二个字母
 
 00:36:33.790 --> 00:36:36.900 align:start position:0%
-we are going to use our knowledge of
-strings<00:36:34.300><c> to</c><00:36:34.660><c> build</c><00:36:35.080><c> a</c><00:36:35.230><c> mad</c><00:36:35.619><c> libs</c><00:36:35.980><c> style</c><00:36:36.550><c> word</c>
-
-00:36:36.900 --> 00:36:36.910 align:start position:0%
-strings to build a mad libs style word
- 
+现在我们运用我们关于字符串的知识
 
 00:36:36.910 --> 00:36:39.750 align:start position:0%
-strings to build a mad libs style word
-game<00:36:37.210><c> in</c><00:36:37.510><c> a</c><00:36:38.109><c> mad</c><00:36:38.320><c> lib</c><00:36:38.530><c> game</c><00:36:38.770><c> you</c><00:36:39.130><c> are</c><00:36:39.280><c> provided</c>
-
-00:36:39.750 --> 00:36:39.760 align:start position:0%
-game in a mad lib game you are provided
- 
+来创建一个疯狂填词游戏
 
 00:36:39.760 --> 00:36:42.359 align:start position:0%
-game in a mad lib game you are provided
-sentences<00:36:40.390><c> with</c><00:36:40.599><c> some</c><00:36:40.900><c> missing</c><00:36:41.290><c> words</c><00:36:41.619><c> like</c>
-
-00:36:42.359 --> 00:36:42.369 align:start position:0%
-sentences with some missing words like
- 
+疯狂填词游戏会给你一些句子
 
 00:36:42.369 --> 00:36:45.329 align:start position:0%
-sentences with some missing words like
-nouns<00:36:42.820><c> verbs</c><00:36:43.260><c> adjectives</c><00:36:44.260><c> and</c><00:36:44.470><c> adverbs</c><00:36:44.619><c> and</c>
-
-00:36:45.329 --> 00:36:45.339 align:start position:0%
-nouns verbs adjectives and adverbs and
- 
+句子中缺少一些单词
 
 00:36:45.339 --> 00:36:47.700 align:start position:0%
-nouns verbs adjectives and adverbs and
-then<00:36:45.910><c> you</c><00:36:46.000><c> fill</c><00:36:46.330><c> in</c><00:36:46.510><c> the</c><00:36:46.540><c> missing</c><00:36:46.810><c> pieces</c><00:36:47.230><c> with</c>
-
-00:36:47.700 --> 00:36:47.710 align:start position:0%
-then you fill in the missing pieces with
- 
+比如名词，动词，形容词和副词
 
 00:36:47.710 --> 00:36:50.460 align:start position:0%
-then you fill in the missing pieces with
-words<00:36:47.980><c> of</c><00:36:48.099><c> your</c><00:36:48.220><c> choice</c><00:36:48.550><c> to</c><00:36:49.270><c> make</c><00:36:49.300><c> a</c><00:36:49.869><c> sentence</c>
-
-00:36:50.460 --> 00:36:50.470 align:start position:0%
-words of your choice to make a sentence
- 
+然后你选择单词填写到空缺的地方
 
 00:36:50.470 --> 00:36:52.320 align:start position:0%
-words of your choice to make a sentence
-that<00:36:50.589><c> could</c><00:36:50.920><c> be</c><00:36:51.040><c> funny</c><00:36:51.339><c> and</c><00:36:51.580><c> hopefully</c><00:36:52.119><c> makes</c>
-
-00:36:52.320 --> 00:36:52.330 align:start position:0%
-that could be funny and hopefully makes
- 
-
-00:36:52.330 --> 00:36:55.020 align:start position:0%
-that could be funny and hopefully makes
-a<00:36:52.450><c> little</c><00:36:52.690><c> bit</c><00:36:52.839><c> of</c><00:36:52.930><c> sense</c><00:36:53.200><c> so</c><00:36:54.070><c> let</c><00:36:54.730><c> me</c><00:36:54.820><c> show</c><00:36:55.000><c> you</c>
-
-00:36:55.020 --> 00:36:55.030 align:start position:0%
-a little bit of sense so let me show you
- 
+组成一个可能会很有趣也有一定意义的句子
 
 00:36:55.030 --> 00:36:56.220 align:start position:0%
-a little bit of sense so let me show you
-how<00:36:55.240><c> you</c><00:36:55.300><c> do</c><00:36:55.510><c> this</c>
-
-00:36:56.220 --> 00:36:56.230 align:start position:0%
-how you do this
- 
-
-00:36:56.230 --> 00:36:59.970 align:start position:0%
-how you do this
-um<00:36:56.440><c> this</c><00:36:57.040><c> also</c><00:36:57.339><c> uses</c><00:36:57.880><c> a</c><00:36:58.270><c> function</c><00:36:58.930><c> now</c><00:36:59.920><c> we</c>
-
-00:36:59.970 --> 00:36:59.980 align:start position:0%
-um this also uses a function now we
- 
+我来介绍一下怎么做
 
 00:36:59.980 --> 00:37:02.640 align:start position:0%
-um this also uses a function now we
-haven't<00:37:00.460><c> talked</c><00:37:01.060><c> about</c><00:37:01.210><c> functions</c><00:37:02.020><c> yet</c><00:37:02.320><c> I'm</c>
-
-00:37:02.640 --> 00:37:02.650 align:start position:0%
-haven't talked about functions yet I'm
- 
+这里也会用到函数
 
 00:37:02.650 --> 00:37:05.790 align:start position:0%
-haven't talked about functions yet I'm
-gonna<00:37:03.190><c> explain</c><00:37:03.730><c> those</c><00:37:04.089><c> more</c><00:37:05.020><c> later</c><00:37:05.410><c> but</c>
-
-00:37:05.790 --> 00:37:05.800 align:start position:0%
-gonna explain those more later but
- 
+目前我们还没讲到函数
 
 00:37:05.800 --> 00:37:07.740 align:start position:0%
-gonna explain those more later but
-format<00:37:06.460><c> for</c><00:37:06.700><c> now</c><00:37:06.820><c> just</c><00:37:07.000><c> go</c><00:37:07.270><c> with</c><00:37:07.450><c> it</c><00:37:07.480><c> because</c>
-
-00:37:07.740 --> 00:37:07.750 align:start position:0%
-format for now just go with it because
- 
+我稍后会详细讲解
 
 00:37:07.750 --> 00:37:09.599 align:start position:0%
-format for now just go with it because
-that's<00:37:07.960><c> not</c><00:37:08.109><c> the</c><00:37:08.380><c> point</c><00:37:08.589><c> of</c><00:37:08.800><c> this</c><00:37:08.950><c> lesson</c><00:37:09.220><c> for</c>
-
-00:37:09.599 --> 00:37:09.609 align:start position:0%
-that's not the point of this lesson for
- 
+但是现在就先用它
 
 00:37:09.609 --> 00:37:12.900 align:start position:0%
-that's not the point of this lesson for
-now<00:37:09.790><c> but</c><00:37:10.510><c> this</c><00:37:10.900><c> function</c><00:37:11.589><c> called</c><00:37:11.920><c> word</c><00:37:12.280><c> blanks</c>
-
-00:37:12.900 --> 00:37:12.910 align:start position:0%
-now but this function called word blanks
- 
+因为它不是本节内容的重点
 
 00:37:12.910 --> 00:37:15.750 align:start position:0%
-now but this function called word blanks
-you<00:37:13.540><c> can</c><00:37:13.869><c> call</c><00:37:14.200><c> the</c><00:37:14.440><c> function</c><00:37:14.980><c> and</c><00:37:15.160><c> you</c><00:37:15.550><c> have</c>
-
-00:37:15.750 --> 00:37:15.760 align:start position:0%
-you can call the function and you have
- 
+这个函数叫作 wordBlanks
 
 00:37:15.760 --> 00:37:18.780 align:start position:0%
-you can call the function and you have
-to<00:37:15.910><c> pass</c><00:37:16.240><c> in</c><00:37:16.630><c> certain</c><00:37:17.260><c> types</c><00:37:17.589><c> of</c><00:37:17.800><c> words</c><00:37:18.130><c> you</c>
-
-00:37:18.780 --> 00:37:18.790 align:start position:0%
-to pass in certain types of words you
- 
+你可以调用函数
 
 00:37:18.790 --> 00:37:22.380 align:start position:0%
-to pass in certain types of words you
-pass<00:37:19.119><c> in</c><00:37:19.359><c> a</c><00:37:19.450><c> noun</c><00:37:19.750><c> an</c><00:37:20.109><c> adjective</c><00:37:20.710><c> a</c><00:37:21.400><c> verb</c><00:37:22.180><c> and</c>
-
-00:37:22.380 --> 00:37:22.390 align:start position:0%
-pass in a noun an adjective a verb and
- 
+但是你必须传入某些类型的单词
 
 00:37:22.390 --> 00:37:26.910 align:start position:0%
-pass in a noun an adjective a verb and
-an<00:37:22.900><c> adverb</c><00:37:23.740><c> so</c><00:37:24.520><c> down</c><00:37:24.940><c> here</c><00:37:25.630><c> you</c><00:37:25.839><c> can</c><00:37:26.320><c> see</c><00:37:26.349><c> that</c>
-
-00:37:26.910 --> 00:37:26.920 align:start position:0%
-an adverb so down here you can see that
- 
+你输入一个名词，一个形容词，一个动词和一个副词
 
 00:37:26.920 --> 00:37:29.640 align:start position:0%
-an adverb so down here you can see that
-we're<00:37:27.099><c> calling</c><00:37:27.790><c> the</c><00:37:27.940><c> function</c><00:37:28.349><c> called</c><00:37:29.349><c> word</c>
-
-00:37:29.640 --> 00:37:29.650 align:start position:0%
-we're calling the function called word
- 
-
-00:37:29.650 --> 00:37:31.680 align:start position:0%
-we're calling the function called word
-blanks<00:37:30.190><c> that's</c><00:37:30.430><c> the</c><00:37:30.609><c> function</c><00:37:31.030><c> name</c><00:37:31.180><c> here</c><00:37:31.570><c> and</c>
-
-00:37:31.680 --> 00:37:31.690 align:start position:0%
-blanks that's the function name here and
- 
+所以这里你可以看到我们调用函数 wordBlanks
 
 00:37:31.690 --> 00:37:35.010 align:start position:0%
-blanks that's the function name here and
-we're<00:37:32.200><c> passing</c><00:37:32.680><c> on</c><00:37:32.800><c> a</c><00:37:32.859><c> noun</c><00:37:33.430><c> an</c><00:37:33.760><c> adjective</c><00:37:34.330><c> a</c>
-
-00:37:35.010 --> 00:37:35.020 align:start position:0%
-we're passing on a noun an adjective a
- 
+这是函数名
 
 00:37:35.020 --> 00:37:39.270 align:start position:0%
-we're passing on a noun an adjective a
-verb<00:37:35.890><c> and</c><00:37:36.160><c> an</c><00:37:36.460><c> adverb</c><00:37:37.150><c> so</c><00:37:37.900><c> the</c><00:37:38.200><c> point</c><00:37:38.589><c> is</c><00:37:38.830><c> that</c>
-
-00:37:39.270 --> 00:37:39.280 align:start position:0%
-verb and an adverb so the point is that
- 
+我们传入一个名词，一个形容词，一个动词和一个副词
 
 00:37:39.280 --> 00:37:42.270 align:start position:0%
-verb and an adverb so the point is that
-we<00:37:39.550><c> are</c><00:37:39.580><c> going</c><00:37:40.000><c> to</c><00:37:40.359><c> use</c><00:37:41.109><c> all</c><00:37:41.530><c> these</c><00:37:41.740><c> words</c><00:37:42.099><c> that</c>
-
-00:37:42.270 --> 00:37:42.280 align:start position:0%
-we are going to use all these words that
- 
-
-00:37:42.280 --> 00:37:46.230 align:start position:0%
-we are going to use all these words that
-are<00:37:42.400><c> passed</c><00:37:42.760><c> in</c><00:37:43.060><c> to</c><00:37:43.660><c> make</c><00:37:43.900><c> a</c><00:37:44.170><c> sentence</c><00:37:44.859><c> so</c><00:37:45.790><c> we</c>
-
-00:37:46.230 --> 00:37:46.240 align:start position:0%
-are passed in to make a sentence so we
- 
-
-00:37:46.240 --> 00:37:49.020 align:start position:0%
-are passed in to make a sentence so we
-know<00:37:46.450><c> that</c><00:37:46.480><c> var</c><00:37:47.170><c> result</c><00:37:47.740><c> equals</c><00:37:48.310><c> an</c><00:37:48.580><c> empty</c>
-
-00:37:49.020 --> 00:37:49.030 align:start position:0%
-know that var result equals an empty
- 
+注意我们将使用这些传入的词来组一个句子
 
 00:37:49.030 --> 00:37:52.230 align:start position:0%
-know that var result equals an empty
-string<00:37:49.390><c> at</c><00:37:49.599><c> first</c><00:37:50.050><c> and</c><00:37:50.500><c> then</c><00:37:51.070><c> we</c><00:37:51.310><c> have</c><00:37:51.609><c> to</c><00:37:51.880><c> use</c>
-
-00:37:52.230 --> 00:37:52.240 align:start position:0%
-string at first and then we have to use
- 
+我们知道这个 result 变量的初始值是一个空字符串
 
 00:37:52.240 --> 00:37:55.109 align:start position:0%
-string at first and then we have to use
-all<00:37:52.630><c> these</c><00:37:52.869><c> words</c><00:37:53.200><c> and</c><00:37:53.470><c> result</c><00:37:54.190><c> and</c><00:37:54.460><c> then</c><00:37:54.970><c> the</c>
-
-00:37:55.109 --> 00:37:55.119 align:start position:0%
-all these words and result and then the
- 
-
-00:37:55.119 --> 00:37:58.050 align:start position:0%
-all these words and result and then the
-result<00:37:55.480><c> is</c><00:37:55.599><c> going</c><00:37:55.869><c> to</c><00:37:55.990><c> be</c><00:37:56.109><c> returned</c><00:37:56.890><c> from</c><00:37:57.880><c> this</c>
-
-00:37:58.050 --> 00:37:58.060 align:start position:0%
-result is going to be returned from this
- 
+稍后我们需要使用所有这些单词和 result 变量
 
 00:37:58.060 --> 00:38:00.180 align:start position:0%
-result is going to be returned from this
-function<00:37:58.359><c> and</c><00:37:58.780><c> eventually</c><00:37:59.619><c> we'll</c><00:37:59.710><c> be</c><00:37:59.740><c> logged</c>
-
-00:38:00.180 --> 00:38:00.190 align:start position:0%
-function and eventually we'll be logged
- 
+result 将从 wordBlanks 函数返回
 
 00:38:00.190 --> 00:38:02.190 align:start position:0%
-function and eventually we'll be logged
-out<00:38:00.460><c> onto</c><00:38:00.849><c> the</c><00:38:00.970><c> screen</c><00:38:01.240><c> with</c><00:38:01.599><c> this</c><00:38:01.720><c> console</c>
-
-00:38:02.190 --> 00:38:02.200 align:start position:0%
-out onto the screen with this console
- 
-
-00:38:02.200 --> 00:38:06.620 align:start position:0%
-out onto the screen with this console
-dot<00:38:02.349><c> log</c><00:38:02.580><c> so</c><00:38:03.580><c> what</c><00:38:04.000><c> I'm</c><00:38:04.089><c> gonna</c><00:38:04.240><c> do</c><00:38:04.510><c> here</c><00:38:04.930><c> is</c><00:38:05.050><c> do</c>
-
-00:38:06.620 --> 00:38:06.630 align:start position:0%
-dot log so what I'm gonna do here is do
- 
+最后我们将使用 console.log 显示结果
 
 00:38:06.630 --> 00:38:11.820 align:start position:0%
 dot log so what I'm gonna do here is do
-result<00:38:08.250><c> plus</c><00:38:09.250><c> M</c><00:38:09.940><c> equals</c><00:38:10.500><c> we're</c><00:38:11.500><c> gonna</c><00:38:11.619><c> use</c><00:38:11.710><c> the</c>
-
-00:38:11.820 --> 00:38:11.830 align:start position:0%
-result plus M equals we're gonna use the
- 
+所以我在这里输入 result +=
 
 00:38:11.830 --> 00:38:14.339 align:start position:0%
-result plus M equals we're gonna use the
-plus<00:38:12.040><c> equals</c><00:38:12.520><c> to</c><00:38:12.849><c> add</c><00:38:13.180><c> something</c><00:38:13.660><c> to</c><00:38:14.140><c> this</c>
-
-00:38:14.339 --> 00:38:14.349 align:start position:0%
-plus equals to add something to this
- 
-
-00:38:14.349 --> 00:38:17.070 align:start position:0%
-plus equals to add something to this
-result<00:38:14.770><c> using</c><00:38:15.220><c> all</c><00:38:15.609><c> the</c><00:38:16.089><c> noun</c><00:38:16.300><c> the</c><00:38:16.540><c> adjective</c>
-
-00:38:17.070 --> 00:38:17.080 align:start position:0%
-result using all the noun the adjective
- 
+我们通过 += 给变量 result 加上一些东西
 
 00:38:17.080 --> 00:38:20.520 align:start position:0%
-result using all the noun the adjective
-the<00:38:17.200><c> verb</c><00:38:17.680><c> and</c><00:38:18.010><c> the</c><00:38:18.070><c> adverb</c><00:38:18.700><c> so</c><00:38:19.599><c> let's</c><00:38:20.260><c> see</c>
-
-00:38:20.520 --> 00:38:20.530 align:start position:0%
-the verb and the adverb so let's see
- 
-
-00:38:20.530 --> 00:38:24.570 align:start position:0%
-the verb and the adverb so let's see
-it's<00:38:20.710><c> gonna</c><00:38:20.830><c> say</c><00:38:21.190><c> the</c><00:38:21.910><c> and</c><00:38:23.250><c> we'll</c><00:38:24.250><c> use</c><00:38:24.280><c> the</c>
-
-00:38:24.570 --> 00:38:24.580 align:start position:0%
-it's gonna say the and we'll use the
- 
+也会使用这些名词，形容词，动词和副词
 
 00:38:24.580 --> 00:38:31.620 align:start position:0%
-it's gonna say the and we'll use the
-adjective<00:38:25.240><c> I</c><00:38:27.300><c> adjective</c><00:38:30.030><c> this</c><00:38:31.030><c> case</c><00:38:31.330><c> will</c><00:38:31.510><c> be</c>
-
-00:38:31.620 --> 00:38:31.630 align:start position:0%
-adjective I adjective this case will be
- 
+输入 The，然后输入 myAdjective
 
 00:38:31.630 --> 00:38:36.390 align:start position:0%
-adjective I adjective this case will be
-the<00:38:31.869><c> big</c><00:38:32.200><c> a</c><00:38:33.960><c> big</c><00:38:34.960><c> and</c><00:38:35.320><c> then</c><00:38:35.680><c> let's</c><00:38:35.980><c> put</c><00:38:36.339><c> the</c>
-
-00:38:36.390 --> 00:38:36.400 align:start position:0%
-the big a big and then let's put the
- 
+myAdjective 现在是指 big
 
 00:38:36.400 --> 00:38:40.890 align:start position:0%
-the big a big and then let's put the
-noun<00:38:37.470><c> my</c><00:38:38.470><c> noun</c><00:38:39.160><c> because</c><00:38:39.910><c> adjectives</c><00:38:40.690><c> are</c>
-
-00:38:40.890 --> 00:38:40.900 align:start position:0%
-noun my noun because adjectives are
- 
+然后我们输入名词，myNoun
 
 00:38:40.900 --> 00:38:45.290 align:start position:0%
-noun my noun because adjectives are
-words<00:38:40.930><c> that</c><00:38:41.349><c> describe</c><00:38:41.770><c> nouns</c><00:38:42.040><c> a</c><00:38:42.900><c> big</c>
-
-00:38:45.290 --> 00:38:45.300 align:start position:0%
-words that describe nouns a big
- 
+因为形容词是用来修饰名词的
 
 00:38:45.300 --> 00:38:47.930 align:start position:0%
-words that describe nouns a big
-and<00:38:45.470><c> then</c><00:38:46.470><c> we're</c><00:38:46.680><c> gonna</c><00:38:46.770><c> say</c><00:38:47.100><c> what</c><00:38:47.460><c> this</c><00:38:47.700><c> now</c>
-
-00:38:47.930 --> 00:38:47.940 align:start position:0%
-and then we're gonna say what this now
- 
+a big dog（一只大狗）
 
 00:38:47.940 --> 00:38:53.590 align:start position:0%
-and then we're gonna say what this now
-is<00:38:48.180><c> doing</c><00:38:48.570><c> the</c><00:38:48.780><c> verb</c><00:38:49.140><c> my</c><00:38:49.770><c> verb</c><00:38:51.380><c> the</c><00:38:52.380><c> big</c><00:38:52.770><c> dog</c>
-
-00:38:53.590 --> 00:38:53.600 align:start position:0%
-is doing the verb my verb the big dog
- 
+然后我们输入这个名词正在做什么，即动词，myVerb
 
 00:38:53.600 --> 00:38:58.480 align:start position:0%
-is doing the verb my verb the big dog
-ran<00:38:54.600><c> and</c><00:38:55.490><c> then</c><00:38:56.490><c> what</c><00:38:56.910><c> where</c><00:38:57.270><c> does</c><00:38:57.480><c> he</c><00:38:57.690><c> run</c><00:38:57.960><c> to</c>
-
-00:38:58.480 --> 00:38:58.490 align:start position:0%
-ran and then what where does he run to
- 
+The big dog ran（一只大狗跑）
 
 00:38:58.490 --> 00:39:03.230 align:start position:0%
-ran and then what where does he run to
-to<00:38:59.490><c> the</c><00:39:00.270><c> store</c><00:39:00.780><c> and</c><00:39:01.310><c> then</c><00:39:02.310><c> we're</c><00:39:02.550><c> going</c><00:39:02.790><c> to</c><00:39:02.850><c> add</c>
-
-00:39:03.230 --> 00:39:03.240 align:start position:0%
-to the store and then we're going to add
- 
+那么它跑向哪里呢
 
 00:39:03.240 --> 00:39:06.200 align:start position:0%
-to the store and then we're going to add
-oh<00:39:03.720><c> we</c><00:39:04.050><c> need</c><00:39:04.200><c> a</c><00:39:04.290><c> space</c><00:39:04.530><c> here</c><00:39:04.970><c> so</c><00:39:05.970><c> there's</c><00:39:06.150><c> a</c>
-
-00:39:06.200 --> 00:39:06.210 align:start position:0%
-oh we need a space here so there's a
- 
+to the store（跑向商店）
 
 00:39:06.210 --> 00:39:08.750 align:start position:0%
-oh we need a space here so there's a
-space<00:39:06.480><c> between</c><00:39:06.870><c> this</c><00:39:07.440><c> to</c><00:39:07.980><c> the</c><00:39:08.100><c> store</c><00:39:08.430><c> and</c><00:39:08.640><c> then</c>
-
-00:39:08.750 --> 00:39:08.760 align:start position:0%
-space between this to the store and then
- 
-
-00:39:08.760 --> 00:39:14.630 align:start position:0%
-space between this to the store and then
-we're<00:39:08.910><c> going</c><00:39:09.030><c> to</c><00:39:09.060><c> add</c><00:39:09.330><c> the</c><00:39:09.660><c> final</c><00:39:11.450><c> adverb</c><00:39:13.640><c> so</c>
-
-00:39:14.630 --> 00:39:14.640 align:start position:0%
-we're going to add the final adverb so
- 
+这里我们需要输入一个空格
 
 00:39:14.640 --> 00:39:20.120 align:start position:0%
-we're going to add the final adverb so
-now<00:39:15.390><c> we</c><00:39:15.930><c> have</c><00:39:16.110><c> to</c><00:39:16.230><c> add</c><00:39:16.440><c> a</c><00:39:16.860><c> period</c><00:39:17.580><c> and</c><00:39:19.130><c> there's</c>
-
-00:39:20.120 --> 00:39:20.130 align:start position:0%
-now we have to add a period and there's
- 
+然后我们输入副词
 
 00:39:20.130 --> 00:39:22.250 align:start position:0%
-now we have to add a period and there's
-one<00:39:20.490><c> more</c><00:39:20.700><c> thing</c><00:39:21.060><c> we</c><00:39:21.240><c> have</c><00:39:21.270><c> to</c><00:39:21.480><c> add</c><00:39:21.630><c> or</c><00:39:21.810><c> a</c><00:39:21.900><c> few</c>
-
-00:39:22.250 --> 00:39:22.260 align:start position:0%
-one more thing we have to add or a few
- 
+最后输入一个句号
 
 00:39:22.260 --> 00:39:25.400 align:start position:0%
-one more thing we have to add or a few
-more<00:39:22.440><c> things</c><00:39:22.770><c> so</c><00:39:23.670><c> right</c><00:39:24.000><c> now</c><00:39:24.270><c> it's</c><00:39:24.930><c> my</c>
-
-00:39:25.400 --> 00:39:25.410 align:start position:0%
-more things so right now it's my
- 
+现在我们还需要输入一些东西
 
 00:39:25.410 --> 00:39:28.010 align:start position:0%
-more things so right now it's my
-adjective<00:39:26.010><c> my</c><00:39:26.280><c> noun</c><00:39:26.550><c> my</c><00:39:26.880><c> verb</c><00:39:27.330><c> and</c><00:39:27.600><c> there's</c><00:39:27.810><c> no</c>
-
-00:39:28.010 --> 00:39:28.020 align:start position:0%
-adjective my noun my verb and there's no
- 
-
-00:39:28.020 --> 00:39:30.620 align:start position:0%
-adjective my noun my verb and there's no
-spaces<00:39:28.650><c> in</c><00:39:28.770><c> between</c><00:39:28.800><c> those</c><00:39:29.400><c> so</c><00:39:30.090><c> if</c><00:39:30.180><c> I</c><00:39:30.300><c> run</c><00:39:30.600><c> that</c>
-
-00:39:30.620 --> 00:39:30.630 align:start position:0%
-spaces in between those so if I run that
- 
+在 myAdjective，myNoun，myVerb 之间没有空格
 
 00:39:30.630 --> 00:39:32.120 align:start position:0%
-spaces in between those so if I run that
-you<00:39:31.080><c> can</c><00:39:31.200><c> see</c><00:39:31.380><c> what</c><00:39:31.530><c> that's</c><00:39:31.620><c> gonna</c><00:39:31.830><c> look</c><00:39:31.920><c> like</c>
-
-00:39:32.120 --> 00:39:32.130 align:start position:0%
-you can see what that's gonna look like
- 
+如果我点击运行
 
 00:39:32.130 --> 00:39:35.690 align:start position:0%
-you can see what that's gonna look like
-in<00:39:32.460><c> the</c><00:39:32.580><c> console</c><00:39:33.210><c> it</c><00:39:33.480><c> just</c><00:39:33.990><c> said</c><00:39:34.260><c> big</c><00:39:35.040><c> Don</c><00:39:35.250><c> big</c>
-
-00:39:35.690 --> 00:39:35.700 align:start position:0%
-in the console it just said big Don big
- 
+你会看到控制台显示
 
 00:39:35.700 --> 00:39:38.240 align:start position:0%
-in the console it just said big Don big
-dog<00:39:35.880><c> ran</c><00:39:36.210><c> with</c><00:39:36.870><c> no</c><00:39:37.050><c> spaces</c><00:39:37.380><c> so</c><00:39:37.980><c> we're</c><00:39:38.130><c> gonna</c>
-
-00:39:38.240 --> 00:39:38.250 align:start position:0%
-dog ran with no spaces so we're gonna
- 
-
-00:39:38.250 --> 00:39:41.920 align:start position:0%
-dog ran with no spaces so we're gonna
-have<00:39:38.490><c> to</c><00:39:38.640><c> add</c><00:39:38.790><c> some</c><00:39:38.820><c> spaces</c><00:39:39.660><c> in</c><00:39:39.810><c> here</c><00:39:39.840><c> also</c>
-
-00:39:41.920 --> 00:39:41.930 align:start position:0%
-have to add some spaces in here also
- 
+（如屏幕显示）没有空格
 
 00:39:41.930 --> 00:39:52.340 align:start position:0%
-have to add some spaces in here also
-let's<00:39:42.930><c> do</c><00:39:43.110><c> that</c><00:39:49.940><c> now</c><00:39:50.940><c> it's</c><00:39:51.270><c> going</c><00:39:51.570><c> to</c><00:39:51.600><c> take</c><00:39:52.020><c> in</c>
-
-00:39:52.340 --> 00:39:52.350 align:start position:0%
-let's do that now it's going to take in
- 
+所以我们需要在这之间输入空格
 
 00:39:52.350 --> 00:39:55.160 align:start position:0%
-let's do that now it's going to take in
-the<00:39:52.680><c> noun</c><00:39:52.950><c> adjective</c><00:39:53.490><c> verb</c><00:39:54.060><c> an</c><00:39:54.300><c> adverb</c><00:39:54.630><c> and</c>
-
-00:39:55.160 --> 00:39:55.170 align:start position:0%
-the noun adjective verb an adverb and
- 
+现在我们再运行
 
 00:39:55.170 --> 00:39:59.480 align:start position:0%
-the noun adjective verb an adverb and
-then<00:39:55.710><c> put</c><00:39:56.010><c> it</c><00:39:56.100><c> into</c><00:39:56.310><c> that</c><00:39:56.700><c> sentence</c><00:39:57.650><c> so</c><00:39:58.650><c> one</c>
-
-00:39:59.480 --> 00:39:59.490 align:start position:0%
-then put it into that sentence so one
- 
-
-00:39:59.490 --> 00:40:02.300 align:start position:0%
-then put it into that sentence so one
-cool<00:39:59.760><c> thing</c><00:40:00.090><c> is</c><00:40:00.270><c> we</c><00:40:00.480><c> can</c><00:40:00.690><c> actually</c><00:40:01.100><c> pass</c><00:40:02.100><c> in</c>
-
-00:40:02.300 --> 00:40:02.310 align:start position:0%
-cool thing is we can actually pass in
- 
+这些名词、形容词、动词和副词就被放进句子里了
 
 00:40:02.310 --> 00:40:04.370 align:start position:0%
-cool thing is we can actually pass in
-some<00:40:02.460><c> different</c><00:40:02.850><c> words</c><00:40:03.090><c> so</c><00:40:03.480><c> like</c><00:40:04.050><c> friends</c>
-
-00:40:04.370 --> 00:40:04.380 align:start position:0%
-some different words so like friends
- 
+有趣的是我们其实可以传入不同的单词
 
 00:40:04.380 --> 00:40:06.500 align:start position:0%
-some different words so like friends
-let's<00:40:04.530><c> if</c><00:40:04.620><c> I</c><00:40:04.740><c> copy</c><00:40:05.070><c> this</c><00:40:05.550><c> I'm</c><00:40:05.910><c> going</c><00:40:06.060><c> to</c><00:40:06.150><c> paste</c>
-
-00:40:06.500 --> 00:40:06.510 align:start position:0%
-let's if I copy this I'm going to paste
- 
-
-00:40:06.510 --> 00:40:10.040 align:start position:0%
-let's if I copy this I'm going to paste
-it<00:40:06.810><c> instead</c><00:40:07.680><c> of</c><00:40:07.800><c> dog</c><00:40:08.160><c> I</c><00:40:08.580><c> will</c><00:40:09.150><c> put</c><00:40:09.510><c> for</c><00:40:09.900><c> the</c>
-
-00:40:10.040 --> 00:40:10.050 align:start position:0%
-it instead of dog I will put for the
- 
+比如我复制粘贴这一句
 
 00:40:10.050 --> 00:40:15.290 align:start position:0%
-it instead of dog I will put for the
-noun<00:40:11.720><c> bike</c><00:40:12.720><c> and</c><00:40:13.400><c> an</c><00:40:14.400><c> adjective</c>
-
-00:40:15.290 --> 00:40:15.300 align:start position:0%
-noun bike and an adjective
- 
+我删掉 dog 这个单词，输入 bike（自行车）
 
 00:40:15.300 --> 00:40:23.300 align:start position:0%
-noun bike and an adjective
-I'll<00:40:15.810><c> put</c><00:40:16.400><c> slow</c><00:40:18.800><c> and</c><00:40:20.450><c> then</c><00:40:21.450><c> for</c><00:40:21.840><c> the</c><00:40:21.990><c> verb</c><00:40:22.470><c> I'll</c>
-
-00:40:23.300 --> 00:40:23.310 align:start position:0%
-I'll put slow and then for the verb I'll
- 
+和一个形容词，我输入 slow（慢的）
 
 00:40:23.310 --> 00:40:31.730 align:start position:0%
-I'll put slow and then for the verb I'll
-put<00:40:24.090><c> flew</c><00:40:24.840><c> and</c><00:40:27.500><c> the</c><00:40:28.500><c> adverb</c><00:40:29.400><c> I'll</c><00:40:30.270><c> put</c><00:40:30.990><c> slowly</c>
-
-00:40:31.730 --> 00:40:31.740 align:start position:0%
-put flew and the adverb I'll put slowly
- 
+动词我输入 flew（飞行）
 
 00:40:31.740 --> 00:40:35.930 align:start position:0%
-put flew and the adverb I'll put slowly
-and<00:40:32.630><c> now</c><00:40:33.630><c> if</c><00:40:34.020><c> we</c><00:40:34.740><c> look</c><00:40:34.980><c> in</c><00:40:35.160><c> the</c><00:40:35.280><c> console</c><00:40:35.790><c> we</c>
-
-00:40:35.930 --> 00:40:35.940 align:start position:0%
-and now if we look in the console we
- 
+副词我输入 slowly（慢慢地）
 
 00:40:35.940 --> 00:40:38.540 align:start position:0%
-and now if we look in the console we
-have<00:40:36.030><c> to</c><00:40:36.240><c> work</c><00:40:36.480><c> two</c><00:40:36.780><c> sentences</c><00:40:37.320><c> the</c><00:40:38.070><c> big</c><00:40:38.310><c> dog</c>
-
-00:40:38.540 --> 00:40:38.550 align:start position:0%
-have to work two sentences the big dog
- 
+现在我们看控制台
 
 00:40:38.550 --> 00:40:41.120 align:start position:0%
-have to work two sentences the big dog
-ran<00:40:38.880><c> to</c><00:40:39.090><c> the</c><00:40:39.180><c> store</c><00:40:39.420><c> quickly</c><00:40:39.660><c> the</c><00:40:40.440><c> slow</c><00:40:40.800><c> bike</c>
-
-00:40:41.120 --> 00:40:41.130 align:start position:0%
-ran to the store quickly the slow bike
- 
+我们就运行两个句子
 
 00:40:41.130 --> 00:40:47.660 align:start position:0%
-ran to the store quickly the slow bike
-flew<00:40:41.700><c> to</c><00:40:41.940><c> the</c><00:40:42.060><c> store</c><00:40:42.330><c> slowly</c>
-
-00:40:47.660 --> 00:40:47.670 align:start position:0%
- 
- 
+大狗快速跑向商店
 
 00:40:47.670 --> 00:40:50.819 align:start position:0%
- 
-arrays<00:40:48.670><c> allow</c><00:40:49.089><c> you</c><00:40:49.329><c> to</c><00:40:49.660><c> store</c><00:40:49.959><c> several</c><00:40:50.619><c> pieces</c>
-
-00:40:50.819 --> 00:40:50.829 align:start position:0%
-arrays allow you to store several pieces
- 
+自行车慢慢地驶向商店
 
 00:40:50.829 --> 00:40:53.670 align:start position:0%
-arrays allow you to store several pieces
-of<00:40:51.069><c> data</c><00:40:51.369><c> in</c><00:40:51.640><c> one</c><00:40:51.670><c> place</c><00:40:52.359><c> so</c><00:40:53.229><c> look</c><00:40:53.440><c> at</c><00:40:53.559><c> this</c>
-
-00:40:53.670 --> 00:40:53.680 align:start position:0%
-of data in one place so look at this
- 
+数组可以让你在一个地方存储多个数据
 
 00:40:53.680 --> 00:40:56.609 align:start position:0%
-of data in one place so look at this
-example<00:40:54.009><c> our</c><00:40:54.369><c> array</c><00:40:54.789><c> now</c><00:40:55.479><c> arrays</c><00:40:56.019><c> always</c>
-
-00:40:56.609 --> 00:40:56.619 align:start position:0%
-example our array now arrays always
- 
+看这个例子，变量 ourArray
 
 00:40:56.619 --> 00:40:58.799 align:start position:0%
-example our array now arrays always
-start<00:40:57.009><c> with</c><00:40:57.130><c> a</c><00:40:57.190><c> bracket</c><00:40:57.819><c> and</c><00:40:58.029><c> then</c><00:40:58.299><c> end</c><00:40:58.569><c> with</c><00:40:58.690><c> a</c>
-
-00:40:58.799 --> 00:40:58.809 align:start position:0%
-start with a bracket and then end with a
- 
-
-00:40:58.809 --> 00:41:00.749 align:start position:0%
-start with a bracket and then end with a
-bracket<00:40:59.380><c> to</c><00:40:59.410><c> show</c><00:40:59.739><c> the</c><00:40:59.920><c> beginning</c><00:41:00.069><c> and</c><00:41:00.430><c> ending</c>
-
-00:41:00.749 --> 00:41:00.759 align:start position:0%
-bracket to show the beginning and ending
- 
-
-00:41:00.759 --> 00:41:03.329 align:start position:0%
-bracket to show the beginning and ending
-of<00:41:00.940><c> the</c><00:41:00.999><c> array</c><00:41:01.420><c> and</c><00:41:01.719><c> every</c><00:41:02.529><c> element</c><00:41:02.799><c> in</c><00:41:03.190><c> the</c>
-
-00:41:03.329 --> 00:41:03.339 align:start position:0%
-of the array and every element in the
- 
+数组通常是以括号开始和结束
 
 00:41:03.339 --> 00:41:06.150 align:start position:0%
-of the array and every element in the
-array<00:41:03.400><c> is</c><00:41:04.109><c> separated</c><00:41:05.109><c> by</c><00:41:05.289><c> a</c><00:41:05.319><c> comma</c>
-
-00:41:06.150 --> 00:41:06.160 align:start position:0%
-array is separated by a comma
- 
-
-00:41:06.160 --> 00:41:08.519 align:start position:0%
-array is separated by a comma
-so<00:41:06.519><c> you</c><00:41:06.640><c> can</c><00:41:06.849><c> see</c><00:41:07.029><c> here</c><00:41:07.329><c> we</c><00:41:07.539><c> the</c><00:41:07.749><c> first</c><00:41:08.019><c> element</c>
-
-00:41:08.519 --> 00:41:08.529 align:start position:0%
-so you can see here we the first element
- 
+数组中的每一个元素由一个逗号隔开
 
 00:41:08.529 --> 00:41:10.979 align:start position:0%
-so you can see here we the first element
-is<00:41:08.619><c> a</c><00:41:08.650><c> string</c><00:41:09.130><c> the</c><00:41:09.640><c> second</c><00:41:10.150><c> element</c><00:41:10.269><c> is</c><00:41:10.599><c> a</c>
-
-00:41:10.979 --> 00:41:10.989 align:start position:0%
-is a string the second element is a
- 
+所以你可以看这里第一个元素是一个字符串
 
 00:41:10.989 --> 00:41:13.349 align:start position:0%
-is a string the second element is a
-number<00:41:11.469><c> and</c><00:41:11.709><c> you</c><00:41:12.309><c> can</c><00:41:12.459><c> have</c><00:41:12.729><c> more</c><00:41:13.119><c> and</c><00:41:13.209><c> more</c>
-
-00:41:13.349 --> 00:41:13.359 align:start position:0%
-number and you can have more and more
- 
+第二个元素是一个数字
 
 00:41:13.359 --> 00:41:15.479 align:start position:0%
-number and you can have more and more
-elements<00:41:13.599><c> you</c><00:41:14.049><c> just</c><00:41:14.259><c> put</c><00:41:14.440><c> comma</c><00:41:14.769><c> and</c><00:41:15.099><c> you</c><00:41:15.249><c> can</c>
-
-00:41:15.479 --> 00:41:15.489 align:start position:0%
-elements you just put comma and you can
- 
+你可以输入更多元素
 
 00:41:15.489 --> 00:41:18.089 align:start position:0%
-elements you just put comma and you can
-keep<00:41:15.849><c> adding</c><00:41:16.089><c> elements</c><00:41:16.539><c> and</c><00:41:17.109><c> the</c><00:41:17.650><c> elements</c>
-
-00:41:18.089 --> 00:41:18.099 align:start position:0%
-keep adding elements and the elements
- 
+只需要在元素之间输入一个逗号
 
 00:41:18.099 --> 00:41:20.759 align:start position:0%
-keep adding elements and the elements
-can<00:41:18.309><c> be</c><00:41:18.339><c> any</c><00:41:18.729><c> data</c><00:41:19.119><c> type</c><00:41:19.450><c> you</c><00:41:19.930><c> can</c><00:41:20.109><c> see</c><00:41:20.289><c> here</c><00:41:20.619><c> we</c>
-
-00:41:20.759 --> 00:41:20.769 align:start position:0%
-can be any data type you can see here we
- 
-
-00:41:20.769 --> 00:41:24.180 align:start position:0%
-can be any data type you can see here we
-have<00:41:21.039><c> a</c><00:41:21.959><c> string</c><00:41:22.959><c> and</c><00:41:23.259><c> a</c><00:41:23.349><c> number</c><00:41:23.559><c> but</c><00:41:23.979><c> you</c><00:41:24.039><c> can</c>
-
-00:41:24.180 --> 00:41:24.190 align:start position:0%
-have a string and a number but you can
- 
+你可以添加任何数据类型的元素
 
 00:41:24.190 --> 00:41:27.029 align:start position:0%
-have a string and a number but you can
-always<00:41:24.309><c> also</c><00:41:24.640><c> use</c><00:41:24.940><c> arrays</c><00:41:25.450><c> or</c><00:41:26.039><c> floating</c>
-
-00:41:27.029 --> 00:41:27.039 align:start position:0%
-always also use arrays or floating
- 
+这里我们有一个字符串和一个数字
 
 00:41:27.039 --> 00:41:29.819 align:start position:0%
-always also use arrays or floating
-numbers<00:41:27.339><c> or</c><00:41:27.849><c> really</c><00:41:28.450><c> any</c><00:41:28.660><c> sort</c><00:41:29.079><c> of</c><00:41:29.170><c> other</c><00:41:29.349><c> data</c>
-
-00:41:29.819 --> 00:41:29.829 align:start position:0%
-numbers or really any sort of other data
- 
+你也可以输入数组或者浮点数
 
 00:41:29.829 --> 00:41:32.430 align:start position:0%
-numbers or really any sort of other data
-type<00:41:30.130><c> in</c><00:41:30.339><c> your</c><00:41:30.489><c> array</c><00:41:30.849><c> so</c><00:41:31.509><c> let's</c><00:41:31.869><c> see</c><00:41:32.289><c> another</c>
-
-00:41:32.430 --> 00:41:32.440 align:start position:0%
-type in your array so let's see another
- 
+总之就是任何数据类型
 
 00:41:32.440 --> 00:41:36.660 align:start position:0%
-type in your array so let's see another
-example<00:41:32.910><c> so</c><00:41:33.910><c> let's</c><00:41:34.299><c> do</c><00:41:34.539><c> my</c><00:41:34.900><c> array</c><00:41:35.289><c> Quincy</c><00:41:36.249><c> and</c>
-
-00:41:36.660 --> 00:41:36.670 align:start position:0%
-example so let's do my array Quincy and
- 
+我们看另一个例子
 
 00:41:36.670 --> 00:41:40.440 align:start position:0%
-example so let's do my array Quincy and
-then<00:41:37.390><c> for</c><00:41:37.690><c> a</c><00:41:37.719><c> number</c><00:41:38.229><c> we'll</c><00:41:38.920><c> do</c><00:41:39.160><c> one</c><00:41:39.940><c> because</c>
-
-00:41:40.440 --> 00:41:40.450 align:start position:0%
-then for a number we'll do one because
- 
+我们给 myArray 输入值 Quincy
 
 00:41:40.450 --> 00:41:46.020 align:start position:0%
-then for a number we'll do one because
-Quincy<00:41:41.140><c> is</c><00:41:41.380><c> number</c><00:41:41.920><c> one</c>
-
-00:41:46.020 --> 00:41:46.030 align:start position:0%
- 
- 
+然后输入数字 1
 
 00:41:46.030 --> 00:41:48.690 align:start position:0%
- 
-when<00:41:46.840><c> one</c><00:41:47.050><c> of</c><00:41:47.140><c> the</c><00:41:47.230><c> elements</c><00:41:47.770><c> in</c><00:41:47.890><c> an</c><00:41:48.070><c> array</c><00:41:48.190><c> is</c>
-
-00:41:48.690 --> 00:41:48.700 align:start position:0%
-when one of the elements in an array is
- 
+因为 Quincy 是第一位（译者注：Quincy 是 freeCodeCamp 的创始人）
 
 00:41:48.700 --> 00:41:51.420 align:start position:0%
-when one of the elements in an array is
-another<00:41:49.390><c> array</c><00:41:49.930><c> that's</c><00:41:50.619><c> called</c><00:41:50.859><c> a</c><00:41:50.920><c> nested</c>
-
-00:41:51.420 --> 00:41:51.430 align:start position:0%
-another array that's called a nested
- 
+当数组中的一个元素是另一个数组时
 
 00:41:51.430 --> 00:41:54.720 align:start position:0%
-another array that's called a nested
-array<00:41:51.730><c> or</c><00:41:52.030><c> a</c><00:41:52.619><c> multi-dimensional</c><00:41:53.619><c> array</c><00:41:54.010><c> you</c>
-
-00:41:54.720 --> 00:41:54.730 align:start position:0%
-array or a multi-dimensional array you
- 
-
-00:41:54.730 --> 00:41:56.220 align:start position:0%
-array or a multi-dimensional array you
-can<00:41:54.760><c> see</c><00:41:55.180><c> here's</c><00:41:55.510><c> the</c><00:41:55.630><c> beginning</c><00:41:55.780><c> of</c><00:41:56.140><c> the</c>
-
-00:41:56.220 --> 00:41:56.230 align:start position:0%
-can see here's the beginning of the
- 
+这叫作嵌套数组或者多维数组
 
 00:41:56.230 --> 00:41:58.320 align:start position:0%
-can see here's the beginning of the
-array<00:41:56.470><c> and</c><00:41:56.710><c> here's</c><00:41:56.950><c> end</c><00:41:57.250><c> of</c><00:41:57.430><c> the</c><00:41:57.520><c> array</c><00:41:57.790><c> but</c>
-
-00:41:58.320 --> 00:41:58.330 align:start position:0%
-array and here's end of the array but
- 
-
-00:41:58.330 --> 00:42:00.599 align:start position:0%
-array and here's end of the array but
-the<00:41:58.480><c> first</c><00:41:58.840><c> element</c><00:41:59.500><c> in</c><00:41:59.650><c> this</c><00:41:59.950><c> array</c><00:42:00.010><c> is</c>
-
-00:42:00.599 --> 00:42:00.609 align:start position:0%
-the first element in this array is
- 
+你看这是数组的开头和结尾
 
 00:42:00.609 --> 00:42:03.270 align:start position:0%
-the first element in this array is
-another<00:42:01.510><c> array</c><00:42:01.960><c> with</c><00:42:02.290><c> two</c><00:42:02.320><c> elements</c><00:42:03.040><c> of</c><00:42:03.130><c> its</c>
-
-00:42:03.270 --> 00:42:03.280 align:start position:0%
-another array with two elements of its
- 
+但是数组的第一个元素是
 
 00:42:03.280 --> 00:42:05.430 align:start position:0%
 another array with two elements of its
+一个有两个元素的数组
+
+array<00:41:56.470><c> and</c><00:41:56.710><c> here's</c><00:41:56.950><c> end</c><00:41:57.250><c> of</c><00:41:57.430><c> the</c><00:41:57.520><c> array</c><00:41:57.790><c> but</c>
 own<00:42:03.490><c> same</c><00:42:04.150><c> with</c><00:42:04.270><c> here</c><00:42:04.420><c> the</c><00:42:04.540><c> second</c><00:42:04.990><c> element</c><00:42:05.140><c> is</c>
 
 00:42:05.430 --> 00:42:05.440 align:start position:0%
