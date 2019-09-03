@@ -41,4 +41,4 @@ Each language translation is available in their own directories at the root of t
 ### 进度
 | 视频 | 时长 | 翻译 | 校对 | 上传 | 状态 |
 |:------:|:------:|:------:|:------:|:------:|:------:|
-| [零基础学 JavaScript（全套教程）](https://www.bilibili.com/video/av61884749/) | 3h 26min |[fnmain](https://github.com/fnmain) , [yeshu](https://github.com/xdlrt), [Miya](https://github.com/miyaliu666) |  [Miya](https://github.com/miyaliu666) |  [Miya](https://github.com/miyaliu666) | 已完成第一个小时字幕的翻译和上传，其余两个半小时的字幕正在翻译中|
+| [零基础学 JavaScript（全套教程）](https://www.bilibili.com/video/av61884749/) | 3h 26min |[fnmain](https://github.com/fnmain) , [Miya](https://github.com/miyaliu666) |  [Miya](https://github.com/miyaliu666) |  [Miya](https://github.com/miyaliu666) | 已完成第一个小时字幕的翻译和上传，其余两个半小时的字幕正在翻译中|
