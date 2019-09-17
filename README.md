@@ -5,7 +5,7 @@
 # videos-translation
 
 This repository is used for collaborating on translation of videos from [freeCodeCamp's YouTube Channel](https://www.youtube.com/freecodecamp) to different world languages.
-Each language translation is available in their own directories at the root of the repository. As of now, we are working on supporting chinese language first and will eventually add translations for other languages in future.
+Each language translation is available in their own directories at the root of the repository. As of now, we are working on supporting Chinese language first and will eventually add translations for other languages in future.
 
 ## freeCodeCamp 视频翻译计划
 
@@ -15,7 +15,6 @@ Each language translation is available in their own directories at the root of t
 
 - 持续提升你的英文水平和多人协作的经验
 - 成为 freeCodeCamp 社区贡献者（我们将在翻译后的视频介绍中记录贡献者的名字）
-- 有机会入选 freeCodeCamp 社区年度 top contributor
 - 有机会受邀参与 freeCodeCamp 城市社区的线下活动
 - 在社区中结识优秀的小伙伴，拥抱更多技术成长与职业发展的可能性
 - 有的译者（比如大学生）可能需要贡献者证书，请告诉我们为你准备^_^
