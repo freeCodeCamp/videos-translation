@@ -41,4 +41,5 @@ Each language translation is available in their own directories at the root of t
 | 视频 | 时长 | 翻译 | 校对 | 上传 | 状态 |
 |:------:|:------:|:------:|:------:|:------:|:------:|
 | [零基础学 JavaScript（全套教程）](https://www.bilibili.com/video/av61884749/) | 3h 26min |[fnmain](https://github.com/fnmain) , [Miya](https://github.com/miyaliu666) |  [Miya](https://github.com/miyaliu666) |  [Miya](https://github.com/miyaliu666) | 已完成第一个小时字幕的翻译和上传，其余两个半小时的字幕正在翻译中|
-| [零基础学 Python（全套教程）](https://www.bilibili.com/video/av64317795) | 4h 26min |[future0728joy](https://github.com/future0728joy) | |  | 前半小时的字幕正在翻译中|
+| [零基础学 Python（全套教程）](https://www.bilibili.com/video/av64317795) | 4h 26min |[future0728joy](https://github.com/future0728joy) | |  | 前半小时的字幕已翻译完毕，正在校对和上传|
+| [数据结构和算法](https://www.bilibili.com/video/av66896745) | 1h 52min |[liulaoliu](https://github.com/liulaoliu) |[Miya](https://github.com/miyaliu666)  |[Miya](https://github.com/miyaliu666)   | 所有字幕正在翻译中|
