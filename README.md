@@ -17,7 +17,6 @@ Each language translation is available in their own directories at the root of t
 - 成为 freeCodeCamp 社区贡献者（我们将在翻译后的视频介绍中记录贡献者的名字）
 - 有机会受邀参与 freeCodeCamp 城市社区的线下活动
 - 在社区中结识优秀的小伙伴，拥抱更多技术成长与职业发展的可能性
-- 有的译者（比如大学生）可能需要贡献者证书，请告诉我们为你准备^_^
 
 ### 协作流程
 我们翻译的第一个视频是[零基础学 JavaScript（全套教程）](https://www.bilibili.com/video/av61884749/)，从这个过程中总结出协作流程的最佳实践如下（稍后我们可能对此进行优化）：
